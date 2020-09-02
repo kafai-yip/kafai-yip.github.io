@@ -62,8 +62,8 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Linguist."
   links:
-    - label: "Email: kafai.yip@yale.edu"
-      icon: "fas fa-fw fa-email"
+    - label: "kafai.yip@yale.edu"
+      icon: "fas fa-fw fa-link"
       url: ""
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
