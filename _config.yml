@@ -76,7 +76,7 @@ author:
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com.hk/citations?user=XavAwJYAAAAJ&hl=zh-TW&authuser=1"
     - label: "Yale Linguistics"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-fw fa-link"
       url: "https://ling.yale.edu/"
 
 footer:
@@ -91,7 +91,7 @@ footer:
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com.hk/citations?user=XavAwJYAAAAJ&hl=zh-TW&authuser=1"
     - label: "Yale Linguistics"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-fw fa-link"
       url: "https://ling.yale.edu/"
 
 
