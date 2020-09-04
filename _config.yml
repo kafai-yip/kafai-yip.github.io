@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: KA-FAI YIP
+title: Ka-Fai Yip
 subtitle: "linguistics & cats"
 email: kafai.yip@yale.edu
 description: >- # this means to ignore newlines until "baseurl:"
@@ -25,6 +25,7 @@ github_username: username
 minimal_mistakes_skin: default
 search: true
 logo: "favicon.png"
+masthead_title: "KA-FAI YIP"
 
 # Build settings
 markdown: kramdown
