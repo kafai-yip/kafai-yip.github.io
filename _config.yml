@@ -24,6 +24,8 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: true
+logo: "/assets/images/88x88.png"
+masthead_title: "My Custom Title"
 
 # Build settings
 markdown: kramdown
@@ -33,6 +35,7 @@ permalink: /:categories/:title/
 paginate: 0 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+breadcrumbs: true  # disabled by default
 
 include:
   - _pages
@@ -64,17 +67,17 @@ author:
   bio    : "linguistics & cats."
   links:
     - label: "kafai.yip@yale.edu"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-envelope"
       url: ""
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Researchgate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Ka_Fai_Yip2"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.com.hk/citations?user=XavAwJYAAAAJ&hl=zh-TW&authuser=1"
+    - label: "Yale Linguistics"
+      icon: "fab fa-fw fa-link"
+      url: "https://ling.yale.edu/"
 
 footer:
   links:
