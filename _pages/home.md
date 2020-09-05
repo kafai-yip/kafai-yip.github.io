@@ -1,7 +1,7 @@
 ---
 layout: splash
 author_profile: true
-title: "Ka-Fai Yip"
+title:
 excerpt: 'Linguistics & Cats'
 permalink: /
 
