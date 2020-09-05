@@ -41,6 +41,8 @@ analytics:
   google:
     tracking_id: "UA-177274622-1"
     anonymize_ip: false # default
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "mint"
 
 include:
   - _pages
@@ -101,6 +103,17 @@ footer:
 
 
 defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _pages
   - scope:
       path: "_pages"
@@ -116,5 +129,4 @@ tag_archive:
   type: liquid
   path: /tags/
 
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "mint"
+
