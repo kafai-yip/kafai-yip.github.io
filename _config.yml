@@ -24,7 +24,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: true
-logo: "favicon.png"
+logo: "favicon.ico"
 masthead_title: "KA-FAI YIP"
 
 # Build settings
