@@ -134,4 +134,4 @@ header:
   image: /assets/images/FB_IMG_1491572142342.jpg
   image_description: "KA-FAI YIP"
     
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+head: <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
