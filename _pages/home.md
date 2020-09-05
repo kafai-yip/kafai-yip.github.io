@@ -8,13 +8,13 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/bio-photo_3.jpg
+  overlay_image: /assets/images/home.jpeg
   caption: "Photo credit: "
 
   
 ---
 
-I'm ...
+I am a first-year PhD student in the Department of Linguistics at Yale University. I study Syntax, Semantics and their interface. Cats are my favorite.
 
 ## Recent
 2020, Aug. Generalized Scope Economy. [SICOGG 22](http://2020.sicogg.or.kr/). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
