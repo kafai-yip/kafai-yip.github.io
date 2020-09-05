@@ -99,13 +99,6 @@ footer:
       icon: "fas fa-fw fa-link"
       url: "https://ling.yale.edu/"
 
-.social-icons {
-  .fa-link {
-    color: #ff4500;
-  }
-}
-
-
 defaults:
   # _posts
   - scope:
