@@ -8,7 +8,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/FB_IMG_1491572142342.jpg
+  overlay_image: /assets/images/bio-photo_1.jpg
   caption: "Photo credit: "
 
   
