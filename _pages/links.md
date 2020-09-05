@@ -2,6 +2,8 @@
 permalink: /links/
 title: "Links"
 toc: true
+toc_label: "Links"
+toc_icon: "link"
 ---
 
 ## Major
