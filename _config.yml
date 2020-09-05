@@ -66,7 +66,7 @@ plugins:
 author:
   name   : "Ka-Fai Yip 葉家煇"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "linguistics & cats."
+  bio    : "linguistics & cats"
   links:
     - label: "kafai.yip@yale.edu"
       icon: "fas fa-fw fa-envelope"
