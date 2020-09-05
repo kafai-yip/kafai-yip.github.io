@@ -17,9 +17,9 @@ header:
 I am a first-year PhD student in the Department of Linguistics at Yale University. I study Syntax, Semantics and their interface. Cats are my favorite.
 
 ## Recent
-2020, Aug. Generalized Scope Economy. [SICOGG 22](http://2020.sicogg.or.kr/). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
+2020, Aug. Generalized Scope Economy. [SICOGG 22](http://2020.sicogg.or.kr/). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/SICOGG 22 presentation_Generalized Scope Economy_20200813.pdf)]
 
-2020, Aug. Hyperraising and evidentiality. [SICOGG 22](http://2020.sicogg.or.kr/). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
+2020, Aug. Hyperraising and evidentiality. [SICOGG 22](http://2020.sicogg.or.kr/). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/SICOGG 22 presentation_Hyper-raising and evidentiality.pdf)]
 
 2020, Jun. Syllable Deletion and Morphological Length in Cantonese Verbs. [FoCaL-3](https://focalhongkong.wordpress.com/), The Hang Seng University of Hong Kong. [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 
