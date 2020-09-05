@@ -54,5 +54,5 @@ My [CV]().
 
 (2017). 粵語表示意向的動詞後綴「得」[A study of Cantonese intentional verbal suffix *dak*]. [ARF-2017](https://www.lshk.org/annual-research-forum-arf), HKBU. 
 
-(2015). 粵語量詞「陣」的語法特點[Properties of Cantonese classifier zan]. [Yue20](http://www.cuhk.edu.hk/chi/yue20/index_en.html), CUHK.
+(2015). 粵語量詞「陣」的語法特點[Properties of Cantonese classifier *zan*]. [Yue20](http://www.cuhk.edu.hk/chi/yue20/index_en.html), CUHK.
 
