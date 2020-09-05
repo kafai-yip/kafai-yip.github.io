@@ -134,6 +134,8 @@ compress_html:
   ignore:
     envs: development  # disable compression in dev environment
     
-
+header:
+  image: /assets/images/FB_IMG_1491572142342.jpg
+  image_description: "KA-FAI YIP"
     
     
