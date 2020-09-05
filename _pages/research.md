@@ -32,6 +32,8 @@ My [CV](https://kafai-yip.github.io/assets/docs/CV_YIP Ka Fai_20200905_EN.pdf).
 
 (2020). Syntax-prosody mapping in clausal domains: right dislocation in Mandarin and Cantonese. [Phex 10](https://toki482.wixsite.com/phex10), The University of Tokyo. [[slides](https://kafai-yip.github.io/assets/docs/PhEx 10_RD_20200215.pptx)] [[paper](https://sapporo-u.repo.nii.ac.jp/?action=repository_uri&item_id=7728&file_id=22&file_no=1)] 
 
+(2019). 粵語易位句的韻律句法研究[The prosodic syntax of right dislocation in Cantonese]. [ARF-2019](https://www.lshk.org/annual-research-forum-arf), EdUHK.
+
 (2019). Sentence-initial root modals and focus. [ARF-2019](https://www.lshk.org/annual-research-forum-arf), EdUHK. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 
 (2019). Universal Concord: Evidence from Cantonese pseudo affixal quantifier *-can*. [2019 LSA Linguistic Institute poster session](https://lsa2019.ucdavis.edu/), UC Davis. [[poster](https://kafai-yip.github.io/assets/docs/LSA LI 2019 ∀-concord_poster_20190707.pdf)]
