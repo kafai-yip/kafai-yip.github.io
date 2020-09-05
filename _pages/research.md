@@ -3,9 +3,8 @@ permalink: /research/
 title: "Research"
 ---
 
-My CV.
+My [CV]().
 
-[under construction]
 ## Publications
 
 (2020). [**Syntax-prosody mapping of right-dislocations in Cantonese and Mandarin](https://sapporo-u.repo.nii.ac.jp/?action=repository_uri&item_id=7728&file_id=22&file_no=1).** In Hisao Tokizaki, ed., Phonological Externalization (Vol. 5), 73-90. Sapporo: Sapporo University.
