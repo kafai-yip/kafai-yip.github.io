@@ -23,7 +23,7 @@ I am a first-year PhD student in the Department of Linguistics at Yale Universit
 
 2020, Jun. Syllable Deletion and Morphological Length in Cantonese Verbs. [FoCaL-3](https://focalhongkong.wordpress.com/), The Hang Seng University of Hong Kong. [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 
-2020, Jun. How to identify intonations on sentence-final particles? [WOC-20](https://www.lshk.org/workshop-on-cantonese-woc), Hong Kong Baptist University (Webinar). [with Him Nok LEE]
+2020, Jun. How to identify intonations on sentence-final particles? [WOC-20](https://www.lshk.org/workshop-on-cantonese-woc), Hong Kong Baptist University (Webinar). [with Him Nok LEE] [[slides](https://kafai-yip.github.io/assets/docs/WOC-20_ge_20200606.pdf)]
 
 ## Upcoming
 2020, Sep 18-20. Generalized Scope Economy. [NACCL 32](https://sites.google.com/site/naccl32uconn), UConn. [with  [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
