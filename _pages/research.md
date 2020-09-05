@@ -34,6 +34,8 @@ My [CV](https://kafai-yip.github.io/assets/docs/CV_YIP Ka Fai_20200905_EN.pdf).
 
 (2019). Sentence-initial root modals and focus. [ARF-2019](https://www.lshk.org/annual-research-forum-arf), EdUHK. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 
+(2019). Universal Concord: Evidence from Cantonese pseudo affixal quantifier *-can*. [2019 LSA Linguistic Institute poster session](https://lsa2019.ucdavis.edu/), UC Davis. [[poster](https://kafai-yip.github.io/assets/docs/LSA LI 2019 ∀-concord_poster_20190707.pdf)]
+
 (2019). 澄海閩語中的言說動詞[Verbs of saying in Chenghai Min]. [IRF-5](http://www.cuhk.edu.hk/ics/clrc/irf/2019/index.html), Sun Yat-sen University. [with [Jia JIN](https://myweb.cuhk.edu.cn/jinjia)] [[slides](https://kafai-yip.github.io/assets/docs/IRF-5_VOS in Chenghai_20190616.pdf)]
 
 (2019). Attitude verbs, uncertain propositions and hyper-raising. [FoCaL-2](https://focalhongkong.wordpress.com/), EdUHK.
