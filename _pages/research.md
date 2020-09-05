@@ -28,7 +28,7 @@ My [CV]().
 
 (2020). The prosodic syntax of right dislocation in Cantonese. [WICL-5](https://u.osu.edu/wicl/wicl-5/), OSU (Webinar). [[slides](https://kafai-yip.github.io/assets/docs/WICL-5_RD_20200418.pptx)]
 
-(2020). Raising, phase unlocked. [WCCFL-38](https://wccfl2020.linguistics.ubc.ca/), UBC. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
+(2020). Raising, phase unlocked. [WCCFL-38](https://wccfl2020.linguistics.ubc.ca/), UBC. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[poster](https://kafai-yip.github.io/assets/docs/WCCFL38 - Raising, phase unlocked_20200228.pdf)]
 
 (2020). Syntax-prosody mapping in clausal domains: right dislocation in Mandarin and Cantonese. [Phex 10](https://toki482.wixsite.com/phex10), The University of Tokyo. [[slides](https://kafai-yip.github.io/assets/docs/PhEx 10_RD_20200215.pptx)] [[paper](https://sapporo-u.repo.nii.ac.jp/?action=repository_uri&item_id=7728&file_id=22&file_no=1)] 
 
