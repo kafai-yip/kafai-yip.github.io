@@ -14,15 +14,15 @@ My [CV](https://kafai-yip.github.io/assets/docs/CV_YIP Ka Fai_20200905_EN.pdf).
 
 ## Presentations
 
-(2020). Generalized Scope Economy. [SICOGG 22](http://2020.sicogg.or.kr/). [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/SICOGG 22 presentation_Generalized Scope Economy_20200813.pdf)]
+(2020). Generalized Scope Economy. [SICOGG 22](http://2020.sicogg.or.kr/), Gyeongsang National University (Virtual Conference). [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/SICOGG 22 presentation_Generalized Scope Economy_20200813.pdf)]
 
-(2020). Hyperraising and evidentiality. [SICOGG 22](http://2020.sicogg.or.kr/). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/SICOGG 22 presentation_Hyper-raising and evidentiality.pdf)]
+(2020). Hyperraising and evidentiality. [SICOGG 22](http://2020.sicogg.or.kr/), Gyeongsang National University (Virtual Conference). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/SICOGG 22 presentation_Hyper-raising and evidentiality.pdf)]
 
 (2020). Facilitating the self-learning of Cantonese: an innovative e-approach. [CUHK Expo 2019/20](https://www.elearning.cuhk.edu.hk/expo2019), CUHK. [with Pit Shun LAI & Yik-Po LAI]
 
-(2020). Syllable Deletion and Morphological Length in Cantonese Verbs. [FoCaL-3](https://focalhongkong.wordpress.com/), The Hang Seng University of Hong Kong. [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
+(2020). Syllable Deletion and Morphological Length in Cantonese Verbs. [FoCaL-3](https://focalhongkong.wordpress.com/), HSUHK. [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 
-(2020). How to identify intonations on sentence-final particles? [WOC-20](https://www.lshk.org/workshop-on-cantonese-woc), Hong Kong Baptist University (Webinar). [with Him Nok LEE] [[slides](https://kafai-yip.github.io/assets/docs/WOC-20_ge_20200606.pdf)]
+(2020). How to identify intonations on sentence-final particles? [WOC-20](https://www.lshk.org/workshop-on-cantonese-woc), HKBU (Webinar). [with Him Nok LEE] [[slides](https://kafai-yip.github.io/assets/docs/WOC-20_ge_20200606.pdf)]
 
 (2020). Zero-coded passives in Cantonese. [WICL-5](https://u.osu.edu/wicl/wicl-5/), OSU (Webinar). [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 
