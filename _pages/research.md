@@ -14,9 +14,9 @@ My [CV](https://kafai-yip.github.io/assets/docs/CV_YIP Ka Fai_20200905_EN.pdf).
 
 ## Presentations
 
-(2020). Generalized Scope Economy. [SICOGG 22](http://2020.sicogg.or.kr/), Gyeongsang National University (Virtual Conference). [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/SICOGG 22 presentation_Generalized Scope Economy_20200813.pdf)]
+(2020). Generalized Scope Economy. [SICOGG-22](http://2020.sicogg.or.kr/), Gyeongsang National University (Virtual Conference). [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/SICOGG 22 presentation_Generalized Scope Economy_20200813.pdf)]
 
-(2020). Hyperraising and evidentiality. [SICOGG 22](http://2020.sicogg.or.kr/), Gyeongsang National University (Virtual Conference). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/SICOGG 22 presentation_Hyper-raising and evidentiality.pdf)]
+(2020). Hyperraising and evidentiality. [SICOGG-22](http://2020.sicogg.or.kr/), Gyeongsang National University (Virtual Conference). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/SICOGG 22 presentation_Hyper-raising and evidentiality.pdf)]
 
 (2020). Facilitating the self-learning of Cantonese: an innovative e-approach. [CUHK Expo 2019/20](https://www.elearning.cuhk.edu.hk/expo2019), CUHK. [with Pit Shun LAI & Yik-Po LAI]
 
@@ -46,7 +46,7 @@ My [CV](https://kafai-yip.github.io/assets/docs/CV_YIP Ka Fai_20200905_EN.pdf).
 
 (2019). Subordinate affixes in Cantonese and intervention effects. [IACL-27](https://easychair.org/cfp/IACL27), Kobe City University of Foreign Studies. [[slides](https://kafai-yip.github.io/assets/docs/IACL-27_haa_20190512.pdf)]
 
-(2019). 粵語從句詞綴初探[A preliminary study on subordinate affixes in Cantonese]. [Yue23](http://www.cnki.com.cn/Article/CJFDTotal-FYZA201901005.htm), Jinan University. 
+(2019). 粵語從句詞綴初探[A preliminary study on subordinate affixes in Cantonese]. [Yue 23](http://www.cnki.com.cn/Article/CJFDTotal-FYZA201901005.htm), Jinan University. 
 
 (2019). Two subclasses of verbs of thinking in Cantonese. [ARF-2018](https://www.lshk.org/annual-research-forum-arf), CityUHK. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 
@@ -54,9 +54,9 @@ My [CV](https://kafai-yip.github.io/assets/docs/CV_YIP Ka Fai_20200905_EN.pdf).
 
 (2018). Cantonese verbal suffix *dak* and intentionality. [WICL-4](https://cantonese.arts.ubc.ca/wicl-4/), UBC. [[slides](https://kafai-yip.github.io/assets/docs/WICL-4_dak_20180623.pdf)]
 
-(2017). 粵語動詞後綴「親」的三個框式結構[Three discontinuous constructions of Cantonese verbal suffix *can*].  [Yue22](https://www.eduhk.hk/lml/yue2017/index-eng.html), EdUHK. [[paper](http://www.cuhk.edu.hk/ics/clrc/crcl_99_1/yip.pdf)]
+(2017). 粵語動詞後綴「親」的三個框式結構[Three discontinuous constructions of Cantonese verbal suffix *can*].  [Yue 22](https://www.eduhk.hk/lml/yue2017/index-eng.html), EdUHK. [[paper](http://www.cuhk.edu.hk/ics/clrc/crcl_99_1/yip.pdf)]
 
 (2017). 粵語表示意向的動詞後綴「得」[A study of Cantonese intentional verbal suffix *dak*]. [ARF-2017](https://www.lshk.org/annual-research-forum-arf), HKBU. 
 
-(2015). 粵語量詞「陣」的語法特點[Properties of Cantonese classifier *zan*]. [Yue20](http://www.cuhk.edu.hk/chi/yue20/index_en.html), CUHK.
+(2015). 粵語量詞「陣」的語法特點[Properties of Cantonese classifier *zan*]. [Yue 20](http://www.cuhk.edu.hk/chi/yue20/index_en.html), CUHK.
 
