@@ -28,7 +28,7 @@ I am a first-year PhD student in the Department of Linguistics at Yale Universit
 ## Upcoming
 2020, Sep 18-20. Generalized Scope Economy. [NACCL-32](https://sites.google.com/site/naccl32uconn), UConn. [with  [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 
-2020, Oct 25. Bilingual Multi-word Expressions, Multiple-correspondence, and their cultivation from parallel patents: The Chinese-English case. [PACLIC Workshop on MWEA](https://vlsp.org.vn/paclic2020/mwea), VNU University of Science, Hanoi. [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134) & Yaxuan JI]
+2020, Oct 25. Bilingual Multi-word Expressions, Multiple-correspondence, and their cultivation from parallel patents: The Chinese-English case. [PACLIC-34 Workshop on MWEA](https://vlsp.org.vn/paclic2020/mwea), VNU University of Science, Hanoi. [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134) & Yaxuan JI]
 
 2020, Nov 13-14. CanTONEse: a self-learning mobile app for Cantonese tones. [Yue 24](https://fah.um.edu.mo/yue2020/), University of Macau. [with Mei-ying KI & Yik-Po LAI]
 
