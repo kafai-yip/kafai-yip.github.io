@@ -7,14 +7,11 @@ toc_icon: "link"
 ---
 
 ## Membership
-[under construction]
+[**LSHK**: The Linguistic Society of Hong Kong](https://www.lshk.org/)
 
-[Major links]
-[LSHK: The Linguistic Society of Hong Kong](https://www.lshk.org/)
+[**LSA**: Linguistic Society of America](https://www.linguisticsociety.org/)
 
-[LSA: Linguistic Society of America](https://www.linguisticsociety.org/)
-
-[FOCAL: Forum on Cantonese Linguistics](https://focalhongkong.wordpress.com/)
+[**FoCaL**: Forum on Cantonese Linguistics](https://focalhongkong.wordpress.com/)
 
 ## Corpus
 ### Chinese
