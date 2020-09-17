@@ -13,14 +13,15 @@ toc_icon: "link"
 
 [**FoCaL**: Forum on Cantonese Linguistics](https://focalhongkong.wordpress.com/)
 
+
 ## Corpus
 ### Chinese
-
+[under construction]
 ### Cantonese
-[Corpus]
+[under construction]
 
 ## Cantonese learning
-[Cantonese learning]
+[under construction]
 
 ## Cantonese linguists
-[Cantonese linguists]
+[under construction]
