@@ -6,13 +6,13 @@ toc_label: "Links"
 toc_icon: "link"
 ---
 
-## Major
+## Membership
 [under construction]
 
 [Major links]
-LSHK
-LSA
-FOCAL
+[LSHK: The Linguistic Society of Hong Kong](https://www.lshk.org/)
+[LSA: Linguistic Society of America](https://www.linguisticsociety.org/)
+[FOCAL: Forum on Cantonese Linguistics](https://focalhongkong.wordpress.com/)
 
 ## Corpus
 ### Chinese
@@ -23,4 +23,5 @@ FOCAL
 ## Cantonese learning
 [Cantonese learning]
 
+## Cantonese linguists
 [Cantonese linguists]
