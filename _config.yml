@@ -87,6 +87,7 @@ footer:
   links:
     - label: "kafai.yip@yale.edu"
       icon: "fas fa-fw fa-envelope"
+      url: ""
     - label: "Researchgate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Ka_Fai_Yip2"
