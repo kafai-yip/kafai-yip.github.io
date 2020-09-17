@@ -14,7 +14,7 @@ header:
   
 ---
 
-I am a first-year PhD student in the Department of Linguistics at Yale University. I study Syntax, Semantics and their interface. Cats are my favorite.
+I am a first-year PhD student in the Department of Linguistics at Yale University. I study Syntax, Semantics and their interface. Cats are my favorite. I’m a Hongkonger.
 
 ## Recent
 2020, Aug. Generalized Scope Economy. [SICOGG-22](http://2020.sicogg.or.kr/), Gyeongsang National University (Virtual Conference). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/SICOGG 22 presentation_Generalized Scope Economy_20200813.pdf)]
