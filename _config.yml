@@ -34,11 +34,6 @@ remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "UA-177274622-1"
-    anonymize_ip: false # default
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "mint"
 google_site_verification: vLsx0Mxs3Q_Q5yBpwqvOi-nvyArxqBEL_i9T2UIQipQ
