@@ -17,6 +17,9 @@ header:
 I am a first-year PhD student in the Department of Linguistics at Yale University. I study Syntax, Semantics and their interface. Cats are my favorite. I’m a Hongkonger.
 
 ## Recent
+
+2020, Sep. Generalized Scope Economy. [NACCL-32](https://sites.google.com/site/naccl32uconn), UConn (Webinar). [with  [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/NACCL32 Generalized Scope Economy_handout_20200918.pdf)]
+
 2020, Aug. Generalized Scope Economy. [SICOGG-22](http://2020.sicogg.or.kr/), Gyeongsang National University (Virtual Conference). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/SICOGG 22 presentation_Generalized Scope Economy_20200813.pdf)]
 
 2020, Aug. Hyperraising and evidentiality. [SICOGG-22](http://2020.sicogg.or.kr/), Gyeongsang National University (Virtual Conference). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/SICOGG 22 presentation_Hyper-raising and evidentiality.pdf)]
@@ -26,7 +29,6 @@ I am a first-year PhD student in the Department of Linguistics at Yale Universit
 2020, Jun. How to identify intonations on sentence-final particles? [WOC-20](https://www.lshk.org/workshop-on-cantonese-woc), HKBU (Webinar). [with Him Nok LEE] [[slides](https://kafai-yip.github.io/assets/docs/WOC-20_ge_20200606.pdf)]
 
 ## Upcoming
-2020, Sep 18-20. Generalized Scope Economy. [NACCL-32](https://sites.google.com/site/naccl32uconn), UConn. [with  [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 
 2020, Oct 25. Bilingual Multi-word Expressions, Multiple-correspondence, and their cultivation from parallel patents: The Chinese-English case. [PACLIC-34 Workshop on MWEA](https://vlsp.org.vn/paclic2020/mwea), VNU University of Science, Hanoi. [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134), Ka Po CHOW, John LEE, Yaxuan JI & Kevin WU]
 
