@@ -3,7 +3,7 @@ permalink: /research/
 title: "Research"
 ---
 
-My [CV](https://kafai-yip.github.io/assets/docs/CV_YIP Ka Fai_20200905_EN.pdf).
+My [CV](https://kafai-yip.github.io/assets/docs/CV_YIP Ka Fai_20200919_EN.pdf).
 
 ## Publications
 
@@ -14,7 +14,9 @@ My [CV](https://kafai-yip.github.io/assets/docs/CV_YIP Ka Fai_20200905_EN.pdf).
 
 ## Presentations
 
-(2020). Generalized Scope Economy. [SICOGG-22](http://2020.sicogg.or.kr/), Gyeongsang National University (Virtual Conference). [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/SICOGG 22 presentation_Generalized Scope Economy_20200813.pdf)]
+(2020). Generalized Scope Economy. [NACCL-32](http://2020.sicogg.or.kr/), UConn (Webinar). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/NACCL32 Generalized Scope Economy_handout_20200918.pdf)]
+
+(2020). Generalized Scope Economy. [SICOGG-22](http://2020.sicogg.or.kr/), Gyeongsang National University (Virtual Conference). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/SICOGG 22 presentation_Generalized Scope Economy_20200813.pdf)]
 
 (2020). Hyperraising and evidentiality. [SICOGG-22](http://2020.sicogg.or.kr/), Gyeongsang National University (Virtual Conference). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/SICOGG 22 presentation_Hyper-raising and evidentiality.pdf)]
 
