@@ -53,6 +53,7 @@ include:
 #   - vendor/ruby/
 
 # Plugins (previously gems:)
+url: "https://kafai-yip.github.io/"
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
