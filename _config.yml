@@ -60,6 +60,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 author:
   name   : "Ka-Fai Yip 葉家煇"
