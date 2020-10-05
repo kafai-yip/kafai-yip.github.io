@@ -31,7 +31,7 @@ toc_icon: "link"
 | unknown   | [CantoneseWaC](https://www.sketchengine.eu/cantonesewac-corpus/)                     |
 
 
-*Child(/Bilingual) corpus [CHILDES](https://childes.talkbank.org/)*
+*Child (bilingual) corpus [CHILDES](https://childes.talkbank.org/)*
 
 | Year      | Corpus          | Paper |
 | --------- | --------------- | ----- |
