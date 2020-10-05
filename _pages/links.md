@@ -24,6 +24,7 @@ toc_icon: "link"
 {: .notice--warning}
 
 【2017】[MYCanCor](https://github.com/liesenf/MYCanCor) (Malaysia Cantonese Corpus): Not yet available, for paper see [Liesenfeld (2017)](http://www.lrec-conf.org/proceedings/lrec2018/pdf/192.pdf)
+{: .notice--info}
 
 【2010s】[PolyU Corpus of Spoken Chinese](http://wongtaksum.no-ip.info:81/corpus.htm)
 
