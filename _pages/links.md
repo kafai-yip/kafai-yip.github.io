@@ -20,6 +20,17 @@ toc_icon: "link"
 
 *Adult corpus*
 
+| Year             | Comment Provider          | Paper |
+| ---------------- | ------------------------- | ----- |
+| 2020?       | [CantoMap](https://github.com/gwinterstein/CantoMap) (The Cantonese MapTask corpus)        | [Winterstein, Tang & Lai (2020)](https://www.aclweb.org/anthology/2020.lrec-1.355.pdf)
+| 2017    | [MYCanCor](https://github.com/liesenf/MYCanCor) (Malaysia Cantonese Corpus)| 
+| 2010s     | Facebook Comments         |
+| 2010 | Staticman v2              |
+| 1997-1998    | Staticman v1 (deprecated) |
+| unknown   | utterances                |
+| **custom**       | Other                     |
+
+
 1.【2020?】[CantoMap](https://github.com/gwinterstein/CantoMap) (The Cantonese MapTask corpus), for paper see [Winterstein, Tang & Lai (2020)](https://www.aclweb.org/anthology/2020.lrec-1.355.pdf) 
 {: .notice--warning}
 2.【2017】[MYCanCor](https://github.com/liesenf/MYCanCor) (Malaysia Cantonese Corpus): Not yet available, for paper see [Liesenfeld (2017)](http://www.lrec-conf.org/proceedings/lrec2018/pdf/192.pdf)
