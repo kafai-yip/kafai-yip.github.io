@@ -25,7 +25,7 @@ only for those accessible online, for a full list see [Wong Tak-sum's page](http
 | Year      | Corpus          | Paper |
 | --------- | --------------- | ----- |
 | 2020?     | [CantoMap](https://github.com/gwinterstein/CantoMap) (The Cantonese MapTask corpus)        | [Winterstein, Tang & Lai (2020)](https://www.aclweb.org/anthology/2020.lrec-1.355.pdf)
-| 2017      | [MYCanCor](https://github.com/liesenf/MYCanCor) (Malaysia Cantonese Corpus)| [Liesenfeld (2017)](http://www.lrec-conf.org/proceedings/lrec2018/pdf/192.pdf) |
+| 2017      | [MYCanCor](https://github.com/liesenf/MYCanCor) (Malaysia Cantonese Corpus) (not available yet)| [Liesenfeld (2017)](http://www.lrec-conf.org/proceedings/lrec2018/pdf/192.pdf) |
 | 2010s     | [PolyU Corpus of Spoken Chinese](http://wongtaksum.no-ip.info:81/corpus.htm)         |
 | 2010      | [广州话口语有声语料库](https://huayu.jnu.edu.cn/corpus6/index.aspx) (Cantonese Spoken Corpus with Audio)              |
 | 1997-1998 | [HKCanCor](http://compling.hss.ntu.edu.sg/hkcancor/) (Hong Kong Cantonese Corpus), see also [PyCantonese](https://github.com/jacksonllee/pycantonese) | [Luke & Wong (2015)](http://compling.hss.ntu.edu.sg/hkcancor/data/LukeWong_Hong-Kong-Cantonese-Corpus.pdf) |
@@ -84,8 +84,21 @@ linguists whose major research language is Cantonese, and whose profile can be f
 
 | Affiliation   | Linguist        | Specialization (not exhaustive) |
 | ------------- | --------------- | ------------------------------- |
-| CUHK          | [Sze-Wing TANG](http://www.swtang.net/) | comparative syntax |
+|               | []() |  |
+|               | []() |  |
+| UChicago      | [Jackie Yan-Ki LAI](https://linguistics.uchicago.edu/yan-ki-jackie-lai) | syntax & morphology |
 | USC           | [Tommy Tsz-Ming LEE](https://tszminglee.github.io/) | syntax & semantics |
-| UChicago      | [Jackie Yan-Ki Lai](https://linguistics.uchicago.edu/yan-ki-jackie-lai) | syntax & morphology |
-
-
+|               | []() |  |
+|               | []() |  |
+|               | []() |  |
+| CUHK          | [Sze-Wing TANG](http://www.swtang.net/) | comparative syntax |
+|               | []() |  |
+|               | []() |  |
+|               | []() |  |
+|               | []() |  |
+|               | []() |  |
+|               | []() |  |
+|               | []() |  |
+|               | []() |  |
+|               | []() |  |
+|               | []() |  |
