@@ -20,7 +20,8 @@ toc_icon: "link"
 
 *Adult corpus*
 
-【2020?】[CantoMap](https://github.com/gwinterstein/CantoMap) (The Cantonese MapTask corpus), for paper see [Winterstein, Tang & Lai (2020)](https://www.aclweb.org/anthology/2020.lrec-1.355.pdf) {: .notice--warning}
+【2020?】[CantoMap](https://github.com/gwinterstein/CantoMap) (The Cantonese MapTask corpus), for paper see [Winterstein, Tang & Lai (2020)](https://www.aclweb.org/anthology/2020.lrec-1.355.pdf) 
+{: .notice--warning}
 
 【2017】[MYCanCor](https://github.com/liesenf/MYCanCor) (Malaysia Cantonese Corpus): Not yet available, for paper see [Liesenfeld (2017)](http://www.lrec-conf.org/proceedings/lrec2018/pdf/192.pdf)
 
