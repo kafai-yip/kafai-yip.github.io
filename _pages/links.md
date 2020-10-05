@@ -76,9 +76,10 @@ toc_icon: "link"
 
 [under construction]
 
-| Affiliation        | Linguist          | Specialization (not exhaustive) |
-| CUHK | [Sze-Wing TANG](http://www.swtang.net/) | comparative syntax |
-| USC | [Tommy Tsz-Ming LEE](https://tszminglee.github.io/) | syntax & semantics |
-| UChicago | [Jackie Yan-Ki Lai](https://linguistics.uchicago.edu/yan-ki-jackie-lai) | syntax & morphology |
+| Affiliation   | Linguist        | Specialization (not exhaustive) |
+| ------------- | --------------- | ------------------------------- |
+| CUHK          | [Sze-Wing TANG](http://www.swtang.net/) | comparative syntax |
+| USC           | [Tommy Tsz-Ming LEE](https://tszminglee.github.io/) | syntax & semantics |
+| UChicago      | [Jackie Yan-Ki Lai](https://linguistics.uchicago.edu/yan-ki-jackie-lai) | syntax & morphology |
 
 
