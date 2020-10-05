@@ -26,7 +26,7 @@ toc_icon: "link"
 
 【2010s】[PolyU Corpus of Spoken Chinese](http://wongtaksum.no-ip.info:81/corpus.htm)
 
-【2010】 [广州话口语有声语料库](https://huayu.jnu.edu.cn/corpus6/index.aspx)[Cantonese Spoken Corpus with Audio]
+【2010】 [广州话口语有声语料库](https://huayu.jnu.edu.cn/corpus6/index.aspx) [Cantonese Spoken Corpus with Audio]
 
 【1997-1998】[HKCanCor](http://compling.hss.ntu.edu.sg/hkcancor/)(Hong Kong Cantonese Corpus), for paper see [Luke & Wong (2015)](http://compling.hss.ntu.edu.sg/hkcancor/data/LukeWong_Hong-Kong-Cantonese-Corpus.pdf); see also [PyCantonese](https://github.com/jacksonllee/pycantonese)
 
