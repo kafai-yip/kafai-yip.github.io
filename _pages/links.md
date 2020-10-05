@@ -19,6 +19,7 @@ toc_icon: "link"
 [only for accessible ones, for a full list see [Wong Tak-sum's page](http://wongtaksum.no-ip.info:81/corpus.htm)]
 
 Adult corpus
+【2020?】[CantoMap](https://github.com/gwinterstein/CantoMap) (The Cantonese MapTask corpus): [Winterstein, Tang & Lai (2020)](https://www.aclweb.org/anthology/2020.lrec-1.355.pdf)
 【2017】[MYCanCor](https://github.com/liesenf/MYCanCor) (Malaysia Cantonese Corpus): Not yet available, [Liesenfeld (2017)](http://www.lrec-conf.org/proceedings/lrec2018/pdf/192.pdf)
 【2010s】[PolyU Corpus of Spoken Chinese](http://wongtaksum.no-ip.info:81/corpus.htm)
 【2010】 [广州话口语有声语料库](https://huayu.jnu.edu.cn/corpus6/index.aspx)[Cantonese Spoken Corpus with Audio]
