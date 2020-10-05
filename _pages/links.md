@@ -16,7 +16,9 @@ toc_icon: "link"
 
 ## Corpus
 ### Cantonese
-[only for those accessible online, for a full list see [Wong Tak-sum's page](http://wongtaksum.no-ip.info:81/corpus.htm)]
+
+only for those accessible online, for a full list see [Wong Tak-sum's page](http://wongtaksum.no-ip.info:81/corpus.htm)
+{: .notice--warning}
 
 *Adult corpus*
 
@@ -63,8 +65,12 @@ toc_icon: "link"
 |             | [English Loanwords in Hong Kong Cantonese](https://chaaklau.github.io/elw/) |
 | 1910s~1990s | [粵音資料集叢](https://jyut.net/) (A Database of Literature on Cantonese Phonology) |
 
+
 ### Chinese
-[selective collection, mainly the ones I've used. for a full list see [Wong Tak-sum's page](http://wongtaksum.no-ip.info:81/corpus.htm)]
+
+selective collection, mainly the ones I've used. for a full list see [Wong Tak-sum's page](http://wongtaksum.no-ip.info:81/corpus.htm)
+{: .notice--warning}
+
 [under construction]
 
 ## Cantonese learning
@@ -72,7 +78,8 @@ toc_icon: "link"
 
 ## Cantonese linguists
 
-(linguists whose major research language is Cantonese, and whose profile can be found online. please remind me if I've missed any)
+linguists whose major research language is Cantonese, and whose profile can be found online. please remind me if I've missed any
+{: .notice--warning}
 
 [under construction]
 
