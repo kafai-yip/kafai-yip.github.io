@@ -18,7 +18,7 @@ toc_icon: "link"
 ### Cantonese
 [only for those accessible online, for a full list see [Wong Tak-sum's page](http://wongtaksum.no-ip.info:81/corpus.htm)]
 
-Adult corpus
+*Adult corpus*
 
 【2020?】[CantoMap](https://github.com/gwinterstein/CantoMap) (The Cantonese MapTask corpus), for paper see [Winterstein, Tang & Lai (2020)](https://www.aclweb.org/anthology/2020.lrec-1.355.pdf)
 
@@ -33,7 +33,7 @@ Adult corpus
 【unknown】[CantoneseWaC](https://www.sketchengine.eu/cantonesewac-corpus/)
 
 
-Child(/Bilingual) corpus [CHILDES](https://childes.talkbank.org/)
+*Child(/Bilingual) corpus [CHILDES](https://childes.talkbank.org/)*
 
 【2015-2018】[Bilingual Child Heritage Chinese Corpus](https://childes.talkbank.org/access/Biling/CHCC.html): Chinese-English
 [Leo Corpus](https://childes.talkbank.org/access/Biling/Leo.html) [Mandarin-English-Cantonese]
@@ -49,7 +49,7 @@ Child(/Bilingual) corpus [CHILDES](https://childes.talkbank.org/)
 【1985】[Guthrie Bilingual Corpus](https://childes.talkbank.org/access/Biling/Guthrie.html) [Chinese-English]
 
 
-Diachronic corpus
+*Diachronic corpus*
 
 【1940s~1970s】[The Corpus of Mid-20th Century Hong Kong Cantonese](https://hkcc.eduhk.hk/) (Phase 1&2)
 
@@ -60,11 +60,13 @@ Diachronic corpus
 【1820s~1920s】[Early Cantonese Colloquial Texts: A Database](http://143.89.108.109/Candbase/)
 
 
-Others
+*Others*
 
 [Cantonese 4-word Idiomatic Expressions Excerpts and Audio Recording Database](http://www.livac.org/yueqie/)
 
 [A Comparative Database of Modern Chinese and Cantonese](http://apps.itsc.cuhk.edu.hk/hanyu/Page/Cover.aspx)
+
+[English Loanwords in Hong Kong Cantonese](https://chaaklau.github.io/elw/)
 
 【1910s~1990s】[粵音資料集叢](https://jyut.net/) (A Database of Literature on Cantonese Phonology)
 
