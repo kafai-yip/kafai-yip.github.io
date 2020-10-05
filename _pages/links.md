@@ -16,7 +16,7 @@ toc_icon: "link"
 
 ## Corpus
 ### Cantonese
-[only for accessible ones, for a full list see [Wong Tak-sum's page](http://wongtaksum.no-ip.info:81/corpus.htm)]
+[only for those accessible online, for a full list see [Wong Tak-sum's page](http://wongtaksum.no-ip.info:81/corpus.htm)]
 
 Adult corpus
 【2020?】[CantoMap](https://github.com/gwinterstein/CantoMap) (The Cantonese MapTask corpus): [Winterstein, Tang & Lai (2020)](https://www.aclweb.org/anthology/2020.lrec-1.355.pdf)
