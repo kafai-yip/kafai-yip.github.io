@@ -26,25 +26,22 @@ toc_icon: "link"
 | 2017      | [MYCanCor](https://github.com/liesenf/MYCanCor) (Malaysia Cantonese Corpus)| [Liesenfeld (2017)](http://www.lrec-conf.org/proceedings/lrec2018/pdf/192.pdf) |
 | 2010s     | [PolyU Corpus of Spoken Chinese](http://wongtaksum.no-ip.info:81/corpus.htm)         |
 | 2010      | [广州话口语有声语料库](https://huayu.jnu.edu.cn/corpus6/index.aspx) [Cantonese Spoken Corpus with Audio]              |
-| 1997-1998 | [HKCanCor](http://compling.hss.ntu.edu.sg/hkcancor/)(Hong Kong Cantonese Corpus) | [Luke & Wong (2015)](http://compling.hss.ntu.edu.sg/hkcancor/data/LukeWong_Hong-Kong-Cantonese-Corpus.pdf) |
+| 1997-1998 | [HKCanCor](http://compling.hss.ntu.edu.sg/hkcancor/) (Hong Kong Cantonese Corpus) | [Luke & Wong (2015)](http://compling.hss.ntu.edu.sg/hkcancor/data/LukeWong_Hong-Kong-Cantonese-Corpus.pdf) |
 |           | see also [PyCantonese](https://github.com/jacksonllee/pycantonese)                |
 | unknown   | [CantoneseWaC](https://www.sketchengine.eu/cantonesewac-corpus/)                     |
 
+
 *Child(/Bilingual) corpus [CHILDES](https://childes.talkbank.org/)*
 
-【2015-2018】[Bilingual Child Heritage Chinese Corpus](https://childes.talkbank.org/access/Biling/CHCC.html): Chinese-English
-[Leo Corpus](https://childes.talkbank.org/access/Biling/Leo.html) [Mandarin-English-Cantonese]
-
-【2000s】[The Hong Kong Bilingual Child Language Corpus](http://www.cuhk.edu.hk/lin/home/bilingual.htm), see also [here](https://childes.talkbank.org/access/Biling/YipMatthews.html) [Cantonese-English]
-
-【2000s】[Paidologos Corpus: Cantonese](https://phonbank.talkbank.org/access/Chinese/Cantonese/PaidoCantonese.html)
-
-【1990s】[HKU-70 Corpus](https://childes.talkbank.org/access/Chinese/Cantonese/HKU.html)
-
-【1990s】[CANCORP](http://www.arts.cuhk.edu.hk/~lal/corpora.html#CANCORP) (Hong Kong Cantonese Child Language Corpus); see also [here](https://childes.talkbank.org/access/Chinese/Cantonese/LeeWongLeung.html); for paper see [Lee et al. (1996)](http://www.cuhk.edu.hk/lin/langacq/lee_etal1996.pdf)
-
-【1985】[Guthrie Bilingual Corpus](https://childes.talkbank.org/access/Biling/Guthrie.html) [Chinese-English]
-
+| Year      | Corpus          | Paper |
+| --------- | --------------- | ----- |
+| 2015-2018 | [Leo Corpus](https://childes.talkbank.org/access/Biling/Leo.html) (Mandarin-English-Cantonese) |
+| 2010s | [Bilingual Child Heritage Chinese Corpus](https://childes.talkbank.org/access/Biling/CHCC.html) (Chinese-English) |
+| 2000s     | [The Hong Kong Bilingual Child Language Corpus](http://www.cuhk.edu.hk/lin/home/bilingual.htm), or [here](https://childes.talkbank.org/access/Biling/YipMatthews.html) (Cantonese-English) |
+| 2000s     | [Paidologos Corpus: Cantonese](https://phonbank.talkbank.org/access/Chinese/Cantonese/PaidoCantonese.html) |
+| 1990s     | [HKU-70 Corpus](https://childes.talkbank.org/access/Chinese/Cantonese/HKU.html) |
+| 1990s     | [CANCORP](http://www.arts.cuhk.edu.hk/~lal/corpora.html#CANCORP) (Hong Kong Cantonese Child Language Corpus), or [here](https://childes.talkbank.org/access/Chinese/Cantonese/LeeWongLeung.html) | [Lee et al. (1996)](http://www.cuhk.edu.hk/lin/langacq/lee_etal1996.pdf) |
+| 1985      | [Guthrie Bilingual Corpus](https://childes.talkbank.org/access/Biling/Guthrie.html) [Chinese-English] |
 
 *Diachronic corpus*
 
