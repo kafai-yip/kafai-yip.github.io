@@ -20,19 +20,13 @@ toc_icon: "link"
 
 *Adult corpus*
 
-【2020?】[CantoMap](https://github.com/gwinterstein/CantoMap) (The Cantonese MapTask corpus), for paper see [Winterstein, Tang & Lai (2020)](https://www.aclweb.org/anthology/2020.lrec-1.355.pdf) 
+1.【2020?】[CantoMap](https://github.com/gwinterstein/CantoMap) (The Cantonese MapTask corpus), for paper see [Winterstein, Tang & Lai (2020)](https://www.aclweb.org/anthology/2020.lrec-1.355.pdf) 
+2.【2017】[MYCanCor](https://github.com/liesenf/MYCanCor) (Malaysia Cantonese Corpus): Not yet available, for paper see [Liesenfeld (2017)](http://www.lrec-conf.org/proceedings/lrec2018/pdf/192.pdf)
+3.【2010s】[PolyU Corpus of Spoken Chinese](http://wongtaksum.no-ip.info:81/corpus.htm)
+4.【2010】 [广州话口语有声语料库](https://huayu.jnu.edu.cn/corpus6/index.aspx) [Cantonese Spoken Corpus with Audio]
+5.【1997-1998】[HKCanCor](http://compling.hss.ntu.edu.sg/hkcancor/)(Hong Kong Cantonese Corpus), for paper see [Luke & Wong (2015)](http://compling.hss.ntu.edu.sg/hkcancor/data/LukeWong_Hong-Kong-Cantonese-Corpus.pdf); see also [PyCantonese](https://github.com/jacksonllee/pycantonese)
+6.【unknown】[CantoneseWaC](https://www.sketchengine.eu/cantonesewac-corpus/)
 {: .notice--warning}
-
-【2017】[MYCanCor](https://github.com/liesenf/MYCanCor) (Malaysia Cantonese Corpus): Not yet available, for paper see [Liesenfeld (2017)](http://www.lrec-conf.org/proceedings/lrec2018/pdf/192.pdf)
-{: .notice--info}
-
-【2010s】[PolyU Corpus of Spoken Chinese](http://wongtaksum.no-ip.info:81/corpus.htm)
-
-【2010】 [广州话口语有声语料库](https://huayu.jnu.edu.cn/corpus6/index.aspx) [Cantonese Spoken Corpus with Audio]
-
-【1997-1998】[HKCanCor](http://compling.hss.ntu.edu.sg/hkcancor/)(Hong Kong Cantonese Corpus), for paper see [Luke & Wong (2015)](http://compling.hss.ntu.edu.sg/hkcancor/data/LukeWong_Hong-Kong-Cantonese-Corpus.pdf); see also [PyCantonese](https://github.com/jacksonllee/pycantonese)
-
-【unknown】[CantoneseWaC](https://www.sketchengine.eu/cantonesewac-corpus/)
 
 
 *Child(/Bilingual) corpus [CHILDES](https://childes.talkbank.org/)*
