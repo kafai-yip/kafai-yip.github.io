@@ -43,27 +43,25 @@ toc_icon: "link"
 | 1990s     | [CANCORP](http://www.arts.cuhk.edu.hk/~lal/corpora.html#CANCORP) (Hong Kong Cantonese Child Language Corpus), or [here](https://childes.talkbank.org/access/Chinese/Cantonese/LeeWongLeung.html) | [Lee et al. (1996)](http://www.cuhk.edu.hk/lin/langacq/lee_etal1996.pdf) |
 | 1985      | [Guthrie Bilingual Corpus](https://childes.talkbank.org/access/Biling/Guthrie.html) [Chinese-English] |
 
+
 *Diachronic corpus*
 
-【1940s~1970s】[The Corpus of Mid-20th Century Hong Kong Cantonese](https://hkcc.eduhk.hk/) (Phase 1&2)
-
-【1870s~1930s】[Early Cantonese Tagged Database](http://database.shss.ust.hk/Cantag/)
-
-【1860s~1920s】[Database of Early Chinese Dialects](http://database.shss.ust.hk/5dialects/) (Cantonese, Hakka, Mandarin, Hokkien, Wu)
-
-【1820s~1920s】[Early Cantonese Colloquial Texts: A Database](http://143.89.108.109/Candbase/)
+| Year        | Corpus          | Paper |
+| ----------- | --------------- | ----- |
+| 1940s~1970s | [The Corpus of Mid-20th Century Hong Kong Cantonese](https://hkcc.eduhk.hk/) (Phase 1&2) |
+| 1870s~1930s | [Early Cantonese Tagged Database](http://database.shss.ust.hk/Cantag/) |
+| 1860s~1920s | [Database of Early Chinese Dialects](http://database.shss.ust.hk/5dialects/) (Cantonese, Hakka, Mandarin, Hokkien, Wu) |
+| 1820s~1920s | [Early Cantonese Colloquial Texts: A Database](http://143.89.108.109/Candbase/) |
 
 
 *Others*
 
-[Cantonese 4-word Idiomatic Expressions Excerpts and Audio Recording Database](http://www.livac.org/yueqie/)
-
-[A Comparative Database of Modern Chinese and Cantonese](http://apps.itsc.cuhk.edu.hk/hanyu/Page/Cover.aspx)
-
-[English Loanwords in Hong Kong Cantonese](https://chaaklau.github.io/elw/)
-
-【1910s~1990s】[粵音資料集叢](https://jyut.net/) (A Database of Literature on Cantonese Phonology)
-
+| Year        | Corpus          | Paper |
+| ----------- | --------------- | ----- |
+|             | [Cantonese 4-word Idiomatic Expressions Excerpts and Audio Recording Database](http://www.livac.org/yueqie/) |
+|             | [A Comparative Database of Modern Chinese and Cantonese](http://apps.itsc.cuhk.edu.hk/hanyu/Page/Cover.aspx) |
+|             | [English Loanwords in Hong Kong Cantonese](https://chaaklau.github.io/elw/) |
+| 1910s~1990s | [粵音資料集叢](https://jyut.net/) (A Database of Literature on Cantonese Phonology) |
 
 ### Chinese
 [under construction]
