@@ -77,7 +77,7 @@ selective collection, mainly the ones I've used. for a full list see [Wong Tak-s
 
 ## Cantonese linguists
 
-A self-serving handy guide, including linguists whose major research language is Cantonese, and whose profiles can be found online. please remind me if I've missed any
+a self-serving handy list of linguists whose major research languages include Cantonese, and whose profiles can be found online; please remind me if I've missed any
 {: .notice--warning}
 
 [under construction]
@@ -87,8 +87,8 @@ A self-serving handy guide, including linguists whose major research language is
 |               | []() |  |
 | HKPolyU       | [Candice Chi-Hang CHEUNG](https://sites.google.com/site/candicechcheung/) | clinical linguistics, syntax |
 | CUHK          | [Lawrence Yam-leung CHEUNG](http://www.cuhk.edu.hk/lin/new/people/lawrence/) | syntax, corpus linguistics |
-| HKBU          | [Winnie Chor](https://artsbu.hkbu.edu.hk/about-us/our-community-of-teachers-and-researchers/dr-winnie-chor) | cognitive linguistics, conversation analysis |
-| EdUHK         | [Andy C. Chin](https://sites.google.com/site/hkseattle/home) | typology, sociolinguistics |
+| HKBU          | [Winnie CHOR](https://artsbu.hkbu.edu.hk/about-us/our-community-of-teachers-and-researchers/dr-winnie-chor) | cognitive linguistics, conversation analysis |
+| EdUHK         | [Andy C. CHIN](https://sites.google.com/site/hkseattle/home) | typology, sociolinguistics |
 |               | []() |  |
 |               | []() |  |
 |               | []() |  |
@@ -110,16 +110,16 @@ A self-serving handy guide, including linguists whose major research language is
 | NTU           | [Kang-kwong LUKE](https://www3.ntu.edu.sg/home/kkluke/index.html) | conversation analysis |
 |               | []() |  |
 | HKU           | [Stephen MATTHEWS](https://www.linguistics.hku.hk/staff/sjm.html) | typology, bilingualism |
-| CUHK          | [Peggy Pik Ki Mok](http://www.cuhk.edu.hk/lin/people/peggy/) | phonetics |
+| CUHK          | [Peggy Pik Ki MOK](http://www.cuhk.edu.hk/lin/people/peggy/) | phonetics |
 |               | []() |  |
-| UP            | [Joanna Sio Ut SEONG](https://sinofon.cz/team-members/joanna-ut-seong-sio/) | syntax & semantics |
+| UP            | [Joanna Ut-Seong SIO](https://sinofon.cz/team-members/joanna-ut-seong-sio/) | syntax & semantics |
 | GDUFS         | [Dingxu SHI](https://clal.gdufs.edu.cn/info/1485/3109.htm) | syntax & semantics |
 |               | []() |  |
 |               | []() |  |
 | VTCHK         | [Man Shan TONG](https://www.thei.edu.hk/staff/details/man-shan-angel-tong/) | syntax-phonology interface |
 | CUHK          | [Sze-Wing TANG](http://www.swtang.net/) | comparative syntax |
 | UCSD          | [Crono Ming San TSE](https://sites.google.com/a/ucsd.edu/cronotse/) | syntax & semantics |
-| CityUHK, HKUST| [Ka Yin Benjamin T'SOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134) | variation, computational linguistics |
+| CityUHK, HKUST| [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134) | variation, computational linguistics |
 | HKPolyU       | [Tak-sum WONG](http://wongtaksum.no-ip.info:81/) | historical phonology, computational linguistics |
 | HKPolyU       | [Yike YANG](https://scholar.google.com/citations?user=rLyKCGoAAAAJ&hl=zh-CN) | phonetics, acquisition |
 |               | []() |  |
