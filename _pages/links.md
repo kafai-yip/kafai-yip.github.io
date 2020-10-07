@@ -93,8 +93,8 @@ linguists whose major research language is Cantonese, and whose profile can be f
 |               | []() |  |
 |               | []() |  |
 |               | []() |  |
-|               | [Maki IIDA](https://researchmap.jp/dicam/) | SFPs |
-|               | [Shin KATAOKA](https://oraas0.ied.edu.hk/rich/web/people_details.jsp?pid=12762) | historcial linguistics & Cantonese learning |
+| TMU           | [Maki IIDA](https://researchmap.jp/dicam/) | SFPs |
+| EdUHK         | [Shin KATAOKA](https://oraas0.ied.edu.hk/rich/web/people_details.jsp?pid=12762) | historcial linguistics & Cantonese learning |
 | UChicago      | [Jackie Yan-Ki LAI](https://linguistics.uchicago.edu/yan-ki-jackie-lai) | syntax, morphology |
 | CUHK          | [Yik-Po LAI](https://orcid.org/0000-0002-8791-0757) | typology, grammaticalization |
 | HSUHK         | [Charles LAM](http://charles-lam.net/) | syntax & semantics |
