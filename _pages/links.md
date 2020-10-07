@@ -84,46 +84,57 @@ a self-serving handy list of linguists whose major research languages include Ca
 
 | Affiliation   | Linguist        | Specialization (not exhaustive) |
 | ------------- | --------------- | ------------------------------- |
+| HKU           | [Robert S. BAUER](https://en.wikipedia.org/wiki/Robert_Bauer_(linguist)) | phonology |
+|               | [Marjorie K. M. CHAN](https://u.osu.edu/chan.9/) | phonetics & phonology, dialectology |
 |               | []() |  |
+| CUHK          | [Song Hing CHANG](https://aims.cuhk.edu.hk/converis/portal/detail/Person/6186346?lang=en_GB) | dialectology, phonology |
+| LEI           | [Lisa L.-S. CHENG](https://www.universiteitleiden.nl/en/staffmembers/lisa-cheng#tab-1) | syntax & its interfaces |
 | HKPolyU       | [Candice Chi-Hang CHEUNG](https://sites.google.com/site/candicechcheung/) | clinical linguistics, syntax |
+| CUHK          | [Hung-nin Samuel CHEUNG](https://www.chi.cuhk.edu.hk/about-us/people/cheung-h-samuel) | historical linguistics, dialectology | 
 | CUHK          | [Lawrence Yam-leung CHEUNG](http://www.cuhk.edu.hk/lin/new/people/lawrence/) | syntax, corpus linguistics |
-| HKBU          | [Winnie CHOR](https://artsbu.hkbu.edu.hk/about-us/our-community-of-teachers-and-researchers/dr-winnie-chor) | cognitive linguistics, conversation analysis |
+| HKBU          | [Winnie CHOR](https://artsbu.hkbu.edu.hk/about-us/our-community-of-teachers-and-researchers/dr-winnie-chor) | 
+| UBS           | [Una CHOW](https://linguistics.ubc.ca/person/una-chow/) | phonetics |
+cognitive linguistics, conversation analysis |
 | EdUHK         | [Andy C. CHIN](https://sites.google.com/site/hkseattle/home) | typology, sociolinguistics |
-|               | []() |  |
-|               | []() |  |
-|               | []() |  |
-|               | []() |  |
-| TMU           | [Maki IIDA](https://researchmap.jp/dicam/) | SFPs |
+| Hokudai       | [Yurie HARA](https://yuriehara.github.io/website/) | semantics & pragmatics, phonology |
+| UP7           | [Jiaying HUANG](http://www.llf.cnrs.fr/en/Gens/JHuang) | syntax, psycholinguistics |
+| UW            | [Jiahui HUANG](https://linguistics.washington.edu/people/jiahui-huang) | syntax, L2 acquisition |
+| TMU           | [Maki IIDA](https://researchmap.jp/dicam/) | grammaticalization, SFPs |
 | EdUHK         | [Shin KATAOKA](https://oraas0.ied.edu.hk/rich/web/people_details.jsp?pid=12762) | historcial linguistics, Cantonese learning |
+| CUHK          | [Bit-Chee KWOK](https://orcid.org/0000-0001-8115-6776) | dialectology, historical linguistics |
 | UChicago      | [Jackie Yan-Ki LAI](https://linguistics.uchicago.edu/yan-ki-jackie-lai) | syntax, morphology |
 | CUHK          | [Yik-Po LAI](https://orcid.org/0000-0002-8791-0757) | typology, grammaticalization |
 | HSUHK         | [Charles LAM](http://charles-lam.net/) | syntax & semantics |
 | OUHK          | [Cherry Chit-Yu LAM](https://cherrylam90.wixsite.com/academic-website) | comparative syntax |
+| UBC           | [Zoe Lam](https://asia.ubc.ca/profile/zoe-lam/) | phonology, heritage languages |
 | EdUHK         | [Chaak-ming LAU](https://hk.linkedin.com/in/chaakming-lau-518678191?trk=public_profile_browsemap_profile-result-card_result-card_full-click) | lexicography, phonology |
-|               | []() |  |
+| UCSC          | [Jess H. K. LAW](https://jesshklaw.wordpress.com/) | semantics & pragmatics |
 | CUHK, TNU     | [Hun-tak Thomas LEE](https://www.cuhk.edu.hk/lin/new/people/thomas/index.htm) | acquisition, syntax & semantics |
 | UOH           | [Man Ki Theodora LEE](https://hk.linkedin.com/in/theodoralee) | syntax & semantics |
 | CityUHK       | [Po Lun Peppina LEE](https://scholars.cityu.edu.hk/en/persons/po-lun-peppina-lee(34592708-7964-4011-8910-f3af22b110f7).html) | semantics |
 | USC           | [Tommy Tsz-Ming LEE](https://tszminglee.github.io/) | syntax & semantics |
 | CUHK          | [Margaret LEI](https://www.margaretlei.net/) | acquisition, syntax & semantics |
-| UAEU          | [Tommi LEUNG](https://sites.google.com/site/tommileung/) | syntax |
+| UAEU          | [Tommi LEUNG](https://sites.google.com/site/tommileung/) | syntax, phonology |
+| UBC           | [Roger Yu-Hsiang LO](https://blogs.ubc.ca/rogeryhlo/) | phonetics & phonology |
 | NTU           | [Kang-kwong LUKE](https://www3.ntu.edu.sg/home/kkluke/index.html) | conversation analysis |
-|               | []() |  |
 | HKU           | [Stephen MATTHEWS](https://www.linguistics.hku.hk/staff/sjm.html) | typology, bilingualism |
 | CUHK          | [Peggy Pik Ki MOK](http://www.cuhk.edu.hk/lin/people/peggy/) | phonetics |
-|               | []() |  |
 | UP            | [Joanna Ut-Seong SIO](http://orcid.org/0000-0002-0949-5957) | syntax & semantics |
 | GDUFS         | [Dingxu SHI](https://clal.gdufs.edu.cn/info/1485/3109.htm) | syntax & semantics |
-|               | []() |  |
-|               | []() |  |
+| UBC           | [Rachel SOO](https://sites.google.com/view/rachelsoo/) | phonetics |
+| LEI           | [Rint SYBESMA](https://www.universiteitleiden.nl/en/staffmembers/rint-sybesma/publications#tab-1) | syntax |
 | VTCHK         | [Man Shan TONG](https://www.thei.edu.hk/staff/details/man-shan-angel-tong/) | syntax-phonology interface |
 | CUHK          | [Sze-Wing TANG](http://www.swtang.net/) | comparative syntax |
+| CUHK          | [Kwok Wai TING](https://www.chi.cuhk.edu.hk/about-us/people/ting-kwok-wai) | historical phonology |
 | UCSD          | [Crono Ming San TSE](https://sites.google.com/a/ucsd.edu/cronotse/) | syntax & semantics |
 | CityUHK, HKUST| [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134) | variation, computational linguistics |
 | HKPolyU       | [Tak-sum WONG](http://wongtaksum.no-ip.info:81/) | historical phonology, computational linguistics |
+| HSUHK         | [Yiu Kwan WONG](https://chi.hsu.edu.hk/staffs/academics/?staffId=805) | historical phonology |
 | HKPolyU       | [Yike YANG](https://scholar.google.com/citations?user=rLyKCGoAAAAJ&hl=zh-CN) | phonetics, acquisition |
-|               | []() |  |
-|               | []() |  |
+| CUHK(SZ)      | [Foong Ha YAP](https://myweb.cuhk.edu.cn/foonghayap) | language change, typology |
+| CUHK          | [Virginia YIP](http://vyip.cbrchk.org/) | bilingualism, acquisition |
+| UW            | [Anne YUE-HASHIMOTO](https://asian.washington.edu/people/anne-yue-hashimoto) | grammar & phonology, typology |
+
 |               | []() |  |
 |               | []() |  |
 |               | []() |  |
