@@ -17,7 +17,7 @@ toc_icon: "link"
 ## Corpus
 ### Cantonese
 
-only for those accessible online, for a full list see [Wong Tak-sum's page](http://wongtaksum.no-ip.info:81/corpus.htm)
+only for those accessible online, for a full list see [Wong Tak-sum's page](http://wongtaksum.no-ip.info:81/corpus.htm#Corpora)
 {: .notice--warning}
 
 *Adult corpus*
@@ -67,7 +67,7 @@ only for those accessible online, for a full list see [Wong Tak-sum's page](http
 
 ### Chinese
 
-selective collection, mainly the ones I've used. for a full list see [Wong Tak-sum's page](http://wongtaksum.no-ip.info:81/corpus.htm)
+selective collection, mainly the ones I've used. for a full list see [Wong Tak-sum's page](http://wongtaksum.no-ip.info:81/corpus.htm#Corpora)
 {: .notice--warning}
 
 [under construction]
@@ -85,18 +85,43 @@ linguists whose major research language is Cantonese, and whose profile can be f
 | Affiliation   | Linguist        | Specialization (not exhaustive) |
 | ------------- | --------------- | ------------------------------- |
 |               | []() |  |
+| HKPolyU       | [Candice Chi-Hang CHEUNG](https://sites.google.com/site/candicechcheung/) | clinical linguistics, syntax |
+| CUHK          | [Lawrence Yam-leung CHEUNG](http://www.cuhk.edu.hk/lin/new/people/lawrence/) | syntax, corpus linguistics |
+| HKBU          | [Winnie Chor](https://artsbu.hkbu.edu.hk/about-us/our-community-of-teachers-and-researchers/dr-winnie-chor) | cognitive linguistics, conversation analysis |
+| EdUHK         | [Andy C. Chin](https://sites.google.com/site/hkseattle/home) | typology, sociolinguistics |
 |               | []() |  |
-| UChicago      | [Jackie Yan-Ki LAI](https://linguistics.uchicago.edu/yan-ki-jackie-lai) | syntax & morphology |
+|               | []() |  |
+|               | []() |  |
+|               | []() |  |
+|               | [Maki IIDA](https://researchmap.jp/dicam/) | SFPs |
+|               | [Shin KATAOKA](https://oraas0.ied.edu.hk/rich/web/people_details.jsp?pid=12762) | historcial linguistics & Cantonese learning |
+| UChicago      | [Jackie Yan-Ki LAI](https://linguistics.uchicago.edu/yan-ki-jackie-lai) | syntax, morphology |
+| CUHK          | [Yik-Po LAI](https://orcid.org/0000-0002-8791-0757) | typology, grammaticalization |
+| HSUHK         | [Charles LAM](http://charles-lam.net/) | syntax & semantics |
+| OUHK          | [Cherry Chit-Yu LAM](https://cherrylam90.wixsite.com/academic-website) | comparative syntax |
+| EdUHK         | [Chaak-ming LAU](https://hk.linkedin.com/in/chaakming-lau-518678191?trk=public_profile_browsemap_profile-result-card_result-card_full-click) | lexicography, phonology |
+|               | []() |  |
+| CUHK, TNU     | [Hun-tak Thomas LEE](https://www.cuhk.edu.hk/lin/new/people/thomas/index.htm) | acquisition, syntax & semantics |
+| UOH           | [Man Ki Theodora LEE](https://hk.linkedin.com/in/theodoralee) | syntax & semantics |
+| CityUHK       | [Po Lun Peppina LEE](https://scholars.cityu.edu.hk/en/persons/po-lun-peppina-lee(34592708-7964-4011-8910-f3af22b110f7).html) | semantics |
 | USC           | [Tommy Tsz-Ming LEE](https://tszminglee.github.io/) | syntax & semantics |
+|               | [Margaret LEI](https://www.margaretlei.net/) | acquisition, syntax & semantics |
+| UAEU          | [Tommi LEUNG](https://sites.google.com/site/tommileung/) | syntax |
+| NTU           | [Kang-kwong LUKE](https://www3.ntu.edu.sg/home/kkluke/index.html) | conversation analysis |
+|               | []() |  |
+| HKU           | [Stephen MATTHEWS](https://www.linguistics.hku.hk/staff/sjm.html) | typology, bilingualism |
+|               | [Peggy Pik Ki Mok](http://www.cuhk.edu.hk/lin/people/peggy/) | phonetics |
+|               | []() |  |
+| UP            | [Joanna Sio Ut SEONG](https://sinofon.cz/team-members/joanna-ut-seong-sio/) | syntax & semantics |
+| GDUFS         | [Dingxu SHI](https://clal.gdufs.edu.cn/info/1485/3109.htm) | syntax & semantics |
 |               | []() |  |
 |               | []() |  |
-|               | []() |  |
+| VTCHK         | [Man Shan TONG](https://www.thei.edu.hk/staff/details/man-shan-angel-tong/) | syntax-phonology interface |
 | CUHK          | [Sze-Wing TANG](http://www.swtang.net/) | comparative syntax |
-|               | []() |  |
-|               | []() |  |
-|               | []() |  |
-|               | []() |  |
-|               | []() |  |
+| UCSD          | [Crono Ming San TSE](https://sites.google.com/a/ucsd.edu/cronotse/) | syntax & semantics |
+| CityUHK, HKUST| [Ka Yin Benjamin T'SOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134) | variation, computational linguistics |
+| HKPolyU       | [Tak-sum WONG](http://wongtaksum.no-ip.info:81/) | historical phonology, computational linguistics |
+| HKPolyU       | [Yike YANG](https://scholar.google.com/citations?user=rLyKCGoAAAAJ&hl=zh-CN) | phonetics, acquisition |
 |               | []() |  |
 |               | []() |  |
 |               | []() |  |
