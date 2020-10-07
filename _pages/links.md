@@ -98,7 +98,7 @@ a self-serving handy list of linguists whose major research languages include Ca
 | UP7           | [Jiaying HUANG](http://www.llf.cnrs.fr/en/Gens/JHuang) | syntax, psycholinguistics |
 | UW            | [Jiahui HUANG](https://linguistics.washington.edu/people/jiahui-huang) | syntax, L2 acquisition |
 | TMU           | [Maki IIDA](https://researchmap.jp/dicam/) | grammaticalization, SFPs |
-| EdUHK         | [Shin KATAOKA](https://oraas0.ied.edu.hk/rich/web/people_details.jsp?pid=12762) | historcial linguistics, Cantonese learning |
+| EdUHK         | [Shin KATAOKA](https://oraas0.ied.edu.hk/rich/web/people_details.jsp?pid=12762) | historcial linguistics |
 | CUHK          | [Bit-Chee KWOK](https://orcid.org/0000-0001-8115-6776) | dialectology, historical linguistics |
 | UChicago      | [Jackie Yan-Ki LAI](https://linguistics.uchicago.edu/yan-ki-jackie-lai) | syntax, morphology |
 | CUHK          | [Yik-Po LAI](https://orcid.org/0000-0002-8791-0757) | typology, grammaticalization |
