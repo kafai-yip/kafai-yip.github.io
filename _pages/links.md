@@ -77,7 +77,7 @@ selective collection, mainly the ones I've used. for a full list see [Wong Tak-s
 
 ## Cantonese linguists
 
-linguists whose major research language is Cantonese, and whose profile can be found online. please remind me if I've missed any
+A self-serving handy guide, including linguists whose major research language is Cantonese, and whose profile can be found online. please remind me if I've missed any
 {: .notice--warning}
 
 [under construction]
@@ -94,7 +94,7 @@ linguists whose major research language is Cantonese, and whose profile can be f
 |               | []() |  |
 |               | []() |  |
 | TMU           | [Maki IIDA](https://researchmap.jp/dicam/) | SFPs |
-| EdUHK         | [Shin KATAOKA](https://oraas0.ied.edu.hk/rich/web/people_details.jsp?pid=12762) | historcial linguistics & Cantonese learning |
+| EdUHK         | [Shin KATAOKA](https://oraas0.ied.edu.hk/rich/web/people_details.jsp?pid=12762) | historcial linguistics, Cantonese learning |
 | UChicago      | [Jackie Yan-Ki LAI](https://linguistics.uchicago.edu/yan-ki-jackie-lai) | syntax, morphology |
 | CUHK          | [Yik-Po LAI](https://orcid.org/0000-0002-8791-0757) | typology, grammaticalization |
 | HSUHK         | [Charles LAM](http://charles-lam.net/) | syntax & semantics |
