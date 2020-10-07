@@ -77,7 +77,7 @@ selective collection, mainly the ones I've used. for a full list see [Wong Tak-s
 
 ## Cantonese linguists
 
-A self-serving handy guide, including linguists whose major research language is Cantonese, and whose profile can be found online. please remind me if I've missed any
+A self-serving handy guide, including linguists whose major research language is Cantonese, and whose profiles can be found online. please remind me if I've missed any
 {: .notice--warning}
 
 [under construction]
