@@ -91,12 +91,12 @@ a self-serving handy list of linguists whose major research languages include Ca
 | HKPolyU       | [Candice Chi-Hang CHEUNG](https://sites.google.com/site/candicechcheung/) | clinical linguistics, syntax |
 | CUHK          | [Hung-nin Samuel CHEUNG](https://www.chi.cuhk.edu.hk/about-us/people/cheung-h-samuel) | historical linguistics, dialectology | 
 | CUHK          | [Lawrence Yam-leung CHEUNG](http://www.cuhk.edu.hk/lin/new/people/lawrence/) | syntax, corpus linguistics |
+| EdUHK         | [Andy C. CHIN](https://sites.google.com/site/hkseattle/home) | typology, sociolinguistics |
 | HKBU          | [Winnie CHOR](https://artsbu.hkbu.edu.hk/about-us/our-community-of-teachers-and-researchers/dr-winnie-chor) | cognitive linguistics, conversation analysis |
 | UBC           | [Una CHOW](https://linguistics.ubc.ca/person/una-chow/) | phonetics |
-| EdUHK         | [Andy C. CHIN](https://sites.google.com/site/hkseattle/home) | typology, sociolinguistics |
-| Hokudai       | [Yurie HARA](https://yuriehara.github.io/website/) | semantics & pragmatics, phonology |
-| UP7           | [Jiaying HUANG](http://www.llf.cnrs.fr/en/Gens/JHuang) | syntax, psycholinguistics |
+| Hokudai       | [Yurie HARA](https://yuriehara.github.io/website/) | semantics & pragmatics, phonology 
 | UW            | [Jiahui HUANG](https://linguistics.washington.edu/people/jiahui-huang) | syntax, L2 acquisition |
+| UP7           | [Jiaying HUANG](http://www.llf.cnrs.fr/en/Gens/JHuang) | syntax, psycholinguistics |
 | TMU           | [Maki IIDA](https://researchmap.jp/dicam/) | grammaticalization, SFPs |
 | EdUHK         | [Shin KATAOKA](https://oraas0.ied.edu.hk/rich/web/people_details.jsp?pid=12762) | historcial linguistics |
 | CUHK          | [Bit-Chee KWOK](https://orcid.org/0000-0001-8115-6776) | dialectology, historical linguistics |
@@ -104,7 +104,7 @@ a self-serving handy list of linguists whose major research languages include Ca
 | CUHK          | [Yik-Po LAI](https://orcid.org/0000-0002-8791-0757) | typology, grammaticalization |
 | HSUHK         | [Charles LAM](http://charles-lam.net/) | syntax & semantics |
 | OUHK          | [Cherry Chit-Yu LAM](https://cherrylam90.wixsite.com/academic-website) | comparative syntax |
-| UBC           | [Zoe Lam](https://asia.ubc.ca/profile/zoe-lam/) | phonology, heritage languages |
+| UBC           | [Zoe LAM](https://asia.ubc.ca/profile/zoe-lam/) | phonology, heritage languages |
 | EdUHK         | [Chaak-ming LAU](https://hk.linkedin.com/in/chaakming-lau-518678191?trk=public_profile_browsemap_profile-result-card_result-card_full-click) | lexicography, phonology |
 | UCSC          | [Jess H. K. LAW](https://jesshklaw.wordpress.com/) | semantics & pragmatics |
 | CUHK, TNU     | [Hun-tak Thomas LEE](https://www.cuhk.edu.hk/lin/new/people/thomas/index.htm) | acquisition, syntax & semantics |
@@ -117,13 +117,13 @@ a self-serving handy list of linguists whose major research languages include Ca
 | NTU           | [Kang-kwong LUKE](https://www3.ntu.edu.sg/home/kkluke/index.html) | conversation analysis |
 | HKU           | [Stephen MATTHEWS](https://www.linguistics.hku.hk/staff/sjm.html) | typology, bilingualism |
 | CUHK          | [Peggy Pik Ki MOK](http://www.cuhk.edu.hk/lin/people/peggy/) | phonetics |
+| GDUFS         | [Dingxu SHI](https://clal.gdufs.edu.cn/info/1485/3109.htm) | syntax & semantics |\
 | UP            | [Joanna Ut-Seong SIO](http://orcid.org/0000-0002-0949-5957) | syntax & semantics |
-| GDUFS         | [Dingxu SHI](https://clal.gdufs.edu.cn/info/1485/3109.htm) | syntax & semantics |
 | UBC           | [Rachel SOO](https://sites.google.com/view/rachelsoo/) | phonetics |
 | LEI           | [Rint SYBESMA](https://www.universiteitleiden.nl/en/staffmembers/rint-sybesma/publications#tab-1) | syntax |
-| VTCHK         | [Man Shan TONG](https://www.thei.edu.hk/staff/details/man-shan-angel-tong/) | syntax-phonology interface |
 | CUHK          | [Sze-Wing TANG](http://www.swtang.net/) | comparative syntax |
 | CUHK          | [Kwok Wai TING](https://www.chi.cuhk.edu.hk/about-us/people/ting-kwok-wai) | historical phonology |
+| VTCHK         | [Man Shan TONG](https://www.thei.edu.hk/staff/details/man-shan-angel-tong/) | syntax-phonology interface |
 | UCSD          | [Crono Ming San TSE](https://sites.google.com/a/ucsd.edu/cronotse/) | syntax & semantics |
 | CityUHK, HKUST| [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134) | variation, computational linguistics |
 | HKPolyU       | [Tak-sum WONG](http://wongtaksum.no-ip.info:81/) | historical phonology, computational linguistics |
