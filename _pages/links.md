@@ -112,7 +112,7 @@ a self-serving handy list of linguists whose major research languages include Ca
 | HKU           | [Stephen MATTHEWS](https://www.linguistics.hku.hk/staff/sjm.html) | typology, bilingualism |
 | CUHK          | [Peggy Pik Ki MOK](http://www.cuhk.edu.hk/lin/people/peggy/) | phonetics |
 |               | []() |  |
-| UP            | [Joanna Ut-Seong SIO](https://sinofon.cz/team-members/joanna-ut-seong-sio/) | syntax & semantics |
+| UP            | [Joanna Ut-Seong SIO](http://orcid.org/0000-0002-0949-5957) | syntax & semantics |
 | GDUFS         | [Dingxu SHI](https://clal.gdufs.edu.cn/info/1485/3109.htm) | syntax & semantics |
 |               | []() |  |
 |               | []() |  |
