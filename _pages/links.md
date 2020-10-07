@@ -105,12 +105,12 @@ A self-serving handy guide, including linguists whose major research language is
 | UOH           | [Man Ki Theodora LEE](https://hk.linkedin.com/in/theodoralee) | syntax & semantics |
 | CityUHK       | [Po Lun Peppina LEE](https://scholars.cityu.edu.hk/en/persons/po-lun-peppina-lee(34592708-7964-4011-8910-f3af22b110f7).html) | semantics |
 | USC           | [Tommy Tsz-Ming LEE](https://tszminglee.github.io/) | syntax & semantics |
-|               | [Margaret LEI](https://www.margaretlei.net/) | acquisition, syntax & semantics |
+| CUHK          | [Margaret LEI](https://www.margaretlei.net/) | acquisition, syntax & semantics |
 | UAEU          | [Tommi LEUNG](https://sites.google.com/site/tommileung/) | syntax |
 | NTU           | [Kang-kwong LUKE](https://www3.ntu.edu.sg/home/kkluke/index.html) | conversation analysis |
 |               | []() |  |
 | HKU           | [Stephen MATTHEWS](https://www.linguistics.hku.hk/staff/sjm.html) | typology, bilingualism |
-|               | [Peggy Pik Ki Mok](http://www.cuhk.edu.hk/lin/people/peggy/) | phonetics |
+| CUHK          | [Peggy Pik Ki Mok](http://www.cuhk.edu.hk/lin/people/peggy/) | phonetics |
 |               | []() |  |
 | UP            | [Joanna Sio Ut SEONG](https://sinofon.cz/team-members/joanna-ut-seong-sio/) | syntax & semantics |
 | GDUFS         | [Dingxu SHI](https://clal.gdufs.edu.cn/info/1485/3109.htm) | syntax & semantics |
