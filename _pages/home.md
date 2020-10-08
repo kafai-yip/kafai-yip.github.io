@@ -24,15 +24,11 @@ I am a first-year PhD student in the Department of Linguistics at Yale Universit
 
 2020, Aug. Hyperraising and evidentiality. [SICOGG-22](http://2020.sicogg.or.kr/), Gyeongsang National University (Virtual Conference). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/SICOGG 22 presentation_Hyper-raising and evidentiality.pdf)]
 
-2020, Jun. Syllable Deletion and Morphological Length in Cantonese Verbs. [FoCaL-3](https://focalhongkong.wordpress.com/), HSUHK. [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
-
-2020, Jun. How to identify intonations on sentence-final particles? [WOC-20](https://www.lshk.org/workshop-on-cantonese-woc), HKBU (Webinar). [with Him Nok LEE] [[slides](https://kafai-yip.github.io/assets/docs/WOC-20_ge_20200606.pdf)]
-
 ## Upcoming
 
 2020, Oct 25. Bilingual Multi-word Expressions, Multiple-correspondence, and their cultivation from parallel patents: The Chinese-English case. [PACLIC-34 Workshop on MWEA](https://vlsp.org.vn/paclic2020/mwea), VNU University of Science, Hanoi. [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134), Ka Po CHOW, John LEE, Yaxuan JI & Kevin WU]
 
-2020, Oct 24-26. A corpus-based comparative study of light verbs in three Chinese speech communities. [PACLIC-34](https://vlsp.org.vn/paclic2020/), VNU University of Science, Hanoi. [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)]
+2020, Oct 24-26. A corpus-based comparative study of light verbs in three Chinese speech communities. [PACLIC-34](https://vlsp.org.vn/paclic2020/), VNU University of Science, Hanoi. [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)] [[paper](https://kafai-yip.github.io/assets/docs/PACLIC-34_light verb_draft_20200925_withtitle.pdf)]
 
 2020, Nov 13-14. CanTONEse: a self-learning mobile app for Cantonese tones. [Yue 24](https://fah.um.edu.mo/yue2020/), University of Macau. [with Mei-ying KI & Yik-Po LAI]
 
