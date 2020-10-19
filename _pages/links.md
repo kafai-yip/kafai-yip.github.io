@@ -104,7 +104,7 @@ a self-serving handy list of linguists whose major research languages include Ca
 | CUHK          | [Bit-Chee KWOK](https://orcid.org/0000-0001-8115-6776) | dialectology, historical linguistics |
 | UChicago      | [Jackie Yan-Ki LAI](https://linguistics.uchicago.edu/yan-ki-jackie-lai) | syntax, morphology |
 | CUHK          | [Regine LAI](http://ling.cuhk.edu.hk/p_regine.php) | phonology |
-| CUHK          | [Yik-Po LAI](https://orcid.org/0000-0002-8791-0757) | typology, grammaticalization |
+| EdUHK         | [Yik-Po LAI](https://orcid.org/0000-0002-8791-0757) | typology, grammaticalization |
 | HSUHK         | [Charles LAM](http://charles-lam.net/) | syntax & semantics |
 | OUHK          | [Cherry Chit-Yu LAM](https://cherrylam90.wixsite.com/academic-website) | comparative syntax |
 | UBC           | [Zoe LAM](https://asia.ubc.ca/profile/zoe-lam/) | phonology, heritage languages |
