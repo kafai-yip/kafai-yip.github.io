@@ -112,13 +112,16 @@ a self-serving handy list of linguists whose major research languages include Ca
 | UCSC          | [Jess H. K. LAW](https://jesshklaw.wordpress.com/) | semantics & pragmatics |
 | EdUHK         | [Albert LEE](http://home.eduhk.hk/~albertlee/) | phonetics, L2 acquisition |
 | CUHK, TNU     | [Hun-tak Thomas LEE](https://www.cuhk.edu.hk/lin/new/people/thomas/index.htm) | acquisition, syntax & semantics |
+| CityUHK       | [John LEE](http://www2.lt.cityu.edu.hk/~jsylee/) | computational linguistics |
 | UOH           | [Man Ki Theodora LEE](https://hk.linkedin.com/in/theodoralee) | syntax & semantics |
 | CityUHK       | [Po Lun Peppina LEE](https://scholars.cityu.edu.hk/en/persons/po-lun-peppina-lee(34592708-7964-4011-8910-f3af22b110f7).html) | semantics |
 | USC           | [Tommy Tsz-Ming LEE](https://tszminglee.github.io/) | syntax & semantics |
+| CityUHK       | [Wai Sum LEE](https://scholars.cityu.edu.hk/en/person/ctllee) | phonetics & phonology |
 | CUHK          | [Margaret LEI](https://www.margaretlei.net/) | acquisition, syntax & semantics |
 | UAEU          | [Tommi LEUNG](https://sites.google.com/site/tommileung/) | syntax, phonology |
 | UBC           | [Roger Yu-Hsiang LO](https://blogs.ubc.ca/rogeryhlo/) | phonetics & phonology |
 | NTU           | [Kang-kwong LUKE](https://www3.ntu.edu.sg/home/kkluke/index.html) | conversation analysis |
+| CityUHK       | [Suen Caesar LUN](https://scholars.cityu.edu.hk/en/person/ctslun) | sociolinguistics |
 | CityUHK       | [Ziyin MAI](https://maiziyin.com/) | L2 acquisition, bilingualism |
 | HKU           | [Stephen MATTHEWS](https://www.linguistics.hku.hk/staff/sjm.html) | typology, bilingualism |
 | CUHK          | [Peggy Pik Ki MOK](http://www.cuhk.edu.hk/lin/people/peggy/) | phonetics |
@@ -131,6 +134,7 @@ a self-serving handy list of linguists whose major research languages include Ca
 | VTCHK         | [Man Shan TONG](https://www.thei.edu.hk/staff/details/man-shan-angel-tong/) | syntax-phonology interface |
 | UCSD          | [Crono Ming San TSE](https://sites.google.com/a/ucsd.edu/cronotse/) | syntax & semantics |
 | CityUHK, HKUST| [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134) | variation, computational linguistics |
+| HKBU          | [John C. WAKEFIELD](https://artsbu.hkbu.edu.hk/about-us/our-community-of-teachers-and-researchers/dr-john-c-wakefield) | sociolinguistics, syntax |
 | CUHK          | [Patrick C.M. WONG](http://brain.cuhk.edu.hk/) | neurolinguistics |
 | HKPolyU       | [Tak-sum WONG](http://wongtaksum.no-ip.info:81/) | historical phonology, computational linguistics |
 | HSUHK         | [Yiu Kwan WONG](https://chi.hsu.edu.hk/staffs/academics/?staffId=805) | historical phonology |
@@ -145,9 +149,7 @@ a self-serving handy list of linguists whose major research languages include Ca
 
 
 
-|               | []() |  |
-|               | []() |  |
-|               | []() |  |
+
 |               | []() |  |
 |               | []() |  |
 |               | []() |  |
