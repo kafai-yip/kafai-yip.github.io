@@ -60,9 +60,10 @@ only for those accessible online, for a full list see [Wong Tak-sum's page](http
 
 | Year        | Corpus          | Paper |
 | ----------- | --------------- | ----- |
-|             | [Cantonese 4-word Idiomatic Expressions Excerpts and Audio Recording Database](http://www.livac.org/yueqie/) |
-|             | [A Comparative Database of Modern Chinese and Cantonese](http://apps.itsc.cuhk.edu.hk/hanyu/Page/Cover.aspx) |
-|             | [English Loanwords in Hong Kong Cantonese](https://chaaklau.github.io/elw/) |
+| 2020        | [Cifu](https://github.com/gwinterstein/Cifu) | [Lai & Winterstein (2020)](https://www.aclweb.org/anthology/2020.lrec-1.375.pdf) |
+| 2010s       | [Cantonese 4-word Idiomatic Expressions Excerpts and Audio Recording Database](http://www.livac.org/yueqie/) |
+| 2012        | [English Loanwords in Hong Kong Cantonese](https://chaaklau.github.io/elw/) |
+| 2001        | [A Comparative Database of Modern Chinese and Cantonese](http://apps.itsc.cuhk.edu.hk/hanyu/Page/Cover.aspx) |
 | 1910s~1990s | [粵音資料集叢](https://jyut.net/) (A Database of Literature on Cantonese Phonology) |
 
 
