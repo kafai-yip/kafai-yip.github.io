@@ -9,7 +9,7 @@ My main interests are syntax, semantics and their interface. Syntax is concerned
 
 I’m also interested in syntax-phonology interface, particularly supra-segmental phonology or prosody. Syntax essentially links sound (or form) and meaning. To fully understand syntax, we need to look at the effects of both external components. There are at least two lines of relevant research in East Asian languages: (i) The role of prosody, e.g. stress, in different constructions; (ii) the interaction of sentence-final-particles and intonation. Cantonese, again, being rich in SFPs and intonations (realized at the end of sentences – not the English kind!), offers useful evidence on the topics. 
 
-Besides, my research is also concerned with methodologies of linguistics. If corpora and experiments can contribute to the empirical grounds of theoretical research – then why not? Please go to “Links” for a list of Cantonese corpora.
+Besides, my research is also concerned with methodologies of linguistics. If corpora and experiments can contribute to the empirical grounds of theoretical research – then why not? Please go to “[Links](https://kafai-yip.github.io/links/#cantonese)” for a list of Cantonese corpora.
 
 Outside academia, I’m a cat lover. I’ll update with my cat Tai Wong 大王 (literally big-king) in Hong Kong (irregularly). He was a stray in Sai Kung 西貢, eastern part in Hong Kong. Most of the photo credit goes to my family. 
 
