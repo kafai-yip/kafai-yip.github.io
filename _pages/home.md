@@ -32,6 +32,10 @@ I am a first-year PhD student in the Department of Linguistics at Yale Universit
 
 2020, Nov 13-14. CanTONEse: a self-learning mobile app for Cantonese tones. [Yue 24](https://fah.um.edu.mo/yue2020/), University of Macau. [with Mei-ying KI & Yik-Po LAI]
 
+2020, Dec 11-12. On the position of perfective aspect. [ARF-2020](https://www.lshk.org/annual-research-forum-arf). CUHK (ZOOM).
+
+2020, Dec 11-12. 漢語動詞虛化初探：京港澳三地同中之異[A preliminary study on metaphorization of Chinese verbs: comparing Beijing, Hong Kong and Macau]. [ARF-2020](https://www.lshk.org/annual-research-forum-arf). CUHK (ZOOM). [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134), Yaxuan JI]
+
 2020, Dec 17-18. Indirect evidence as a licensing condition of hyperraising in Cantonese and Vietnamese. [BCGL-13](https://www.crissp.be/bcgl-13-the-syntax-and-semantics-of-clausal-complementation/), CRISSP of KU Leuven. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 
 {% include feature_row id="intro" type="center" %}
