@@ -15,10 +15,6 @@ single_layout_gallery_3:
 single_layout_gallery_4:
   - image_path: /assets/images/food_1.jpeg
     alt: "single layout with header example"
-  - image_path: /assets/images/food_2.jpeg
-    alt: "single layout with header example"    
-  - image_path: /assets/images/food_3.jpeg
-    alt: "single layout with header example"
   - image_path: /assets/images/food_4.jpeg
     alt: "single layout with header example"    
 single_layout_gallery_5:
