@@ -12,28 +12,7 @@ single_layout_gallery_3:
     alt: "single layout with header example"
   - image_path: /assets/images/nihilist_2.jpeg
     alt: "single layout with header example"  
-single_layout_gallery_4:
-  - image_path: /assets/images/food_1.jpeg
-    alt: "single layout with header example"
-  - image_path: /assets/images/food_2.jpeg
-    alt: "single layout with header example"    
-  - image_path: /assets/images/food_3.jpeg
-    alt: "single layout with header example"
-  - image_path: /assets/images/food_4.jpeg
-    alt: "single layout with header example"    
- single_layout_gallery_5:
-  - image_path: /assets/images/sleep_1.jpeg
-    alt: "single layout with header example"
-  - image_path: /assets/images/sleep_2.jpeg
-    alt: "single layout with header example"  
-  - image_path: /assets/images/sleep_3.jpeg
-    alt: "single layout with header example"
-  - image_path: /assets/images/sleep_4.jpeg
-    alt: "single layout with header example"  
-  - image_path: /assets/images/sleep_5.jpeg
-    alt: "single layout with header example"
-  - image_path: /assets/images/sleep_6.jpeg
-    alt: "single layout with header example"  
+  
 
 ---
 Tai Wong 大王 (literally big-king) in my Hong Kong home. He was a stray in Sai Kung 西貢, eastern part in Hong Kong. Most of the photo credit goes to my family. 
