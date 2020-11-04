@@ -8,14 +8,14 @@ single_layout_gallery_2:
   - image_path: /assets/images/spider.jpeg
     alt: "single layout with header example"    
 single_layout_gallery_3:
-  - image_path: /assets/images/nihilist_1.jpeg
-    alt: "single layout with header example"
   - image_path: /assets/images/nihilist_2.jpeg
+    alt: "single layout with header example"
+  - image_path: /assets/images/nihilist_1.jpeg
     alt: "single layout with header example"  
 single_layout_gallery_4:
-  - image_path: /assets/images/food_1.jpeg
-    alt: "single layout with header example"
   - image_path: /assets/images/food_4.jpeg
+    alt: "single layout with header example"
+  - image_path: /assets/images/food_1.jpeg
     alt: "single layout with header example"    
 single_layout_gallery_5:
   - image_path: /assets/images/sleep_1.jpeg
