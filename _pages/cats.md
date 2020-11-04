@@ -20,12 +20,12 @@ single_layout_gallery_4:
 single_layout_gallery_5:
   - image_path: /assets/images/sleep_1.jpeg
     alt: "single layout with header example"
-  - image_path: /assets/images/sleep_2.jpeg
-    alt: "single layout with header example"  
-  - image_path: /assets/images/sleep_3.jpeg
-    alt: "single layout with header example"
   - image_path: /assets/images/sleep_4.jpeg
-    alt: "single layout with header example"  
+    alt: "single layout with header example" 
+  - image_path: /assets/images/sleep_3.jpeg
+    alt: "single layout with header example" 
+  - image_path: /assets/images/sleep_2.jpeg
+    alt: "single layout with header example"      
   - image_path: /assets/images/sleep_5.jpeg
     alt: "single layout with header example"
   - image_path: /assets/images/sleep_6.jpeg
