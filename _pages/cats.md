@@ -32,7 +32,7 @@ single_layout_gallery_5:
     alt: "single layout with header example"  
 
 ---
-Tai Wong 大王 (literally big-king) in my Hong Kong home. He was a stray in Sai Kung 西貢, eastern part in Hong Kong. Most of the photo credit goes to my family. 
+Tai Wong 大王 (literally big-king) in my Hong Kong home. He was a stray in Sai Kung 西貢, eastern part in Hong Kong. Most of the photo credit goes to my family. Photos updated irregularly.
 
 {% include gallery id="single_layout_gallery_5" caption="Zzzzz ..." %}
 
