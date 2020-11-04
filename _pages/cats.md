@@ -16,8 +16,6 @@ single_layout_gallery_3:
 ---
 Tai Wong 大王 (literally big-king) in my Hong Kong home. He was a stray in Sai Kung 西貢, eastern part in Hong Kong. Most of the photo credit goes to my family. 
 
-[under construction]
-
 {% include gallery id="single_layout_gallery_2" caption="spider cat!" %}
 
 {% include gallery id="single_layout_gallery_3" caption="Who am I? Why am I here?" %}
