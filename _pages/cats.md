@@ -39,5 +39,5 @@ Tai Wong 大王 (literally big-king) in my Hong Kong home. He was a stray in Sai
 
 {% include gallery id="single_layout_gallery_2" caption="Who am I? Why am I here?" %}
 
-{% include gallery id="single_layout_gallery" caption="look at my long body! // spider cat!" %}
+{% include gallery id="single_layout_gallery" caption="look at my long body! (L) ///// spider cat! (R)" %}
 
