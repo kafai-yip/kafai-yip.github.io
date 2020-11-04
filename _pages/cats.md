@@ -21,7 +21,7 @@ single_layout_gallery_4:
     alt: "single layout with header example"
   - image_path: /assets/images/food_4.jpeg
     alt: "single layout with header example"    
- single_layout_gallery_5:
+single_layout_gallery_5:
   - image_path: /assets/images/sleep_1.jpeg
     alt: "single layout with header example"
   - image_path: /assets/images/sleep_2.jpeg
