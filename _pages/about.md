@@ -11,7 +11,7 @@ I’m also interested in syntax-phonology interface, particularly supra-segmenta
 
 Besides, my research is also concerned with methodologies of linguistics. If corpora and experiments can contribute to the empirical grounds of theoretical research – then why not? Please go to “[Links](https://kafai-yip.github.io/links/#cantonese)” for a list of Cantonese corpora.
 
-Outside academia, I’m a cat lover. I’ll update with my cat Tai Wong 大王 (literally big-king) in Hong Kong (irregularly). He was a stray in Sai Kung 西貢, eastern part in Hong Kong. Most of the photo credit goes to my family. 
+Outside academia, I’m a cat lover. I’ll update with my cat Tai Wong 大王 (literally big-king) in Hong Kong (irregularly). He was a stray in Sai Kung 西貢, eastern part in Hong Kong. Photo credit goes to my family. 
 
 I go by both as Ka-Fai 家煇 ([ka55 fɐi55]) and Ming (my English name - though doesn’t sound Western).
 
