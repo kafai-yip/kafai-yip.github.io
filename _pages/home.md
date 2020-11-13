@@ -18,7 +18,7 @@ I am a first-year PhD student in the Department of Linguistics at Yale Universit
 
 ## Recent
 
-2020. CanTONEse: a self-learning mobile app for Cantonese tones. [Yue 24](https://fah.um.edu.mo/yue2020/), University of Macau. [with Mei-ying KI & Yik-Po LAI] [[slides](https://docs.google.com/presentation/d/1qJQlwvJAXd_KDMfQaqr21ZZdPj3p17dDsMirqcedfD8/edit?usp=sharing)] [[App (For Andriod)](https://drive.google.com/file/d/15MCHYrVcpEPJf59HjeGXEEAF9aukUN-9/view?usp=sharing)]
+2020, CanTONEse: a self-learning mobile app for Cantonese tones. [Yue 24](https://fah.um.edu.mo/yue2020/), University of Macau. [with Mei-ying KI & Yik-Po LAI] [[slides](https://docs.google.com/presentation/d/1qJQlwvJAXd_KDMfQaqr21ZZdPj3p17dDsMirqcedfD8/edit?usp=sharing)] [[App (For Andriod)](https://drive.google.com/file/d/15MCHYrVcpEPJf59HjeGXEEAF9aukUN-9/view?usp=sharing)]
 
 2020, Oct. Bilingual multi-word expressions, multiple-correspondence, and their cultivation from parallel patents: the Chinese-English case. [PACLIC-34 Workshop on MWEA](https://vlsp.org.vn/paclic2020/mwea), VNU University of Science, Hanoi. [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134), Ka Po CHOW, [John LEE](http://www2.lt.cityu.edu.hk/~jsylee/), Yaxuan JI & Kevin WU] [[paper](https://kafai-yip.github.io/assets/docs/paclic34-mwe_draft_1006_with paclic title.pdf)]
 
