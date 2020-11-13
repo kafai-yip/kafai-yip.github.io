@@ -3,7 +3,7 @@ permalink: /research/
 title: "Research"
 ---
 
-My [CV](https://kafai-yip.github.io/assets/docs/CV_YIP Ka Fai_20201026_EN.pdf).
+My [CV](https://kafai-yip.github.io/assets/docs/CV_YIP Ka Fai_20201113_EN.pdf).
 
 ## Publications
 
