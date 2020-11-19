@@ -167,6 +167,7 @@ a self-serving handy list of linguists whose major research languages include Ca
 | CUHK          | [Kwok Wai TING](https://www.chi.cuhk.edu.hk/about-us/people/ting-kwok-wai) | historical phonology |
 | VTCHK         | [Man Shan TONG](https://www.thei.edu.hk/staff/details/man-shan-angel-tong/) | syntax-phonology interface |
 | UCSD          | [Crono Ming San TSE](https://sites.google.com/a/ucsd.edu/cronotse/) | syntax & semantics |
+| Ronin         | [Keith TSE](https://www.keithtselinguist.com/) | syntax, variation |
 | CityUHK, HKUST| [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134) | variation, computational linguistics |
 | HKBU          | [John C. WAKEFIELD](https://artsbu.hkbu.edu.hk/about-us/our-community-of-teachers-and-researchers/dr-john-c-wakefield) | sociolinguistics, syntax |
 | CUHK          | [Patrick C.M. WONG](http://brain.cuhk.edu.hk/) | neurolinguistics |
@@ -184,7 +185,7 @@ a self-serving handy list of linguists whose major research languages include Ca
 
 
 
-|               | []() |  |
+
 |               | []() |  |
 |               | []() |  |
 |               | []() |  |
