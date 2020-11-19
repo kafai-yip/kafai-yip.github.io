@@ -177,6 +177,7 @@ a self-serving handy list of linguists whose major research languages include Ca
 | CUHK(SZ)      | [Foong Ha YAP](https://myweb.cuhk.edu.cn/foonghayap) | language change, typology |
 | CUHK          | [Virginia YIP](http://vyip.cbrchk.org/) | bilingualism, acquisition |
 | UW            | [Anne YUE-HASHIMOTO](https://asian.washington.edu/people/anne-yue-hashimoto) | grammar & phonology, typology |
+| HKPolyU       | [Caicai ZHANG](https://www.polyu.edu.hk/cbs/web/en/people/staff_detail/27/) | neurolinguistics, phonetics & phonology |
 | EdUHK         | [Ling ZHANG](https://oraas0.ied.edu.hk/rich/web/people_details.jsp?pid=164793) | phonetics & phonology |
 
 
@@ -186,7 +187,7 @@ a self-serving handy list of linguists whose major research languages include Ca
 
 
 
-|               | []() |  |
+
 |               | []() |  |
 |               | []() |  |
 |               | []() |  |
