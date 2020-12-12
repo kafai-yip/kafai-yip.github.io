@@ -3,7 +3,7 @@ permalink: /research/
 title: "Research"
 ---
 
-My [CV](https://kafai-yip.github.io/assets/docs/CV_YIP Ka Fai_20201113_EN.pdf).
+My [CV](https://kafai-yip.github.io/assets/docs/CV_YIP Ka Fai_20201212_EN.pdf).
 
 ## Publications
 
@@ -13,6 +13,10 @@ My [CV](https://kafai-yip.github.io/assets/docs/CV_YIP Ka Fai_20201113_EN.pdf).
 
 
 ## Presentations
+
+(2020). On the position of perfective aspect. [ARF-2020](https://www.lshk.org/annual-research-forum-arf). CUHK (ZOOM). [[handout](https://kafai-yip.github.io/assets/docs/ARF2020_perfective_handout_20201212.pdf)]
+
+(2020). 漢語動詞虛化初探：港澳京三地同中之異[A preliminary study on metaphorization of Chinese verbs: comparing Hong Kong, Macau and Beijing]. [ARF-2020](https://www.lshk.org/annual-research-forum-arf). CUHK (ZOOM). [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134) & Yaxuan JI] [[slides](https://kafai-yip.github.io/assets/docs/ARF_HBM[da]_1208 1230 HKT.pdf)] [[samples](https://kafai-yip.github.io/assets/docs/ARF2020_da_TypeII_examples.pdf)]
 
 (2020). CanTONEse: a self-learning mobile app for Cantonese tones. [Yue 24](https://fah.um.edu.mo/yue2020/), University of Macau. [with Mei-ying KI & Yik-Po LAI] [[slides](https://docs.google.com/presentation/d/1qJQlwvJAXd_KDMfQaqr21ZZdPj3p17dDsMirqcedfD8/edit?usp=sharing)] [[App (For Andriod)](https://drive.google.com/file/d/15MCHYrVcpEPJf59HjeGXEEAF9aukUN-9/view?usp=sharing)]
 
