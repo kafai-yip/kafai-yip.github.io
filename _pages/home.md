@@ -18,6 +18,8 @@ I am a first-year PhD student in the Department of Linguistics at Yale Universit
 
 ## Recent
 
+2020, Dec. Indirect evidence as a licensing condition of hyperraising in Cantonese and Vietnamese. [BCGL-13](https://www.crissp.be/bcgl-13-the-syntax-and-semantics-of-clausal-complementation/), CRISSP of KU Leuven. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/BCGL_HR_evidentiality_handout.pdf)] [[slides](https://kafai-yip.github.io/assets/docs/BCGL_HR_evidentiality_slides.pdf)]
+
 2020, Dec. On the position of perfective aspect. [ARF-2020](https://www.lshk.org/annual-research-forum-arf). CUHK (ZOOM). [[handout](https://kafai-yip.github.io/assets/docs/ARF2020_perfective_handout_20201212.pdf)]
 
 2020, Dec. 漢語動詞虛化初探：港澳京三地同中之異[A preliminary study on metaphorization of Chinese verbs: comparing Hong Kong, Macau and Beijing]. [ARF-2020](https://www.lshk.org/annual-research-forum-arf). CUHK (ZOOM). [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134) & Yaxuan JI] [[slides](https://kafai-yip.github.io/assets/docs/ARF_HBM[da]_1208 1230 HKT.pdf)] [[samples](https://kafai-yip.github.io/assets/docs/ARF2020_da_TypeII_examples.pdf)]
@@ -30,6 +32,6 @@ I am a first-year PhD student in the Department of Linguistics at Yale Universit
 
 ## Upcoming
 
-2020, Dec 16-18. Indirect evidence as a licensing condition of hyperraising in Cantonese and Vietnamese. [BCGL-13](https://www.crissp.be/bcgl-13-the-syntax-and-semantics-of-clausal-complementation/), CRISSP of KU Leuven. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
+Stay tuned!
 
 {% include feature_row id="intro" type="center" %}
