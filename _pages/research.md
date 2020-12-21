@@ -3,7 +3,7 @@ permalink: /research/
 title: "Research"
 ---
 
-My [CV](https://kafai-yip.github.io/assets/docs/CV_YIP Ka Fai_20201212_EN.pdf).
+My [CV](https://kafai-yip.github.io/assets/docs/CV_YIP Ka Fai_20201220_EN.pdf).
 
 ## Publications
 
@@ -13,6 +13,8 @@ My [CV](https://kafai-yip.github.io/assets/docs/CV_YIP Ka Fai_20201212_EN.pdf).
 
 
 ## Presentations
+
+(2020). Indirect evidence as a licensing condition of hyperraising in Cantonese and Vietnamese. [BCGL-13](https://www.crissp.be/bcgl-13-the-syntax-and-semantics-of-clausal-complementation/), CRISSP of KU Leuven. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/BCGL_HR_evidentiality_handout.pdf)] [[slides](https://kafai-yip.github.io/assets/docs/BCGL_HR_evidentiality_slides.pdf)]
 
 (2020). On the position of perfective aspect. [ARF-2020](https://www.lshk.org/annual-research-forum-arf). CUHK (ZOOM). [[handout](https://kafai-yip.github.io/assets/docs/ARF2020_perfective_handout_20201212.pdf)]
 
