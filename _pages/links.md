@@ -52,6 +52,7 @@ only for those accessible online, for a full list see [Wong Tak-sum's page](http
 | ----------- | --------------- | ----- |
 | 1940s~1970s | [The Corpus of Mid-20th Century Hong Kong Cantonese](https://hkcc.eduhk.hk/) (Phase 1&2) |
 | 1870s~1930s | [Early Cantonese Tagged Database](http://database.shss.ust.hk/Cantag/) |
+| 1860s~1930s | [The Early Cantonese Bible Database](https://corpus.eduhk.hk/cantobible/) |
 | 1860s~1920s | [Database of Early Chinese Dialects](http://database.shss.ust.hk/5dialects/) (Cantonese, Hakka, Mandarin, Hokkien, Wu) |
 | 1820s~1920s | [Early Cantonese Colloquial Texts: A Database](http://143.89.108.109/Candbase/) |
 
