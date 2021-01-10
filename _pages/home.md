@@ -32,6 +32,6 @@ I am a first-year PhD student in the Department of Linguistics at Yale Universit
 
 ## Upcoming
 
-[FoCaL-4](https://focalhongkong.wordpress.com/) on 29 May! [[CFP](https://focalhongkong.wordpress.com/%e5%be%b5%e7%a8%bf%e9%80%9a%e7%9f%a5-call-for-papers/)] [[poster](https://focalhongkong.wordpress.com/%e6%b5%b7%e5%a0%b1-poster/)] [[submission](https://easychair.org/conferences/?conf=focal4)]
+[The Fourth Forum on Cantonese Linguistics (FoCaL-4)](https://focalhongkong.wordpress.com/) on 29 May! [[CFP](https://focalhongkong.wordpress.com/%e5%be%b5%e7%a8%bf%e9%80%9a%e7%9f%a5-call-for-papers/)] [[poster](https://focalhongkong.wordpress.com/%e6%b5%b7%e5%a0%b1-poster/)] [[submission](https://easychair.org/conferences/?conf=focal4)]
 
 {% include feature_row id="intro" type="center" %}
