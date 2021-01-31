@@ -16,6 +16,18 @@ header:
 
 I am a first-year PhD student in the Department of Linguistics at Yale University. I study Syntax, Semantics and their interface. Cats are my favorite. I’m a Hongkonger.
 
+## Upcoming
+
+2021, Feb 13. Separable verbs, syllable deletion, and micro-variations. [Phex-11](https://toki482.wixsite.com/phex11/?lang=ja), Sapporo University (online). [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
+
+2021, Mar 19-21. Universal concord as syntactic agreement. [PLC-45](https://www.ling.upenn.edu/Events/PLC/plc45/index.html), UPenn (online).
+
+2021, Mar 19-21. Verbal “infixation” as partial deletion: a case in Cantonese verbs. [PLC-45](https://www.ling.upenn.edu/Events/PLC/plc45/index.html), UPenn (online). [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
+
+2021, Jun 23-26. Differential metaphorization and grammaticalization: a case study of Chinese light verbs. [RaAM-14](https://www.raam14.flf.vu.lt/), Vilnius, Lithuania.
+
+[The Fourth Forum on Cantonese Linguistics (FoCaL-4)](https://focalhongkong.wordpress.com/) on 29 May! [[CFP](https://focalhongkong.wordpress.com/%e5%be%b5%e7%a8%bf%e9%80%9a%e7%9f%a5-call-for-papers/)] [[poster](https://focalhongkong.wordpress.com/%e6%b5%b7%e5%a0%b1-poster/)] [[submission](https://easychair.org/conferences/?conf=focal4)]
+
 ## Recent
 
 2020, Dec. Indirect evidence as a licensing condition of hyperraising in Cantonese and Vietnamese. [BCGL-13](https://www.crissp.be/bcgl-13-the-syntax-and-semantics-of-clausal-complementation/), CRISSP of KU Leuven. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/BCGL_HR_evidentiality_handout.pdf)] [[slides](https://kafai-yip.github.io/assets/docs/BCGL_HR_evidentiality_slides.pdf)]
@@ -29,17 +41,5 @@ I am a first-year PhD student in the Department of Linguistics at Yale Universit
 2020, Oct. Bilingual multi-word expressions, multiple-correspondence, and their cultivation from parallel patents: the Chinese-English case. [PACLIC-34 Workshop on MWEA](https://vlsp.org.vn/paclic2020/mwea), VNU University of Science, Hanoi. [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134), Ka Po CHOW, [John LEE](http://www2.lt.cityu.edu.hk/~jsylee/), Yaxuan JI & Kevin WU] [[paper](https://kafai-yip.github.io/assets/docs/paclic34-mwe_draft_1006_with paclic title.pdf)]
 
 2020, Oct. A corpus-based comparative study of light verbs in three Chinese speech communities. [PACLIC-34](https://vlsp.org.vn/paclic2020/), VNU University of Science, Hanoi. [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)] [[slides](https://kafai-yip.github.io/assets/docs/PACLIC-34_light verb_presentation_20201019_1100.pdf)] [[paper](https://kafai-yip.github.io/assets/docs/PACLIC-34_light verb_draft_20200925_withtitle.pdf)]
-
-## Upcoming
-
-2021, Feb 13. Separable verbs, syllable deletion, and micro-variations. [Phex-11](https://toki482.wixsite.com/phex11/?lang=ja), Sapporo University (online). [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
-
-2021, Mar 19-21. Universal concord as syntactic agreement. [PLC-45](https://www.ling.upenn.edu/Events/PLC/plc45/index.html), UPenn (online).
-
-2021, Mar 19-21. Verbal “infixation” as partial deletion: a case in Cantonese verbs. [PLC-45](https://www.ling.upenn.edu/Events/PLC/plc45/index.html), UPenn (online). [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
-
-2021, Jun 23-26. Differential metaphorization and grammaticalization: a case study of Chinese light verbs. [RaAM-14](https://www.raam14.flf.vu.lt/), Vilnius, Lithuania.
-
-[The Fourth Forum on Cantonese Linguistics (FoCaL-4)](https://focalhongkong.wordpress.com/) on 29 May! [[CFP](https://focalhongkong.wordpress.com/%e5%be%b5%e7%a8%bf%e9%80%9a%e7%9f%a5-call-for-papers/)] [[poster](https://focalhongkong.wordpress.com/%e6%b5%b7%e5%a0%b1-poster/)] [[submission](https://easychair.org/conferences/?conf=focal4)]
 
 {% include feature_row id="intro" type="center" %}
