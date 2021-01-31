@@ -34,11 +34,11 @@ I am a first-year PhD student in the Department of Linguistics at Yale Universit
 
 2021, Feb 13. Separable verbs, syllable deletion, and micro-variations. [Phex-11](https://toki482.wixsite.com/phex11/?lang=ja), Sapporo University (online). [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 
-2021, Mar 19-21. Universal Concord as Syntactic Agreement. [PLC-45](https://www.ling.upenn.edu/Events/PLC/plc45/index.html), UPenn (online).
+2021, Mar 19-21. Universal concord as syntactic agreement. [PLC-45](https://www.ling.upenn.edu/Events/PLC/plc45/index.html), UPenn (online).
 
 2021, Mar 19-21. Verbal “infixation” as partial deletion: a case in Cantonese verbs. [PLC-45](https://www.ling.upenn.edu/Events/PLC/plc45/index.html), UPenn (online). [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 
-2021, Jun 23-26. Differential Metaphorization and Grammaticalization: A Case Study of Chinese Light Verbs. [RaAM-14](https://www.raam14.flf.vu.lt/), Vilnius, Lithuania.
+2021, Jun 23-26. Differential metaphorization and grammaticalization: a case study of Chinese light verbs. [RaAM-14](https://www.raam14.flf.vu.lt/), Vilnius, Lithuania.
 
 [The Fourth Forum on Cantonese Linguistics (FoCaL-4)](https://focalhongkong.wordpress.com/) on 29 May! [[CFP](https://focalhongkong.wordpress.com/%e5%be%b5%e7%a8%bf%e9%80%9a%e7%9f%a5-call-for-papers/)] [[poster](https://focalhongkong.wordpress.com/%e6%b5%b7%e5%a0%b1-poster/)] [[submission](https://easychair.org/conferences/?conf=focal4)]
 
