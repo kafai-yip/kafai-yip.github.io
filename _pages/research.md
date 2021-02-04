@@ -72,15 +72,19 @@ My [CV](https://kafai-yip.github.io/assets/docs/CV_YIP Ka Fai_20201220_EN.pdf).
 
 1. Two subclasses of verbs of thinking in Cantonese. [ARF-2018](https://www.lshk.org/annual-research-forum-arf), CityUHK. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 
-### 2018 and before
+### 2018
 
 1. 粵語詞綴「親」的複句完句現象[Complex sentence formation of Cantonese affix *can*]. [ICFL-8](https://linguistlist.org/issues/29/29-942/?utm_source=dlvr.it&utm_medium=twitter), Zhejiang University.
 
 1. Cantonese verbal suffix *dak* and intentionality. [WICL-4](https://cantonese.arts.ubc.ca/wicl-4/), UBC. [[slides](https://kafai-yip.github.io/assets/docs/WICL-4_dak_20180623.pdf)]
 
+### 2017
+
 1. 粵語動詞後綴「親」的三個框式結構[Three discontinuous constructions of Cantonese verbal suffix *can*].  [Yue 22](https://www.eduhk.hk/lml/yue2017/index-eng.html), EdUHK. [[paper](http://www.cuhk.edu.hk/ics/clrc/crcl_99_1/yip.pdf)]
 
 1. 粵語表示意向的動詞後綴「得」[A study of Cantonese intentional verbal suffix *dak*]. [ARF-2017](https://www.lshk.org/annual-research-forum-arf), HKBU. 
+
+### 2015
 
 1. 粵語量詞「陣」的語法特點[Properties of Cantonese classifier *zan*]. [Yue 20](http://www.cuhk.edu.hk/chi/yue20/index_en.html), CUHK.
 
