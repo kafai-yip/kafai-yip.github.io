@@ -8,26 +8,26 @@ toc: true
 
 ## Syntax and syntax-semantics interface
 
-- *Universal Concord*
+- *Concord*
     - testing
     - testing
-    -     
-**In a nutshell:** [under construction]
+
+**Universal Concord:** 123
+- [[poster](https://kafai-yip.github.io/assets/docs/LSA LI 2019 ∀-concord_poster_20190707.pdf)]
+- [Paper-CRCL (in Chinese)]((http://www.cuhk.edu.hk/ics/clrc/crcl_99_1/yip.pdf))
 {: .notice--warning}
 
-**Talks** [Paper-CRCL (in Chinese)]((http://www.cuhk.edu.hk/ics/clrc/crcl_99_1/yip.pdf)) ｜ [[poster](https://kafai-yip.github.io/assets/docs/LSA LI 2019 ∀-concord_poster_20190707.pdf)]
+**Talks** 
 {: .notice--info}
 
 - *Adverbial clauses and converbs*
-    - *Temporal clauses*
+    - **
 
-**In a nutshell** [under construction]
+**Temporal clauses**
 {: .notice--warning}
 
-**Talks** [under construction]
+**Converbs** [under construction]
 {: .notice--info}
-
-    - *Converbs*
 
 Subordinate affixes in Cantonese and intervention effects. [IACL-27](https://easychair.org/cfp/IACL27), Kobe City University of Foreign Studies. [[slides](https://kafai-yip.github.io/assets/docs/IACL-27_haa_20190512.pdf)]
 
