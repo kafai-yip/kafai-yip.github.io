@@ -35,6 +35,7 @@ single_layout_gallery_4:
 ## In memoriam of Tai Wong 大王
 
 Tai Wong 大王 (literally big-king) was my cat in Hong Kong. He was a stray in Sai Kung 西貢, eastern part in Hong Kong. He passed away on December 12, 2020. This page collected his photos (not all - will update later). Photo credit goes to my family.
+{: .text-justify}
 
 {% include gallery id="single_layout_gallery_4" caption="Zzzzz ..." %}
 
