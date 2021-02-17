@@ -10,14 +10,14 @@ toc_icon: "university"
 
 ## Syntax & semantics
 
-### Concord
+### *Concord*
 
 - *Universal Concord*
     - testing
     - testing
 
 
-### Adverbial clauses
+### *Adverbial clauses*
 - *Temporal clauses*
     - testing
     - testing
@@ -26,13 +26,13 @@ toc_icon: "university"
     - testing
     - testing
 
-### Hyper-raising
+### *Hyper-raising*
 
 - *Hyper-raising and evidentiality*
     - testing
     - testing
  
-### Modal movement
+### *Modal movement*
 
 - *Modal movement licensed by focus*
     - testing
@@ -40,19 +40,19 @@ toc_icon: "university"
 
 ## Syntax-phonology interface
 
-### Right dislocation
+### *Right dislocation*
 
 - *Right dislocation*
     - testing
     - testing
 
-### Syllable deletion
+### *Syllable deletion*
 
 - *Monosyllabic preference and syllable deletion*
     - testing
     - testing
 
-### SFPs & intonation
+### *SFPs & intonation*
 
 - *Intonations on sentence-final particles*
     - testing
@@ -60,7 +60,7 @@ toc_icon: "university"
 
 ## Corpus linguistics
 
-### Metaphorization
+### *Metaphorization*
 
 - *Gradient metaphorization*
     - testing
