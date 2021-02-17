@@ -20,7 +20,7 @@ toc_icon: "link"
 only for those accessible online, for a full list see [Wong Tak-sum's page](http://wongtaksum.no-ip.info:81/corpus.htm#Corpora)
 {: .notice--warning}
 
-*Adult corpus*
+- *Adult corpus*
 
 | Year      | Corpus          | Paper |
 | --------- | --------------- | ----- |
@@ -33,7 +33,7 @@ only for those accessible online, for a full list see [Wong Tak-sum's page](http
 | unknown   | [CantoneseWaC](https://www.sketchengine.eu/cantonesewac-corpus/)                     |
 
 
-*Child (bilingual) corpus [CHILDES](https://childes.talkbank.org/)*
+- *Child (bilingual) corpus [CHILDES](https://childes.talkbank.org/)*
 
 | Year      | Corpus          | Paper |
 | --------- | --------------- | ----- |
@@ -46,7 +46,7 @@ only for those accessible online, for a full list see [Wong Tak-sum's page](http
 | 1985      | [Guthrie Bilingual Corpus](https://childes.talkbank.org/access/Biling/Guthrie.html) [Chinese-English] |
 
 
-*Diachronic corpus*
+- *Diachronic corpus*
 
 | Year        | Corpus          | Paper |
 | ----------- | --------------- | ----- |
@@ -57,7 +57,7 @@ only for those accessible online, for a full list see [Wong Tak-sum's page](http
 | 1820s~1920s | [Early Cantonese Colloquial Texts: A Database](http://143.89.108.109/Candbase/) |
 
 
-*Others*
+- *Others*
 
 | Year        | Corpus          | Paper |
 | ----------- | --------------- | ----- |
@@ -75,7 +75,7 @@ selective collection, mainly the ones I've used. for a full list see [Wong Tak-s
 
 [under construction]
 
-*Modern Standard Chinese*
+- *Modern Standard Chinese*
 
 | Year        | Corpus          | Paper |
 | ----------- | --------------- | ----- |
@@ -88,7 +88,7 @@ selective collection, mainly the ones I've used. for a full list see [Wong Tak-s
 |  |  |  |
 
 
-*Diachronic corpus*
+- *Diachronic corpus*
 
 | Year        | Corpus          | Paper |
 | ----------- | --------------- | ----- |
@@ -97,7 +97,7 @@ selective collection, mainly the ones I've used. for a full list see [Wong Tak-s
 |  |  |  |
 |  |  |  |
 
-*Database*
+- *Database*
 
 | Year (last updated) | Corpus          | Paper |
 | ----------- | --------------- | ----- |
@@ -114,8 +114,6 @@ selective collection, mainly the ones I've used. for a full list see [Wong Tak-s
 
 a self-serving handy list of linguists whose major research languages include Cantonese, and whose profiles can be found online; please remind me if I've missed any
 {: .notice--warning}
-
-[under construction]
 
 | Affiliation   | Linguist        | Specialization (not exhaustive) |
 | ------------- | --------------- | ------------------------------- |
@@ -181,14 +179,3 @@ a self-serving handy list of linguists whose major research languages include Ca
 | HKPolyU       | [Caicai ZHANG](https://www.polyu.edu.hk/cbs/web/en/people/staff_detail/27/) | neurolinguistics, phonetics & phonology |
 | EdUHK         | [Ling ZHANG](https://oraas0.ied.edu.hk/rich/web/people_details.jsp?pid=164793) | phonetics & phonology |
 
-
-
-
-
-
-
-
-
-|               | []() |  |
-|               | []() |  |
-|               | []() |  |
