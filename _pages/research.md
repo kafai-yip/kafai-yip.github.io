@@ -8,7 +8,7 @@ toc_icon: "university"
 
 [under construction]
 
-## Syntax & syntax-semantics interface
+## Syntax & semantics
 
 ### Concord
 
