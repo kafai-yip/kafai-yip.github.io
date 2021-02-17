@@ -7,7 +7,7 @@ toc_icon: "university"
 ---
 ## CV
 
-My [CV](https://kafai-yip.github.io/assets/docs/CV_YIP Ka Fai_20201220_EN.pdf).
+My [CV](https://kafai-yip.github.io/assets/docs/CV_YIP Ka Fai_20210217_EN.pdf).
 
 ## Publications
 
@@ -17,6 +17,10 @@ My [CV](https://kafai-yip.github.io/assets/docs/CV_YIP Ka Fai_20201220_EN.pdf).
 
 
 ## Presentations
+
+### 2021
+
+1. Separable verbs, syllable deletion, and micro-variations. [Phex-11](https://toki482.wixsite.com/phex11/?lang=ja), Sapporo University (online). [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/Syllable deletion (Phex-11)-handout.pdf)] [[slides](https://kafai-yip.github.io/assets/docs/Syllable deletion (Phex-11)-slides.pdf)]
 
 ### 2020
 
