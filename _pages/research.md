@@ -10,12 +10,13 @@ toc: true
 
 - Concord
 
-**Paper** (2020). [粵語動詞後綴“親”的三個框式結構[Three discontinuous constructions of Cantonese verbal suffix *can*]](http://www.cuhk.edu.hk/ics/clrc/crcl_99_1/yip.pdf) (written in Chinese). *Current Research in Chinese Linguistics* 99(1):153-169.
+**About** [under construction]
 {: .notice--warning}
 
-Depending on the path you took installing Minimal Mistakes you'll setup things a little differently.
 
-**Talks** Universal Concord: Evidence from Cantonese pseudo affixal quantifier *-can*. [2019 LSA Linguistic Institute poster session](https://lsa2019.ucdavis.edu/), UC Davis. [[poster](https://kafai-yip.github.io/assets/docs/LSA LI 2019 ∀-concord_poster_20190707.pdf)]
+**Talks** [Paper]((http://www.cuhk.edu.hk/ics/clrc/crcl_99_1/yip.pdf))
+
+Universal Concord: Evidence from Cantonese pseudo affixal quantifier *-can*. [2019 LSA Linguistic Institute poster session](https://lsa2019.ucdavis.edu/), UC Davis. [[poster](https://kafai-yip.github.io/assets/docs/LSA LI 2019 ∀-concord_poster_20190707.pdf)]
 {: .notice--info}
 
 粵語詞綴「親」的複句完句現象[Complex sentence formation of Cantonese affix *can*]. [ICFL-8](https://linguistlist.org/issues/29/29-942/?utm_source=dlvr.it&utm_medium=twitter), Zhejiang University.
