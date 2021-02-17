@@ -133,3 +133,7 @@ header:
   image_description: "KA-FAI YIP"
     
 head: <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
+.page__content {
+  text-align: justify;
+}
