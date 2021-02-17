@@ -3,7 +3,7 @@ permalink: /papers-and-talks/
 title: "Papers & talks"
 toc: true
 toc_label: "Papers & talks"
-toc_icon: "university"
+toc_icon: "book"
 ---
 
 ## Publications
