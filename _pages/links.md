@@ -112,7 +112,7 @@ selective collection, mainly the ones I've used. for a full list see [Wong Tak-s
 
 ## Cantonese linguists
 
-a self-serving handy list of linguists whose major research languages include Cantonese, and whose profiles can be found online; please remind me if I've missed any
+a self-serving handy list of online profiles of linguists whose major research languages include Cantonese; please remind me if I've missed any
 {: .notice--warning}
 
 | Affiliation   | Linguist        | Specialization (not exhaustive) |
