@@ -19,13 +19,15 @@ toc: true
 {: .notice--info}
 
 - *Adverbial clauses and converbs*
-    
+    - *Temporal clauses*
 
 **In a nutshell** [under construction]
 {: .notice--warning}
 
 **Talks** [under construction]
 {: .notice--info}
+
+    - *Converbs*
 
 Subordinate affixes in Cantonese and intervention effects. [IACL-27](https://easychair.org/cfp/IACL27), Kobe City University of Foreign Studies. [[slides](https://kafai-yip.github.io/assets/docs/IACL-27_haa_20190512.pdf)]
 
