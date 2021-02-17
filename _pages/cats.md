@@ -1,6 +1,7 @@
 ---
 permalink: /cats/
 title: "ฅ"
+classes: wide
 single_layout_gallery:
   - image_path: /assets/images/king_20200904.jpeg
     alt: "single layout with header example"
