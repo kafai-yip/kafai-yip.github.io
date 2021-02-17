@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+classes: wide
 ---
 
 I’m a first-year PhD student in the Department of Linguistics at Yale University. I’m a Hongkonger and speak Cantonese. My research languages are mainly East Asian languages.
