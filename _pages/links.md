@@ -174,6 +174,7 @@ a self-serving handy list of online profiles of linguists whose major research l
 | HSUHK         | [Yiu Kwan WONG](https://chi.hsu.edu.hk/staffs/academics/?staffId=805) | historical phonology |
 | HKPolyU       | [Yike YANG](https://scholar.google.com/citations?user=rLyKCGoAAAAJ&hl=zh-CN) | phonetics, acquisition |
 | CUHK(SZ)      | [Foong Ha YAP](https://myweb.cuhk.edu.cn/foonghayap) | language change, typology |
+| UCL           | [Moira YIP](https://www.researchgate.net/profile/Moira_Yip) | phonology |
 | CUHK          | [Virginia YIP](http://vyip.cbrchk.org/) | bilingualism, acquisition |
 | UW            | [Anne YUE-HASHIMOTO](https://asian.washington.edu/people/anne-yue-hashimoto) | grammar & phonology, typology |
 | HKPolyU       | [Caicai ZHANG](https://www.polyu.edu.hk/cbs/web/en/people/staff_detail/27/) | neurolinguistics, phonetics & phonology |
