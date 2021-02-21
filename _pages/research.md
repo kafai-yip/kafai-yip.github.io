@@ -70,24 +70,18 @@ toc_icon: "university"
     - testing
     - testing
 
-### *Bilingual corpus*
-
-- *Patentlex*
-    - testing
-    - testing
-
-## Other mini-projects
+## Other projects
 
 - *Aspect*
-    - testing
-    - testing
+    - With evidence from suffix stacking and scope, I argue that experiential aspect should be lower than perfective aspect in syntax.
+    - Mandarin, Yangchun (陽春) Yue｜[Handout-ARF]((https://kafai-yip.github.io/assets/docs/ARF2020_perfective_handout_20201212.pdf))
 
 - *Verbs of saying*
-    - testing
-    - testing
+    - We argue that verbs of saying should be divied into two classes, SAY and GIVE-by-saying, which take different direct & indirect objects. [Joint work with [Jia JIN](https://myweb.cuhk.edu.cn/jinjia)]
+    - Chenghai (澄海) Min｜[[slides](https://kafai-yip.github.io/assets/docs/IRF-5_VOS in Chenghai_20190616.pdf)](in Chinese)
 
 - *Cantonese learning*
-    - testing
-    - testing
+    - An app which assists second-language learning of Cantonese tones.
+    - Cantonese｜[[slides](https://docs.google.com/presentation/d/1qJQlwvJAXd_KDMfQaqr21ZZdPj3p17dDsMirqcedfD8/edit?usp=sharing)] ｜ [[App (For Andriod)](https://drive.google.com/file/d/15MCHYrVcpEPJf59HjeGXEEAF9aukUN-9/view?usp=sharing)]
 
 
