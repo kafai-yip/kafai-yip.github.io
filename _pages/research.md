@@ -24,7 +24,7 @@ toc_icon: "university"
 
 - *Converbs*
     - testing
-    - testing
+    - Cantonese｜[Mphil thesis](https://kafai-yip.github.io/assets/docs/MPhil Thesis_YIP KA FAI_final draft_20190918_2.pdf)(in Chinese)
 
 ### *Hyper-raising*
 
@@ -74,14 +74,14 @@ toc_icon: "university"
 
 - *Aspect*
     - With evidence from suffix stacking and scope, I argue that experiential aspect should be lower than perfective aspect in syntax.
-    - Mandarin, Yangchun (陽春) Yue｜[Handout-ARF]((https://kafai-yip.github.io/assets/docs/ARF2020_perfective_handout_20201212.pdf))
+    - Mandarin, Yangchun (陽春) Yue｜[Handout-ARF2020]((https://kafai-yip.github.io/assets/docs/ARF2020_perfective_handout_20201212.pdf))
 
 - *Verbs of saying*
     - We argue that verbs of saying should be divied into two classes, SAY and GIVE-by-saying, which take different direct & indirect objects. [Joint work with [Jia JIN](https://myweb.cuhk.edu.cn/jinjia)]
-    - Chenghai (澄海) Min｜[[slides](https://kafai-yip.github.io/assets/docs/IRF-5_VOS in Chenghai_20190616.pdf)](in Chinese)
+    - Chenghai (澄海) Min｜[slides-IRF-5](https://kafai-yip.github.io/assets/docs/IRF-5_VOS in Chenghai_20190616.pdf)(in Chinese)
 
 - *Cantonese learning*
     - An app which assists second-language learning of Cantonese tones.
-    - Cantonese｜[[slides](https://docs.google.com/presentation/d/1qJQlwvJAXd_KDMfQaqr21ZZdPj3p17dDsMirqcedfD8/edit?usp=sharing)] ｜ [[App (For Andriod)](https://drive.google.com/file/d/15MCHYrVcpEPJf59HjeGXEEAF9aukUN-9/view?usp=sharing)]
+    - Cantonese｜[slides-Yue 24](https://docs.google.com/presentation/d/1qJQlwvJAXd_KDMfQaqr21ZZdPj3p17dDsMirqcedfD8/edit?usp=sharing) ｜ [App (For Andriod)](https://drive.google.com/file/d/15MCHYrVcpEPJf59HjeGXEEAF9aukUN-9/view?usp=sharing)
 
 
