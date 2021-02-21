@@ -15,28 +15,33 @@ toc_icon: "university"
 - Universal Concord
     - testing
     - testing
+{: .notice--success}
 
 
 ### *Adverbial clauses*
 - Temporal clauses
     - testing
     - testing
+{: .notice--success}
 
 - Converbs
     - testing
     - Cantonese｜[Mphil thesis (in Chinese)](https://kafai-yip.github.io/assets/docs/MPhil Thesis_YIP KA FAI_final draft_20190918_2.pdf)
+{: .notice--success}
 
 ### *Hyper-raising*
 
 - Hyper-raising and evidentiality
     - testing
     - testing
+{: .notice--success}
  
 ### *Modality*
 
 - Modal movement licensed by focus
     - testing
     - testing
+{: .notice--success}
 
 ## Syntax-phonology interface
 
@@ -45,18 +50,21 @@ toc_icon: "university"
 - Right dislocation
     - testing
     - testing
+{: .notice--primary}
 
 ### *Syllable deletion*
 
 - Monosyllabic preference and syllable deletion
     - testing
     - testing
+{: .notice--primary}
 
 ### *SFPs & intonation*
 
 - Intonations on sentence-final particles
     - testing
     - testing
+{: .notice--primary}
 
 ## Corpus linguistics
 
@@ -65,10 +73,12 @@ toc_icon: "university"
 - Gradient metaphorization
     - testing
     - testing
+{: .notice}
 
 - Variations in metaphorization
     - testing
     - testing
+{: .notice}
 
 ## Other projects
 
