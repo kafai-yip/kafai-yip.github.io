@@ -24,7 +24,7 @@ toc_icon: "university"
 
 - *Converbs*
     - testing
-    - Cantonese｜[Mphil thesis](https://kafai-yip.github.io/assets/docs/MPhil Thesis_YIP KA FAI_final draft_20190918_2.pdf)(in Chinese)
+    - Cantonese｜[Mphil thesis-CUHK (in Chinese)](https://kafai-yip.github.io/assets/docs/MPhil Thesis_YIP KA FAI_final draft_20190918_2.pdf)
 
 ### *Hyper-raising*
 
@@ -78,7 +78,7 @@ toc_icon: "university"
 
 - *Verbs of saying*
     - We argue that verbs of saying should be divied into two classes, SAY and GIVE-by-saying, which take different direct & indirect objects. [Joint work with [Jia JIN](https://myweb.cuhk.edu.cn/jinjia)]
-    - Chenghai (澄海) Min｜[slides-IRF-5](https://kafai-yip.github.io/assets/docs/IRF-5_VOS in Chenghai_20190616.pdf)(in Chinese)
+    - Chenghai (澄海) Min｜[slides-IRF-5 (in Chinese)](https://kafai-yip.github.io/assets/docs/IRF-5_VOS in Chenghai_20190616.pdf)
 
 - *Cantonese learning*
     - An app which assists second-language learning of Cantonese tones.
