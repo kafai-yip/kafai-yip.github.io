@@ -74,14 +74,14 @@ toc_icon: "university"
 
 - **Aspect**
     - With evidence from suffix stacking and scope, I argue that the syntactic position of experiential aspect should be lower than perfective aspect.
-    - *Mandarin, Yangchun (陽春) Yue*｜[Handout-ARF2020]((https://kafai-yip.github.io/assets/docs/ARF2020_perfective_handout_20201212.pdf))
+    - *Mandarin, Yangchun (陽春) Yue｜[Handout-ARF2020]((https://kafai-yip.github.io/assets/docs/ARF2020_perfective_handout_20201212.pdf))*
 
 - **Verbs of saying** [with [Jia JIN](https://myweb.cuhk.edu.cn/jinjia)]
     - We argue that verbs of saying should be divided into two classes, SAY and GIVE-by-saying, which take different direct & indirect objects. 
-    - *Chenghai (澄海) Min*｜[slides-IRF-5 (in Chinese)](https://kafai-yip.github.io/assets/docs/IRF-5_VOS in Chenghai_20190616.pdf)
+    - *Chenghai (澄海) Min｜[slides-IRF-5 (in Chinese)](https://kafai-yip.github.io/assets/docs/IRF-5_VOS in Chenghai_20190616.pdf)*
 
 - **Cantonese learning**
     - An app which assists second-language learning of Cantonese tones.
-    - *Cantonese*｜[slides-Yue 24](https://docs.google.com/presentation/d/1qJQlwvJAXd_KDMfQaqr21ZZdPj3p17dDsMirqcedfD8/edit?usp=sharing) ｜ [App (For Andriod)](https://drive.google.com/file/d/15MCHYrVcpEPJf59HjeGXEEAF9aukUN-9/view?usp=sharing)
+    - *Cantonese｜[slides-Yue 24](https://docs.google.com/presentation/d/1qJQlwvJAXd_KDMfQaqr21ZZdPj3p17dDsMirqcedfD8/edit?usp=sharing) ｜ [App (For Andriod)](https://drive.google.com/file/d/15MCHYrVcpEPJf59HjeGXEEAF9aukUN-9/view?usp=sharing)*
 
 
