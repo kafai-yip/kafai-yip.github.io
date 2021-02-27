@@ -48,7 +48,7 @@ toc_icon: "university"
 ### *Right dislocation*
 
 - **Right dislocation**
-    - Based on acoustic data, I study the mapping from clauses to intonational phrases. I also discuss the micro-variations between Cantonese and Mandarin which are attributable to their prosodic differences.
+    - Based on acoustic data, I study the mapping from clauses to intonational phrases in right dislocation. I also discuss micro-variations between Cantonese and Mandarin which are attributable to their prosodic differences.
     - Cantonese, Mandarin｜[proceedings-Phex](https://sapporo-u.repo.nii.ac.jp/?action=repository_uri&item_id=7728&file_id=22&file_no=1)｜[slides-WICL](https://kafai-yip.github.io/assets/docs/WICL-5_RD_20200418.pptx)
 {: .notice--success}
 
