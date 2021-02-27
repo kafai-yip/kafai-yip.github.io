@@ -13,33 +13,33 @@ toc_icon: "university"
 ### *Concord*
 
 - **Universal Concord**
-    - testing
-    - Cantonese｜[handout-Syntax+](https://kafai-yip.github.io/assets/docs/USC Syntax+_∀-concord_handout_20201005.pdf)
+    - Based on evidence from locality and intervention effects, I show that a quantificational affix in Cantonese is indeed a concord element which agrees with a universal quantifier, instantiating a case of universal concord. 
+    - Cantonese｜[handout-USC-Syntax+](https://kafai-yip.github.io/assets/docs/USC Syntax+_∀-concord_handout_20201005.pdf)
 {: .notice--info}
 
 
 ### *Adverbial clauses*
 - **Temporal clauses**
-    - testing
-    - Cantonese
+    - I argue that temporal adverbial clauses may not be necessarily dervied by movement. Also, I show how the internal syntax of TACs may determine their external syntax.
+    - Cantonese｜[handout-Yale-Syntax](https://kafai-yip.github.io/assets/docs/Yale Syntax_temporal_20210226.pdf)
 {: .notice--info}
 
 - **Converbs**
-    - testing
+    - I investigate 13 Cantonese affixes that only occur in a adverbial clause, which belong to the class of adverbial participles (i.e. converbs) from a typological perspective.
     - Cantonese｜[Mphil thesis (in Chinese)](https://kafai-yip.github.io/assets/docs/MPhil Thesis_YIP KA FAI_final draft_20190918_2.pdf)
 {: .notice--info}
 
 ### *Hyper-raising*
 
 - **Hyper-raising and evidentiality** [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
-    - testing
+    - We show that raising out of a finite clause (i.e. hyper-raising) is correlated with indirect evidence cross-linguistically and how the correlation may be accounted for under a phase-deactivation approach.  
     - Cantonese, Vietnamese｜[handout-BCGL](https://kafai-yip.github.io/assets/docs/BCGL_HR_evidentiality_handout.pdf)
 {: .notice--info}
  
 ### *Modality*
 
 - **Modal movement licensed by focus** [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
-    - testing
+    - We investigate the distribution of modals in Chinese, and their interaction with focus interpretations.
     - Mandarin｜[Handout-NACCL](https://kafai-yip.github.io/assets/docs/SICOGG 22 presentation_Generalized Scope Economy_20200813.pdf)
 {: .notice--info}
 
