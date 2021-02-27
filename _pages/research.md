@@ -15,19 +15,17 @@ toc_icon: "university"
 - **Universal Concord**
     - Based on evidence from locality and intervention effects, I show that a quantificational affix in Cantonese is indeed a concord element which agrees with a universal quantifier, instantiating a case of universal concord. 
     - Cantonese｜[handout-USC-Syntax+](https://kafai-yip.github.io/assets/docs/USC Syntax+_∀-concord_handout_20201005.pdf)
-{: .text-justify}{: .notice--info}
+{: .notice--info}
 
 
 ### *Adverbial clauses*
 - **Temporal clauses**
     - I argue that temporal adverbial clauses may not be necessarily dervied by movement. Also, I show how the internal syntax of TACs may determine their external syntax.
-{: .text-justify}
     - Cantonese｜[handout-Yale-Syntax](https://kafai-yip.github.io/assets/docs/Yale Syntax_temporal_20210226.pdf)
 {: .notice--info}
 
 - **Converbs**
     - I investigate 13 Cantonese affixes that only occur in a adverbial clause, which belong to the class of adverbial participles (i.e. converbs) from a typological perspective.
-{: .text-justify}
     - Cantonese｜[Mphil thesis (in Chinese)](https://kafai-yip.github.io/assets/docs/MPhil Thesis_YIP KA FAI_final draft_20190918_2.pdf)
 {: .notice--info}
 
