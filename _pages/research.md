@@ -20,7 +20,7 @@ toc_icon: "university"
 
 ### *Adverbial clauses*
 - **Temporal clauses**
-    - I discuss two ways to derive temporal adverbial clauses in Cantonese, with or without movement. Also, I show how the internal syntax of TACs may determine their external syntax.
+    - I discuss two ways to derive temporal adverbial clauses, with or without movement. Also, I show how the internal syntax of TACs may determine their external syntax.
     - Cantonese｜[handout-Yale-Syntax](https://kafai-yip.github.io/assets/docs/Yale Syntax_temporal_20210226.pdf)
 {: .notice--info}
 
