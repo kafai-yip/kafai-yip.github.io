@@ -62,7 +62,7 @@ toc_icon: "university"
 ### *SFPs & intonation*
 
 - **Intonations on sentence-final particles** [with Him Nok LEE]
-    - We exmaine the F0 properties of a polysemous SFP and discuss how to distinguish intonation from tones on SFPs.
+    - We exmaine the pitch properties of a polysemous SFP and discuss how to distinguish intonation from tones on SFPs.
     - Cantonese｜[slides-WOC](https://kafai-yip.github.io/assets/docs/WOC-20_ge_20200606.pdf)
 {: .notice--success}
 
