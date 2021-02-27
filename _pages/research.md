@@ -13,14 +13,14 @@ toc_icon: "university"
 ### *Concord*
 
 - **Universal Concord**
-    - Based on evidence from locality and intervention effects, I show that a quantificational affix in Cantonese is indeed a concord element which agrees with a universal quantifier, instantiating a case of universal concord. 
+    - I show that a purported affix quantifier in Cantonese is indeed a concord element which agrees with a universal quantifier, instantiating a case of universal concord. 
     - Cantonese｜[handout-USC-Syntax+](https://kafai-yip.github.io/assets/docs/USC Syntax+_∀-concord_handout_20201005.pdf)
 {: .notice--info}
 
 
 ### *Adverbial clauses*
 - **Temporal clauses**
-    - I argue that temporal adverbial clauses may not be necessarily dervied by movement. Also, I show how the internal syntax of TACs may determine their external syntax.
+    - I discuss two ways to derive temporal adverbial clauses, i.e. with or without movement. Also, I show how the internal syntax of TACs may determine their external syntax.
     - Cantonese｜[handout-Yale-Syntax](https://kafai-yip.github.io/assets/docs/Yale Syntax_temporal_20210226.pdf)
 {: .notice--info}
 
@@ -36,7 +36,7 @@ toc_icon: "university"
     - Cantonese, Vietnamese｜[handout-BCGL](https://kafai-yip.github.io/assets/docs/BCGL_HR_evidentiality_handout.pdf)
 {: .notice--info}
  
-### *Modality*
+### *Modal*
 
 - **Modal movement licensed by focus** [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
     - We investigate the distribution of modals in Chinese, and their interaction with focus interpretations.
@@ -48,7 +48,7 @@ toc_icon: "university"
 ### *Right dislocation*
 
 - **Right dislocation**
-    - testing
+    - Based on acoustic data, I study the mapping from clauses to intonational phrases. I also discuss the micro-variations between Cantonese and Mandarin which are attributable to their prosodic differences.
     - Cantonese, Mandarin｜[proceedings-Phex](https://sapporo-u.repo.nii.ac.jp/?action=repository_uri&item_id=7728&file_id=22&file_no=1)｜[slides-WICL](https://kafai-yip.github.io/assets/docs/WICL-5_RD_20200418.pptx)
 {: .notice--success}
 
@@ -62,7 +62,7 @@ toc_icon: "university"
 ### *SFPs & intonation*
 
 - **Intonations on sentence-final particles** [with Him Nok LEE]
-    - testing
+    - We exmaine the F0 properties of a polysemous SFP and discuss how to distinguish intonation from tones on SFPs.
     - Cantonese｜[slides-WOC](https://kafai-yip.github.io/assets/docs/WOC-20_ge_20200606.pdf)
 {: .notice--success}
 
