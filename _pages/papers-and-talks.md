@@ -1,9 +1,8 @@
 ---
 permalink: /papers-and-talks/
 title: "Papers & talks"
-toc: true
-toc_label: "Papers & talks"
-toc_icon: "book"
+toc: false
+classes: wide
 ---
 
 ## Publications
