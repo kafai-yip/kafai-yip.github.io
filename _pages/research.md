@@ -13,7 +13,7 @@ toc_icon: "university"
 ### *Concord*
 
 - **Universal Concord**
-    - I show that a purported affix quantifier in Cantonese is indeed a concord element which agrees with a universal quantifier, instantiating a case of universal concord. 
+    - I show that a purported affixal quantifier in Cantonese is indeed a concord element which agrees with a universal quantifier, instantiating a case of universal concord. 
     - Cantonese｜[handout-USC-Syntax+](https://kafai-yip.github.io/assets/docs/USC Syntax+_∀-concord_handout_20201005.pdf)
 {: .notice--info}
 
