@@ -14,7 +14,9 @@ toc_icon: "university"
 
 - **Universal Concord**
     - I show that a purported affixal quantifier in Cantonese is indeed a concord element which agrees with a universal quantifier, instantiating a case of universal concord. 
-    - Cantonese｜[handout-USC-Syntax+](https://kafai-yip.github.io/assets/docs/USC Syntax+_∀-concord_handout_20201005.pdf)
+    - Cantonese｜[handout-USC-Syntax+](https://kafai-yip.github.io/assets/docs/USC Syntax+_∀-concord_handout_20201005.pdf
+    - A related discussion on the scopal behaviour of the purported affixal quantifier: 
+    - Cantonese｜[paper-CRCL (in Chinese)](http://www.cuhk.edu.hk/ics/clrc/crcl_99_1/yip.pdf)
 {: .notice--info}
 
 
@@ -40,7 +42,7 @@ toc_icon: "university"
 
 - **Modal movement licensed by focus** [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
     - We investigate the distribution of modals in Chinese, and their interaction with focus interpretations.
-    - Mandarin｜[Handout-NACCL](https://kafai-yip.github.io/assets/docs/SICOGG 22 presentation_Generalized Scope Economy_20200813.pdf)
+    - Mandarin｜[handout-NACCL](https://kafai-yip.github.io/assets/docs/SICOGG 22 presentation_Generalized Scope Economy_20200813.pdf)
 {: .notice--info}
 
 ## Syntax-phonology interface
@@ -85,7 +87,7 @@ toc_icon: "university"
 
 - **Aspect**
     - With evidence from suffix stacking and scope, I argue that the syntactic position of perfective aspect should be higher than experiential aspect.
-    - Mandarin, Yangchun (陽春) Yue｜[Handout-ARF](https://kafai-yip.github.io/assets/docs/ARF2020_perfective_handout_20201212.pdf)
+    - Mandarin, Yangchun (陽春) Yue｜[handout-ARF](https://kafai-yip.github.io/assets/docs/ARF2020_perfective_handout_20201212.pdf)
 {: .notice--danger}
 
 - **Verbs of saying** [with [Jia JIN](https://myweb.cuhk.edu.cn/jinjia)]
