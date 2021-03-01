@@ -44,7 +44,7 @@ classes: wide
 
 1. How to identify intonations on sentence-final particles? [WOC-20](https://www.lshk.org/workshop-on-cantonese-woc), HKBU (Webinar). [with Him Nok LEE] [[slides](https://kafai-yip.github.io/assets/docs/WOC-20_ge_20200606.pdf)]
 
-1. Zero-coded passives in Cantonese. [WICL-5](https://u.osu.edu/wicl/wicl-5/), OSU (Webinar). [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
+1. Zero-coded passives in Cantonese. [WICL-5](https://u.osu.edu/wicl/wicl-5/), OSU (Webinar). [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/Chan, Lee & Yip (2020) Zero coded passives in Cantonese [WICL-5].pdf)]
 
 1. The prosodic syntax of right dislocation in Cantonese. [WICL-5](https://u.osu.edu/wicl/wicl-5/), OSU (Webinar). [[slides](https://kafai-yip.github.io/assets/docs/WICL-5_RD_20200418.pptx)]
 
