@@ -57,7 +57,7 @@ toc_icon: "university"
 ### *Syllable deletion*
 
 - **Monosyllabic preference and syllable deletion** [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
-    - testing
+    - We discuss the monosyllabic preference figuring in separable verbs and related phenomena, and propose a syllable deletion account. Micro-variations between Cantonese and Mandarin are also addressed.
     - Cantonese, Mandarin｜[handout-Phex](https://kafai-yip.github.io/assets/docs/Syllable deletion (Phex-11)-handout.pdf)
 {: .notice--success}
 
@@ -74,11 +74,10 @@ toc_icon: "university"
 
 - **Gradient metaphorization** [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)]
     - testing
-    - Chinese
 {: .notice--primary}
 
 - **Variations in metaphorization** [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134) & Yaxuan JI]
-    - testing
+    - We offer a novel dynamic p
     - Chinese (BJ, HK, TW)｜[paper-PACLIC](https://kafai-yip.github.io/assets/docs/PACLIC-34_light verb_draft_20200925_withtitle.pdf)
     - Chinese (BJ, HK, MC)｜[slides-ARF (in Chinese)](https://kafai-yip.github.io/assets/docs/ARF_HBM[da]_1208 1230 HKT.pdf)
 {: .notice--primary}
