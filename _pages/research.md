@@ -35,7 +35,7 @@ toc_icon: "university"
 
 - **Hyper-raising and evidentiality** [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
     - We show that raising out of a finite clause (i.e. hyper-raising) is correlated with indirect evidence cross-linguistically, and how the correlation may be accounted for under a phase-deactivation approach.  
-    - Cantonese, Vietnamese｜[handout-BCGL](https://kafai-yip.github.io/assets/docs/BCGL_HR_evidentiality_handout.pdf)｜[[poster-WCCFL](https://kafai-yip.github.io/assets/docs/WCCFL38 - Raising, phase unlocked_20200228.pdf)]
+    - Cantonese, Vietnamese｜[handout-BCGL](https://kafai-yip.github.io/assets/docs/BCGL_HR_evidentiality_handout.pdf)｜[poster-WCCFL](https://kafai-yip.github.io/assets/docs/WCCFL38 - Raising, phase unlocked_20200228.pdf)
 {: .notice--info}
  
 ### *Modal*
