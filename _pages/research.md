@@ -22,7 +22,7 @@ toc_icon: "university"
 
 ### *Adverbial clauses*
 - **Temporal clauses**
-    - I discuss two ways to derive temporal adverbial clauses, with or without movement. Also, I show how the internal syntax of TACs may determine their external syntax.
+    - I show two different ways to derive temporal adverbial clauses, by merging an operator lower in a clause or to the highest position. I also discuss how the height of merging sites may determine the external syntax.
     - Cantonese｜[handout-Yale-Syntax](https://kafai-yip.github.io/assets/docs/Yale Syntax_temporal_20210226.pdf)
 {: .notice--info}
 
@@ -57,7 +57,7 @@ toc_icon: "university"
 ### *Syllable deletion*
 
 - **Monosyllabic preference and syllable deletion** [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
-    - We discuss the monosyllabic preference figuring in separable verbs and related phenomena, and propose a syllable deletion account. Micro-variations between Cantonese and Mandarin are also addressed.
+    - We discuss the monosyllabic preference in separable verbs and related phenomena, and propose a syllable deletion account. Micro-variations between Cantonese and Mandarin are also addressed.
     - Cantonese, Mandarin｜[handout-Phex](https://kafai-yip.github.io/assets/docs/Syllable deletion (Phex-11)-handout.pdf)
 {: .notice--success}
 
@@ -73,11 +73,11 @@ toc_icon: "university"
 ### *Metaphorization*
 
 - **Gradient metaphorization** [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)]
-    - testing
+    - We study the process of metaphorization in the context of grammaticalization. With a case study on Chinese light verbs, we explore different dimensions involving gradation and provide a generalized schema of metaphorization.
 {: .notice--primary}
 
 - **Variations in metaphorization** [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134) & Yaxuan JI]
-    - We offer a novel dynamic p
+    - We offer a novel dynamic perspective to language variations with a process-based approach. We focus on the parallel and differential developments of metaphorization process in varieties of Modern Standard Chinese.
     - Chinese (BJ, HK, TW)｜[paper-PACLIC](https://kafai-yip.github.io/assets/docs/PACLIC-34_light verb_draft_20200925_withtitle.pdf)
     - Chinese (BJ, HK, MC)｜[slides-ARF (in Chinese)](https://kafai-yip.github.io/assets/docs/ARF_HBM[da]_1208 1230 HKT.pdf)
 {: .notice--primary}
