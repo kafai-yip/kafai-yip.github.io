@@ -15,7 +15,7 @@ toc_icon: "university"
 - **Universal Concord**
     - I show that a purported affixal quantifier in Cantonese is indeed a concord element which agrees with a universal quantifier, instantiating a case of universal concord. 
     - Cantonese｜[handout-USC-Syntax+](https://kafai-yip.github.io/assets/docs/USC Syntax+_∀-concord_handout_20201005.pdf)
-    - A related discussion on the scopal behaviour of the purported affixal quantifier: 
+    - A related discussion on the scopal behaviour of the purported affixal quantifier. 
     - Cantonese｜[paper-CRCL (in Chinese)](http://www.cuhk.edu.hk/ics/clrc/crcl_99_1/yip.pdf)
 {: .notice--info}
 
@@ -76,7 +76,7 @@ toc_icon: "university"
     - With a case study on Chinese light verbs, we explore different dimensions involving gradation of metaphorization process and provide a generalized schema of metaphorization.
 {: .notice--primary}
 
-- **MSC Variations in metaphorization** [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134) & Yaxuan JI]
+- **MSC variations in metaphorization** [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134) & Yaxuan JI]
     - We offer a novel dynamic perspective to language variations with a process-based approach. We focus on the parallel and differential developments of metaphorization process in varieties of Modern Standard Chinese.
     - Chinese (BJ, HK, TW)｜[paper-PACLIC](https://kafai-yip.github.io/assets/docs/PACLIC-34_light verb_draft_20200925_withtitle.pdf)
     - Chinese (BJ, HK, MC)｜[slides-ARF (in Chinese)](https://kafai-yip.github.io/assets/docs/ARF_HBM[da]_1208 1230 HKT.pdf)
