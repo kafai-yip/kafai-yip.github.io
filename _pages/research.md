@@ -42,7 +42,7 @@ toc_icon: "university"
 
 - **Modal movement licensed by focus** [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
     - We investigate the distribution of modals in Chinese, and their interaction with focus interpretations.
-    - Mandarin｜[handout-NACCL](https://kafai-yip.github.io/assets/docs/SICOGG 22 presentation_Generalized Scope Economy_20200813.pdf)
+    - Mandarin｜[handout-NACCL](https://kafai-yip.github.io/assets/docs/NACCL32 Generalized Scope Economy_handout_20200918.pdf)
 {: .notice--info}
 
 ## Syntax-phonology interface
