@@ -96,6 +96,6 @@ toc_icon: "university"
 
 - **Cantonese learning** [with Mei-ying KI & Yik-Po LAI]
     - An app which assists second-language learning of Cantonese tones.
-    - Cantonese｜[slides-Yue](https://docs.google.com/presentation/d/1qJQlwvJAXd_KDMfQaqr21ZZdPj3p17dDsMirqcedfD8/edit?usp=sharing)｜[App (For Andriod)](https://drive.google.com/file/d/15MCHYrVcpEPJf59HjeGXEEAF9aukUN-9/view?usp=sharing)
+    - Cantonese｜[slides-Yue](https://docs.google.com/presentation/d/1qJQlwvJAXd_KDMfQaqr21ZZdPj3p17dDsMirqcedfD8/edit?usp=sharing)｜[App (Google Play)](https://play.google.com/store/apps/details?id=com.cantonese)
 {: .notice--danger}
 
