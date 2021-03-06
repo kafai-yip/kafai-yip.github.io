@@ -23,7 +23,7 @@ toc_icon: "university"
 ### *Adverbial clauses*
 - **Temporal clauses**
     - I show two different ways to derive temporal adverbial clauses, by merging an operator lower in a clause or to the highest position. I also discuss how the height of merging sites may determine the external syntax.
-    - Cantonese｜[handout-Yale-Syntax](https://kafai-yip.github.io/assets/docs/Yale Syntax_temporal_20210226.pdf)
+    - Cantonese｜[handout-BEAL](https://kafai-yip.github.io/assets/docs/BEAL-4_temporal_20210304.pdf)
 {: .notice--info}
 
 - **Converbs**
@@ -58,7 +58,7 @@ toc_icon: "university"
 
 - **Monosyllabic preference and syllable deletion** [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
     - We discuss the monosyllabic preference in separable verbs and related phenomena, and propose a syllable deletion account. Micro-variations between Cantonese and Mandarin are also addressed.
-    - Cantonese, Mandarin｜[handout-Phex](https://kafai-yip.github.io/assets/docs/Syllable deletion (Phex-11)-handout.pdf)
+    - Cantonese, Mandarin｜[handout-BEAL](https://kafai-yip.github.io/assets/docs/Syllable deletion (BEAL-4).pdf)
 {: .notice--success}
 
 ### *SFPs & intonation*
