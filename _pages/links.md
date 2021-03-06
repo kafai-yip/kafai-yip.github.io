@@ -54,6 +54,7 @@ only for those accessible online, for a full list see [Wong Tak-sum's page](http
 | 1870s~1930s | [Early Cantonese Tagged Database](http://database.shss.ust.hk/Cantag/) |
 | 1860s~1920s | [The Early Cantonese Bible Database](https://corpus.eduhk.hk/cantobible/) |
 | 1860s~1920s | [Database of Early Chinese Dialects](http://database.shss.ust.hk/5dialects/) (Cantonese, Hakka, Mandarin, Hokkien, Wu) |
+| 1860s~1890s | [Database of the 19th Century (1865- 1894) Cantonese Christian Writings](https://www.polyu.edu.hk/cbs/hkchristdb/) |
 | 1820s~1920s | [Early Cantonese Colloquial Texts: A Database](http://143.89.108.109/Candbase/) |
 
 
@@ -137,6 +138,7 @@ a self-serving handy list of online profiles of linguists whose major research l
 | CUHK          | [Bit-Chee KWOK](https://orcid.org/0000-0001-8115-6776) | dialectology, historical linguistics |
 | UChicago      | [Jackie Yan-Ki LAI](https://linguistics.uchicago.edu/yan-ki-jackie-lai) | syntax, morphology |
 | CUHK          | [Regine LAI](http://ling.cuhk.edu.hk/p_regine.php) | phonology |
+| UCSB          | [Ryan Ka Yau LAI](https://rkylai.wordpress.com/) | computational linguistics |
 | EdUHK         | [Yik-Po LAI](https://orcid.org/0000-0002-8791-0757) | typology, grammaticalization |
 | HSUHK         | [Charles LAM](http://charles-lam.net/) | syntax & semantics |
 | OUHK          | [Cherry Chit-Yu LAM](https://cherrylam90.wixsite.com/academic-website) | comparative syntax |
