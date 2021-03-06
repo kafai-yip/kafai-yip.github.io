@@ -1,6 +1,8 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Research"
+    url: /research/
   - title: "Papers & talks"
     url: /papers-and-talks/
   - title: "ฅ"
