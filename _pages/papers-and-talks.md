@@ -24,33 +24,33 @@ classes: wide
 
 ### 2020
 
-1. Indirect evidence as a licensing condition of hyperraising in Cantonese and Vietnamese. [BCGL-13](https://www.crissp.be/bcgl-13-the-syntax-and-semantics-of-clausal-complementation/), CRISSP of KU Leuven. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/BCGL_HR_evidentiality_handout.pdf)] [[slides](https://kafai-yip.github.io/assets/docs/BCGL_HR_evidentiality_slides.pdf)]
+1. Indirect evidence as a licensing condition of hyperraising in Cantonese and Vietnamese. [BCGL-13](https://www.crissp.be/bcgl-13-the-syntax-and-semantics-of-clausal-complementation/), CRISSP of KU Leuven (online). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/BCGL_HR_evidentiality_handout.pdf)] [[slides](https://kafai-yip.github.io/assets/docs/BCGL_HR_evidentiality_slides.pdf)]
 
-1. On the position of perfective aspect. [ARF-2020](https://www.lshk.org/annual-research-forum-arf). CUHK (ZOOM). [[handout](https://kafai-yip.github.io/assets/docs/ARF2020_perfective_handout_20201212.pdf)]
+1. On the position of perfective aspect. [ARF-2020](https://www.lshk.org/annual-research-forum-arf). CUHK (online). [[handout](https://kafai-yip.github.io/assets/docs/ARF2020_perfective_handout_20201212.pdf)]
 
-1. 漢語動詞虛化初探：港澳京三地同中之異[A preliminary study on metaphorization of Chinese verbs: comparing Hong Kong, Macau and Beijing]. [ARF-2020](https://www.lshk.org/annual-research-forum-arf). CUHK (ZOOM). [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134) & Yaxuan JI] [[slides](https://kafai-yip.github.io/assets/docs/ARF_HBM[da]_1208 1230 HKT.pdf)] [[samples](https://kafai-yip.github.io/assets/docs/ARF2020_da_TypeII_examples.pdf)]
+1. 漢語動詞虛化初探：港澳京三地同中之異[A preliminary study on metaphorization of Chinese verbs: comparing Hong Kong, Macau and Beijing]. [ARF-2020](https://www.lshk.org/annual-research-forum-arf). CUHK (online). [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134) & Yaxuan JI] [[slides](https://kafai-yip.github.io/assets/docs/ARF_HBM[da]_1208 1230 HKT.pdf)] [[samples](https://kafai-yip.github.io/assets/docs/ARF2020_da_TypeII_examples.pdf)]
 
-1. CanTONEse: a self-learning mobile app for Cantonese tones. [Yue 24](https://fah.um.edu.mo/yue2020/), University of Macau. [with Mei-ying KI & Yik-Po LAI] [[slides](https://docs.google.com/presentation/d/1qJQlwvJAXd_KDMfQaqr21ZZdPj3p17dDsMirqcedfD8/edit?usp=sharing)] [[App (Google Play)](https://play.google.com/store/apps/details?id=com.cantonese)]
+1. CanTONEse: a self-learning mobile app for Cantonese tones. [Yue 24](https://fah.um.edu.mo/yue2020/), University of Macau (online). [with Mei-ying KI & Yik-Po LAI] [[slides](https://docs.google.com/presentation/d/1qJQlwvJAXd_KDMfQaqr21ZZdPj3p17dDsMirqcedfD8/edit?usp=sharing)] [[App (Google Play)](https://play.google.com/store/apps/details?id=com.cantonese)]
 
-1. Bilingual multi-word expressions, multiple-correspondence, and their cultivation from parallel patents: the Chinese-English case. [PACLIC-34 Workshop on MWEA](https://vlsp.org.vn/paclic2020/mwea), VNU University of Science, Hanoi. [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134), Ka Po CHOW, [John LEE](http://www2.lt.cityu.edu.hk/~jsylee/), Yaxuan JI & Kevin WU] [[paper](https://kafai-yip.github.io/assets/docs/paclic34-mwe_draft_1006_with paclic title.pdf)]
+1. Bilingual multi-word expressions, multiple-correspondence, and their cultivation from parallel patents: the Chinese-English case. [PACLIC-34 Workshop on MWEA](https://vlsp.org.vn/paclic2020/mwea), VNU University of Science, Hanoi (online). [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134), Ka Po CHOW, [John LEE](http://www2.lt.cityu.edu.hk/~jsylee/), Yaxuan JI & Kevin WU] [[paper](https://kafai-yip.github.io/assets/docs/paclic34-mwe_draft_1006_with paclic title.pdf)]
 
-1. A corpus-based comparative study of light verbs in three Chinese speech communities. [PACLIC-34](https://vlsp.org.vn/paclic2020/), VNU University of Science, Hanoi. [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)] [[slides](https://kafai-yip.github.io/assets/docs/PACLIC-34_light verb_presentation_20201019_1100.pdf)] [[paper](https://kafai-yip.github.io/assets/docs/PACLIC-34_light verb_draft_20200925_withtitle.pdf)]
+1. A corpus-based comparative study of light verbs in three Chinese speech communities. [PACLIC-34](https://vlsp.org.vn/paclic2020/), VNU University of Science, Hanoi (online). [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)] [[slides](https://kafai-yip.github.io/assets/docs/PACLIC-34_light verb_presentation_20201019_1100.pdf)] [[paper](https://kafai-yip.github.io/assets/docs/PACLIC-34_light verb_draft_20200925_withtitle.pdf)]
 
-1. Generalized Scope Economy. [NACCL-32](http://2020.sicogg.or.kr/), UConn (Webinar). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/NACCL32 Generalized Scope Economy_handout_20200918.pdf)]
+1. Generalized Scope Economy. [NACCL-32](http://2020.sicogg.or.kr/), UConn (online). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/NACCL32 Generalized Scope Economy_handout_20200918.pdf)]
 
-1. Generalized Scope Economy. [SICOGG-22](http://2020.sicogg.or.kr/), Gyeongsang National University (Virtual Conference). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/SICOGG 22 presentation_Generalized Scope Economy_20200813.pdf)]
+1. Generalized Scope Economy. [SICOGG-22](http://2020.sicogg.or.kr/), Gyeongsang National University (online). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/SICOGG 22 presentation_Generalized Scope Economy_20200813.pdf)]
 
-1. Hyperraising and evidentiality. [SICOGG-22](http://2020.sicogg.or.kr/), Gyeongsang National University (Virtual Conference). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/SICOGG 22 presentation_Hyper-raising and evidentiality.pdf)]
+1. Hyperraising and evidentiality. [SICOGG-22](http://2020.sicogg.or.kr/), Gyeongsang National University (online). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/SICOGG 22 presentation_Hyper-raising and evidentiality.pdf)]
 
-1. Facilitating the self-learning of Cantonese: an innovative e-approach. [CUHK Expo 2019/20](https://www.elearning.cuhk.edu.hk/expo2019), CUHK. [with Pit Shun LAI & Yik-Po LAI]
+1. Facilitating the self-learning of Cantonese: an innovative e-approach. [CUHK Expo 2019/20](https://www.elearning.cuhk.edu.hk/expo2019), CUHK (online). [with Pit Shun LAI & Yik-Po LAI]
 
 1. Syllable Deletion and Morphological Length in Cantonese Verbs. [FoCaL-3](https://focalhongkong.wordpress.com/), HSUHK. [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/[FoCaL-3] Syllable deletion & morphological length in Cantonese verbs.pdf)]
 
-1. How to identify intonations on sentence-final particles? [WOC-20](https://www.lshk.org/workshop-on-cantonese-woc), HKBU (Webinar). [with Him Nok LEE] [[slides](https://kafai-yip.github.io/assets/docs/WOC-20_ge_20200606.pdf)]
+1. How to identify intonations on sentence-final particles? [WOC-20](https://www.lshk.org/workshop-on-cantonese-woc), HKBU (online). [with Him Nok LEE] [[slides](https://kafai-yip.github.io/assets/docs/WOC-20_ge_20200606.pdf)]
 
-1. Zero-coded passives in Cantonese. [WICL-5](https://u.osu.edu/wicl/wicl-5/), OSU (Webinar). [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/Chan, Lee & Yip (2020) Zero coded passives in Cantonese [WICL-5].pdf)]
+1. Zero-coded passives in Cantonese. [WICL-5](https://u.osu.edu/wicl/wicl-5/), OSU (online). [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/Chan, Lee & Yip (2020) Zero coded passives in Cantonese [WICL-5].pdf)]
 
-1. The prosodic syntax of right dislocation in Cantonese. [WICL-5](https://u.osu.edu/wicl/wicl-5/), OSU (Webinar). [[slides](https://kafai-yip.github.io/assets/docs/WICL-5_RD_20200418.pptx)]
+1. The prosodic syntax of right dislocation in Cantonese. [WICL-5](https://u.osu.edu/wicl/wicl-5/), OSU (online). [[slides](https://kafai-yip.github.io/assets/docs/WICL-5_RD_20200418.pptx)]
 
 1. Raising, phase unlocked. [WCCFL-38](https://wccfl2020.linguistics.ubc.ca/), UBC. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[poster](https://kafai-yip.github.io/assets/docs/WCCFL38 - Raising, phase unlocked_20200228.pdf)]
 
