@@ -16,6 +16,10 @@ classes: wide
 
 ### 2021
 
+1. Two types of temporal adverbial clauses in Cantonese. [BEAL-4](https://u.osu.edu/beal/beal-forum/2021-2/), OSU (online). [[handout](https://kafai-yip.github.io/assets/docs/BEAL-4_temporal_20210304.pdf)]
+
+1. Deriving separable verbs in Cantonese. [BEAL-4](https://u.osu.edu/beal/beal-forum/2021-2/), OSU (online). [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/Syllable deletion (BEAL-4).pdf)] [[slides](https://kafai-yip.github.io/assets/docs/Syllable deletion (BEAL-4 - short).pdf)]
+
 1. Separable verbs, syllable deletion, and micro-variations. [Phex-11](https://toki482.wixsite.com/phex11/?lang=ja), Sapporo University (online). [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/Syllable deletion (Phex-11)-handout.pdf)] [[slides](https://kafai-yip.github.io/assets/docs/Syllable deletion (Phex-11)-slides.pdf)]
 
 ### 2020
