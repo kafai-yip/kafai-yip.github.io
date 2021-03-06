@@ -6,8 +6,6 @@ toc_label: "Research topics"
 toc_icon: "university"
 ---
 
-[under construction]
-
 ## Syntax & semantics
 
 ### *Concord*
