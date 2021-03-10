@@ -7,11 +7,11 @@ toc_icon: "link"
 ---
 
 ## Membership
+[**FoCaL**](https://focalhongkong.wordpress.com/): Forum on Cantonese Linguistics
+
 [**LSHK**](https://www.lshk.org/): The Linguistic Society of Hong Kong
 
 [**LSA**](https://www.linguisticsociety.org/): Linguistic Society of America
-
-[**FoCaL**](https://focalhongkong.wordpress.com/): Forum on Cantonese Linguistics
 
 
 ## Corpus
@@ -124,6 +124,7 @@ a self-serving handy list of online profiles of linguists whose major research l
 | LEI           | [Lisa L.-S. CHENG](https://www.universiteitleiden.nl/en/staffmembers/lisa-cheng#tab-1) | syntax & its interfaces |
 | CUHK          | [Siu-Pong CHENG](https://www.semanticscholar.org/author/Siu-Pong-Cheng/8380260) | syntax |
 | HKPolyU       | [Candice Chi-Hang CHEUNG](https://sites.google.com/site/candicechcheung/) | clinical linguistics, syntax |
+| EdUHK         | [Hin Tat CHEUNG](https://repository.eduhk.hk/en/persons/hintat-cheung) | acquisition, language disorders |
 | CUHK          | [Hung-nin Samuel CHEUNG](https://www.chi.cuhk.edu.hk/about-us/people/cheung-h-samuel) | historical linguistics, dialectology | 
 | HKPolyU SPEED | [Kwan-hin CHEUNG](https://www.speed-polyu.edu.hk/staff/division-of-languages-and-communication/kwan-hin) | Cantonese Opera, tone-melody interface |
 | CUHK          | [Lawrence Yam-leung CHEUNG](http://www.cuhk.edu.hk/lin/new/people/lawrence/) | syntax, corpus linguistics |
