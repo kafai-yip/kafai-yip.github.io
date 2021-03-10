@@ -20,7 +20,7 @@ toc_icon: "university"
 
 ### *Adverbial clauses*
 - **Temporal clauses**
-    - I show two different ways to derive temporal adverbial clauses, by merging an operator lower in a clause or to the highest position. I also discuss how the height of merging sites may determine the external syntax.
+    - I show two different ways to derive temporal adverbial clauses, by merging an operator (comparable to *when*) at different positions. I also discuss how the height of operator merging sites may determine the external syntax.
     - Cantonese｜[handout-BEAL](https://kafai-yip.github.io/assets/docs/BEAL-4_temporal_20210304.pdf)
 {: .notice--info}
 
