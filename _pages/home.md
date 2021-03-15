@@ -18,7 +18,11 @@ I am a first-year PhD student in the Department of Linguistics at Yale Universit
 
 ## Upcoming
 
-[The Fourth Forum on Cantonese Linguistics (FoCaL-4)](https://focalhongkong.wordpress.com/) on 29 May! [[CFP](https://focalhongkong.wordpress.com/%e5%be%b5%e7%a8%bf%e9%80%9a%e7%9f%a5-call-for-papers/)] [[poster](https://focalhongkong.wordpress.com/%e6%b5%b7%e5%a0%b1-poster/)] [[submission](https://easychair.org/conferences/?conf=focal4)]
+CanTONEse has recently been released! It is an app assisting second-language learning of Cantonese tones.
+Download: [Android](https://play.google.com/store/apps/details?id=com.cantonese)/[iOS](https://apps.apple.com/hk/app/cantonese/id1546692785?l=en) [jointly developed with Mei-ying KI & Yik-Po LAI]
+
+Approaching submission deadline of [The Fourth Forum on Cantonese Linguistics (FoCaL-4)](https://focalhongkong.wordpress.com/) on 20 March!
+[[CFP](https://focalhongkong.wordpress.com/%e5%be%b5%e7%a8%bf%e9%80%9a%e7%9f%a5-call-for-papers/)] [[poster](https://focalhongkong.wordpress.com/%e6%b5%b7%e5%a0%b1-poster/)] [[submission](https://easychair.org/conferences/?conf=focal4)]
 
 2021, Mar 19-21. Universal concord as syntactic agreement. [PLC-45](https://www.ling.upenn.edu/Events/PLC/plc45/index.html), UPenn (online).
 
