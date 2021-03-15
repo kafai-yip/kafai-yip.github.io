@@ -16,7 +16,7 @@ header:
 
 I am a first-year PhD student in the Department of Linguistics at Yale University. I study Syntax, Semantics and their interface. Cats are my favorite. I’m a Hongkonger.
 
-- What's new:
+What's new:
   - ***CanTONEse*** has recently been released! It is an app assisting second-language learning of Cantonese tones, jointly developed by Mei-ying KI, Yik-Po LAI & me.
   - [Download: [Android](https://play.google.com/store/apps/details?id=com.cantonese)/[iOS](https://apps.apple.com/hk/app/cantonese/id1546692785?l=en)]
   - Submission to [The Fourth Forum on Cantonese Linguistics (FoCaL-4)](https://focalhongkong.wordpress.com/) due on **20 March**!
