@@ -21,7 +21,7 @@ I am a first-year PhD student in the Department of Linguistics at Yale Universit
   - Download: [Android](https://play.google.com/store/apps/details?id=com.cantonese)/[iOS](https://apps.apple.com/hk/app/cantonese/id1546692785?l=en)
   - Submission to [The Fourth Forum on Cantonese Linguistics (FoCaL-4)](https://focalhongkong.wordpress.com/) due on **20 March**!
   - [[CFP](https://focalhongkong.wordpress.com/%e5%be%b5%e7%a8%bf%e9%80%9a%e7%9f%a5-call-for-papers/)] [[poster](https://focalhongkong.wordpress.com/%e6%b5%b7%e5%a0%b1-poster/)] [[submission](https://easychair.org/conferences/?conf=focal4)]
-{: .notice--warning}
+{: .notice--primary}
 
 ## Upcoming talks
 
