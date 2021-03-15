@@ -24,7 +24,7 @@ I am a first-year PhD student in the Department of Linguistics at Yale Universit
 {% endcapture %}
 
 <div class="notice--info">
-  <h4 class="no_toc">What's new</h4>
+  <h4 class="no_toc">What's new?</h4>
   {{ notice-text | markdownify }}
 </div>
 
