@@ -16,15 +16,14 @@ header:
 
 I am a first-year PhD student in the Department of Linguistics at Yale University. I study Syntax, Semantics and their interface. Cats are my favorite. I’m a Hongkonger.
 
-## Upcoming
-
-***CanTONEse*** has recently been released! It is an app assisting second-language learning of Cantonese tones.
+- What's new:
+  - ***CanTONEse*** has recently been released! It is an app assisting second-language learning of Cantonese tones.
 Download: [Android](https://play.google.com/store/apps/details?id=com.cantonese)/[iOS](https://apps.apple.com/hk/app/cantonese/id1546692785?l=en) [with Mei-ying KI & Yik-Po LAI]
+  - Submission to [The Fourth Forum on Cantonese Linguistics (FoCaL-4)](https://focalhongkong.wordpress.com/) due on **20 March**!
+[[CFP](https://focalhongkong.wordpress.com/%e5%be%b5%e7%a8%bf%e9%80%9a%e7%9f%a5-call-for-papers/)] [[poster](https://focalhongkong.wordpress.com/%e6%b5%b7%e5%a0%b1-poster/)] [[submission](https://easychair.org/conferences/?conf=focal4)]
 {: .notice--warning}
 
-Submission to [The Fourth Forum on Cantonese Linguistics (FoCaL-4)](https://focalhongkong.wordpress.com/) due on **20 March**!
-[[CFP](https://focalhongkong.wordpress.com/%e5%be%b5%e7%a8%bf%e9%80%9a%e7%9f%a5-call-for-papers/)] [[poster](https://focalhongkong.wordpress.com/%e6%b5%b7%e5%a0%b1-poster/)] [[submission](https://easychair.org/conferences/?conf=focal4)]
-{: .notice--success}
+## Upcoming talks
 
 2021, Mar 19-21. Universal concord as syntactic agreement. [PLC-45](https://www.ling.upenn.edu/Events/PLC/plc45/index.html), UPenn (online).
 
@@ -38,7 +37,7 @@ Submission to [The Fourth Forum on Cantonese Linguistics (FoCaL-4)](https://foca
 
 2021, Jun 23-26. Differential metaphorization and grammaticalization: a case study of Chinese light verbs. [RaAM-14](https://www.raam14.flf.vu.lt/), Vilnius, Lithuania.
 
-## Recent
+## Recent talks
 
 2021, Mar. Two types of temporal adverbial clauses in Cantonese. [BEAL-4](https://u.osu.edu/beal/beal-forum/2021-2/), OSU (online). [[handout](https://kafai-yip.github.io/assets/docs/BEAL-4_temporal_20210304.pdf)]
 
