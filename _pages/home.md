@@ -19,7 +19,7 @@ I am a first-year PhD student in the Department of Linguistics at Yale Universit
 ## Upcoming
 
 ***CanTONEse*** has recently been released! It is an app assisting second-language learning of Cantonese tones.
-Download: [Android](https://play.google.com/store/apps/details?id=com.cantonese)/[iOS](https://apps.apple.com/hk/app/cantonese/id1546692785?l=en) [jointly developed with Mei-ying KI & Yik-Po LAI]
+Download: [Android](https://play.google.com/store/apps/details?id=com.cantonese)/[iOS](https://apps.apple.com/hk/app/cantonese/id1546692785?l=en) [with Mei-ying KI & Yik-Po LAI]
 {: .notice--warning}
 
 Submission to [The Fourth Forum on Cantonese Linguistics (FoCaL-4)](https://focalhongkong.wordpress.com/) due on **20 March**!
