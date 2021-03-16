@@ -162,11 +162,11 @@ toc_icon: "university"
 {% capture notice-text %}
 [with Mei-ying KI & Yik-Po LAI]
 * An app which assists second-language learning of Cantonese tones.
-    - Cantonese｜[slides-Yue](https://docs.google.com/presentation/d/1qJQlwvJAXd_KDMfQaqr21ZZdPj3p17dDsMirqcedfD8/edit?usp=sharing)｜App:[Android](https://play.google.com/store/apps/details?id=com.cantonese)/[iOS](https://apps.apple.com/hk/app/cantonese/id1546692785?l=en)
+    - Cantonese｜[slides-Yue](https://docs.google.com/presentation/d/1qJQlwvJAXd_KDMfQaqr21ZZdPj3p17dDsMirqcedfD8/edit?usp=sharing)｜[Android](https://play.google.com/store/apps/details?id=com.cantonese)/[iOS](https://apps.apple.com/hk/app/cantonese/id1546692785?l=en)
 {% endcapture %}
 
 <div class="notice--danger">
-  <h4 class="no_toc">Cantonese learning</h4>
+  <h4 class="no_toc">Cantonese learning: *CanTONEse*</h4>
   {{ notice-text | markdownify }}
 </div>
 
