@@ -166,7 +166,7 @@ toc_icon: "university"
 {% endcapture %}
 
 <div class="notice--danger">
-  <h4 class="no_toc">Cantonese learning: *CanTONEse*</h4>
+  <h4 class="no_toc">Cantonese learning: CanTONEse</h4>
   {{ notice-text | markdownify }}
 </div>
 
