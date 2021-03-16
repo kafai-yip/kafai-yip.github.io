@@ -12,8 +12,10 @@ toc_icon: "university"
 
 {% capture notice-text %}
 * I show that a purported affixal quantifier in Cantonese is indeed a concord element which agrees with a universal quantifier, instantiating a case of universal concord. 
+{: .text-justify}
     - Cantonese｜[handout-USC-Syntax+](https://kafai-yip.github.io/assets/docs/USC Syntax+_∀-concord_handout_20201005.pdf)
 * A related discussion on the scopal behaviour of the purported affixal quantifier. 
+{: .text-justify}
     - Cantonese｜[paper-CRCL (in Chinese)](http://www.cuhk.edu.hk/ics/clrc/crcl_99_1/yip.pdf)
 {% endcapture %}
 
