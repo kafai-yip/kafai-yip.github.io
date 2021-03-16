@@ -60,12 +60,13 @@ toc_icon: "university"
 ### *Modal*
 
 {% capture notice-text %}
+[with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 * We investigate the distribution of modals in Chinese, and their interaction with focus interpretations.
     - Mandarin｜[handout-NACCL](https://kafai-yip.github.io/assets/docs/NACCL32 Generalized Scope Economy_handout_20200918.pdf)
 {% endcapture %}
 
 <div class="notice--info">
-  <h4 class="no_toc">Modal movement licensed by focus [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]</h4>
+  <h4 class="no_toc">Modal movement licensed by focus</h4>
   {{ notice-text | markdownify }}
 </div>
 
@@ -86,24 +87,26 @@ toc_icon: "university"
 ### *Syllable deletion*
 
 {% capture notice-text %}
+[with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 * We discuss the monosyllabic preference in separable verbs and related phenomena, and propose a syllable deletion account. Micro-variations between Cantonese and Mandarin are also addressed.
     - Cantonese, Mandarin｜[handout-BEAL](https://kafai-yip.github.io/assets/docs/Syllable deletion (BEAL-4).pdf)
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="no_toc">Monosyllabic preference and syllable deletion [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]</h4>
+  <h4 class="no_toc">Monosyllabic preference and syllable deletion</h4>
   {{ notice-text | markdownify }}
 </div>
 
 ### *SFPs & intonation*
 
 {% capture notice-text %}
+[with Him Nok LEE]
 * We exmaine the pitch properties of a polysemous SFP and discuss how to distinguish intonations from tones on SFPs.
     - Cantonese｜[slides-WOC](https://kafai-yip.github.io/assets/docs/WOC-20_ge_20200606.pdf)
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="no_toc">Intonations on sentence-final particles [with Him Nok LEE]</h4>
+  <h4 class="no_toc">Intonations on sentence-final particles</h4>
   {{ notice-text | markdownify }}
 </div>
 
@@ -112,22 +115,24 @@ toc_icon: "university"
 ### *Metaphorization*
 
 {% capture notice-text %}
+[with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)]
 * With a case study on Chinese light verbs, we explore different dimensions involving gradation of metaphorization process and provide a generalized schema of metaphorization.
 {% endcapture %}
 
 <div class="notice--primary">
-  <h4 class="no_toc">Gradient metaphorization and grammaticalization [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)]</h4>
+  <h4 class="no_toc">Gradient metaphorization and grammaticalization</h4>
   {{ notice-text | markdownify }}
 </div>
 
 {% capture notice-text %}
+[with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134) & Yaxuan JI]
 * We offer a novel dynamic perspective to language variations with a process-based approach. We focus on the parallel and differential developments of metaphorization process in varieties of Modern Standard Chinese.
     - Chinese (BJ, HK, TW)｜[paper-PACLIC](https://kafai-yip.github.io/assets/docs/PACLIC-34_light verb_draft_20200925_withtitle.pdf)
     - Chinese (BJ, HK, MC)｜[slides-ARF (in Chinese)](https://kafai-yip.github.io/assets/docs/ARF_HBM[da]_1208 1230 HKT.pdf)｜[samples](https://kafai-yip.github.io/assets/docs/ARF2020_da_TypeII_examples.pdf)
 {% endcapture %}
 
 <div class="notice--primary">
-  <h4 class="no_toc">MSC variations in metaphorization [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134) & Yaxuan JI]</h4>
+  <h4 class="no_toc">MSC variations in metaphorization</h4>
   {{ notice-text | markdownify }}
 </div>
 
@@ -144,22 +149,24 @@ toc_icon: "university"
 </div>
 
 {% capture notice-text %}
+[with [Jia JIN](https://myweb.cuhk.edu.cn/jinjia)]
 * We argue that verbs of saying should be divided into two classes, SAY and GIVE-by-saying, which take different direct & indirect objects. 
     - Chenghai (澄海) Min｜[slides-IRF (in Chinese)](https://kafai-yip.github.io/assets/docs/IRF-5_VOS in Chenghai_20190616.pdf)
 {% endcapture %}
 
 <div class="notice--danger">
-  <h4 class="no_toc">Verbs of saying [with [Jia JIN](https://myweb.cuhk.edu.cn/jinjia)]</h4>
+  <h4 class="no_toc">Verbs of saying</h4>
   {{ notice-text | markdownify }}
 </div>
 
 {% capture notice-text %}
+[with Mei-ying KI & Yik-Po LAI]
 * An app which assists second-language learning of Cantonese tones.
     - Cantonese｜[slides-Yue](https://docs.google.com/presentation/d/1qJQlwvJAXd_KDMfQaqr21ZZdPj3p17dDsMirqcedfD8/edit?usp=sharing)｜App:[Android](https://play.google.com/store/apps/details?id=com.cantonese)/[iOS](https://apps.apple.com/hk/app/cantonese/id1546692785?l=en)
 {% endcapture %}
 
 <div class="notice--danger">
-  <h4 class="no_toc">Cantonese learning [with Mei-ying KI & Yik-Po LAI]</h4>
+  <h4 class="no_toc">Cantonese learning</h4>
   {{ notice-text | markdownify }}
 </div>
 
