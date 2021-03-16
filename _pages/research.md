@@ -23,10 +23,16 @@ toc_icon: "university"
 </div>
 
 ### *Adverbial clauses*
-- **Temporal clauses**
-    - I show two different ways to derive temporal adverbial clauses, by merging an operator (comparable to *when*) at different positions. I also discuss how the height of operator merging sites may determine the external syntax.
+
+{% capture notice-text %}
+* I show two different ways to derive temporal adverbial clauses, by merging an operator (comparable to *when*) at different positions. I also discuss how the height of operator merging sites may determine the external syntax.
     - Cantonese｜[handout-BEAL](https://kafai-yip.github.io/assets/docs/BEAL-4_temporal_20210304.pdf)
-{: .notice--info}
+{% endcapture %}
+
+<div class="notice--info">
+  <h4 class="no_toc">Temporal clauses</h4>
+  {{ notice-text | markdownify }}
+</div>
 
 - **Converbs**
     - I investigate 11 Cantonese affixes that only occur in a adverbial clause, which belong to the class of adverbial participles (i.e. converbs) from a typological perspective.
