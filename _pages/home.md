@@ -39,7 +39,7 @@ I am a first-year PhD student in the Department of Linguistics at Yale Universit
 
 2021, May 12-14. Concord as syntactic agreement: evidence from intervention effects. Poster at [CGG-30](https://30cggovd.wixsite.com/30cggovd), Universidad de Oviedo, Asturias (online).
 
-2021, May 15-16. Invited talk about [CanTONEse](https://play.google.com/store/apps/details?id=com.cantonese), an App assisting Cantonese tone learning. [School of Cantonese Studies](https://www.eduhk.hk/lml/scs2021/en/), EdUHK (online). [with Mei-ying KI & Yik-Po LAI]
+2021, May 15-16. Invited talk about [CanTONEse](https://play.google.com/store/apps/details?id=com.cantonese), an app for learning Cantonese tones. [School of Cantonese Studies](https://www.eduhk.hk/lml/scs2021/en/), EdUHK (online). [with Mei-ying KI & Yik-Po LAI]
 
 2021, Jun 23-26. Differential metaphorization and grammaticalization: a case study of Chinese light verbs. [RaAM-14](https://www.raam14.flf.vu.lt/), Vilnius, Lithuania.
 
