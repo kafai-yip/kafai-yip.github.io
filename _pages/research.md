@@ -88,7 +88,7 @@ toc_icon: "university"
 
 {% capture notice-text %}
 [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
-* We discuss the monosyllabic preference in separable verbs and related phenomena, and propose a syllable deletion account. Micro-variations between Cantonese and Mandarin are also addressed.
+* We discuss the monosyllabic preference in separable verbs and related phenomena, and propose a syllable deletion account. Micro-variations in Cantonese and Mandarin are also addressed.
     - Cantonese, Mandarin｜[handout-PLC](https://kafai-yip.github.io/assets/docs/Syllable_deletion_PLC-45_handout.pdf)
 {% endcapture %}
 
