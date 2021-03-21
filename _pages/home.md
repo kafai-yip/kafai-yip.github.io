@@ -20,7 +20,6 @@ I am a first-year PhD student in the Department of Linguistics at Yale Universit
 {% capture notice-text %}
 * ***CanTONEse*** ([Android](https://play.google.com/store/apps/details?id=com.cantonese)/[iOS](https://apps.apple.com/hk/app/cantonese/id1546692785?l=en)) has recently been released! 
   - It's an app assisting second-language learning of Cantonese tones, jointly developed by Mei-ying KI, Yik-Po LAI & me for [CUHK-CHLL](https://www.chi.cuhk.edu.hk/).
-* Submission to [The Fourth Forum on Cantonese Linguistics (FoCaL-4)](https://focalhongkong.wordpress.com/) due on **20 March**! ([CFP](https://focalhongkong.wordpress.com/%e5%be%b5%e7%a8%bf%e9%80%9a%e7%9f%a5-call-for-papers/), [poster](https://focalhongkong.wordpress.com/%e6%b5%b7%e5%a0%b1-poster/),  [submission](https://easychair.org/conferences/?conf=focal4))
 {% endcapture %}
 
 <div class="notice--info">
@@ -31,10 +30,6 @@ I am a first-year PhD student in the Department of Linguistics at Yale Universit
 
 ## Upcoming talks
 
-2021, Mar 19-21. Universal concord as syntactic agreement. [PLC-45](https://www.ling.upenn.edu/Events/PLC/plc45/index.html), UPenn (online).
-
-2021, Mar 19-21. Verbal “infixation” as partial deletion: a case in Cantonese verbs. [PLC-45](https://www.ling.upenn.edu/Events/PLC/plc45/index.html), UPenn (online). [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
-
 2021, Apr 8-11. Two types of temporal adverbial clauses in Cantonese. Poster at [WCCFL-39](https://sites.google.com/view/wccfl2021/home), UArizona (online).
 
 2021, May 12-14. Concord as syntactic agreement: evidence from intervention effects. Poster at [CGG-30](https://30cggovd.wixsite.com/30cggovd), Universidad de Oviedo, Asturias (online).
@@ -44,6 +39,10 @@ I am a first-year PhD student in the Department of Linguistics at Yale Universit
 2021, Jun 23-26. Differential metaphorization and grammaticalization: a case study of Chinese light verbs. [RaAM-14](https://www.raam14.flf.vu.lt/), Vilnius, Lithuania.
 
 ## Recent talks
+
+2021, Mar. Universal concord as syntactic agreement. [PLC-45](https://www.ling.upenn.edu/Events/PLC/plc45/index.html), UPenn (online). [[handout](https://kafai-yip.github.io/assets/docs/PLC-45_∀-concord_handout_20210320.pdf)]
+
+2021, Mar. Verbal “infixation” as partial deletion: a case in Cantonese verbs. [PLC-45](https://www.ling.upenn.edu/Events/PLC/plc45/index.html), UPenn (online). [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/Syllable_deletion_PLC-45_handout.pdf)] [[slides](https://kafai-yip.github.io/assets/docs/Syllable_deletion_PLC-45_slides.pdf)]
 
 2021, Mar. Two types of temporal adverbial clauses in Cantonese. [BEAL-4](https://u.osu.edu/beal/beal-forum/2021-2/), OSU (online). [[handout](https://kafai-yip.github.io/assets/docs/BEAL-4_temporal_20210304.pdf)]
 
