@@ -35,7 +35,7 @@ toc_icon: "university"
 </div>
 
 {% capture notice-text %}
-* I investigate 11 Cantonese affixes that only occur in a adverbial clause, which belong to the class of adverbial participles (i.e. converbs) from a typological perspective.
+* I investigate 11 Cantonese affixes that only occur in adverbial clauses, which can be classified as converbs (e.g. adverbial participles) from a typological perspective.
     - Cantonese｜[Mphil thesis (in Chinese)](https://kafai-yip.github.io/assets/docs/MPhil Thesis_YIP KA FAI_final draft_20190918_2.pdf)
 {% endcapture %}
 
