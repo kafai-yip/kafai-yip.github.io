@@ -30,7 +30,7 @@ I am a first-year PhD student in the Department of Linguistics at Yale Universit
 
 ## Upcoming talks
 
-2021, Apr 8-11. Two types of temporal adverbial clauses in Cantonese. Poster at [WCCFL-39](https://sites.google.com/view/wccfl2021/home), UArizona (online).
+2021, Apr 8-11. Two types of temporal adverbial clauses in Cantonese. Poster at [WCCFL-39](https://sites.google.com/view/wccfl2021/home), UArizona (online). [[poster](https://kafai-yip.github.io/assets/docs/WCCFL-39_temporal_poster_20210330.pdf)] [[handout](https://kafai-yip.github.io/assets/docs/WCCFL-39_temporal_20210410.pdf)]
 
 2021, May 12-14. Concord as syntactic agreement: evidence from intervention effects. Poster at [CGG-30](https://30cggovd.wixsite.com/30cggovd), Universidad de Oviedo, Asturias (online).
 
