@@ -26,7 +26,7 @@ toc_icon: "university"
 
 {% capture notice-text %}
 * I show two different ways to derive temporal adverbial clauses, by merging an operator (comparable to *when*) at different positions. I also discuss how the height of operator merging sites may determine the external syntax.
-    - Cantonese｜[handout-BEAL](https://kafai-yip.github.io/assets/docs/BEAL-4_temporal_20210304.pdf)
+    - Cantonese｜[handout-WCCFL](https://kafai-yip.github.io/assets/docs/WCCFL-39_temporal_20210410.pdf)｜[poster-WCCFL](https://kafai-yip.github.io/assets/docs/WCCFL-39_temporal_poster_20210410.pdf)
 {% endcapture %}
 
 <div class="notice--info">
