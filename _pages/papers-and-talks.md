@@ -16,6 +16,8 @@ classes: wide
 
 ### 2021
 
+1. Two types of temporal adverbial clauses in Cantonese. Poster at [WCCFL-39](https://sites.google.com/view/wccfl2021/home), UArizona (online). [[poster](https://kafai-yip.github.io/assets/docs/WCCFL-39_temporal_poster_20210410.pdf)] [[handout](https://kafai-yip.github.io/assets/docs/WCCFL-39_temporal_20210410.pdf)]
+
 1. Universal concord as syntactic agreement. [PLC-45](https://www.ling.upenn.edu/Events/PLC/plc45/index.html), UPenn (online). [[handout](https://kafai-yip.github.io/assets/docs/PLC-45_∀-concord_handout_20210320.pdf)]
 
 1. Verbal “infixation” as partial deletion: a case in Cantonese verbs. [PLC-45](https://www.ling.upenn.edu/Events/PLC/plc45/index.html), UPenn (online). [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/Syllable_deletion_PLC-45_handout.pdf)] [[slides](https://kafai-yip.github.io/assets/docs/Syllable_deletion_PLC-45_slides.pdf)]
@@ -39,6 +41,8 @@ classes: wide
 1. Bilingual multi-word expressions, multiple-correspondence, and their cultivation from parallel patents: the Chinese-English case. [PACLIC-34 Workshop on MWEA](https://vlsp.org.vn/paclic2020/mwea), VNU University of Science, Hanoi (online). [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134), Ka Po CHOW, [John LEE](http://www2.lt.cityu.edu.hk/~jsylee/), Yaxuan JI & Kevin WU] [[paper](https://kafai-yip.github.io/assets/docs/paclic34-mwe_draft_1006_with paclic title.pdf)]
 
 1. A corpus-based comparative study of light verbs in three Chinese speech communities. [PACLIC-34](https://vlsp.org.vn/paclic2020/), VNU University of Science, Hanoi (online). [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)] [[slides](https://kafai-yip.github.io/assets/docs/PACLIC-34_light verb_presentation_20201019_1100.pdf)] [[paper](https://kafai-yip.github.io/assets/docs/PACLIC-34_light verb_draft_20200925_withtitle.pdf)]
+
+1. Universal Concord as Syntactic Agreement. [Syntax+](https://dornsife.usc.edu/labs/syntaxplus/), USC (online). [[handout](https://kafai-yip.github.io/assets/docs/USC Syntax+_∀-concord_handout_20201005.pdf)]
 
 1. Generalized Scope Economy. [NACCL-32](http://2020.sicogg.or.kr/), UConn (online). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/NACCL32 Generalized Scope Economy_handout_20200918.pdf)]
 
