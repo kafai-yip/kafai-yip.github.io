@@ -30,8 +30,6 @@ I am a first-year PhD student in the Department of Linguistics at Yale Universit
 
 ## Upcoming talks
 
-2021, Apr 8-11. Two types of temporal adverbial clauses in Cantonese. Poster at [WCCFL-39](https://sites.google.com/view/wccfl2021/home), UArizona (online). [[poster](https://kafai-yip.github.io/assets/docs/WCCFL-39_temporal_poster_20210330.pdf)] [[handout](https://kafai-yip.github.io/assets/docs/WCCFL-39_temporal_20210410.pdf)]
-
 2021, May 12-14. Concord as syntactic agreement: evidence from intervention effects. Poster at [CGG-30](https://30cggovd.wixsite.com/30cggovd), Universidad de Oviedo, Asturias (online).
 
 2021, May 15-16. Invited talk about [CanTONEse](https://play.google.com/store/apps/details?id=com.cantonese), an app for learning Cantonese tones. [School of Cantonese Studies](https://www.eduhk.hk/lml/scs2021/en/), EdUHK (online). [with Mei-ying KI & Yik-Po LAI]
@@ -41,6 +39,8 @@ I am a first-year PhD student in the Department of Linguistics at Yale Universit
 2021, Aug 30-Sep 3. Differential metaphorization and grammaticalization in Chinese light verbs. [SLE 2021](http://sle2021.eu/), National and Kapodistrian University of Athens (online). [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)]
 
 ## Recent talks
+
+2021, Apr. Two types of temporal adverbial clauses in Cantonese. Poster at [WCCFL-39](https://sites.google.com/view/wccfl2021/home), UArizona (online). [[poster](https://kafai-yip.github.io/assets/docs/WCCFL-39_temporal_poster_20210410.pdf)] [[handout](https://kafai-yip.github.io/assets/docs/WCCFL-39_temporal_20210410.pdf)]
 
 2021, Mar. Universal concord as syntactic agreement. [PLC-45](https://www.ling.upenn.edu/Events/PLC/plc45/index.html), UPenn (online). [[handout](https://kafai-yip.github.io/assets/docs/PLC-45_∀-concord_handout_20210320.pdf)]
 
