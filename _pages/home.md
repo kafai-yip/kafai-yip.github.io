@@ -18,7 +18,7 @@ I am a first-year PhD student in the Department of Linguistics at Yale Universit
 
 
 {% capture notice-text %}
-* ***Young Scholar Award for Prosodic Grammar, First Class*** ([Photo](https://kafai-yip.github.io/assets/images/ICPG7_Award.jpg), photo credit: Jia Jin)
+* ***Young Scholar Award for Prosodic Grammar, First Class*** ([Photo](https://kafai-yip.github.io/assets/images/ICPG7_Award.jpg) credit: Jia Jin)
   - I'm deeply honored to receive this awarded at The 7th International Conference on Prosodic Grammar (ICPG-7) hosted by BLCU and Tianjin University in China. The title of my awarded paper is "Syntax-prosody Mapping of Right Dislocation: A Comparative Study of Cantonese and Mandarin".
 * ***CanTONEse*** ([Android](https://play.google.com/store/apps/details?id=com.cantonese)/[iOS](https://apps.apple.com/hk/app/cantonese/id1546692785?l=en)) has recently been released! 
   - It's an app assisting second-language learning of Cantonese tones, jointly developed by Mei-ying KI, Yik-Po LAI & me for [CUHK-CHLL](https://www.chi.cuhk.edu.hk/).
