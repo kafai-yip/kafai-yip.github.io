@@ -22,5 +22,5 @@ Outside academia, I’m a cat lover. [Here](https://kafai-yip.github.io/cats/) c
 I go by both as Ka-Fai 家煇 ([ka55 fɐi55]) and Ming (my English name - though doesn’t sound Western).
 {: .text-justify}
 
-Here is my [CV](https://kafai-yip.github.io/assets/docs/CV_YIP Ka Fai_20210421_EN.pdf).
+
 {: .text-justify}
