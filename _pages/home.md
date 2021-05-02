@@ -48,16 +48,15 @@ I am a first-year PhD student in the Department of Linguistics at Yale Universit
 
 ## Recent talks
 
+2021, May. Exclusive focus in Yoruba. [SNEWS 2021](https://snewsling.wordpress.com/), UConn (online). 
+
+2021, Apr. Syntax-prosody Mapping of Right Dislocation: A Comparative Study of Cantonese and Mandarin. Award presentation at [ICPG-7](https://kafai-yip.github.io/assets/docs/ICPG7_Program_0416.pdf), BLCU & TJU, China. [[paper](https://kafai-yip.github.io/assets/docs/ICPG7_Right dislocation_withname.pdf)] ***Young Scholar Award for Prosodic Grammar, First Place***
+
 2021, Apr. Two types of temporal adverbial clauses in Cantonese. Poster at [WCCFL-39](https://sites.google.com/view/wccfl2021/home), UArizona (online). [[poster](https://kafai-yip.github.io/assets/docs/WCCFL-39_temporal_poster_20210410.pdf)] [[handout](https://kafai-yip.github.io/assets/docs/WCCFL-39_temporal_20210410.pdf)]
 
 2021, Mar. Universal concord as syntactic agreement. [PLC-45](https://www.ling.upenn.edu/Events/PLC/plc45/index.html), UPenn (online). [[handout](https://kafai-yip.github.io/assets/docs/PLC-45_∀-concord_handout_20210320.pdf)]
 
 2021, Mar. Verbal “infixation” as partial deletion: a case in Cantonese verbs. [PLC-45](https://www.ling.upenn.edu/Events/PLC/plc45/index.html), UPenn (online). [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/Syllable_deletion_PLC-45_handout.pdf)] [[slides](https://kafai-yip.github.io/assets/docs/Syllable_deletion_PLC-45_slides.pdf)]
 
-2021, Mar. Two types of temporal adverbial clauses in Cantonese. [BEAL-4](https://u.osu.edu/beal/beal-forum/2021-2/), OSU (online). [[handout](https://kafai-yip.github.io/assets/docs/BEAL-4_temporal_20210304.pdf)]
-
-2021, Mar. Deriving separable verbs in Cantonese. [BEAL-4](https://u.osu.edu/beal/beal-forum/2021-2/), OSU (online). [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/Syllable deletion (BEAL-4).pdf)] [[slides](https://kafai-yip.github.io/assets/docs/Syllable deletion (BEAL-4 - short).pdf)]
-
-2021, Feb. Separable verbs, syllable deletion, and micro-variations. [Phex-11](https://toki482.wixsite.com/phex11/?lang=ja), Sapporo University (online). [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/Syllable deletion (Phex-11)-handout.pdf)] [[slides](https://kafai-yip.github.io/assets/docs/Syllable deletion (Phex-11)-slides.pdf)]
 
 {% include feature_row id="intro" type="center" %}
