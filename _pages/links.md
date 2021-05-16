@@ -62,7 +62,7 @@ only for those accessible online, for a full list see [Wong Tak-sum's page](http
 
 | Year        | Corpus          | Paper |
 | ----------- | --------------- | ----- |
-| 2021        | [Cantonese Wordnet](https://github.com/lmorgadodacosta/CantoneseWN) | Sio & da Costa (2019) |
+| 2021        | [Cantonese Wordnet](https://github.com/lmorgadodacosta/CantoneseWN) | [Sio & da Costa (2019)](https://www.aclweb.org/anthology/2019.gwc-1.26/) |
 | 2020        | [Cifu](https://github.com/gwinterstein/Cifu) | [Lai & Winterstein (2020)](https://www.aclweb.org/anthology/2020.lrec-1.375.pdf) |
 | 2010s       | [Cantonese 4-word Idiomatic Expressions Excerpts and Audio Recording Database](http://www.livac.org/yueqie/) |
 | 2012        | [English Loanwords in Hong Kong Cantonese](https://chaaklau.github.io/elw/) |
