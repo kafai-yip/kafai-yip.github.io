@@ -58,10 +58,11 @@ only for those accessible online, for a full list see [Wong Tak-sum's page](http
 | 1820s~1920s | [Early Cantonese Colloquial Texts: A Database](http://143.89.108.109/Candbase/) |
 
 
-- *Others*
+- *Database*
 
 | Year        | Corpus          | Paper |
 | ----------- | --------------- | ----- |
+| 2021        | [Cantonese Wordnet](https://github.com/lmorgadodacosta/CantoneseWN) | Sio & da Costa (2019) |
 | 2020        | [Cifu](https://github.com/gwinterstein/Cifu) | [Lai & Winterstein (2020)](https://www.aclweb.org/anthology/2020.lrec-1.375.pdf) |
 | 2010s       | [Cantonese 4-word Idiomatic Expressions Excerpts and Audio Recording Database](http://www.livac.org/yueqie/) |
 | 2012        | [English Loanwords in Hong Kong Cantonese](https://chaaklau.github.io/elw/) |
@@ -148,6 +149,7 @@ a self-serving handy list of online profiles; please remind me if I've missed an
 | UCSC          | [Jess H. K. LAW](https://jesshklaw.wordpress.com/) | semantics & pragmatics |
 | EdUHK         | [Albert LEE](http://home.eduhk.hk/~albertlee/) | phonetics, L2 acquisition |
 | CUHK, TNU     | [Hun-tak Thomas LEE](https://www.cuhk.edu.hk/lin/new/people/thomas/index.htm) | acquisition, syntax & semantics |
+|               | [Jackson L. LEE](https://jacksonllee.com/) | computational linguistics, phonology |
 | CityUHK       | [John LEE](http://www2.lt.cityu.edu.hk/~jsylee/) | computational linguistics |
 | UOH           | [Man Ki Theodora LEE](https://hk.linkedin.com/in/theodoralee) | syntax & semantics |
 | UConn         | [Margaret Chui Yi LEE](https://linguistics.uconn.edu/person/margaret-chui-yi-lee/) | semantics |
