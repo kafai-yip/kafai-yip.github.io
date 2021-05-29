@@ -46,7 +46,7 @@ I am a first-year PhD student in the Department of Linguistics at Yale Universit
 
 ## Recent talks
 
-2021, May. Invited talk about [CanTONEse](https://play.google.com/store/apps/details?id=com.cantonese), an app for learning Cantonese tones. [School of Cantonese Studies](https://www.eduhk.hk/lml/scs2021/en/), EdUHK (online). [with Mei-ying KI & Yik-Po LAI]
+2021, May. (Invited talk) CanTONEse ([Android](https://play.google.com/store/apps/details?id=com.cantonese)/[iOS](https://apps.apple.com/hk/app/cantonese/id1546692785?l=en)), an app for learning Cantonese tones. [School of Cantonese Studies](https://www.eduhk.hk/lml/scs2021/en/), EdUHK (online). [with Mei-ying KI & Yik-Po LAI]
 
 2021, May. Exclusive focus in Yoruba. [SNEWS 2021](https://snewsling.wordpress.com/), UConn (online). [[handout](https://kafai-yip.github.io/assets/docs/SNEWS_only_20210501.pdf)]
 
