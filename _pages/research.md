@@ -127,7 +127,7 @@ toc_icon: "university"
 {% capture notice-text %}
 [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134) & Yaxuan JI]
 * We offer a novel dynamic perspective to language variations with a process-based approach. We focus on the parallel and differential developments of metaphorization process in varieties of Modern Standard Chinese.
-    - Chinese (BJ, HK, TW)｜[paper-PACLIC](https://kafai-yip.github.io/assets/docs/PACLIC-34_light verb_draft_20200925_withtitle.pdf)
+    - Chinese (BJ, HK, TW)｜[paper-PACLIC](https://aclanthology.org/2020.paclic-1.35/)
     - Chinese (BJ, HK, MC)｜[slides-ARF (in Chinese)](https://kafai-yip.github.io/assets/docs/ARF_HBM[da]_1208 1230 HKT.pdf)｜[samples](https://kafai-yip.github.io/assets/docs/ARF2020_da_TypeII_examples.pdf)
 {% endcapture %}
 
