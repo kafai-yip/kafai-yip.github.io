@@ -7,6 +7,12 @@ classes: wide
 
 ## Publications
 
+(2020). [A corpus-based comparative study of light verbs in three Chinese speech communities](https://aclanthology.org/2020.paclic-1.35/). In Minh Le Nguyen, Mai Chi Luong, and Sanghoun
+Song, eds., *Proceedings of the 34th Pacific Asia Conference on Language, Information and Computation (PACLIC-34)*, 302-311. Association for Computational Linguistics. [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)]
+
+(2020). [Bilingual multi-word expressions, multiple-correspondence, and their cultivation from parallel patents: the Chinese-English case](https://aclanthology.org/2020.paclic-1.68/). In Minh Le Nguyen, Mai Chi Luong, and Sanghoun
+Song, eds., *Proceedings of the 34th Pacific Asia Conference on Language, Information and Computation (PACLIC-34)*, 589-602. Association for Computational Linguistics. [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134), Ka Po CHOW, [John LEE](http://www2.lt.cityu.edu.hk/~jsylee/), Yaxuan JI & Kevin WU]
+
 (2020). [Syntax-prosody mapping of right-dislocations in Cantonese and Mandarin](https://sapporo-u.repo.nii.ac.jp/?action=repository_uri&item_id=7728&file_id=22&file_no=1). In Hisao Tokizaki, ed., *Phonological Externalization (Vol. 5)*, 73-90. Sapporo: Sapporo University.
 
 (2020). [粵語動詞後綴“親”的三個框式結構[Three discontinuous constructions of Cantonese verbal suffix *can*]](http://www.cuhk.edu.hk/ics/clrc/crcl_99_1/yip.pdf) (written in Chinese). *Current Research in Chinese Linguistics* 99(1):153-169.
@@ -42,9 +48,9 @@ classes: wide
 
 1. CanTONEse: a self-learning mobile app for Cantonese tones. [Yue 24](https://fah.um.edu.mo/yue2020/), University of Macau (online). [with Mei-ying KI & Yik-Po LAI] [[slides](https://docs.google.com/presentation/d/1qJQlwvJAXd_KDMfQaqr21ZZdPj3p17dDsMirqcedfD8/edit?usp=sharing)] [App [Android](https://play.google.com/store/apps/details?id=com.cantonese)/[iOS](https://apps.apple.com/hk/app/cantonese/id1546692785?l=en)]
 
-1. Bilingual multi-word expressions, multiple-correspondence, and their cultivation from parallel patents: the Chinese-English case. [PACLIC-34 Workshop on MWEA](https://vlsp.org.vn/paclic2020/mwea), VNU University of Science, Hanoi (online). [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134), Ka Po CHOW, [John LEE](http://www2.lt.cityu.edu.hk/~jsylee/), Yaxuan JI & Kevin WU] [[paper](https://kafai-yip.github.io/assets/docs/paclic34-mwe_draft_1006_with paclic title.pdf)]
+1. Bilingual multi-word expressions, multiple-correspondence, and their cultivation from parallel patents: the Chinese-English case. [PACLIC-34 Workshop on MWEA](https://vlsp.org.vn/paclic2020/mwea), VNU University of Science, Hanoi (online). [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134), Ka Po CHOW, [John LEE](http://www2.lt.cityu.edu.hk/~jsylee/), Yaxuan JI & Kevin WU] [[paper](https://aclanthology.org/2020.paclic-1.68/)]
 
-1. A corpus-based comparative study of light verbs in three Chinese speech communities. [PACLIC-34](https://vlsp.org.vn/paclic2020/), VNU University of Science, Hanoi (online). [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)] [[slides](https://kafai-yip.github.io/assets/docs/PACLIC-34_light verb_presentation_20201019_1100.pdf)] [[paper](https://kafai-yip.github.io/assets/docs/PACLIC-34_light verb_draft_20200925_withtitle.pdf)]
+1. A corpus-based comparative study of light verbs in three Chinese speech communities. [PACLIC-34](https://vlsp.org.vn/paclic2020/), VNU University of Science, Hanoi (online). [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)] [[slides](https://kafai-yip.github.io/assets/docs/PACLIC-34_light verb_presentation_20201019_1100.pdf)] [[paper](https://aclanthology.org/2020.paclic-1.35/)]
 
 1. Universal Concord as Syntactic Agreement. [Syntax+](https://dornsife.usc.edu/labs/syntaxplus/), USC (online). [[handout](https://kafai-yip.github.io/assets/docs/USC Syntax+_∀-concord_handout_20201005.pdf)]
 
