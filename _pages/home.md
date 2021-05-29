@@ -32,10 +32,6 @@ I am a first-year PhD student in the Department of Linguistics at Yale Universit
 
 ## Upcoming talks
 
-2021, May 12-14. Concord as syntactic agreement: evidence from intervention effects. Poster at [CGG-30](https://30cggovd.wixsite.com/30cggovd), Universidad de Oviedo, Asturias (online).
-
-2021, May 15-16. Invited talk about [CanTONEse](https://play.google.com/store/apps/details?id=com.cantonese), an app for learning Cantonese tones. [School of Cantonese Studies](https://www.eduhk.hk/lml/scs2021/en/), EdUHK (online). [with Mei-ying KI & Yik-Po LAI]
-
 2021, Jun 23-26. Differential metaphorization and grammaticalization: a case study of Chinese light verbs. [RaAM-14](https://www.raam14.flf.vu.lt/), Vilnius, Lithuania.
 
 2021, Jun 24-25. Converbs and adverbial clauses: a case study in Cantonese. [NACCL-33](https://lucian.uchicago.edu/blogs/lpl/NACCL33/), Uchicago (online).
@@ -44,9 +40,13 @@ I am a first-year PhD student in the Department of Linguistics at Yale Universit
 
 2021, Jun 24-25. MSC variations in metaphorization among Pan-Chinese speech communities. [NACCL-33](https://lucian.uchicago.edu/blogs/lpl/NACCL33/), Uchicago (online). [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)]
 
+2021, Jun 30-Jul 2. Concord as syntactic agreement: evidence from intervention effects. Poster at [CGG-30](https://30cggovd.wixsite.com/30cggovd), Universitat Autònoma de Barcelona (online).
+
 2021, Aug 30-Sep 3. Differential metaphorization and grammaticalization in Chinese light verbs. [SLE 2021](http://sle2021.eu/), National and Kapodistrian University of Athens (online). [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)]
 
 ## Recent talks
+
+2021, May. Invited talk about [CanTONEse](https://play.google.com/store/apps/details?id=com.cantonese), an app for learning Cantonese tones. [School of Cantonese Studies](https://www.eduhk.hk/lml/scs2021/en/), EdUHK (online). [with Mei-ying KI & Yik-Po LAI]
 
 2021, May. Exclusive focus in Yoruba. [SNEWS 2021](https://snewsling.wordpress.com/), UConn (online). [[handout](https://kafai-yip.github.io/assets/docs/SNEWS_only_20210501.pdf)]
 
