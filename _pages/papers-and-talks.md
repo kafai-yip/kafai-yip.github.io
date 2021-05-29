@@ -22,6 +22,8 @@ Song, eds., *Proceedings of the 34th Pacific Asia Conference on Language, Inform
 
 ### 2021
 
+1. (Invited talk) CanTONEse ([Android](https://play.google.com/store/apps/details?id=com.cantonese)/[iOS](https://apps.apple.com/hk/app/cantonese/id1546692785?l=en)), an app for learning Cantonese tones. [School of Cantonese Studies](https://www.eduhk.hk/lml/scs2021/en/), EdUHK (online). [with Mei-ying KI & Yik-Po LAI]
+
 1. Exclusive focus in Yoruba. [SNEWS 2021](https://snewsling.wordpress.com/), UConn (online). [[handout](https://kafai-yip.github.io/assets/docs/SNEWS_only_20210501.pdf)]
 
 1. Syntax-prosody Mapping of Right Dislocation: A Comparative Study of Cantonese and Mandarin. Award presentation at [ICPG-7](https://kafai-yip.github.io/assets/docs/ICPG7_Program_0416.pdf), BLCU & TJU, China. [[paper](https://kafai-yip.github.io/assets/docs/ICPG7_Right dislocation_withname.pdf)] [***Young Scholar Award for Prosodic Grammar, First Place***]
