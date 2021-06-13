@@ -40,6 +40,8 @@ I am a first-year PhD student in the Department of Linguistics at Yale Universit
 
 2021, Jun 24-25. MSC variations in metaphorization among Pan-Chinese speech communities. [NACCL-33](https://lucian.uchicago.edu/blogs/lpl/NACCL33/), Uchicago (online). [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)]
 
+2021, Jun 26. 何處是粵語口語和書面語語料的分水嶺——從LIVAC談起 [Where is the dividing line between spoken and written Cantonese data source: from the LIVAC perspective]. [WOC-21](https://www.lshk.org/workshop-on-cantonese-woc), EdUHK (online). [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134) & Yaxuan JI]
+
 2021, Jun 30-Jul 2. Concord as syntactic agreement: evidence from intervention effects. Poster at [CGG-30](https://30cggovd.wixsite.com/30cggovd), Universitat Autònoma de Barcelona (online).
 
 2021, Aug 30-Sep 3. Differential metaphorization and grammaticalization in Chinese light verbs. [SLE 2021](http://sle2021.eu/), National and Kapodistrian University of Athens (online). [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)]
@@ -50,9 +52,9 @@ I am a first-year PhD student in the Department of Linguistics at Yale Universit
 
 2021, May. Exclusive focus in Yoruba. [SNEWS 2021](https://snewsling.wordpress.com/), UConn (online). [[handout](https://kafai-yip.github.io/assets/docs/SNEWS_only_20210501.pdf)]
 
-2021, Apr. Syntax-prosody Mapping of Right Dislocation: A Comparative Study of Cantonese and Mandarin. Award presentation at [ICPG-7](https://kafai-yip.github.io/assets/docs/ICPG7_Program_0416.pdf), BLCU & TJU, China. [[paper](https://kafai-yip.github.io/assets/docs/ICPG7_Right dislocation_withname.pdf)]  [***Young Scholar Award for Prosodic Grammar, First Place***]
+2021, Apr. Syntax-prosody mapping of right dislocation: a comparative study of Cantonese and Mandarin. Award presentation at [ICPG-7](https://kafai-yip.github.io/assets/docs/ICPG7_Program_0416.pdf), BLCU & TJU, China. [[paper](https://kafai-yip.github.io/assets/docs/ICPG7_Right dislocation_withname.pdf)]  [***Young Scholar Award for Prosodic Grammar, First Place***]
 
-2021, Apr. Two types of temporal adverbial clauses in Cantonese. Poster at [WCCFL-39](https://sites.google.com/view/wccfl2021/home), UArizona (online). [[poster](https://kafai-yip.github.io/assets/docs/WCCFL-39_temporal_poster_20210410.pdf)] [[handout](https://kafai-yip.github.io/assets/docs/WCCFL-39_temporal_20210410.pdf)]
+2021, Apr. Two types of temporal adverbial clauses in Cantonese. Poster at [WCCFL-39](https://sites.google.com/view/wccfl2021/home), UArizona (online). [[poster](https://doi.org/10.25422/azu.data.14481591.v1)] [[handout](https://kafai-yip.github.io/assets/docs/WCCFL-39_temporal_20210410.pdf)]
 
 2021, Mar. Universal concord as syntactic agreement. [PLC-45](https://www.ling.upenn.edu/Events/PLC/plc45/index.html), UPenn (online). [[handout](https://kafai-yip.github.io/assets/docs/PLC-45_∀-concord_handout_20210320.pdf)]
 
