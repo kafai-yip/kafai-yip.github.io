@@ -26,7 +26,7 @@ toc_icon: "university"
 
 {% capture notice-text %}
 * I show two different ways to derive temporal adverbial clauses, by merging an operator (comparable to *when*) at different positions. I also discuss how the height of operator merging sites may determine the external syntax.
-    - Cantonese｜[handout-WCCFL](https://kafai-yip.github.io/assets/docs/WCCFL-39_temporal_20210410.pdf)｜[poster-WCCFL](https://doi.org/10.25422/azu.data.14481591.v1)
+    - Cantonese｜[paper-WCCFL](https://kafai-yip.github.io/assets/docs/WCCFL-39_Yip.pdf)｜[poster-WCCFL](https://doi.org/10.25422/azu.data.14481591.v1)
 {% endcapture %}
 
 <div class="notice--info">
@@ -36,7 +36,7 @@ toc_icon: "university"
 
 {% capture notice-text %}
 * I investigate 11 Cantonese affixes that only occur in adverbial clauses, which can be classified as converbs (e.g. adverbial participles) from a typological perspective.
-    - Cantonese｜[Mphil thesis (in Chinese)](https://kafai-yip.github.io/assets/docs/MPhil Thesis_YIP KA FAI_final draft_20190918_2.pdf)
+    - Cantonese｜[handout-NACCL](https://kafai-yip.github.io/assets/docs/NACCL-33_converb_handout.pdf) | [Mphil thesis (in Chinese)](https://kafai-yip.github.io/assets/docs/MPhil Thesis_YIP KA FAI_final draft_20190918_2.pdf)
 {% endcapture %}
 
 <div class="notice--info">
@@ -89,7 +89,7 @@ toc_icon: "university"
 {% capture notice-text %}
 [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 * We discuss the monosyllabic preference in separable verbs and related phenomena, and propose a syllable deletion account. Micro-variations in Cantonese and Mandarin are also addressed.
-    - Cantonese, Mandarin｜[handout-PLC](https://kafai-yip.github.io/assets/docs/Syllable_deletion_PLC-45_handout.pdf)
+    - Cantonese, Mandarin｜[handout-NACCL](https://kafai-yip.github.io/assets/docs/NACCL-33-Dis-Pred_handout.pdf)
 {% endcapture %}
 
 <div class="notice--success">
@@ -117,6 +117,7 @@ toc_icon: "university"
 {% capture notice-text %}
 [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)]
 * With a case study on Chinese light verbs, we explore different dimensions involving gradation of metaphorization process and provide a generalized schema of metaphorization.
+    - Chinese｜[slides-RaAM](https://kafai-yip.github.io/assets/docs/RaAM-14_light verb_presentation_20210624.pdf)
 {% endcapture %}
 
 <div class="notice--primary">
@@ -127,8 +128,7 @@ toc_icon: "university"
 {% capture notice-text %}
 [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134) & Yaxuan JI]
 * We offer a novel dynamic perspective to language variations with a process-based approach. We focus on the parallel and differential developments of metaphorization process in varieties of Modern Standard Chinese.
-    - Chinese (BJ, HK, TW)｜[paper-PACLIC](https://aclanthology.org/2020.paclic-1.35/)
-    - Chinese (BJ, HK, MC)｜[slides-ARF (in Chinese)](https://kafai-yip.github.io/assets/docs/ARF_HBM[da]_1208 1230 HKT.pdf)｜[samples](https://kafai-yip.github.io/assets/docs/ARF2020_da_TypeII_examples.pdf)
+    - Chinese (BJ, HK, MC, TW)｜[paper-PACLIC](https://aclanthology.org/2020.paclic-1.35/)｜[slides-NACCL](https://kafai-yip.github.io/assets/docs/NACCL-33_metaphorization_presentation.pdf)｜[samples](https://kafai-yip.github.io/assets/docs/ARF2020_da_TypeII_examples.pdf)
 {% endcapture %}
 
 <div class="notice--primary">
