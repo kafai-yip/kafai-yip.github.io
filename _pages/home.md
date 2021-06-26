@@ -36,9 +36,9 @@ I am a first-year PhD student in the Department of Linguistics at Yale Universit
 
 2021, Aug 30-Sep 3. Differential metaphorization and grammaticalization in Chinese light verbs. [SLE 2021](http://sle2021.eu/), National and Kapodistrian University of Athens (online). [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)]
 
-2021, Sep 14-17. Hyper-raising, evidentiality, and phase deactivation. [WFL-13](https://13wflunb.wixsite.com/wfl-2020), Auditório do Instituto de Letras, Universidade de Brasília (online). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
+2021, Sep 21-24. Hyper-raising, evidentiality, and phase deactivation. [WFL-13](https://13wflunb.wixsite.com/wfl-2020), Auditório do Instituto de Letras, Universidade de Brasília (online). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 
-2021, Sep 14-17. Universal concord as syntactic agreement. [WFL-13](https://13wflunb.wixsite.com/wfl-2020), Auditório do Instituto de Letras, Universidade de Brasília (online). 
+2021, Sep 21-24. Universal concord as syntactic agreement. [WFL-13](https://13wflunb.wixsite.com/wfl-2020), Auditório do Instituto de Letras, Universidade de Brasília (online). 
 
 ## Recent talks
 
