@@ -56,9 +56,6 @@ I am a first-year PhD student in the Department of Linguistics at Yale Universit
 
 2021, May. Exclusive focus in Yoruba. [SNEWS 2021](https://snewsling.wordpress.com/), UConn (online). [[handout](https://kafai-yip.github.io/assets/docs/SNEWS_only_20210501.pdf)]
 
-2021, Apr. Syntax-prosody mapping of right dislocation: a comparative study of Cantonese and Mandarin. Award presentation at [ICPG-7](https://kafai-yip.github.io/assets/docs/ICPG7_Program_0416.pdf), BLCU & TJU, China. [[paper](https://kafai-yip.github.io/assets/docs/ICPG7_Right dislocation_withname.pdf)]  [***Young Scholar Award for Prosodic Grammar, First Place***]
-
-2021, Apr. Two types of temporal adverbial clauses in Cantonese. Poster at [WCCFL-39](https://sites.google.com/view/wccfl2021/home), UArizona (online). [[poster](https://doi.org/10.25422/azu.data.14481591.v1)] [[handout](https://kafai-yip.github.io/assets/docs/WCCFL-39_temporal_20210410.pdf)]
 
 
 
