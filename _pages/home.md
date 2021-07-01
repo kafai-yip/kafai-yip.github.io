@@ -32,7 +32,7 @@ I am a first-year PhD student in the Department of Linguistics at Yale Universit
 
 ## Upcoming talks
 
-2021, Jun 30-Jul 2. Concord as syntactic agreement: evidence from intervention effects. Poster at [CGG-30](https://30cggovd.wixsite.com/30cggovd), Universitat Autònoma de Barcelona (online).
+2021, Jun 30-Jul 2. Concord as syntactic agreement: evidence from intervention effects. Poster at [CGG-30](https://30cggovd.wixsite.com/30cggovd), Universitat Autònoma de Barcelona (online). [[poster](https://kafai-yip.github.io/assets/docs/CGG-30_∀-concord_poster.pdf)] [[handout](https://kafai-yip.github.io/assets/docs/CGG-30_∀-concord_handout.pdf)]
 
 2021, Aug 30-Sep 3. Differential metaphorization and grammaticalization in Chinese light verbs. [SLE 2021](http://sle2021.eu/), National and Kapodistrian University of Athens (online). [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)]
 
