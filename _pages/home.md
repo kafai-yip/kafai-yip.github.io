@@ -32,8 +32,6 @@ I am a first-year PhD student in the Department of Linguistics at Yale Universit
 
 ## Upcoming talks
 
-2021, Jun 30-Jul 2. Concord as syntactic agreement: evidence from intervention effects. Poster at [CGG-30](https://30cggovd.wixsite.com/30cggovd), Universitat Autònoma de Barcelona (online). [[poster](https://kafai-yip.github.io/assets/docs/CGG-30_∀-concord_poster.pdf)] [[handout](https://kafai-yip.github.io/assets/docs/CGG-30_∀-concord_handout.pdf)]
-
 2021, Aug 30-Sep 3. Differential metaphorization and grammaticalization in Chinese light verbs. [SLE 2021](http://sle2021.eu/), National and Kapodistrian University of Athens (online). [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)]
 
 2021, Sep 14-17. Hyper-raising, evidentiality, and phase deactivation. [WFL-13](https://13wflunb.wixsite.com/wfl-2020), Auditório do Instituto de Letras, Universidade de Brasília (online). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
@@ -41,6 +39,8 @@ I am a first-year PhD student in the Department of Linguistics at Yale Universit
 2021, Sep 14-17. Universal concord as syntactic agreement. [WFL-13](https://13wflunb.wixsite.com/wfl-2020), Auditório do Instituto de Letras, Universidade de Brasília (online). 
 
 ## Recent talks
+
+2021, Jun-Jul. Concord as syntactic agreement: evidence from intervention effects. Poster at [CGG-30](https://30cggovd.wixsite.com/30cggovd), Universitat Autònoma de Barcelona (online). [[poster](https://kafai-yip.github.io/assets/docs/CGG-30_∀-concord_poster.pdf)] [[handout](https://kafai-yip.github.io/assets/docs/CGG-30_∀-concord_handout.pdf)]
 
 2021, Jun. 何處是粵語口語和書面語語料的分水嶺——從LIVAC談起 [Where is the dividing line between spoken and written Cantonese data source: from the LIVAC perspective]. [WOC-21](https://www.lshk.org/workshop-on-cantonese-woc), EdUHK (online). [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134) & Yaxuan JI]
 
