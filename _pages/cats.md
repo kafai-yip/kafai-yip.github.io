@@ -38,9 +38,9 @@ single_layout_gallery_5:
   - image_path: /assets/images/E-collar_3.jpeg
     alt: "single layout with header example" 
 single_layout_gallery_6:
-  - image_path: /assets/images/box_1.jpeg
-    alt: "single layout with header example"
   - image_path: /assets/images/box_2.jpeg
+    alt: "single layout with header example"
+  - image_path: /assets/images/box_1.jpeg
     alt: "single layout with header example" 
 single_layout_gallery_7:
   - image_path: /assets/images/god.jpeg
