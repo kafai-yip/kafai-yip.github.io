@@ -24,7 +24,7 @@ classes: wide
 
 1. Converbs and adverbial clauses: a case study in Cantonese. [NACCL-33](https://lucian.uchicago.edu/blogs/lpl/NACCL33/), Uchicago (online). [[handout](https://kafai-yip.github.io/assets/docs/NACCL-33_converb_handout.pdf)]
 
-1. Separable verbs as partial deletion in Cantonese. [NACCL-33](https://lucian.uchicago.edu/blogs/lpl/NACCL33/), Uchicago (online). [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/NACCL-33-Dis-Pred_handout.pdf)] [[slides](https://kafai-yip.github.io/assets/docs/NACCL-33-Dis-Pred_slides.pdf)]
+1. Separable verbs as partial deletion in Cantonese. [NACCL-33](https://lucian.uchicago.edu/blogs/lpl/NACCL33/), Uchicago (online). [with [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/) & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/NACCL-33-Dis-Pred_handout.pdf)] [[slides](https://kafai-yip.github.io/assets/docs/NACCL-33-Dis-Pred_slides.pdf)]
 
 1. MSC variations in metaphorization among Pan-Chinese speech communities. [NACCL-33](https://lucian.uchicago.edu/blogs/lpl/NACCL33/), Uchicago (online). [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)] [[slides](https://kafai-yip.github.io/assets/docs/NACCL-33_metaphorization_presentation.pdf)]
 
@@ -40,13 +40,13 @@ classes: wide
 
 1. Universal concord as syntactic agreement. [PLC-45](https://www.ling.upenn.edu/Events/PLC/plc45/index.html), UPenn (online). [[handout](https://kafai-yip.github.io/assets/docs/PLC-45_∀-concord_handout_20210320.pdf)]
 
-1. Verbal “infixation” as partial deletion: a case in Cantonese verbs. [PLC-45](https://www.ling.upenn.edu/Events/PLC/plc45/index.html), UPenn (online). [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/Syllable_deletion_PLC-45_handout.pdf)] [[slides](https://kafai-yip.github.io/assets/docs/Syllable_deletion_PLC-45_slides.pdf)]
+1. Verbal “infixation” as partial deletion: a case in Cantonese verbs. [PLC-45](https://www.ling.upenn.edu/Events/PLC/plc45/index.html), UPenn (online). [with [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/) & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/Syllable_deletion_PLC-45_handout.pdf)] [[slides](https://kafai-yip.github.io/assets/docs/Syllable_deletion_PLC-45_slides.pdf)]
 
 1. Two types of temporal adverbial clauses in Cantonese. [BEAL-4](https://u.osu.edu/beal/beal-forum/2021-2/), OSU (online). [[handout](https://kafai-yip.github.io/assets/docs/BEAL-4_temporal_20210304.pdf)]
 
-1. Deriving separable verbs in Cantonese. [BEAL-4](https://u.osu.edu/beal/beal-forum/2021-2/), OSU (online). [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/Syllable deletion (BEAL-4).pdf)] [[slides](https://kafai-yip.github.io/assets/docs/Syllable deletion (BEAL-4 - short).pdf)]
+1. Deriving separable verbs in Cantonese. [BEAL-4](https://u.osu.edu/beal/beal-forum/2021-2/), OSU (online). [with [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/) & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/Syllable deletion (BEAL-4).pdf)] [[slides](https://kafai-yip.github.io/assets/docs/Syllable deletion (BEAL-4 - short).pdf)]
 
-1. Separable verbs, syllable deletion, and micro-variations. [Phex-11](https://toki482.wixsite.com/phex11/?lang=ja), Sapporo University (online). [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/Syllable deletion (Phex-11)-handout.pdf)] [[slides](https://kafai-yip.github.io/assets/docs/Syllable deletion (Phex-11)-slides.pdf)]
+1. Separable verbs, syllable deletion, and micro-variations. [Phex-11](https://toki482.wixsite.com/phex11/?lang=ja), Sapporo University (online). [with [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/) & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/Syllable deletion (Phex-11)-handout.pdf)] [[slides](https://kafai-yip.github.io/assets/docs/Syllable deletion (Phex-11)-slides.pdf)]
 
 ### 2020
 
@@ -72,7 +72,7 @@ classes: wide
 
 1. Facilitating the self-learning of Cantonese: an innovative e-approach. [CUHK Expo 2019/20](https://www.elearning.cuhk.edu.hk/expo2019), CUHK (online). [with Pit Shun LAI & Yik-Po LAI]
 
-1. Syllable Deletion and Morphological Length in Cantonese Verbs. [FoCaL-3](https://focalhongkong.wordpress.com/), HSUHK. [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/[FoCaL-3] Syllable deletion & morphological length in Cantonese verbs.pdf)]
+1. Syllable Deletion and Morphological Length in Cantonese Verbs. [FoCaL-3](https://focalhongkong.wordpress.com/), HSUHK. [with [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/) & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/[FoCaL-3] Syllable deletion & morphological length in Cantonese verbs.pdf)]
 
 1. How to identify intonations on sentence-final particles? [WOC-20](https://www.lshk.org/workshop-on-cantonese-woc), HKBU (online). [with Him Nok LEE] [[slides](https://kafai-yip.github.io/assets/docs/WOC-20_ge_20200606.pdf)]
 
