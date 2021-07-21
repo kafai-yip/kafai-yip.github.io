@@ -33,7 +33,7 @@ single_layout_gallery_4:
 single_layout_gallery_5:
   - image_path: /assets/images/E-collar_1.jpeg
     alt: "single layout with header example"
-  - image_path: /assets/images/E-collar_4.jpeg
+  - image_path: /assets/images/E-collar_2.jpeg
     alt: "single layout with header example" 
   - image_path: /assets/images/E-collar_3.jpeg
     alt: "single layout with header example" 
