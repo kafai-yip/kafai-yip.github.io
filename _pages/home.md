@@ -14,7 +14,7 @@ header:
   
 ---
 
-I'm a second-year PhD student in the Department of Linguistics at Yale University. I'm interested in the structure of language and cats. I’m a Hongkonger.
+I'm a second-year PhD student in the Department of Linguistics at Yale University. I'm interested in the structure and meaning of language. I love cats. I’m a Hongkonger.
 
 
 {% capture notice-text %}
