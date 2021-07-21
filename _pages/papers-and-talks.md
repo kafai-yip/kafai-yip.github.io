@@ -20,6 +20,8 @@ classes: wide
 
 ### 2021
 
+1. Concord as syntactic agreement: evidence from intervention effects. Poster at [CGG-30](https://30cggovd.wixsite.com/30cggovd), Universitat Autònoma de Barcelona (online). [[poster](https://kafai-yip.github.io/assets/docs/CGG-30_∀-concord_poster.pdf)] [[handout](https://kafai-yip.github.io/assets/docs/CGG-30_∀-concord_handout.pdf)]
+
 1. 何處是粵語口語和書面語語料的分水嶺——從LIVAC談起 [Where is the dividing line between spoken and written Cantonese data source: from the LIVAC perspective]. [WOC-21](https://www.lshk.org/workshop-on-cantonese-woc), EdUHK (online). [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134) & Yaxuan JI]
 
 1. Converbs and adverbial clauses: a case study in Cantonese. [NACCL-33](https://lucian.uchicago.edu/blogs/lpl/NACCL33/), Uchicago (online). [[handout](https://kafai-yip.github.io/assets/docs/NACCL-33_converb_handout.pdf)]
