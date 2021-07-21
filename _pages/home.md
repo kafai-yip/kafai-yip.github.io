@@ -14,7 +14,7 @@ header:
   
 ---
 
-I am a first-year PhD student in the Department of Linguistics at Yale University. I study Syntax, Semantics and their interface. Cats are my favorite. I’m a Hongkonger.
+I'm a second-year PhD student in the Department of Linguistics at Yale University. I'm interested in the structure of language and cats. I’m a Hongkonger.
 
 
 {% capture notice-text %}
