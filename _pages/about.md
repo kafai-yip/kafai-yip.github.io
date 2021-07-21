@@ -4,7 +4,7 @@ title: "About"
 classes: wide
 ---
 
-I’m a first-year PhD student in the Department of Linguistics at Yale University. I’m a Hongkonger and speak Cantonese. My research languages are mainly East Asian languages.
+I’m a second-year PhD student in the Department of Linguistics at Yale University. I’m a Hongkonger and speak Cantonese. My research languages are mainly East Asian languages.
 {: .text-justify}
 
 My main interests are syntax, semantics and their interface. Syntax is concerned with the structure of language and semantics is concerned with the meaning of language. Their mapping is known as the syntax-semantics interface. Recently, I’m intrigued by the phenomenon of concord, where two elements are giving the same meaning. Take negative concord as an example: *I did**n’t** eat **nothing*** may mean *I didn’t eat anything* in some varieties of English. Concord, especially quantifier concord, not only imposes problems on compositionality of meaning, but also sheds light on the syntax-semantics interface. Cantonese serves as an excellent testing ground on this issue, where quantificational particles can often co-occur with other quantifiers (as well as focus markers & modals).
