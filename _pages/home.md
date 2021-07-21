@@ -46,7 +46,7 @@ I am a first-year PhD student in the Department of Linguistics at Yale Universit
 
 2021, Jun. Converbs and adverbial clauses: a case study in Cantonese. [NACCL-33](https://lucian.uchicago.edu/blogs/lpl/NACCL33/), Uchicago (online). [[handout](https://kafai-yip.github.io/assets/docs/NACCL-33_converb_handout.pdf)]
 
-2021, Jun. Separable verbs as partial deletion in Cantonese. [NACCL-33](https://lucian.uchicago.edu/blogs/lpl/NACCL33/), Uchicago (online). [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/NACCL-33-Dis-Pred_handout.pdf)] [[slides](https://kafai-yip.github.io/assets/docs/NACCL-33-Dis-Pred_slides.pdf)]
+2021, Jun. Separable verbs as partial deletion in Cantonese. [NACCL-33](https://lucian.uchicago.edu/blogs/lpl/NACCL33/), Uchicago (online). [with [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/) & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/NACCL-33-Dis-Pred_handout.pdf)] [[slides](https://kafai-yip.github.io/assets/docs/NACCL-33-Dis-Pred_slides.pdf)]
 
 2021, Jun. MSC variations in metaphorization among Pan-Chinese speech communities. [NACCL-33](https://lucian.uchicago.edu/blogs/lpl/NACCL33/), Uchicago (online). [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)] [[slides](https://kafai-yip.github.io/assets/docs/NACCL-33_metaphorization_presentation.pdf)]
 
