@@ -87,7 +87,7 @@ toc_icon: "university"
 ### *Syllable deletion*
 
 {% capture notice-text %}
-[with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
+[with [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/) & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 * We discuss the monosyllabic preference in separable verbs and related phenomena, and propose a syllable deletion account. Micro-variations in Cantonese and Mandarin are also addressed.
     - Cantonese, Mandarin｜[handout-NACCL](https://kafai-yip.github.io/assets/docs/NACCL-33-Dis-Pred_handout.pdf)
 {% endcapture %}
