@@ -48,8 +48,6 @@ single_layout_gallery_7:
 single_layout_gallery_8:
   - image_path: /assets/images/cute_1.jpeg
     alt: "single layout with header example"
-  - image_path: /assets/images/cute_2.jpeg
-    alt: "single layout with header example" 
 
 ---
 ## In memoriam of Tai Wong 大王
