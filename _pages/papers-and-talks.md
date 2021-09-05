@@ -66,7 +66,7 @@ classes: wide
 
 1. A corpus-based comparative study of light verbs in three Chinese speech communities. [PACLIC-34](https://vlsp.org.vn/paclic2020/), VNU University of Science, Hanoi (online). [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)] [[slides](https://kafai-yip.github.io/assets/docs/PACLIC-34_light verb_presentation_20201019_1100.pdf)] [[paper](https://aclanthology.org/2020.paclic-1.35/)]
 
-1. Universal Concord as Syntactic Agreement. [Syntax+](https://dornsife.usc.edu/labs/syntaxplus/), USC (online). [[handout](https://kafai-yip.github.io/assets/docs/USC Syntax+_∀-concord_handout_20201005.pdf)]
+1. (Invited talk) Universal Concord as Syntactic Agreement. [Syntax+](https://dornsife.usc.edu/labs/syntaxplus/), USC (online). [[handout](https://kafai-yip.github.io/assets/docs/USC Syntax+_∀-concord_handout_20201005.pdf)]
 
 1. Generalized Scope Economy. [NACCL-32](http://2020.sicogg.or.kr/), UConn (online). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/NACCL32 Generalized Scope Economy_handout_20200918.pdf)]
 
