@@ -8,17 +8,26 @@ toc_icon: "university"
 
 ## Syntax & semantics
 
-### *Concord*
+### *Doubling (concord)*
 
 {% capture notice-text %}
-* I show that a purported affixal quantifier in Cantonese is indeed a concord element which agrees with a universal quantifier, instantiating a case of universal concord. 
+* I show that a purported affixal quantifier in Cantonese is indeed a concord element which agrees with a universal quantifier, instantiating a case of universal concord. I also discuss how intervention effects offer support to a syntactic agreement analysis.
     - Cantonese｜[handout-PLC](https://kafai-yip.github.io/assets/docs/PLC-45_∀-concord_handout_20210320.pdf)
 * A related discussion on the scopal behaviour of the purported affixal quantifier. 
     - Cantonese｜[paper-CRCL (in Chinese)](http://www.cuhk.edu.hk/ics/clrc/crcl_99_1/yip.pdf)
 {% endcapture %}
 
 <div class="notice--info">
-  <h4 class="no_toc">Universal Concord</h4>
+  <h4 class="no_toc">Universal concord</h4>
+  {{ notice-text | markdownify }}
+</div>
+
+{% capture notice-text %}
+* I investigate the doubling phenomenon of exlcusive focus particles in Cantonese and seek for a compositional account.
+{% endcapture %}
+
+<div class="notice--info">
+  <h4 class="no_toc">Doubling exclusivity</h4>
   {{ notice-text | markdownify }}
 </div>
 
@@ -44,16 +53,16 @@ toc_icon: "university"
   {{ notice-text | markdownify }}
 </div>
 
-### *Hyper-raising*
+### *Hyperraising*
 
 {% capture notice-text %}
 [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
-* We show that raising out of a finite clause (i.e. hyper-raising) is correlated with indirect evidence cross-linguistically, and how the correlation may be accounted for under a phase-deactivation approach.  
+* We show that raising out of a finite clause (i.e. hyperraising) is correlated with indirect evidence cross-linguistically, and how the correlation may be accounted for under a phase-deactivation approach.  
     - Cantonese, Vietnamese｜[handout-BCGL](https://kafai-yip.github.io/assets/docs/BCGL_HR_evidentiality_handout.pdf)｜[poster-WCCFL](https://kafai-yip.github.io/assets/docs/WCCFL38 - Raising, phase unlocked_20200228.pdf)
 {% endcapture %}
 
 <div class="notice--info">
-  <h4 class="no_toc">Hyper-raising and evidentiality</h4>
+  <h4 class="no_toc">Hyperraising, evidentiality and phase deactivation</h4>
   {{ notice-text | markdownify }}
 </div>
  
@@ -72,6 +81,31 @@ toc_icon: "university"
 
 ## Syntax-phonology interface
 
+### *PF: Copy Deletion*
+
+{% capture notice-text %}
+[with [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/) & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
+* Focusing on discontinuous predicates, we propose that Copy Deletion may interact with syllable deletion and apply partially. Micro-variations between Cantonese and Mandarin are also addressed.
+    - Cantonese, Mandarin｜[handout-NACCL](https://kafai-yip.github.io/assets/docs/NACCL-33-Dis-Pred_handout.pdf)
+{% endcapture %}
+
+<div class="notice--success">
+  <h4 class="no_toc">Discontinuous predicates</h4>
+  {{ notice-text | markdownify }}
+</div>
+
+{% capture notice-text %}
+[with [Comfort Ahenkorah](https://ling.yale.edu/people/comfort-ahenkorah)]
+* Drawing evidence from non-agreeing resumptive pronouns, we agure that Copy Deletion can apply in a partial fashion and spell out the lower copy of a movement chain as default pronouns.
+    - Akan, Cantonese
+{% endcapture %}
+
+<div class="notice--success">
+  <h4 class="no_toc">Non-agreeing resumption</h4>
+  {{ notice-text | markdownify }}
+</div>
+
+
 ### *Right dislocation*
 
 {% capture notice-text %}
@@ -84,20 +118,7 @@ toc_icon: "university"
   {{ notice-text | markdownify }}
 </div>
 
-### *Syllable deletion*
-
-{% capture notice-text %}
-[with [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/) & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
-* We discuss the monosyllabic preference in separable verbs and related phenomena, and propose a syllable deletion account. Micro-variations in Cantonese and Mandarin are also addressed.
-    - Cantonese, Mandarin｜[handout-NACCL](https://kafai-yip.github.io/assets/docs/NACCL-33-Dis-Pred_handout.pdf)
-{% endcapture %}
-
-<div class="notice--success">
-  <h4 class="no_toc">Monosyllabic preference and syllable deletion</h4>
-  {{ notice-text | markdownify }}
-</div>
-
-### *SFPs & intonation*
+### *Intonation, tones, and SFPs*
 
 {% capture notice-text %}
 [with Him Nok LEE]
@@ -116,18 +137,18 @@ toc_icon: "university"
 
 {% capture notice-text %}
 [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)]
-* With a case study on Chinese light verbs, we explore different dimensions involving gradation of metaphorization process and provide a generalized schema of metaphorization.
-    - Chinese｜[slides-RaAM](https://kafai-yip.github.io/assets/docs/RaAM-14_light verb_presentation_20210624.pdf)
+* With a case study on Chinese light verbs, we explore different dimensions involving gradation of metaphorization process and provide a general schema of metaphorization.
+    - Chinese｜[slides-SLE](https://osf.io/6nvmu/)
 {% endcapture %}
 
 <div class="notice--primary">
-  <h4 class="no_toc">Gradient metaphorization and grammaticalization</h4>
+  <h4 class="no_toc">Differential metaphorization and grammaticalization</h4>
   {{ notice-text | markdownify }}
 </div>
 
 {% capture notice-text %}
 [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134) & Yaxuan JI]
-* We offer a novel dynamic perspective to language variations with a process-based approach. We focus on the parallel and differential developments of metaphorization process in varieties of Modern Standard Chinese.
+* We offer a novel dynamic perspective to language variations with a process-based approach. Drawing data from [LIVAC](https://en.wikipedia.org/wiki/LIVAC_Synchronous_Corpus), we discuss parallel and differential developments of metaphorization process in varieties of Modern Standard Chinese.
     - Chinese (BJ, HK, MC, TW)｜[paper-PACLIC](https://aclanthology.org/2020.paclic-1.35/)｜[slides-NACCL](https://kafai-yip.github.io/assets/docs/NACCL-33_metaphorization_presentation.pdf)｜[samples](https://kafai-yip.github.io/assets/docs/ARF2020_da_TypeII_examples.pdf)
 {% endcapture %}
 
