@@ -118,7 +118,7 @@ toc_icon: "university"
   {{ notice-text | markdownify }}
 </div>
 
-### *Intonation, tones, and SFPs*
+### *Intonation, tones & SFPs*
 
 {% capture notice-text %}
 [with Him Nok LEE]
