@@ -8,7 +8,7 @@ toc_icon: "university"
 
 ## Syntax & semantics
 
-### *Doubling (concord)*
+### *Quantifier doubling (concord)*
 
 {% capture notice-text %}
 * I show that a purported affixal quantifier in Cantonese is indeed a concord element which agrees with a universal quantifier, instantiating a case of universal concord. I also discuss how intervention effects offer support to a syntactic agreement analysis.
