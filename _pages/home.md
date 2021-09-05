@@ -37,7 +37,7 @@ I'm a second-year PhD student in the Department of Linguistics at Yale Universit
 
 2022, Jan 6-9. Non-agreeing resumptive pronouns and partial Copy Deletion. Poster at [LSA-96](https://www.linguisticsociety.org/event/lsa-2022-annual-meeting), Washington, DC. [with [Comfort Ahenkorah](https://ling.yale.edu/people/comfort-ahenkorah)]
 
-## Recent talks (past 3 months)
+## Recent talks (in past 3 months)
 
 2021, Aug-Sep. Differential metaphorization and grammaticalization in Chinese light verbs. [SLE 2021](http://sle2021.eu/), National and Kapodistrian University of Athens (online). [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)] [[OSF](https://osf.io/9t4gn/)]
 
