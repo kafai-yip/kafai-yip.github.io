@@ -18,7 +18,7 @@ I'm a second-year PhD student in the Department of Linguistics at Yale Universit
 
 
 {% capture notice-text %}
-* See upcoming talks below!
+* Very honored to be invited at [NYU Syntax Brown Bag](https://sites.google.com/a/nyu.edu/nyusyntaxbrownbag/schedule?authuser=0) on October 22 to talk about universal concord!
 {% endcapture %}
 
 <div class="notice--info">
@@ -32,6 +32,8 @@ I'm a second-year PhD student in the Department of Linguistics at Yale Universit
 2021, Sep 14-17. Universal concord as syntactic agreement. [WFL-13](https://13wflunb.wixsite.com/wfl-2020), Auditório do Instituto de Letras, Universidade de Brasília (online). 
 
 2021, Sep 14-17. Hyper-raising, evidentiality, and phase deactivation. [WFL-13](https://13wflunb.wixsite.com/wfl-2020), Auditório do Instituto de Letras, Universidade de Brasília (online). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
+
+2021, Oct 22. (Invited talk) Universal concord as syntactic agreement. [Syntax Brown Bag](https://sites.google.com/a/nyu.edu/nyusyntaxbrownbag/schedule?authuser=0), NYU.
 
 2022, Jan 6-9. Adverbial clauses with and without operator movement. [LSA-96](https://www.linguisticsociety.org/event/lsa-2022-annual-meeting), Washington, DC. [with [Zhuo Chen](https://www.zhuochenlinguist.com/)] 
 
