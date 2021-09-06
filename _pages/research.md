@@ -96,7 +96,7 @@ toc_icon: "university"
 
 {% capture notice-text %}
 [with [Comfort Ahenkorah](https://ling.yale.edu/people/comfort-ahenkorah)]
-* Drawing evidence from non-agreeing resumptive pronouns, we agure that Copy Deletion can apply in a partial fashion and spell out the lower copy of a movement chain as default pronouns.
+* Drawing evidence from non-agreeing resumptive pronouns, we argue that Copy Deletion can apply in a partial fashion and spell out the lower copy of a movement chain as default pronouns.
     - Akan, Cantonese
 {% endcapture %}
 
