@@ -7,19 +7,21 @@ classes: wide
 
 
 ## Papers
-(Feel free to email me for a draft!)
 
-(To appear). Unversal concord as syntactic agreement. *UPenn Working Papers in Linguistics*.
+### Manuscripts
+(Feel free to email me for a draft.)
 
-(To appear). Discontinuous predicates as partial deletion in Cantonese. *UPenn Working Papers in Linguistics*. [with [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/) & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
+1. Hyper-raising, evidentiality, and phase deactivation. In prep. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 
-(To appear). Two types of temporal adverbial clauses in Cantonese. In *Proceedings of WCCFL-39*. [[pre-printed](https://kafai-yip.github.io/assets/docs/WCCFL-39_Yip.pdf)]
+1. Unversal concord as syntactic agreement. To appear in *UPenn Working Papers in Linguistics*.
 
-(To appear). Raising, phase unlocked. In *Proceedings of WCCFL-38*. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
+1. Discontinuous predicates as partial deletion in Cantonese. To appear in *UPenn Working Papers in Linguistics*. [with [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/) & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 
-(To appear). Deriving separable verbs in Cantonese. In *BEAL-5*. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/) & [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/)]
+1. Two types of temporal adverbial clauses in Cantonese. To appear in *Proceedings of WCCFL-39*. [[pre-printed](https://kafai-yip.github.io/assets/docs/WCCFL-39_Yip.pdf)]
 
-(To appear). Modal movement licensed by focus. In *New Explorations in Chinese theoretical syntax. Studies in honor of Yen-Hui Audrey Li*. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
+1. Modal movement licensed by focus. To appear in *New Explorations in Chinese theoretical syntax. Studies in honor of Yen-Hui Audrey Li*. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
+
+### Publications
 
 (2020). A corpus-based comparative study of light verbs in three Chinese speech communities. In *PACLIC-34*, 302-311. Association for Computational Linguistics. [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)] [[paper](https://aclanthology.org/2020.paclic-1.35/)]
 
