@@ -23,13 +23,13 @@ classes: wide
 
 ### Publications
 
-- 2020. [A corpus-based comparative study of light verbs in three Chinese speech communities](https://aclanthology.org/2020.paclic-1.35/). In *PACLIC-34*, 302-311. [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)]
+- (2020). [A corpus-based comparative study of light verbs in three Chinese speech communities](https://aclanthology.org/2020.paclic-1.35/). In *PACLIC-34*, 302-311. [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)]
 
-- 2020. [Bilingual multi-word expressions, multiple-correspondence, and their cultivation from parallel patents: the Chinese-English case](https://aclanthology.org/2020.paclic-1.68/). In *PACLIC-34*, 589-602. [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134), Ka Po CHOW, [John LEE](http://www2.lt.cityu.edu.hk/~jsylee/), Yaxuan JI & Kevin WU]
+- (2020). [Bilingual multi-word expressions, multiple-correspondence, and their cultivation from parallel patents: the Chinese-English case](https://aclanthology.org/2020.paclic-1.68/). In *PACLIC-34*, 589-602. [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134), Ka Po CHOW, [John LEE](http://www2.lt.cityu.edu.hk/~jsylee/), Yaxuan JI & Kevin WU]
 
-- 2020. [Syntax-prosody mapping of right-dislocations in Cantonese and Mandarin]((https://sapporo-u.repo.nii.ac.jp/?action=repository_uri&item_id=7728&file_id=22&file_no=1)). In *Phonological Externalization (Vol. 5)*, 73-90.
+- (2020). [Syntax-prosody mapping of right-dislocations in Cantonese and Mandarin](https://sapporo-u.repo.nii.ac.jp/?action=repository_uri&item_id=7728&file_id=22&file_no=1). In *Phonological Externalization (Vol. 5)*, 73-90.
 
-- 2020. [粵語動詞後綴“親”的三個框式結構[Three discontinuous constructions of Cantonese verbal suffix *can*]](http://www.cuhk.edu.hk/ics/clrc/crcl_99_1/yip.pdf) (written in Chinese). *Current Research in Chinese Linguistics* 99(1):153-169.
+- (2020). [粵語動詞後綴“親”的三個框式結構[Three discontinuous constructions of Cantonese verbal suffix *can*]](http://www.cuhk.edu.hk/ics/clrc/crcl_99_1/yip.pdf) (written in Chinese). *Current Research in Chinese Linguistics* 99(1):153-169.
 
 
 ## Presentations
