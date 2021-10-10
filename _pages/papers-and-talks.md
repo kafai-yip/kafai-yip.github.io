@@ -19,17 +19,17 @@ classes: wide
 
 - Two types of temporal adverbial clauses in Cantonese. To appear in *Proceedings of WCCFL-39*. [[pre-printed](https://kafai-yip.github.io/assets/docs/WCCFL-39_Yip.pdf)]
 
-- Modal movement licensed by focus. To appear in *New Explorations in Chinese theoretical syntax. Studies in honor of Yen-Hui Audrey Li*. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
+- Modal movement licensed by focus. To appear in *New Explorations in Chinese Theoretical Syntax. Studies in Honor of Yen-Hui Audrey Li*. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 
 ### Publications
 
-(2020). A corpus-based comparative study of light verbs in three Chinese speech communities. In *PACLIC-34*, 302-311. Association for Computational Linguistics. [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)] [[paper](https://aclanthology.org/2020.paclic-1.35/)]
+- 2020. [A corpus-based comparative study of light verbs in three Chinese speech communities](https://aclanthology.org/2020.paclic-1.35/). In *PACLIC-34*, 302-311. [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)]
 
-(2020). Bilingual multi-word expressions, multiple-correspondence, and their cultivation from parallel patents: the Chinese-English case. In *PACLIC-34*, 589-602. Association for Computational Linguistics. [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134), Ka Po CHOW, [John LEE](http://www2.lt.cityu.edu.hk/~jsylee/), Yaxuan JI & Kevin WU] [[paper](https://aclanthology.org/2020.paclic-1.68/)]
+- 2020. [Bilingual multi-word expressions, multiple-correspondence, and their cultivation from parallel patents: the Chinese-English case](https://aclanthology.org/2020.paclic-1.68/). In *PACLIC-34*, 589-602. [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134), Ka Po CHOW, [John LEE](http://www2.lt.cityu.edu.hk/~jsylee/), Yaxuan JI & Kevin WU]
 
-(2020). Syntax-prosody mapping of right-dislocations in Cantonese and Mandarin. In Hisao Tokizaki, ed., *Phonological Externalization (Vol. 5)*, 73-90. Sapporo: Sapporo University. [[paper](https://sapporo-u.repo.nii.ac.jp/?action=repository_uri&item_id=7728&file_id=22&file_no=1)]
+- 2020. [Syntax-prosody mapping of right-dislocations in Cantonese and Mandarin]((https://sapporo-u.repo.nii.ac.jp/?action=repository_uri&item_id=7728&file_id=22&file_no=1)). In *Phonological Externalization (Vol. 5)*, 73-90.
 
-(2020). 粵語動詞後綴“親”的三個框式結構[Three discontinuous constructions of Cantonese verbal suffix *can*] (written in Chinese). *Current Research in Chinese Linguistics* 99(1):153-169. [[paper](http://www.cuhk.edu.hk/ics/clrc/crcl_99_1/yip.pdf)]
+- 2020. [粵語動詞後綴“親”的三個框式結構[Three discontinuous constructions of Cantonese verbal suffix *can*]](http://www.cuhk.edu.hk/ics/clrc/crcl_99_1/yip.pdf) (written in Chinese). *Current Research in Chinese Linguistics* 99(1):153-169.
 
 
 ## Presentations
