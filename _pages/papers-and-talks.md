@@ -13,11 +13,11 @@ classes: wide
 
 (To appear). Discontinuous predicates as partial deletion in Cantonese. *UPenn Working Papers in Linguistics*. [with [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/) & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 
-(To appear). Two Types of Temporal Adverbial Clauses in Cantonese. In *Proceedings of WCCFL-39*. [[pre-printed](https://kafai-yip.github.io/assets/docs/WCCFL-39_Yip.pdf)]
+(To appear). Two types of temporal adverbial clauses in Cantonese. In *Proceedings of WCCFL-39*. [[pre-printed](https://kafai-yip.github.io/assets/docs/WCCFL-39_Yip.pdf)]
 
-(To appear). Raising, Phase Unlocked. In *Proceedings of WCCFL-38*. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
+(To appear). Raising, phase unlocked. In *Proceedings of WCCFL-38*. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 
-(To appear). Deriving Separable Verbs in Cantonese. In *BEAL-5*. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/) & [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/)]
+(To appear). Deriving separable verbs in Cantonese. In *BEAL-5*. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/) & [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/)]
 
 (To appear). Modal movement licensed by focus. In *New Explorations in Chinese theoretical syntax. Studies in honor of Yen-Hui Audrey Li*. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 
