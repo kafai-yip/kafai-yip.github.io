@@ -29,7 +29,7 @@ I'm a second-year PhD student in the Department of Linguistics at Yale Universit
 
 ## Upcoming talks
 
-2021, Oct 22. (Invited talk) Universal concord as syntactic agreement. [Syntax Brown Bag](https://sites.google.com/a/nyu.edu/nyusyntaxbrownbag/schedule?authuser=0), NYU.
+2021, Oct 22. (Invited talk) Universal concord as syntactic agreement. [Syntax Brown Bag](https://sites.google.com/a/nyu.edu/nyusyntaxbrownbag/schedule?authuser=0), NYU. [[handout](https://kafai-yip.github.io/assets/docs/NYU_universal concord_20211022.pdf)]
 
 2021, Nov 5-7. Adverbial clauses with and without operator movement. [ICFL-9](https://easychair.org/cfp/ICFL-9). [with [Zhuo Chen](https://www.zhuochenlinguist.com/)] 
 
