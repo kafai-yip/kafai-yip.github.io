@@ -18,7 +18,7 @@ I'm a second-year PhD student in the Department of Linguistics at Yale Universit
 
 
 {% capture notice-text %}
-* Very honored to be invited at [NYU Syntax Brown Bag](https://sites.google.com/a/nyu.edu/nyusyntaxbrownbag/schedule?authuser=0) on October 22 to talk about universal concord!
+* See the upcoming talks below!
 {% endcapture %}
 
 <div class="notice--info">
@@ -29,15 +29,15 @@ I'm a second-year PhD student in the Department of Linguistics at Yale Universit
 
 ## Upcoming talks
 
-2021, Oct 22. (Invited talk) Universal concord as syntactic agreement. [Syntax Brown Bag](https://sites.google.com/a/nyu.edu/nyusyntaxbrownbag/schedule?authuser=0), NYU. [[handout](https://kafai-yip.github.io/assets/docs/NYU_universal concord_20211022.pdf)]
-
-2021, Nov 5-7. Adverbial clauses with and without operator movement. [ICFL-9](https://easychair.org/cfp/ICFL-9). [with [Zhuo Chen](https://www.zhuochenlinguist.com/)] 
+2021, Nov 5-7. Adverbial clauses with and without operator movement. [ICFL-9](https://easychair.org/cfp/ICFL-9). [with [Zhuo Chen](https://www.zhuochenlinguist.com/)] [[handout](https://kafai-yip.github.io/assets/docs/ICFL-9_advclause_handout_20211106.pdf)]
 
 2022, Jan 6-9. Adverbial clauses with and without operator movement. [LSA-96](https://www.linguisticsociety.org/event/lsa-2022-annual-meeting), Washington, DC. [with [Zhuo Chen](https://www.zhuochenlinguist.com/)] 
 
 2022, Jan 6-9. Non-agreeing resumptive pronouns and partial Copy Deletion. Poster at [LSA-96](https://www.linguisticsociety.org/event/lsa-2022-annual-meeting), Washington, DC. [with [Comfort Ahenkorah](https://ling.yale.edu/people/comfort-ahenkorah)]
 
 ## Recent talks (in past 3 months)
+
+2021. (Invited talk) Universal concord as syntactic agreement. [Syntax Brown Bag](https://sites.google.com/a/nyu.edu/nyusyntaxbrownbag/schedule?authuser=0), NYU. [[handout](https://kafai-yip.github.io/assets/docs/NYU_universal concord_20211022.pdf)]
 
 2021, Sep. Universal concord as syntactic agreement. [WFL-13](https://13wflunb.wixsite.com/wfl-2020), Auditório do Instituto de Letras, Universidade de Brasília (online). [[handout](https://kafai-yip.github.io/assets/docs/WFL-13_%E2%88%80-concord_handout_20210916.pdf)]
 
