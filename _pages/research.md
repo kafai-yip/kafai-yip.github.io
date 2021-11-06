@@ -73,7 +73,7 @@ toc_icon: "university"
 
 {% capture notice-text %}
 [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
-* We propose that root modals in Chinese can undergo movement when crossing a focused element, resolving a long-standing puzzle that A-not-A exceptionally licenses root modals in a higher position.
+* We propose that root modals in Chinese can undergo movement when crossing a focused element, and the movement is constrained by output economy regarding focus set calculation.
     - Mandarin｜[paper-bookchapter](https://kafai-yip.github.io/assets/docs/Yip%20&%20Lee%20(2021)%20Modal%20movement%20licensed%20by%20focus.pdf)
 {% endcapture %}
 
