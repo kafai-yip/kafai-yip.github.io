@@ -11,7 +11,7 @@ toc_icon: "university"
 ### *Quantifier doubling (concord)*
 
 {% capture notice-text %}
-* I show that universal elements also have concord, on a par with negative concord. Focusing on the suffix *-can* 'whenever' in Cantonese and *mei...dou* 'every' in Mandarin, I argue for a syntactic agreement analysis of universal concord. I also discuss how minimality effects offer support for a syntactic approach to concord.
+* I show that universal elements also have concord, on a par with negative concord. Focusing on the suffix *-can* 'whenever' in Cantonese and *mei...dou* 'every' in Mandarin, I argue for a syntactic agreement analysis of universal concord. I also discuss how minimality effects support syntactic approach to concord.
     - Cantonese, Mandarin｜[paper-PLC](https://kafai-yip.github.io/assets/docs/Yip%20(2021)%20Universal%20concord%20as%20syntactic%20agreement.pdf)｜[handout-NYU](https://kafai-yip.github.io/assets/docs/NYU_universal%20concord_20211022.pdf)
 * A related discussion on the scopal behaviour of the verbal suffix *-can* 'whenever' in Cantonese. 
     - Cantonese｜[paper-CRCL (in Chinese)](http://www.cuhk.edu.hk/ics/clrc/crcl_99_1/yip.pdf)
