@@ -160,7 +160,7 @@ toc_icon: "university"
   {{ notice-text | markdownify }}
 </div>
 
-## Other projects
+## Other
 
 {% capture notice-text %}
 * With evidence from suffix stacking and scope, I argue that the syntactic position of perfective aspect should be higher than experiential aspect.
