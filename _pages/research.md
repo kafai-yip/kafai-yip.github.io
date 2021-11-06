@@ -38,7 +38,7 @@ toc_icon: "university"
 * We argue for two different strategies to derive adverbial clauses, either by operator movement or merging an in-situ operator at the highest CP. These two strategies are attested in both central and peripheral adverbial clauses, calling for a finer typology of adverbial clauses.
     - Mandarin｜[handout-ICFL](https://kafai-yip.github.io/assets/docs/ICFL-9_advclause_handout_20211106.pdf)
 * A related discussion on reducing the external syntax to the internal syntax in terms of operator merging sites. 
-    - Cantonese｜[paper-WCCFL](https://kafai-yip.github.io/assets/docs/WCCFL-39_Yip.pdf)｜[poster-WCCFL](https://doi.org/10.25422/azu.data.14481591.v1)
+    - Cantonese｜[paper-WCCFLext.](https://kafai-yip.github.io/assets/docs/WCCFL-39_Yip_long.pdf)｜[poster-WCCFL](https://doi.org/10.25422/azu.data.14481591.v1)
 {% endcapture %}
 
 <div class="notice--info">
