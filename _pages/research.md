@@ -11,9 +11,9 @@ toc_icon: "university"
 ### *Quantifier doubling (concord)*
 
 {% capture notice-text %}
-* I show that a purported affixal quantifier in Cantonese is indeed a concord element which agrees with a universal quantifier, instantiating a case of universal concord. I also discuss how intervention effects offer support to a syntactic agreement analysis.
-    - Cantonese｜[handout-PLC](https://kafai-yip.github.io/assets/docs/PLC-45_∀-concord_handout_20210320.pdf)
-* A related discussion on the scopal behaviour of the purported affixal quantifier. 
+* I show that universal elements also have concord, on a par with negative concord, modal concord, "only"-concord, etc. Focusing on two cases, the verbal suffix *-can* 'whenever' in Cantonese and *mei...dou* 'every' in Mandarin, I argue for a syntactic agreement analysis of universal concord. I also discuss how minimality effects offer support for a syntactic approach to concord.
+    - Cantonese, Mandarin｜[paper-PLC](https://kafai-yip.github.io/assets/docs/Yip%20(2021)%20Universal%20concord%20as%20syntactic%20agreement.pdf)｜[handout-NYU](https://kafai-yip.github.io/assets/docs/NYU_universal%20concord_20211022.pdf)
+* A related discussion on the scopal behaviour of the verbal suffix *-can* 'whenever' in Cantonese. 
     - Cantonese｜[paper-CRCL (in Chinese)](http://www.cuhk.edu.hk/ics/clrc/crcl_99_1/yip.pdf)
 {% endcapture %}
 
@@ -34,17 +34,20 @@ toc_icon: "university"
 ### *Adverbial clauses*
 
 {% capture notice-text %}
-* I show two different ways to derive temporal adverbial clauses, by merging an operator (comparable to *when*) at different positions. I also discuss how the height of operator merging sites may determine the external syntax.
+[with [Zhuo Chen](https://www.zhuochenlinguist.com/)]
+* We argue for two different strategies to derive adverbial clauses, either by operator movement or merging an in-situ operator at the highest CP. The two strategies are attested in both central (e.g. temporal & conditional) and peripheral (e.g. inferential & concessive) adverbial clauses, pointing to a finer typology of adverbial clauses.
+    - Mandarin｜[handout-ICFL](https://kafai-yip.github.io/assets/docs/ICFL-9_advclause_handout_20211106.pdf)
+* A related discussion on reducing the external syntax to the internal syntax in terms of operator merging sites. 
     - Cantonese｜[paper-WCCFL](https://kafai-yip.github.io/assets/docs/WCCFL-39_Yip.pdf)｜[poster-WCCFL](https://doi.org/10.25422/azu.data.14481591.v1)
 {% endcapture %}
 
 <div class="notice--info">
-  <h4 class="no_toc">Temporal clauses</h4>
+  <h4 class="no_toc">Internal syntax</h4>
   {{ notice-text | markdownify }}
 </div>
 
 {% capture notice-text %}
-* I investigate 11 Cantonese affixes that only occur in adverbial clauses, which can be classified as converbs (e.g. adverbial participles) from a typological perspective.
+* I investigate 11 Cantonese affixes that only occur in adverbial clauses, which can be classified as converbs (e.g. adverbial participles) from a typological perspective. I show that converbal clauses conform with the central-peripheral distinction just as regular adverbial clauses.
     - Cantonese｜[handout-NACCL](https://kafai-yip.github.io/assets/docs/NACCL-33_converb_handout.pdf)｜[Mphil thesis (in Chinese)](https://kafai-yip.github.io/assets/docs/MPhil Thesis_YIP KA FAI_final draft_20190918_2.pdf)
 {% endcapture %}
 
@@ -58,7 +61,7 @@ toc_icon: "university"
 {% capture notice-text %}
 [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 * We show that raising out of a finite clause (i.e. hyperraising) is correlated with indirect evidence cross-linguistically, and how the correlation may be accounted for under a phase-deactivation approach.  
-    - Cantonese, Vietnamese｜[handout-BCGL](https://kafai-yip.github.io/assets/docs/BCGL_HR_evidentiality_handout.pdf)｜[poster-WCCFL](https://kafai-yip.github.io/assets/docs/WCCFL38 - Raising, phase unlocked_20200228.pdf)
+    - Cantonese, Vietnamese｜[handout-BCGL](https://kafai-yip.github.io/assets/docs/BCGL_HR_evidentiality_handout.pdf)｜[paper-WCCFL](https://kafai-yip.github.io/assets/docs/Lee%20&%20Yip%20(2020)%20Raising,%20Phase%20Unlocked.pdf)
 {% endcapture %}
 
 <div class="notice--info">
@@ -70,8 +73,8 @@ toc_icon: "university"
 
 {% capture notice-text %}
 [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
-* We investigate the distribution of modals in Chinese, and their interaction with focus interpretations.
-    - Mandarin｜[handout-NACCL](https://kafai-yip.github.io/assets/docs/NACCL32 Generalized Scope Economy_handout_20200918.pdf)
+* We investigate the distribution of modals in Chinese, and their interaction with focus interpretations. We propose that root modals can undergo movement across a focused element to a higher position, and this movement is constrained by a version of output economy.
+    - Mandarin｜[paper](https://kafai-yip.github.io/assets/docs/Yip%20&%20Lee%20(2021)%20Modal%20movement%20licensed%20by%20focus.pdf)
 {% endcapture %}
 
 <div class="notice--info">
@@ -86,7 +89,7 @@ toc_icon: "university"
 {% capture notice-text %}
 [with [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/) & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 * Focusing on discontinuous predicates, we propose that Copy Deletion may interact with syllable deletion and apply partially. Micro-variations between Cantonese and Mandarin are also addressed.
-    - Cantonese, Mandarin｜[handout-NACCL](https://kafai-yip.github.io/assets/docs/NACCL-33-Dis-Pred_handout.pdf)
+    - Cantonese, Mandarin｜[handout-PLC](https://kafai-yip.github.io/assets/docs/Chan,%20Lee%20&%20Yip%20(2021)%20Discontinuous%20predicates%20as%20partial%20deletion%20in%20Cantonese.pdf)｜[handout-NACCL](https://kafai-yip.github.io/assets/docs/NACCL-33-Dis-Pred_handout.pdf)
 {% endcapture %}
 
 <div class="notice--success">
