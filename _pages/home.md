@@ -29,7 +29,7 @@ I'm a second-year PhD student in the Department of Linguistics at Yale Universit
 
 ## Upcoming talks
 
-2021, Dec 4. Two kinds of resumption in Cantonese. [ARF-2021](https://www.lshk.org/annual-research-forum-arf), CityUHK.
+2021, Dec 4. Two kinds of resumption in Cantonese. [LSHK-ARF-2021](https://www.lshk.org/annual-research-forum-arf), CityUHK.
 
 2021, Dec 16-17. Partial deletion at word-level: discontinuous predicates in Cantonese. [BCGL-14](https://www.crissp.be/bcgl-14-where-syntax-and-phonology-meet/), CRISSP of KU Leuven (online). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/) & [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/)]
 
