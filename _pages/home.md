@@ -29,7 +29,7 @@ I'm a second-year PhD student in the Department of Linguistics at Yale Universit
 
 ## Upcoming talks
 
-2021, Nov 5-7. Adverbial clauses with and without operator movement. [ICFL-9](https://easychair.org/cfp/ICFL-9). [with [Zhuo Chen](https://www.zhuochenlinguist.com/)] [[handout](https://kafai-yip.github.io/assets/docs/ICFL-9_advclause_handout_20211106.pdf)]
+2021, Dec 16-17. Partial deletion at word-level: discontinuous predicates in Cantonese. [BCGL-14](https://www.crissp.be/bcgl-14-where-syntax-and-phonology-meet/), CRISSP of KU Leuven (online). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/) & [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/)]
 
 2022, Jan 6-9. Adverbial clauses with and without operator movement. [LSA-96](https://www.linguisticsociety.org/event/lsa-2022-annual-meeting), Washington, DC. [with [Zhuo Chen](https://www.zhuochenlinguist.com/)] 
 
@@ -37,7 +37,9 @@ I'm a second-year PhD student in the Department of Linguistics at Yale Universit
 
 ## Recent talks (in past 3 months)
 
-2021, O(Invited talk) Universal concord as syntactic agreement. [Syntax Brown Bag](https://sites.google.com/a/nyu.edu/nyusyntaxbrownbag/schedule?authuser=0), NYU. [[handout](https://kafai-yip.github.io/assets/docs/NYU_universal concord_20211022.pdf)]
+2021, Nov. Adverbial clauses with and without operator movement. [ICFL-9](https://easychair.org/cfp/ICFL-9). [with [Zhuo Chen](https://www.zhuochenlinguist.com/)] [[handout](https://kafai-yip.github.io/assets/docs/ICFL-9_advclause_handout_20211106.pdf)]
+
+2021, Oct. (Invited talk) Universal concord as syntactic agreement. [Syntax Brown Bag](https://sites.google.com/a/nyu.edu/nyusyntaxbrownbag/schedule?authuser=0), NYU. [[handout](https://kafai-yip.github.io/assets/docs/NYU_universal concord_20211022.pdf)]
 
 2021, Sep. Universal concord as syntactic agreement. [WFL-13](https://13wflunb.wixsite.com/wfl-2020), Auditório do Instituto de Letras, Universidade de Brasília (online). [[handout](https://kafai-yip.github.io/assets/docs/WFL-13_%E2%88%80-concord_handout_20210916.pdf)]
 
