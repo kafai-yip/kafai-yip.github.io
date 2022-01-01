@@ -19,7 +19,7 @@ classes: wide
 
 - Two types of temporal adverbial clauses in Cantonese. To appear in *Proceedings of WCCFL-39*. [[extended version](https://kafai-yip.github.io/assets/docs/WCCFL-39_Yip_long.pdf)]
 
-- Modal movement licensed by focus. To appear in *New Explorations in Chinese Theoretical Syntax. Studies in Honor of Yen-Hui Audrey Li*. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[pre-printed](https://kafai-yip.github.io/assets/docs/Yip & Lee (2021) Modal movement licensed by focus.pdf)]
+- Modal movement licensed by focus. To appear in . [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[pre-printed](https://kafai-yip.github.io/assets/docs/Yip & Lee (2021) Modal movement licensed by focus.pdf)]
 
 ### Publications
 
