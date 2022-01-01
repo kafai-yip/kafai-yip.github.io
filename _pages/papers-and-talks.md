@@ -19,9 +19,13 @@ classes: wide
 
 - Two types of temporal adverbial clauses in Cantonese. To appear in *Proceedings of WCCFL-39*. [[extended version](https://kafai-yip.github.io/assets/docs/WCCFL-39_Yip_long.pdf)]
 
-- Modal movement licensed by focus. To appear in . [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[pre-printed](https://kafai-yip.github.io/assets/docs/Yip & Lee (2021) Modal movement licensed by focus.pdf)]
+- Modal movement licensed by focus. To appear in a book chapter. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[pre-printed](https://kafai-yip.github.io/assets/docs/Yip & Lee (2021) Modal movement licensed by focus.pdf)]
 
 ### Publications
+
+- (2021). [Raising, Phase Unlocked](http://www.lingref.com/cpp/wccfl/38/abstract3572.html). In *WCCFL-38*, 274-282. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
+
+- (2021). [Deriving Separable Verbs in Cantonese](https://kb.osu.edu/handle/1811/92948). In *BEAL-5*, 94-104. [with [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/) & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 
 - (2020). [A corpus-based comparative study of light verbs in three Chinese speech communities](https://aclanthology.org/2020.paclic-1.35/). In *PACLIC-34*, 302-311. [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)]
 
