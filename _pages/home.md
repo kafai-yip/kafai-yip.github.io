@@ -18,7 +18,8 @@ I'm a second-year PhD student in the Department of Linguistics at Yale Universit
 
 
 {% capture notice-text %}
-* My joint [WCCFL paper](http://www.lingref.com/cpp/wccfl/38/abstract3572.html) with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/) on hyperraising has been published!
+* My joint [WCCFL paper](http://www.lingref.com/cpp/wccfl/38/abstract3572.html) with [Tommy Lee](https://tszminglee.github.io/) on hyperraising has been published!
+* Another joint [BEAL paper](https://kb.osu.edu/handle/1811/92948) with Tommy Lee and [Sheila Chan](https://sheilaslchan.github.io/) on separable verbs has also been published!
 {% endcapture %}
 
 <div class="notice--info">
