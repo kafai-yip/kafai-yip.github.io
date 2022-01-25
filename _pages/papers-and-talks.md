@@ -99,9 +99,9 @@ classes: wide
 
 1. Subordinate affixes in Cantonese and intervention effects. [IACL-27](https://easychair.org/cfp/IACL27), Kobe City University of Foreign Studies.
 
-1. Two subclasses of verbs of thinking in Cantonese. [ARF-2018](https://www.lshk.org/annual-research-forum-arf), CityUHK. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
-
 ### 2018
+
+1. Two subclasses of verbs of thinking in Cantonese. [ARF-2018](https://www.lshk.org/annual-research-forum-arf), CityUHK. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 
 1. 粵語詞綴「親」的複句完句現象[Complex sentence formation of Cantonese affix *can*]. [ICFL-8](https://linguistlist.org/issues/29/29-942/?utm_source=dlvr.it&utm_medium=twitter), Zhejiang University.
 
