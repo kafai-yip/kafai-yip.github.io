@@ -91,6 +91,7 @@ classes: wide
 1. Syntax-prosody mapping in clausal domains: right dislocation in Mandarin and Cantonese. [Phex 10](https://toki482.wixsite.com/phex10), The University of Tokyo. [[slides](https://kafai-yip.github.io/assets/docs/PhEx 10_RD_20200215.pptx)] [[paper](https://sapporo-u.repo.nii.ac.jp/?action=repository_uri&item_id=7728&file_id=22&file_no=1)]
 
 ### 2019
+1. 粵語易位句的韻律句法研究[The prosodic syntax of right dislocation in Cantonese]. [ARF-2019](https://www.lshk.org/annual-research-forum-arf), EdUHK.
 
 1. 澄海閩語中的言說動詞[Verbs of saying in Chenghai Min]. [IRF-5](http://www.cuhk.edu.hk/ics/clrc/irf/2019/index.html), Sun Yat-sen University. [with [Jia JIN](https://myweb.cuhk.edu.cn/jinjia)] [[slides](https://kafai-yip.github.io/assets/docs/IRF-5_VOS in Chenghai_20190616.pdf)]
 
@@ -109,8 +110,6 @@ classes: wide
 1. Cantonese verbal suffix *dak* and intentionality. [WICL-4](https://cantonese.arts.ubc.ca/wicl-4/), UBC. [[slides](https://kafai-yip.github.io/assets/docs/WICL-4_dak_20180623.pdf)]
 
 ### 2017
-
-1. 粵語動詞後綴「親」的三個框式結構[Three discontinuous constructions of Cantonese verbal suffix *can*].  [Yue 22](https://www.eduhk.hk/lml/yue2017/index-eng.html), EdUHK. [[paper](http://www.cuhk.edu.hk/ics/clrc/crcl_99_1/yip.pdf)]
 
 1. 粵語表示意向的動詞後綴「得」[A study of Cantonese intentional verbal suffix *dak*]. [ARF-2017](https://www.lshk.org/annual-research-forum-arf), HKBU. 
 
