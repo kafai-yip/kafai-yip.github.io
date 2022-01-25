@@ -36,27 +36,29 @@ classes: wide
 - (2020). [粵語動詞後綴“親”的三個框式結構[Three discontinuous constructions of Cantonese verbal suffix *can*]](http://www.cuhk.edu.hk/ics/clrc/crcl_99_1/yip.pdf) (written in Chinese). *Current Research in Chinese Linguistics* 99(1):153-169.
 
 
-## Presentations
+## Selected Presentations
+
+### 2022
+
+1. Adverbial clauses with and without operator movement. [LSA-96](https://www.linguisticsociety.org/event/lsa-2022-annual-meeting), Washington, DC. [with [Zhuo Chen](https://www.zhuochenlinguist.com/)] [[handout](https://kafai-yip.github.io/assets/docs/LSA2022_advclause_handout_20220104.pdf)]
+
+1. Non-agreeing resumptive pronouns and partial Copy Deletion. Poster at [LSA-96](https://www.linguisticsociety.org/event/lsa-2022-annual-meeting), Washington, DC. [with [Comfort Ahenkorah](https://ling.yale.edu/people/comfort-ahenkorah)] [[poster](https://kafai-yip.github.io/assets/docs/LSA2022_resumptive_poster_20220104_large.pdf)] [[handout](https://kafai-yip.github.io/assets/docs/LSA2022_resumption_handout_20220105.pdf)]
 
 ### 2021
 
-1. Universal concord as syntactic agreement. [WFL-13](https://13wflunb.wixsite.com/wfl-2020), Auditório do Instituto de Letras, Universidade de Brasília (online). [[handout](https://kafai-yip.github.io/assets/docs/WFL-13_%E2%88%80-concord_handout_20210916.pdf)]
+1. Partial deletion at word-level: discontinuous predicates in Cantonese. [BCGL-14](https://www.crissp.be/bcgl-14-where-syntax-and-phonology-meet/), CRISSP of KU Leuven (online). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/) & [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/)]
 
-1. Hyper-raising, evidentiality, and phase deactivation. [WFL-13](https://13wflunb.wixsite.com/wfl-2020), Auditório do Instituto de Letras, Universidade de Brasília (online). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[slides](https://kafai-yip.github.io/assets/docs/HR%20and%20evidentiality%20-%20handout.pdf)]
+1. Two kinds of resumption in Cantonese. [LSHK-ARF-2021](https://www.lshk.org/annual-research-forum-arf), CityUHK.
+
+1. (Invited talk) Universal concord as syntactic agreement. [Syntax Brown Bag](https://sites.google.com/a/nyu.edu/nyusyntaxbrownbag/schedule?authuser=0), NYU. [[handout](https://kafai-yip.github.io/assets/docs/NYU_universal concord_20211022.pdf)]
 
 1. Differential metaphorization and grammaticalization in Chinese light verbs. [SLE 2021](http://sle2021.eu/), National and Kapodistrian University of Athens (online). [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)] [[OSF](https://osf.io/9t4gn/)]
-
-1. Concord as syntactic agreement: evidence from intervention effects. Poster at [CGG-30](https://30cggovd.wixsite.com/30cggovd), Universitat Autònoma de Barcelona (online). [[poster](https://kafai-yip.github.io/assets/docs/CGG-30_∀-concord_poster.pdf)] [[handout](https://kafai-yip.github.io/assets/docs/CGG-30_∀-concord_handout.pdf)]
 
 1. 何處是粵語口語和書面語語料的分水嶺——從LIVAC談起 [Where is the dividing line between spoken and written Cantonese data source: from the LIVAC perspective]. [WOC-21](https://www.lshk.org/workshop-on-cantonese-woc), EdUHK (online). [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134) & Yaxuan JI]
 
 1. Converbs and adverbial clauses: a case study in Cantonese. [NACCL-33](https://lucian.uchicago.edu/blogs/lpl/NACCL33/), Uchicago (online). [[handout](https://kafai-yip.github.io/assets/docs/NACCL-33_converb_handout.pdf)]
 
-1. Separable verbs as partial deletion in Cantonese. [NACCL-33](https://lucian.uchicago.edu/blogs/lpl/NACCL33/), Uchicago (online). [with [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/) & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/NACCL-33-Dis-Pred_handout.pdf)] [[slides](https://kafai-yip.github.io/assets/docs/NACCL-33-Dis-Pred_slides.pdf)]
-
 1. MSC variations in metaphorization among Pan-Chinese speech communities. [NACCL-33](https://lucian.uchicago.edu/blogs/lpl/NACCL33/), Uchicago (online). [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)] [[slides](https://kafai-yip.github.io/assets/docs/NACCL-33_metaphorization_presentation.pdf)]
-
-1. Differential metaphorization and grammaticalization: a case study of Chinese light verbs. [RaAM-14](https://www.raam14.flf.vu.lt/), Vilnius, Lithuania. [[slides](https://kafai-yip.github.io/assets/docs/RaAM-14_light verb_presentation_20210624.pdf)]
 
 1. (Invited talk) CanTONEse ([Android](https://play.google.com/store/apps/details?id=com.cantonese)/[iOS](https://apps.apple.com/hk/app/cantonese/id1546692785?l=en)), an app for learning Cantonese tones. [School of Cantonese Studies](https://www.eduhk.hk/lml/scs2021/en/), EdUHK (online). [with Mei-ying KI & Yik-Po LAI]
 
@@ -65,16 +67,6 @@ classes: wide
 1. Syntax-prosody mapping of right dislocation: a comparative study of Cantonese and Mandarin. Award presentation at [ICPG-7](https://kafai-yip.github.io/assets/docs/ICPG7_Program_0416.pdf), BLCU & TJU, China. [[paper](https://kafai-yip.github.io/assets/docs/ICPG7_Right dislocation_withname.pdf)] [***Young Scholar Award for Prosodic Grammar, First Place***]
 
 1. Two types of temporal adverbial clauses in Cantonese. Poster at [WCCFL-39](https://sites.google.com/view/wccfl2021/home), UArizona (online). [[poster](https://doi.org/10.25422/azu.data.14481591.v1)] [[handout](https://kafai-yip.github.io/assets/docs/WCCFL-39_temporal_20210410.pdf)]
-
-1. Universal concord as syntactic agreement. [PLC-45](https://www.ling.upenn.edu/Events/PLC/plc45/index.html), UPenn (online). [[handout](https://kafai-yip.github.io/assets/docs/PLC-45_∀-concord_handout_20210320.pdf)]
-
-1. Verbal “infixation” as partial deletion: a case in Cantonese verbs. [PLC-45](https://www.ling.upenn.edu/Events/PLC/plc45/index.html), UPenn (online). [with [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/) & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/Syllable_deletion_PLC-45_handout.pdf)] [[slides](https://kafai-yip.github.io/assets/docs/Syllable_deletion_PLC-45_slides.pdf)]
-
-1. Two types of temporal adverbial clauses in Cantonese. [BEAL-4](https://u.osu.edu/beal/beal-forum/2021-2/), OSU (online). [[handout](https://kafai-yip.github.io/assets/docs/BEAL-4_temporal_20210304.pdf)]
-
-1. Deriving separable verbs in Cantonese. [BEAL-4](https://u.osu.edu/beal/beal-forum/2021-2/), OSU (online). [with [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/) & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/Syllable deletion (BEAL-4).pdf)] [[slides](https://kafai-yip.github.io/assets/docs/Syllable deletion (BEAL-4 - short).pdf)]
-
-1. Separable verbs, syllable deletion, and micro-variations. [Phex-11](https://toki482.wixsite.com/phex11/?lang=ja), Sapporo University (online). [with [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/) & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/Syllable deletion (Phex-11)-handout.pdf)] [[slides](https://kafai-yip.github.io/assets/docs/Syllable deletion (Phex-11)-slides.pdf)]
 
 ### 2020
 
@@ -94,31 +86,13 @@ classes: wide
 
 1. Generalized Scope Economy. [NACCL-32](http://2020.sicogg.or.kr/), UConn (online). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/NACCL32 Generalized Scope Economy_handout_20200918.pdf)]
 
-1. Generalized Scope Economy. [SICOGG-22](http://2020.sicogg.or.kr/), Gyeongsang National University (online). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/SICOGG 22 presentation_Generalized Scope Economy_20200813.pdf)]
-
-1. Hyperraising and evidentiality. [SICOGG-22](http://2020.sicogg.or.kr/), Gyeongsang National University (online). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/SICOGG 22 presentation_Hyper-raising and evidentiality.pdf)]
-
-1. Facilitating the self-learning of Cantonese: an innovative e-approach. [CUHK Expo 2019/20](https://www.elearning.cuhk.edu.hk/expo2019), CUHK (online). [with Pit Shun LAI & Yik-Po LAI]
-
-1. Syllable Deletion and Morphological Length in Cantonese Verbs. [FoCaL-3](https://focalhongkong.wordpress.com/), HSUHK. [with [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/) & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/[FoCaL-3] Syllable deletion & morphological length in Cantonese verbs.pdf)]
-
 1. How to identify intonations on sentence-final particles? [WOC-20](https://www.lshk.org/workshop-on-cantonese-woc), HKBU (online). [with Him Nok LEE] [[slides](https://kafai-yip.github.io/assets/docs/WOC-20_ge_20200606.pdf)]
 
 1. Zero-coded passives in Cantonese. [WICL-5](https://u.osu.edu/wicl/wicl-5/), OSU (online). [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/Chan, Lee & Yip (2020) Zero coded passives in Cantonese [WICL-5].pdf)]
 
-1. The prosodic syntax of right dislocation in Cantonese. [WICL-5](https://u.osu.edu/wicl/wicl-5/), OSU (online). [[slides](https://kafai-yip.github.io/assets/docs/WICL-5_RD_20200418.pptx)]
-
-1. Raising, phase unlocked. [WCCFL-38](https://wccfl2020.linguistics.ubc.ca/), UBC. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[poster](https://kafai-yip.github.io/assets/docs/WCCFL38 - Raising, phase unlocked_20200228.pdf)]
-
 1. Syntax-prosody mapping in clausal domains: right dislocation in Mandarin and Cantonese. [Phex 10](https://toki482.wixsite.com/phex10), The University of Tokyo. [[slides](https://kafai-yip.github.io/assets/docs/PhEx 10_RD_20200215.pptx)] [[paper](https://sapporo-u.repo.nii.ac.jp/?action=repository_uri&item_id=7728&file_id=22&file_no=1)]
 
 ### 2019
-
-1. 粵語易位句的韻律句法研究[The prosodic syntax of right dislocation in Cantonese]. [ARF-2019](https://www.lshk.org/annual-research-forum-arf), EdUHK.
-
-1. Sentence-initial root modals and focus. [ARF-2019](https://www.lshk.org/annual-research-forum-arf), EdUHK. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
-
-1. Universal Concord: Evidence from Cantonese pseudo affixal quantifier *-can*. [2019 LSA Linguistic Institute poster session](https://lsa2019.ucdavis.edu/), UC Davis. [[poster](https://kafai-yip.github.io/assets/docs/LSA LI 2019 ∀-concord_poster_20190707.pdf)]
 
 1. 澄海閩語中的言說動詞[Verbs of saying in Chenghai Min]. [IRF-5](http://www.cuhk.edu.hk/ics/clrc/irf/2019/index.html), Sun Yat-sen University. [with [Jia JIN](https://myweb.cuhk.edu.cn/jinjia)] [[slides](https://kafai-yip.github.io/assets/docs/IRF-5_VOS in Chenghai_20190616.pdf)]
 
@@ -127,8 +101,6 @@ classes: wide
 1. 粵語動詞後綴嘅重新分類[Re-classifying Cantonese verbal suffixes]. [FoCaL-2](https://focalhongkong.wordpress.com/), EdUHK.
 
 1. Subordinate affixes in Cantonese and intervention effects. [IACL-27](https://easychair.org/cfp/IACL27), Kobe City University of Foreign Studies. [[slides](https://kafai-yip.github.io/assets/docs/IACL-27_haa_20190512.pdf)]
-
-1. 粵語從句詞綴初探[A preliminary study on subordinate affixes in Cantonese]. [Yue 23](http://www.cnki.com.cn/Article/CJFDTotal-FYZA201901005.htm), Jinan University. 
 
 1. Two subclasses of verbs of thinking in Cantonese. [ARF-2018](https://www.lshk.org/annual-research-forum-arf), CityUHK. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 
