@@ -109,7 +109,7 @@ toc_icon: "university"
 </div>
 
 
-### *Right dislocation*
+### *Prosodic domains*
 
 {% capture notice-text %}
 * Based on acoustic data, I study the mapping from clauses to intonational phrases in right dislocation. I also discuss micro-variations in Cantonese and Mandarin which are attributable to their prosodic differences.
@@ -123,27 +123,18 @@ toc_icon: "university"
 
 ## Corpus linguistics
 
-### *Metaphorization*
+### *Metaphorization and variations*
 
 {% capture notice-text %}
 [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)]
 * With a case study on Chinese light verbs, we explore different dimensions involving gradation of metaphorization process and provide a general schema of metaphorization.
     - Chinese｜[slides-SLE](https://osf.io/6nvmu/)
-{% endcapture %}
-
-<div class="notice--primary">
-  <h4 class="no_toc">Differential metaphorization and grammaticalization</h4>
-  {{ notice-text | markdownify }}
-</div>
-
-{% capture notice-text %}
-[with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134) & Yaxuan JI]
 * We offer a novel dynamic perspective to language variations with a process-based approach. Drawing data from [LIVAC](https://en.wikipedia.org/wiki/LIVAC_Synchronous_Corpus), we discuss parallel and differential developments of metaphorization process in varieties of Modern Standard Chinese.
     - Chinese (BJ, HK, MC, TW)｜[paper-PACLIC](https://aclanthology.org/2020.paclic-1.35/)｜[slides-NACCL](https://kafai-yip.github.io/assets/docs/NACCL-33_metaphorization_presentation.pdf)｜[samples](https://kafai-yip.github.io/assets/docs/ARF2020_da_TypeII_examples.pdf)
 {% endcapture %}
 
 <div class="notice--primary">
-  <h4 class="no_toc">MSC variations in metaphorization</h4>
+  <h4 class="no_toc">Differential metaphorization and grammaticalization</h4>
   {{ notice-text | markdownify }}
 </div>
 
