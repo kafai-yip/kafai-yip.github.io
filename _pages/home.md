@@ -18,7 +18,7 @@ I'm a second-year PhD student in the Department of Linguistics at Yale Universit
 
 
 {% capture notice-text %}
-* See the upcoming talks below!
+* My joint [WCCFL paper](http://www.lingref.com/cpp/wccfl/38/abstract3572.html) with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/) on hyperraising has been published!
 {% endcapture %}
 
 <div class="notice--info">
@@ -29,24 +29,22 @@ I'm a second-year PhD student in the Department of Linguistics at Yale Universit
 
 ## Upcoming talks
 
-2021, Dec 4. Two kinds of resumption in Cantonese. [LSHK-ARF-2021](https://www.lshk.org/annual-research-forum-arf), CityUHK.
+2022, Mar 18-20. Non-agreeing resumptive pronouns and partial Copy Deletion. [PLC-46](https://www.ling.upenn.edu/Events/PLC/plc46/index.html), UPenn (online). [with [Comfort Ahenkorah](https://ling.yale.edu/people/comfort-ahenkorah)]
 
-2021, Dec 16-17. Partial deletion at word-level: discontinuous predicates in Cantonese. [BCGL-14](https://www.crissp.be/bcgl-14-where-syntax-and-phonology-meet/), CRISSP of KU Leuven (online). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/) & [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/)]
+2022, May 20-22. Separable verbs as partial deletion in Cantonese. [IACL-28](http://ling.cuhk.edu.hk/iacl28/), CUHK. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/) & [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/)]
 
-2022, Jan 6-9. Adverbial clauses with and without operator movement. [LSA-96](https://www.linguisticsociety.org/event/lsa-2022-annual-meeting), Washington, DC. [with [Zhuo Chen](https://www.zhuochenlinguist.com/)] 
-
-2022, Jan 6-9. Non-agreeing resumptive pronouns and partial Copy Deletion. Poster at [LSA-96](https://www.linguisticsociety.org/event/lsa-2022-annual-meeting), Washington, DC. [with [Comfort Ahenkorah](https://ling.yale.edu/people/comfort-ahenkorah)]
+2022, May 20-22. MSC variations in metaphorization among Pan-Chinese speech communities. [IACL-28](http://ling.cuhk.edu.hk/iacl28/), CUHK. [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)]
 
 ## Recent talks (in past 3 months)
 
-2021, Nov. Adverbial clauses with and without operator movement. [ICFL-9](https://easychair.org/cfp/ICFL-9). [with [Zhuo Chen](https://www.zhuochenlinguist.com/)] [[handout](https://kafai-yip.github.io/assets/docs/ICFL-9_advclause_handout_20211106.pdf)]
+2022, Jan. Adverbial clauses with and without operator movement. [LSA-96](https://www.linguisticsociety.org/event/lsa-2022-annual-meeting), Washington, DC. [with [Zhuo Chen](https://www.zhuochenlinguist.com/)]  [[handout](https://kafai-yip.github.io/assets/docs/LSA2022_advclause_handout_20220104.pdf)]
 
-2021, Oct. (Invited talk) Universal concord as syntactic agreement. [Syntax Brown Bag](https://sites.google.com/a/nyu.edu/nyusyntaxbrownbag/schedule?authuser=0), NYU. [[handout](https://kafai-yip.github.io/assets/docs/NYU_universal concord_20211022.pdf)]
+2022, Jan. Non-agreeing resumptive pronouns and partial Copy Deletion. Poster at [LSA-96](https://www.linguisticsociety.org/event/lsa-2022-annual-meeting), Washington, DC. [with [Comfort Ahenkorah](https://ling.yale.edu/people/comfort-ahenkorah)] [[poster](https://kafai-yip.github.io/assets/docs/LSA2022_resumptive_poster_20220104_large.pdf)] [[handout](https://kafai-yip.github.io/assets/docs/LSA2022_resumption_handout_20220105.pdf)]
 
-2021, Sep. Universal concord as syntactic agreement. [WFL-13](https://13wflunb.wixsite.com/wfl-2020), Auditório do Instituto de Letras, Universidade de Brasília (online). [[handout](https://kafai-yip.github.io/assets/docs/WFL-13_%E2%88%80-concord_handout_20210916.pdf)]
+2021, Dec. Partial deletion at word-level: discontinuous predicates in Cantonese. [BCGL-14](https://www.crissp.be/bcgl-14-where-syntax-and-phonology-meet/), CRISSP of KU Leuven (online). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/) & [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/)]
 
-2021, Sep. Hyper-raising, evidentiality, and phase deactivation. [WFL-13](https://13wflunb.wixsite.com/wfl-2020), Auditório do Instituto de Letras, Universidade de Brasília (online). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[slides](https://kafai-yip.github.io/assets/docs/HR%20and%20evidentiality%20-%20handout.pdf)]
+2021, Dec. Two kinds of resumption in Cantonese. [LSHK-ARF-2021](https://www.lshk.org/annual-research-forum-arf), CityUHK.
 
-
+2021, Nov. Adverbial clauses with and without operator movement. [ICFL-9](https://easychair.org/cfp/ICFL-9). [with [Zhuo Chen](https://www.zhuochenlinguist.com/)] 
 
 {% include feature_row id="intro" type="center" %}
