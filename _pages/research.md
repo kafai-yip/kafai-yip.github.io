@@ -36,7 +36,7 @@ toc_icon: "university"
 {% capture notice-text %}
 [with [Zhuo Chen](https://www.zhuochenlinguist.com/)]
 * We argue that adverbial clauses may be derived by either operator movement or merging an in-situ operator at the highest CP. These two strategies are attested in both central and peripheral adverbial clauses, calling for a finer typology of adverbial clauses.
-    - Mandarin｜[handout-ICFL](https://kafai-yip.github.io/assets/docs/ICFL-9_advclause_handout_20211106.pdf)
+    - Mandarin｜[handout-LSA](https://kafai-yip.github.io/assets/docs/LSA2022_advclause_handout_20220104.pdf)
 * A related discussion on reducing the external syntax to the internal syntax in terms of operator merging sites. 
     - Cantonese｜[paper-WCCFLext.](https://kafai-yip.github.io/assets/docs/WCCFL-39_Yip_long.pdf)｜[poster-WCCFL](https://doi.org/10.25422/azu.data.14481591.v1)
 {% endcapture %}
@@ -61,7 +61,7 @@ toc_icon: "university"
 {% capture notice-text %}
 [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 * We show that raising out of a finite clause (i.e. hyperraising) is correlated with indirect evidence cross-linguistically, and how the correlation may be accounted for under a phase-deactivation approach.  
-    - Cantonese, Vietnamese｜[handout-BCGL](https://kafai-yip.github.io/assets/docs/BCGL_HR_evidentiality_handout.pdf)｜[paper-WCCFL](https://kafai-yip.github.io/assets/docs/Lee%20&%20Yip%20(2020)%20Raising,%20Phase%20Unlocked.pdf)
+    - Cantonese, Vietnamese｜[handout-BCGL](https://kafai-yip.github.io/assets/docs/BCGL_HR_evidentiality_handout.pdf)｜[paper-WCCFL](http://www.lingref.com/cpp/wccfl/38/abstract3572.html)
 {% endcapture %}
 
 <div class="notice--info">
@@ -89,7 +89,7 @@ toc_icon: "university"
 {% capture notice-text %}
 [with [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/) & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 * Focusing on discontinuous predicates, we propose that Copy Deletion may interact with syllable deletion and apply partially. Micro-variations between Cantonese and Mandarin are also addressed.
-    - Cantonese, Mandarin｜[handout-PLC](https://kafai-yip.github.io/assets/docs/Chan,%20Lee%20&%20Yip%20(2021)%20Discontinuous%20predicates%20as%20partial%20deletion%20in%20Cantonese.pdf)｜[handout-NACCL](https://kafai-yip.github.io/assets/docs/NACCL-33-Dis-Pred_handout.pdf)
+    - Cantonese, Mandarin｜[paper-PLC](https://kafai-yip.github.io/assets/docs/Chan, Lee & Yip (2021) Discontinuous predicates as partial deletion in Cantonese.pdf)｜[handout-NACCL](https://kafai-yip.github.io/assets/docs/NACCL-33-Dis-Pred_handout.pdf)
 {% endcapture %}
 
 <div class="notice--success">
@@ -100,7 +100,7 @@ toc_icon: "university"
 {% capture notice-text %}
 [with [Comfort Ahenkorah](https://ling.yale.edu/people/comfort-ahenkorah)]
 * Drawing evidence from non-agreeing resumptive pronouns, we argue that Copy Deletion can apply in a partial fashion and spell out the lower copy of a movement chain as default pronouns.
-    - Akan, Cantonese
+    - Akan, Cantonese｜[handout-LSA](https://kafai-yip.github.io/assets/docs/LSA2022_resumption_handout_20220105.pdf)
 {% endcapture %}
 
 <div class="notice--success">
@@ -118,19 +118,6 @@ toc_icon: "university"
 
 <div class="notice--success">
   <h4 class="no_toc">Right dislocation</h4>
-  {{ notice-text | markdownify }}
-</div>
-
-### *Intonation, tones & SFPs*
-
-{% capture notice-text %}
-[with Him Nok LEE]
-* We exmaine the pitch properties of a polysemous SFP and discuss how to distinguish intonations from tones on SFPs.
-    - Cantonese｜[slides-WOC](https://kafai-yip.github.io/assets/docs/WOC-20_ge_20200606.pdf)
-{% endcapture %}
-
-<div class="notice--success">
-  <h4 class="no_toc">Intonations on sentence-final particles</h4>
   {{ notice-text | markdownify }}
 </div>
 
@@ -161,27 +148,6 @@ toc_icon: "university"
 </div>
 
 ## Other
-
-{% capture notice-text %}
-* With evidence from suffix stacking and scope, I argue that the syntactic position of perfective aspect should be higher than experiential aspect.
-    - Mandarin, Yangchun (陽春) Yue｜[handout-ARF](https://kafai-yip.github.io/assets/docs/ARF2020_perfective_handout_20201212.pdf)
-{% endcapture %}
-
-<div class="notice--danger">
-  <h4 class="no_toc">Aspect</h4>
-  {{ notice-text | markdownify }}
-</div>
-
-{% capture notice-text %}
-[with [Jia JIN](https://myweb.cuhk.edu.cn/jinjia)]
-* We argue that verbs of saying should be divided into two classes, SAY and GIVE-by-saying, which take different direct & indirect objects. 
-    - Chenghai (澄海) Min｜[slides-IRF (in Chinese)](https://kafai-yip.github.io/assets/docs/IRF-5_VOS in Chenghai_20190616.pdf)
-{% endcapture %}
-
-<div class="notice--danger">
-  <h4 class="no_toc">Verbs of saying</h4>
-  {{ notice-text | markdownify }}
-</div>
 
 {% capture notice-text %}
 [with Mei-ying KI & Yik-Po LAI]
