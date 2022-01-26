@@ -12,7 +12,7 @@ toc_icon: "university"
 
 {% capture notice-text %}
 * I show that universal elements also have concord, on a par with negative concord. Focusing on the suffix *-can* 'whenever' in Cantonese and *mei...dou* 'every' in Mandarin, I argue for a syntactic agreement analysis of universal concord. I also discuss the relevance of minimality effects.
-    - Cantonese, Mandarin｜[paper-PLC](https://kafai-yip.github.io/assets/docs/Yip%20(2021)%20Universal%20concord%20as%20syntactic%20agreement.pdf)｜[handout-NYU](https://kafai-yip.github.io/assets/docs/NYU_universal%20concord_20211022.pdf)
+    - Cantonese, Mandarin｜[paper-PLC](https://ling.auf.net/lingbuzz/006299)｜[handout-NYU](https://kafai-yip.github.io/assets/docs/NYU_universal%20concord_20211022.pdf)
 * A related discussion on the scopal behaviour of the verbal suffix *-can* 'whenever' in Cantonese. 
     - Cantonese｜[paper-CRCL (in Chinese)](http://www.cuhk.edu.hk/ics/clrc/crcl_99_1/yip.pdf)
 {% endcapture %}
@@ -38,7 +38,7 @@ toc_icon: "university"
 * We argue that adverbial clauses may be derived by either operator movement or merging an in-situ operator at the highest CP. These two strategies are attested in both central and peripheral adverbial clauses, calling for a finer typology of adverbial clauses.
     - Mandarin｜[handout-LSA](https://kafai-yip.github.io/assets/docs/LSA2022_advclause_handout_20220104.pdf)
 * A related discussion on reducing the external syntax to the internal syntax in terms of operator merging sites. 
-    - Cantonese｜[paper-WCCFLext.](https://kafai-yip.github.io/assets/docs/WCCFL-39_Yip_long.pdf)｜[poster-WCCFL](https://doi.org/10.25422/azu.data.14481591.v1)
+    - Cantonese｜[paper-WCCFLext.](https://ling.auf.net/lingbuzz/006288)｜[poster-WCCFL](https://doi.org/10.25422/azu.data.14481591.v1)
 {% endcapture %}
 
 <div class="notice--info">
@@ -74,7 +74,7 @@ toc_icon: "university"
 {% capture notice-text %}
 [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 * We propose that root modals in Chinese can undergo movement when crossing a focused element, and the movement is constrained by output economy regarding focus set calculation.
-    - Mandarin｜[paper-bookchapter](https://kafai-yip.github.io/assets/docs/Yip%20&%20Lee%20(2021)%20Modal%20movement%20licensed%20by%20focus.pdf)
+    - Mandarin｜[paper-bookchapter](https://ling.auf.net/lingbuzz/006281)
 {% endcapture %}
 
 <div class="notice--info">
@@ -89,7 +89,7 @@ toc_icon: "university"
 {% capture notice-text %}
 [with [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/) & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 * Focusing on discontinuous predicates, we propose that Copy Deletion may interact with syllable deletion and apply partially. Micro-variations between Cantonese and Mandarin are also addressed.
-    - Cantonese, Mandarin｜[paper-PLC](https://kafai-yip.github.io/assets/docs/Chan, Lee & Yip (2021) Discontinuous predicates as partial deletion in Cantonese.pdf)｜[handout-NACCL](https://kafai-yip.github.io/assets/docs/NACCL-33-Dis-Pred_handout.pdf)
+    - Cantonese, Mandarin｜[paper-PLC](https://ling.auf.net/lingbuzz/006283)｜[handout-NACCL](https://kafai-yip.github.io/assets/docs/NACCL-33-Dis-Pred_handout.pdf)
 {% endcapture %}
 
 <div class="notice--success">
