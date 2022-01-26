@@ -11,15 +11,15 @@ classes: wide
 ### Manuscripts
 (Feel free to email me for a draft.)
 
-- Hyper-raising, evidentiality, and phase deactivation. In prep. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[WCCFL-38 proceedings](https://kafai-yip.github.io/assets/docs/Lee & Yip (2020) Raising, Phase Unlocked.pdf)]
+- Hyper-raising, evidentiality, and phase deactivation. In prep. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[WCCFL-38 proceedings](http://www.lingref.com/cpp/wccfl/38/abstract3572.html)]
 
-- Unversal concord as syntactic agreement. To appear in *UPenn Working Papers in Linguistics*. [[pre-printed](https://kafai-yip.github.io/assets/docs/Yip (2021) Universal concord as syntactic agreement.pdf)] 
+- Unversal concord as syntactic agreement. To appear in *UPenn Working Papers in Linguistics*. [[pre-printed](https://ling.auf.net/lingbuzz/006299)] 
 
-- Discontinuous predicates as partial deletion in Cantonese. To appear in *UPenn Working Papers in Linguistics*. [with [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/) & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[pre-printed](https://kafai-yip.github.io/assets/docs/Chan, Lee & Yip (2021) Discontinuous predicates as partial deletion in Cantonese.pdf)]
+- Discontinuous predicates as partial deletion in Cantonese. To appear in *UPenn Working Papers in Linguistics*. [with [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/) & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[pre-printed](https://ling.auf.net/lingbuzz/006283)]
 
-- Two types of temporal adverbial clauses in Cantonese. To appear in *Proceedings of WCCFL-39*. [[extended version](https://kafai-yip.github.io/assets/docs/WCCFL-39_Yip_long.pdf)]
+- Two types of temporal adverbial clauses in Cantonese. To appear in *Proceedings of WCCFL-39*. [[extended version](https://ling.auf.net/lingbuzz/006288)]
 
-- Modal movement licensed by focus. To appear in a book chapter. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[pre-printed](https://kafai-yip.github.io/assets/docs/Yip & Lee (2021) Modal movement licensed by focus.pdf)]
+- Modal movement licensed by focus. To appear in a book chapter. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[pre-printed](https://ling.auf.net/lingbuzz/006281)]
 
 ### Publications
 
