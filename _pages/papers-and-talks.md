@@ -48,8 +48,6 @@ classes: wide
 
 1. Partial deletion at word-level: discontinuous predicates in Cantonese. [BCGL-14](https://www.crissp.be/bcgl-14-where-syntax-and-phonology-meet/), CRISSP of KU Leuven (online). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/) & [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/)]
 
-1. Two kinds of resumption in Cantonese. [LSHK-ARF-2021](https://www.lshk.org/annual-research-forum-arf), CityUHK.
-
 1. (Invited talk) Universal concord as syntactic agreement. [Syntax Brown Bag](https://sites.google.com/a/nyu.edu/nyusyntaxbrownbag/schedule?authuser=0), NYU. [[handout](https://kafai-yip.github.io/assets/docs/NYU_universal concord_20211022.pdf)]
 
 1. Differential metaphorization and grammaticalization in Chinese light verbs. [SLE 2021](http://sle2021.eu/), National and Kapodistrian University of Athens (online). [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)] [[OSF](https://osf.io/9t4gn/)]
