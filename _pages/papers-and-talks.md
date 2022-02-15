@@ -28,7 +28,7 @@ classes: wide
 - (2021). [Deriving Separable Verbs in Cantonese](https://kb.osu.edu/handle/1811/92948). In *BEAL-5*, 94-104. [with [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/) & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 
 - (2020). [Syntax-prosody mapping of right-dislocations in Cantonese and Mandarin](https://sapporo-u.repo.nii.ac.jp/?action=repository_uri&item_id=7728&file_id=22&file_no=1). In *Phonological Externalization (Vol. 5)*, 73-90.
-- 
+
 - (2020). [A corpus-based comparative study of light verbs in three Chinese speech communities](https://aclanthology.org/2020.paclic-1.35/). In *PACLIC-34*, 302-311. [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)]
 
 - (2020). Generalized Scope Economy. In [*NACCL-32*](https://drive.google.com/drive/folders/1OmSblMCKfrwF36JopSRAaa8RErgqCThY), 345-360. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
