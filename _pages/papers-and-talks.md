@@ -11,7 +11,7 @@ classes: wide
 ### Manuscripts
 (Feel free to email me for a draft.)
 
-- Hyper-raising, evidentiality, and phase deactivation. In prep. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[WCCFL-38 proceedings](http://www.lingref.com/cpp/wccfl/38/abstract3572.html)]
+- Hyper-raising, evidentiality, and phase deactivation. Submitted. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[Draft](https://lingbuzz.net/lingbuzz/006471)]
 
 - Unversal concord as syntactic agreement. To appear in *UPenn Working Papers in Linguistics*. [[pre-printed](https://ling.auf.net/lingbuzz/006299)] 
 
@@ -27,11 +27,13 @@ classes: wide
 
 - (2021). [Deriving Separable Verbs in Cantonese](https://kb.osu.edu/handle/1811/92948). In *BEAL-5*, 94-104. [with [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/) & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 
+- (2020). [Syntax-prosody mapping of right-dislocations in Cantonese and Mandarin](https://sapporo-u.repo.nii.ac.jp/?action=repository_uri&item_id=7728&file_id=22&file_no=1). In *Phonological Externalization (Vol. 5)*, 73-90.
+- 
 - (2020). [A corpus-based comparative study of light verbs in three Chinese speech communities](https://aclanthology.org/2020.paclic-1.35/). In *PACLIC-34*, 302-311. [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)]
 
-- (2020). [Bilingual multi-word expressions, multiple-correspondence, and their cultivation from parallel patents: the Chinese-English case](https://aclanthology.org/2020.paclic-1.68/). In *PACLIC-34*, 589-602. [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134), Ka Po CHOW, [John LEE](http://www2.lt.cityu.edu.hk/~jsylee/), Yaxuan JI & Kevin WU]
+- (2020). Generalized Scope Economy. In [*NACCL-32*](https://drive.google.com/drive/folders/1OmSblMCKfrwF36JopSRAaa8RErgqCThY), 345-360. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 
-- (2020). [Syntax-prosody mapping of right-dislocations in Cantonese and Mandarin](https://sapporo-u.repo.nii.ac.jp/?action=repository_uri&item_id=7728&file_id=22&file_no=1). In *Phonological Externalization (Vol. 5)*, 73-90.
+- (2020). [Bilingual multi-word expressions, multiple-correspondence, and their cultivation from parallel patents: the Chinese-English case](https://aclanthology.org/2020.paclic-1.68/). In *PACLIC-34*, 589-602. [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134), Ka Po CHOW, [John LEE](http://www2.lt.cityu.edu.hk/~jsylee/), Yaxuan JI & Kevin WU]
 
 - (2020). [粵語動詞後綴“親”的三個框式結構[Three discontinuous constructions of Cantonese verbal suffix *can*]](http://www.cuhk.edu.hk/ics/clrc/crcl_99_1/yip.pdf) (written in Chinese). *Current Research in Chinese Linguistics* 99(1):153-169.
 
