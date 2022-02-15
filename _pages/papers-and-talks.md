@@ -11,7 +11,7 @@ classes: wide
 ### Manuscripts
 (Feel free to email me for a draft.)
 
-- Hyper-raising, evidentiality, and phase deactivation. Submitted. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[Draft](https://lingbuzz.net/lingbuzz/006471)]
+- Hyper-raising, evidentiality, and phase deactivation. Submitted. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[draft](https://lingbuzz.net/lingbuzz/006471)]
 
 - Unversal concord as syntactic agreement. To appear in *UPenn Working Papers in Linguistics*. [[pre-printed](https://ling.auf.net/lingbuzz/006299)] 
 
