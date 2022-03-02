@@ -9,17 +9,17 @@ classes: wide
 ## Papers
 
 ### Manuscripts
-(Feel free to email me for a draft.)
+(Comments are welcome!)
 
-- Hyper-raising, evidentiality, and phase deactivation. Submitted. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[draft](https://lingbuzz.net/lingbuzz/006471)]
+- [Hyper-raising, evidentiality, and phase deactivation](https://lingbuzz.net/lingbuzz/006471). Under review, *Natural Language and Linguistic Theory*. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] 
 
-- Unversal concord as syntactic agreement. To appear in *UPenn Working Papers in Linguistics*. [[pre-printed](https://ling.auf.net/lingbuzz/006299)] 
+- [Unversal concord as syntactic agreement](https://ling.auf.net/lingbuzz/006299). To appear in *UPenn Working Papers in Linguistics*.
 
-- Discontinuous predicates as partial deletion in Cantonese. To appear in *UPenn Working Papers in Linguistics*. [with [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/) & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[pre-printed](https://ling.auf.net/lingbuzz/006283)]
+- [Two types of temporal adverbial clauses in Cantonese](https://ling.auf.net/lingbuzz/006288). To appear in *Proceedings of WCCFL-39*.
 
-- Two types of temporal adverbial clauses in Cantonese. To appear in *Proceedings of WCCFL-39*. [[extended version](https://ling.auf.net/lingbuzz/006288)]
+- [Discontinuous predicates as partial deletion in Cantonese](https://ling.auf.net/lingbuzz/006283). To appear in *UPenn Working Papers in Linguistics*. [with [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/) & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 
-- Modal movement licensed by focus. To appear in a book chapter. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[pre-printed](https://ling.auf.net/lingbuzz/006281)]
+- [Modal movement licensed by focus](https://ling.auf.net/lingbuzz/006281). To appear in a book chapter. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 
 ### Publications
 
