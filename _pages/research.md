@@ -36,7 +36,7 @@ toc_icon: "university"
 {% capture notice-text %}
 [with [Zhuo Chen](https://www.zhuochenlinguist.com/)]
 * We argue that adverbial clauses may be derived by either operator movement or merging an in-situ operator at the highest CP. These two strategies are attested in both central and peripheral adverbial clauses, calling for a finer typology of adverbial clauses.
-    - Mandarin｜[handout-LSA](https://kafai-yip.github.io/assets/docs/LSA2022_advclause_handout_20220104.pdf)
+    - Mandarin｜(please email me for the handout)
 * A related discussion on reducing the external syntax to the internal syntax in terms of operator merging sites. 
     - Cantonese｜[paper-WCCFLext.](https://ling.auf.net/lingbuzz/006288)｜[poster-WCCFL](https://doi.org/10.25422/azu.data.14481591.v1)
 {% endcapture %}
