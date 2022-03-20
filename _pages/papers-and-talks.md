@@ -38,11 +38,11 @@ classes: wide
 - (2020). [粵語動詞後綴“親”的三個框式結構[Three discontinuous constructions of Cantonese verbal suffix *can*]](http://www.cuhk.edu.hk/ics/clrc/crcl_99_1/yip.pdf) (written in Chinese). *Current Research in Chinese Linguistics* 99(1):153-169.
 
 
-## Selected Presentations
+## Presentations
 
 ### 2022
 
-1. Adverbial clauses with and without operator movement. [LSA-96](https://www.linguisticsociety.org/event/lsa-2022-annual-meeting), Washington, DC. [with [Zhuo Chen](https://www.zhuochenlinguist.com/)] [[handout](https://kafai-yip.github.io/assets/docs/LSA2022_advclause_handout_20220104.pdf)]
+1. Adverbial clauses with and without operator movement. [LSA-96](https://www.linguisticsociety.org/event/lsa-2022-annual-meeting), Washington, DC. [with [Zhuo Chen](https://www.zhuochenlinguist.com/)]
 
 1. Non-agreeing resumptive pronouns and partial Copy Deletion. Poster at [LSA-96](https://www.linguisticsociety.org/event/lsa-2022-annual-meeting), Washington, DC. [with [Comfort Ahenkorah](https://ling.yale.edu/people/comfort-ahenkorah)] [[poster](https://kafai-yip.github.io/assets/docs/LSA2022_resumptive_poster_20220104_large.pdf)] [[handout](https://kafai-yip.github.io/assets/docs/LSA2022_resumption_handout_20220105.pdf)]
 
@@ -75,10 +75,6 @@ classes: wide
 1. On the position of perfective aspect. [ARF-2020](https://www.lshk.org/annual-research-forum-arf). CUHK (online). [[handout](https://kafai-yip.github.io/assets/docs/ARF2020_perfective_handout_20201212.pdf)]
 
 1. 漢語動詞虛化初探：港澳京三地同中之異[A preliminary study on metaphorization of Chinese verbs: comparing Hong Kong, Macau and Beijing]. [ARF-2020](https://www.lshk.org/annual-research-forum-arf). CUHK (online). [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134) & Yaxuan JI] [[slides](https://kafai-yip.github.io/assets/docs/ARF_HBM[da]_1208 1230 HKT.pdf)] [[samples](https://kafai-yip.github.io/assets/docs/ARF2020_da_TypeII_examples.pdf)]
-
-1. A corpus-based comparative study of light verbs in three Chinese speech communities. [PACLIC-34](https://vlsp.org.vn/paclic2020/), VNU University of Science, Hanoi (online). [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)] [[paper](https://aclanthology.org/2020.paclic-1.35/)]
-
-1. Generalized Scope Economy. [NACCL-32](http://2020.sicogg.or.kr/), UConn (online). [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 
 1. How to identify intonations on sentence-final particles? [WOC-20](https://www.lshk.org/workshop-on-cantonese-woc), HKBU (online). [with Him Nok LEE] [[slides](https://kafai-yip.github.io/assets/docs/WOC-20_ge_20200606.pdf)]
 
