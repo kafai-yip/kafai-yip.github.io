@@ -18,7 +18,7 @@ I'm a second-year PhD student in the Department of Linguistics at Yale Universit
 
 
 {% capture notice-text %}
-* see below for the upcoming talks!
+* My co-authored [paper on modal movement](https://www.jbe-platform.com/content/books/9789027258175-la.272.06yip) with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/) is recently published!
 {% endcapture %}
 
 <div class="notice--info">
