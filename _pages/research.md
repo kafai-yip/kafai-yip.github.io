@@ -61,7 +61,7 @@ toc_icon: "university"
 {% capture notice-text %}
 [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 * We show that raising out of a finite clause (i.e. hyperraising) is correlated with indirect evidence cross-linguistically, and how the correlation may be accounted for under a phase-deactivation approach.  
-    - Cantonese, Vietnamese｜[handout-BCGL](https://kafai-yip.github.io/assets/docs/BCGL_HR_evidentiality_handout.pdf)｜[paper-WCCFL](http://www.lingref.com/cpp/wccfl/38/abstract3572.html)
+    - Cantonese, Vietnamese｜[handout-BCGL](https://kafai-yip.github.io/assets/docs/BCGL_HR_evidentiality_handout.pdf)｜[paper-ms](https://lingbuzz.net/lingbuzz/006471)
 {% endcapture %}
 
 <div class="notice--info">
