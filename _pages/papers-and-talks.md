@@ -19,9 +19,9 @@ classes: wide
 
 - [Discontinuous predicates as partial deletion in Cantonese](https://ling.auf.net/lingbuzz/006283). To appear in *UPenn Working Papers in Linguistics*. [with [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/) & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 
-- [Modal movement licensed by focus](https://ling.auf.net/lingbuzz/006281). To appear in a book chapter. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
-
 ### Publications
+
+- (2022). [Modal movement licensed by focus](https://www.jbe-platform.com/content/books/9789027258175-la.272.06yip). In *New Explorations in Chinese Theoretical Syntax: Studies in Honor of Yen-Hui Audrey Li*, 165-192.  [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[pre-printed](https://ling.auf.net/lingbuzz/006281)]
 
 - (2021). [Raising, Phase Unlocked](http://www.lingref.com/cpp/wccfl/38/abstract3572.html). In *WCCFL-38*, 274-282. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 
