@@ -48,7 +48,7 @@ toc_icon: "university"
 
 {% capture notice-text %}
 * I investigate 11 Cantonese converbs (i.e. affixes that only occur in adverbial clauses) and show that converbal clauses conform with the central-peripheral distinction just as regular adverbial clauses.
-    - Cantonese｜[handout-NACCL](https://kafai-yip.github.io/assets/docs/NACCL-33_converb_handout.pdf)｜[Mphil thesis (in Chinese)](https://kafai-yip.github.io/assets/docs/MPhil Thesis_YIP KA FAI_final draft_20190918_2.pdf)
+    - Cantonese｜[paper-ms](https://lingbuzz.net/lingbuzz/006569)｜[Mphil thesis (in Chinese)](https://kafai-yip.github.io/assets/docs/MPhil Thesis_YIP KA FAI_final draft_20190918_2.pdf)
 {% endcapture %}
 
 <div class="notice--info">
