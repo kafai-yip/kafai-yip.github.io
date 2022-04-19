@@ -74,7 +74,7 @@ toc_icon: "university"
 {% capture notice-text %}
 [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 * We propose that root modals in Chinese can undergo movement when crossing a focused element, and the movement is constrained by output economy regarding focus set calculation.
-    - Mandarin｜[paper-bookchapter](https://ling.auf.net/lingbuzz/006281)
+    - Mandarin｜[paper-bookchapter](https://www.jbe-platform.com/content/books/9789027258175-la.272.06yip)
 {% endcapture %}
 
 <div class="notice--info">
