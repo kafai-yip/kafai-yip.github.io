@@ -7,7 +7,7 @@ classes: wide
 I’m a second-year PhD student in the Department of Linguistics at Yale University. I’m a Hong Konger and speak Cantonese. My research languages are mainly East Asian languages.
 {: .text-justify}
 
-Here is my [CV](https://kafai-yip.github.io/assets/docs/CV_YIP Ka Fai_20220126_EN.pdf).
+Here is my [CV](https://kafai-yip.github.io/assets/docs/CV_YIP Ka Fai_20220419_EN.pdf).
 {: .text-justify}
 
 My main interests are syntax, semantics and their interface. Syntax and semantics are concerned with the structure and the meaning of natural languages respectively, and I'm interested in how language structure maps onto meaning. Recently, I’m intrigued by the phenomenon of quantifier doubling (also dubbed as concord), where two or more quantificational elements contribute similar meaning. Take negative concord as an example: *I did**n’t** eat **nothing*** may mean *I didn’t eat anything* in some varieties of English. Doubling is also found among other quantificational elements, such as existential quantifiers, [universal quantifiers](https://kafai-yip.github.io/research/#quantifier-doubling-concord), modals, exlcusive focus particles, etc. Doubling phenomena constitute an apparent syntax-semantics mismatch and pose a potential challenge to the compositionality of meaning. Studying quantifier doubling thus helps us to understand the mapping between structure and meaning. In this respect, Cantonese serves as an excellent testing ground - we have a rich repertoire of quantificational particles, which may often be doubled or even tripled. 
