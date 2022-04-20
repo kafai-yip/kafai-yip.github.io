@@ -11,6 +11,8 @@ classes: wide
 ### Manuscripts
 (Comments are welcome!)
 
+- [Converbs and adverbial clauses: a case study in Cantonese](https://lingbuzz.net/lingbuzz/006569). Submitted. 
+
 - [Hyper-raising, evidentiality, and phase deactivation](https://lingbuzz.net/lingbuzz/006471). Under review, *Natural Language and Linguistic Theory*. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] 
 
 - [Unversal concord as syntactic agreement](https://ling.auf.net/lingbuzz/006299). To appear in *UPenn Working Papers in Linguistics*.
