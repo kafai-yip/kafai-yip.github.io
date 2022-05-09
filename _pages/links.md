@@ -141,7 +141,7 @@ a self-serving handy list of online profiles; please remind me if I've missed an
 | UChicago      | [Jackie Yan-Ki LAI](https://linguistics.uchicago.edu/yan-ki-jackie-lai) | syntax, morphology |
 | CUHK          | [Regine LAI](http://ling.cuhk.edu.hk/p_regine.php) | phonology |
 | UCSB          | [Ryan Ka Yau LAI](https://rkylai.wordpress.com/) | computational linguistics |
-| EdUHK         | [Yik-Po LAI](https://orcid.org/0000-0002-8791-0757) | typology, grammaticalization |
+| EdUHK         | [Yik-Po LAI](https://yplaihk.wordpress.com/) | typology, grammaticalization |
 | HSUHK         | [Charles LAM](http://charles-lam.net/) | syntax & semantics |
 | OUHK          | [Cherry Chit-Yu LAM](https://cherrylam90.wixsite.com/academic-website) | comparative syntax |
 | UBC           | [Zoe LAM](https://asia.ubc.ca/profile/zoe-lam/) | phonology, heritage languages |
@@ -152,13 +152,14 @@ a self-serving handy list of online profiles; please remind me if I've missed an
 |               | [Jackson L. LEE](https://jacksonllee.com/) | computational linguistics, phonology |
 | CityUHK       | [John LEE](http://www2.lt.cityu.edu.hk/~jsylee/) | computational linguistics |
 | UOH           | [Man Ki Theodora LEE](https://hk.linkedin.com/in/theodoralee) | syntax & semantics |
-| UConn         | [Margaret Chui Yi LEE](https://linguistics.uconn.edu/person/margaret-chui-yi-lee/) | semantics |
+| UConn         | [Margaret Chui Yi LEE](https://linguistics.uconn.edu/person/margaret-chui-yi-lee/) | semantics, acquisition |
 | CityUHK       | [Po Lun Peppina LEE](https://scholars.cityu.edu.hk/en/persons/po-lun-peppina-lee(34592708-7964-4011-8910-f3af22b110f7).html) | semantics |
 | USC           | [Tommy Tsz-Ming LEE](https://tszminglee.github.io/) | syntax & semantics |
 | CityUHK       | [Wai Sum LEE](https://scholars.cityu.edu.hk/en/person/ctllee) | phonetics & phonology |
 | CUHK          | [Margaret LEI](https://www.margaretlei.net/) | acquisition, syntax & semantics |
+| U of T        | [Justin LEUNG](https://www.utm.utoronto.ca/language-studies/people/justin-leung) | heritage languages |
 | UAEU          | [Tommi LEUNG](https://sites.google.com/site/tommileung/) | syntax, phonology |
-| UBC           | [Roger Yu-Hsiang LO](https://blogs.ubc.ca/rogeryhlo/) | phonetics & phonology |
+| UBC           | [Roger Yu-Hsiang LO](https://blogs.ubc.ca/rogeryhlo/) | phonetics & phonology, heritage languages |
 | NTU           | [Kang-kwong LUKE](https://www3.ntu.edu.sg/home/kkluke/index.html) | conversation analysis |
 | CityUHK       | [Suen Caesar LUN](https://scholars.cityu.edu.hk/en/person/ctslun) | sociolinguistics |
 | CityUHK       | [Ziyin MAI](https://maiziyin.com/) | L2 acquisition, bilingualism |
@@ -167,6 +168,7 @@ a self-serving handy list of online profiles; please remind me if I've missed an
 | GDUFS         | [Dingxu SHI](https://clal.gdufs.edu.cn/info/1485/3109.htm) | syntax & semantics |
 | UP            | [Joanna Ut-Seong SIO](http://orcid.org/0000-0002-0949-5957) | syntax & semantics |
 | UBC           | [Rachel SOO](https://sites.google.com/view/rachelsoo/) | phonetics |
+| LEI           | [Matthew SUNG](https://sites.google.com/view/matthew-sung-dialectologist/home) | dialectology |
 | LEI           | [Rint SYBESMA](https://www.universiteitleiden.nl/en/staffmembers/rint-sybesma/publications#tab-1) | syntax |
 | CUHK          | [Kin Man Carmen TANG](https://carmentang.net/) | syntax processing, music & language |
 | CUHK          | [Sze-Wing TANG](http://www.swtang.net/) | comparative syntax |
