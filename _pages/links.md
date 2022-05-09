@@ -121,6 +121,7 @@ a self-serving handy list of online profiles; please remind me if I've missed an
 | ------------- | --------------- | ------------------------------- |
 | HKU           | [Robert S. BAUER](https://en.wikipedia.org/wiki/Robert_Bauer_(linguist)) | phonology |
 | OSU           | [Marjorie K. M. CHAN](https://u.osu.edu/chan.9/) | phonetics & phonology, dialectology |
+| UPenn         | [May Pik Yu CHAN](https://www.ling.upenn.edu/~pikyu/) | phonetics & phonology, music and language | 
 | CUHK          | [Song Hing CHANG](https://aims.cuhk.edu.hk/converis/portal/detail/Person/6186346?lang=en_GB) | dialectology, phonology |
 | LEI           | [Lisa L.-S. CHENG](https://www.universiteitleiden.nl/en/staffmembers/lisa-cheng#tab-1) | syntax & its interfaces |
 | CUHK          | [Siu-Pong CHENG](https://www.semanticscholar.org/author/Siu-Pong-Cheng/8380260) | syntax |
@@ -168,6 +169,7 @@ a self-serving handy list of online profiles; please remind me if I've missed an
 | UP            | [Joanna Ut-Seong SIO](http://orcid.org/0000-0002-0949-5957) | syntax & semantics |
 | UBC           | [Rachel SOO](https://sites.google.com/view/rachelsoo/) | phonetics |
 | LEI           | [Rint SYBESMA](https://www.universiteitleiden.nl/en/staffmembers/rint-sybesma/publications#tab-1) | syntax |
+| CUHK          | [Kin Man Carmen TANG](https://carmentang.net/) | syntax processing, music & language |
 | CUHK          | [Sze-Wing TANG](http://www.swtang.net/) | comparative syntax |
 | CUHK          | [Kwok Wai TING](https://www.chi.cuhk.edu.hk/about-us/people/ting-kwok-wai) | historical phonology |
 | VTCHK         | [Man Shan TONG](https://www.thei.edu.hk/staff/details/man-shan-angel-tong/) | syntax-phonology interface |
