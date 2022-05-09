@@ -37,7 +37,7 @@ I'm a second-year PhD student in the Department of Linguistics at Yale Universit
 
 2022, September 24-25. Doubling exclusivity in Cantonese. [NACCL-34](https://sites.google.com/view/naccl-34/), Indiana University Bloomington. 
 
-## Recent talks (in past 3 months)
+## Recent talks
 
 2022, April 29-30. On Cantonese yes-no question particle *aa4*: evidential bias and confirmation. [LDSA](https://campuspress.yale.edu/ldsa/program/), Yale. [[poster](https://cpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/d/3964/files/2022/04/KFY_LDSA_poster_aa4.pdf)]
 
