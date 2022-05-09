@@ -39,9 +39,9 @@ I'm a second-year PhD student in the Department of Linguistics at Yale Universit
 
 ## Recent talks (in past 3 months)
 
-2022, April 29-30. On Cantonese yes-no question particle *aa4*: evidential bias and confirmation. [LDSA](https://campuspress.yale.edu/ldsa/program/), Yale. [poster](https://cpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/d/3964/files/2022/04/KFY_LDSA_poster_aa4.pdf)
+2022, April 29-30. On Cantonese yes-no question particle *aa4*: evidential bias and confirmation. [LDSA](https://campuspress.yale.edu/ldsa/program/), Yale. [[poster](https://cpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/d/3964/files/2022/04/KFY_LDSA_poster_aa4.pdf)]
 
-2022, April 26. Non-agreeing resumptive pronouns and partial Copy Deletion. [LingLunch](https://linguistics.uconn.edu/events/lunch/), UConn. [with [Comfort Ahenkorah](https://ling.yale.edu/people/comfort-ahenkorah)] [handout](https://kafai-yip.github.io/assets/docs/UConn_resumption_handout_20220426.pdf)
+2022, April 26. Non-agreeing resumptive pronouns and partial Copy Deletion. [LingLunch](https://linguistics.uconn.edu/events/lunch/), UConn. [with [Comfort Ahenkorah](https://ling.yale.edu/people/comfort-ahenkorah)] [[handout](https://kafai-yip.github.io/assets/docs/UConn_resumption_handout_20220426.pdf)]
 
 
 {% include feature_row id="intro" type="center" %}
