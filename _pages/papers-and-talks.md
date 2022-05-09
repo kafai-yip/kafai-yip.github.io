@@ -44,7 +44,7 @@ classes: wide
 
 ### 2022
 
-1. On Cantonese yes-no question particle *aa4*: evidential bias and confirmation. Poster at [LDSA](https://campuspress.yale.edu/ldsa/program/), Yale. [poster](https://cpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/d/3964/files/2022/04/KFY_LDSA_poster_aa4.pdf)
+1. On Cantonese yes-no question particle *aa4*: evidential bias and confirmation. Poster at [LDSA](https://campuspress.yale.edu/ldsa/program/), Yale. [[poster](https://cpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/d/3964/files/2022/04/KFY_LDSA_poster_aa4.pdf)]
 
 1. Adverbial clauses with and without operator movement. [LSA-96](https://www.linguisticsociety.org/event/lsa-2022-annual-meeting), Washington, DC. [with [Zhuo Chen](https://www.zhuochenlinguist.com/)]
 
