@@ -121,7 +121,7 @@ a self-serving handy list of online profiles; please remind me if I've missed an
 | ------------- | --------------- | ------------------------------- |
 | HKU           | [Robert S. BAUER](https://en.wikipedia.org/wiki/Robert_Bauer_(linguist)) | phonology |
 | OSU           | [Marjorie K. M. CHAN](https://u.osu.edu/chan.9/) | phonetics & phonology, dialectology |
-| UPenn         | [May Pik Yu CHAN](https://www.ling.upenn.edu/~pikyu/) | phonetics & phonology, music and language | 
+| UPenn         | [May Pik Yu CHAN](https://www.ling.upenn.edu/~pikyu/) | phonetics & phonology, music & language | 
 | CUHK          | [Song Hing CHANG](https://aims.cuhk.edu.hk/converis/portal/detail/Person/6186346?lang=en_GB) | dialectology, phonology |
 | LEI           | [Lisa L.-S. CHENG](https://www.universiteitleiden.nl/en/staffmembers/lisa-cheng#tab-1) | syntax & its interfaces |
 | CUHK          | [Siu-Pong CHENG](https://www.semanticscholar.org/author/Siu-Pong-Cheng/8380260) | syntax |
