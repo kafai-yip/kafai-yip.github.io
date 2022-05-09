@@ -134,7 +134,6 @@ a self-serving handy list of online profiles; please remind me if I've missed an
 | HKBU          | [Winnie CHOR](https://artsbu.hkbu.edu.hk/about-us/our-community-of-teachers-and-researchers/dr-winnie-chor) | cognitive linguistics, conversation analysis |
 | UBC           | [Una CHOW](https://linguistics.ubc.ca/person/una-chow/) | phonetics |
 | Hokudai       | [Yurie HARA](https://yuriehara.github.io/website/) | semantics & pragmatics, phonology 
-#| UW            | †[Jiahui HUANG](https://linguistics.washington.edu/people/jiahui-huang) | syntax, L2 acquisition |
 | UP7           | [Jiaying HUANG](http://www.llf.cnrs.fr/en/Gens/JHuang) | syntax, psycholinguistics |
 | TMU           | [Maki IIDA](https://researchmap.jp/dicam/) | grammaticalization, SFPs |
 | EdUHK         | [Shin KATAOKA](https://oraas0.ied.edu.hk/rich/web/people_details.jsp?pid=12762) | historcial linguistics |
