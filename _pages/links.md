@@ -129,12 +129,12 @@ a self-serving handy list of online profiles; please remind me if I've missed an
 | EdUHK         | [Hin Tat CHEUNG](https://repository.eduhk.hk/en/persons/hintat-cheung) | acquisition, language disorders |
 | CUHK          | [Hung-nin Samuel CHEUNG](https://www.chi.cuhk.edu.hk/about-us/people/cheung-h-samuel) | historical linguistics, dialectology | 
 | HKPolyU SPEED | [Kwan-hin CHEUNG](https://www.speed-polyu.edu.hk/staff/division-of-languages-and-communication/kwan-hin) | Cantonese Opera, tone-melody interface |
-| CUHK          | [Lawrence Yam-leung CHEUNG](http://www.cuhk.edu.hk/lin/new/people/lawrence/) | syntax, corpus linguistics |
+| CUHK          | [Lawrence Yam-leung CHEUNG](http://ling.cuhk.edu.hk/people/lawrence/index.html) | syntax, corpus linguistics |
 | EdUHK         | [Andy C. CHIN](https://sites.google.com/site/hkseattle/home) | typology, sociolinguistics |
 | HKBU          | [Winnie CHOR](https://artsbu.hkbu.edu.hk/about-us/our-community-of-teachers-and-researchers/dr-winnie-chor) | cognitive linguistics, conversation analysis |
 | UBC           | [Una CHOW](https://linguistics.ubc.ca/person/una-chow/) | phonetics |
 | Hokudai       | [Yurie HARA](https://yuriehara.github.io/website/) | semantics & pragmatics, phonology 
-| UW            | †[Jiahui HUANG](https://linguistics.washington.edu/people/jiahui-huang) | syntax, L2 acquisition |
+#| UW            | †[Jiahui HUANG](https://linguistics.washington.edu/people/jiahui-huang) | syntax, L2 acquisition |
 | UP7           | [Jiaying HUANG](http://www.llf.cnrs.fr/en/Gens/JHuang) | syntax, psycholinguistics |
 | TMU           | [Maki IIDA](https://researchmap.jp/dicam/) | grammaticalization, SFPs |
 | EdUHK         | [Shin KATAOKA](https://oraas0.ied.edu.hk/rich/web/people_details.jsp?pid=12762) | historcial linguistics |
