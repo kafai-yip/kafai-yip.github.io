@@ -181,7 +181,7 @@ a self-serving handy list of online profiles; please remind me if I've missed an
 | CUHK          | [Patrick C.M. WONG](http://brain.cuhk.edu.hk/) | neurolinguistics |
 | HKPolyU       | [Tak-sum WONG](http://wongtaksum.no-ip.info:81/) | historical phonology, computational linguistics |
 | HSUHK         | [Yiu Kwan WONG](https://chi.hsu.edu.hk/staffs/academics/?staffId=805) | historical phonology |
-| HKPolyU       | [Yike YANG](https://scholar.google.com/citations?user=rLyKCGoAAAAJ&hl=zh-CN) | phonetics, acquisition |
+| Shue Yan      | [Yike YANG](https://scholar.google.com/citations?user=rLyKCGoAAAAJ&hl=zh-CN) | phonetics, acquisition |
 | CUHK(SZ)      | [Foong Ha YAP](https://myweb.cuhk.edu.cn/foonghayap) | language change, typology |
 | UCL           | [Moira YIP](https://www.researchgate.net/profile/Moira_Yip) | phonology |
 | CUHK          | [Virginia YIP](http://vyip.cbrchk.org/) | bilingualism, acquisition |
