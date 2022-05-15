@@ -145,6 +145,7 @@ a self-serving handy list of online profiles; please remind me if I've missed an
 | EdUHK         | [Yik-Po LAI](https://yplaihk.wordpress.com/) | typology, grammaticalization |
 | HSUHK         | [Charles LAM](http://charles-lam.net/) | syntax & semantics |
 | OUHK          | [Cherry Chit-Yu LAM](https://cherrylam90.wixsite.com/academic-website) | comparative syntax |
+| UOM           | [Chit Fung (Lawrence) LAM](https://www.research.manchester.ac.uk/portal/en/researchers/chit-fung-lawrence-lam(e1616cf9-a606-4ad9-86c5-ecfe2dfaf6e3).html) | syntax, bilingualism |
 | UBC           | [Zoe LAM](https://asia.ubc.ca/profile/zoe-lam/) | phonology, heritage languages |
 | EdUHK         | [Chaak-ming LAU](https://hk.linkedin.com/in/chaakming-lau-518678191?trk=public_profile_browsemap_profile-result-card_result-card_full-click) | NLP, lexicography, phonology |
 | UCSC          | [Jess H. K. LAW](https://jesshklaw.wordpress.com/) | semantics & pragmatics |
