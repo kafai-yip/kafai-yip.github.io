@@ -120,6 +120,7 @@ a self-serving handy list of online profiles; please remind me if I've missed an
 | Affiliation   | Linguist        | Specialization (not exhaustive) |
 | ------------- | --------------- | ------------------------------- |
 | HKU           | [Robert S. BAUER](https://en.wikipedia.org/wiki/Robert_Bauer_(linguist)) | phonology |
+| HKUST         | [Ka-wing CHAN](https://sites.google.com/view/chankawing/home) |  |
 | OSU           | [Marjorie K. M. CHAN](https://u.osu.edu/chan.9/) | phonetics & phonology, dialectology |
 | UPenn         | [May Pik Yu CHAN](https://www.ling.upenn.edu/~pikyu/) | phonetics & phonology, music & language | 
 | CUHK          | [Song Hing CHANG](https://aims.cuhk.edu.hk/converis/portal/detail/Person/6186346?lang=en_GB) | dialectology, phonology |
