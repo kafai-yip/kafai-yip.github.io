@@ -33,6 +33,8 @@ I'm a second-year PhD student in the Department of Linguistics at Yale Universit
 
 2022, May 20-22. MSC variations in metaphorization among Pan-Chinese speech communities. [IACL-28](http://ling.cuhk.edu.hk/iacl28/), CUHK. [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)]
 
+2022, M. Processing discontinuous predicates in Cantonese. [WICL-6](https://u.osu.edu/wicl/wicl-6/), OSU. [with [Carmen Kin Man TANG](https://carmentang.net/), [Tommy Tsz-Ming LEE](https://tszminglee.github.io/) & [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/)]
+
 2022, June 4. Processing discontinuous predicates in Cantonese. [FoCaL-5](https://focalhongkong.wordpress.com/), CityUHK. [with [Carmen Kin Man TANG](https://carmentang.net/), [Tommy Tsz-Ming LEE](https://tszminglee.github.io/) & [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/)]
 
 2022, September 24-25. Doubling exclusivity in Cantonese. [NACCL-34](https://sites.google.com/view/naccl-34/), Indiana University Bloomington. 
