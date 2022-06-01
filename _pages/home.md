@@ -18,6 +18,7 @@ I'm a second-year PhD student in the Department of Linguistics at Yale Universit
 
 
 {% capture notice-text %}
+* [FoCal-5](https://focalhongkong.wordpress.com/) is around the corner! Happening this Saturday (June 4). 
 * My co-authored [paper](https://www.jbe-platform.com/content/books/9789027258175-la.272.06yip) on modal movement with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/) is recently published!
 {% endcapture %}
 
