@@ -18,8 +18,7 @@ I'm a second-year PhD student in the Department of Linguistics at Yale Universit
 
 
 {% capture notice-text %}
-* [FoCal-5](https://focalhongkong.wordpress.com/) is around the corner! Happening this Saturday (June 4). 
-* My co-authored [paper](https://www.jbe-platform.com/content/books/9789027258175-la.272.06yip) on modal movement with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/) is recently published!
+* My co-authored [paper](https://www.jbe-platform.com/content/books/9789027258175-la.272.06yip) on modal movement with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/) has been recently published!
 {% endcapture %}
 
 <div class="notice--info">
@@ -30,11 +29,15 @@ I'm a second-year PhD student in the Department of Linguistics at Yale Universit
 
 ## Upcoming talks
 
-2022, June 4. Processing discontinuous predicates in Cantonese. [FoCaL-5](https://focalhongkong.wordpress.com/), CityUHK. [with [Carmen Kin Man TANG](https://carmentang.net/), [Tommy Tsz-Ming LEE](https://tszminglee.github.io/) & [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/)]
+2022, June 25. On the positions of ‘again’: Comparing Cantonese *-faan, -gwo* with Mandarin *you, zai*. [WOC-22](https://www.lshk.org/workshop-on-cantonese-woc), CUHK. [with [Yuyang Liu](https://ling.yale.edu/people/yuyang-liu)]
+
+2022, August 4-7. Rethinking the internal syntax of adverbial clauses and operator movement. CUHK. [GLOW in Asia XIII](http://ling.cuhk.edu.hk/glowxiii/index.php). [with [Zhuo Chen](https://www.zhuochenlinguist.com/)]
 
 2022, September 24-25. Doubling exclusivity in Cantonese. [NACCL-34](https://sites.google.com/view/naccl-34/), Indiana University Bloomington. 
 
 ## Recent talks
+
+2022, June 4. Processing discontinuous predicates in Cantonese. [FoCaL-5](https://focalhongkong.wordpress.com/), CityUHK. [with [Carmen Kin Man TANG](https://carmentang.net/), [Tommy Tsz-Ming LEE](https://tszminglee.github.io/) & [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/)]
 
 2022, May 27-28. Processing discontinuous predicates in Cantonese. [WICL-6](https://u.osu.edu/wicl/wicl-6/), OSU. [with [Carmen Kin Man TANG](https://carmentang.net/), [Tommy Tsz-Ming LEE](https://tszminglee.github.io/) & [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/)]
 
