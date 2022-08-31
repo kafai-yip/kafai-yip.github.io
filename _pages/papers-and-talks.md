@@ -44,9 +44,13 @@ classes: wide
 
 ### 2022
 
-1. On Cantonese yes-no question particle *aa4*: evidential bias and confirmation. Poster at [LDSA](https://campuspress.yale.edu/ldsa/program/), Yale. [[poster](https://cpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/d/3964/files/2022/04/KFY_LDSA_poster_aa4.pdf)]
+1. Rethinking the internal syntax of adverbial clauses and operator movement. CUHK. [GLOW in Asia XIII](http://ling.cuhk.edu.hk/glowxiii/index.php). [with [Zhuo CHEN](https://www.zhuochenlinguist.com/)]
 
-1. Adverbial clauses with and without operator movement. [LSA-96](https://www.linguisticsociety.org/event/lsa-2022-annual-meeting), Washington, DC. [with [Zhuo Chen](https://www.zhuochenlinguist.com/)]
+1. On the positions of ‘again’: Comparing Cantonese *-faan, -gwo* with Mandarin *you, zai*. [WOC-22](https://www.lshk.org/workshop-on-cantonese-woc), CUHK. [with [Yuyang LIU](https://ling.yale.edu/people/yuyang-liu)] [[handout](https://kafai-yip.github.io/assets/docs/again_WOC-22_handout.pdf)]
+
+1. Processing discontinuous predicates in Cantonese. [FoCaL-5](https://focalhongkong.wordpress.com/), CityUHK. [with [Carmen Kin Man TANG](https://carmentang.net/), [Tommy Tsz-Ming LEE](https://tszminglee.github.io/) & [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/)]
+
+1. On Cantonese yes-no question particle *aa4*: evidential bias and confirmation. Poster at [LDSA](https://campuspress.yale.edu/ldsa/program/), Yale. [[poster](https://cpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/d/3964/files/2022/04/KFY_LDSA_poster_aa4.pdf)]
 
 1. Non-agreeing resumptive pronouns and partial Copy Deletion. Poster at [LSA-96](https://www.linguisticsociety.org/event/lsa-2022-annual-meeting), Washington, DC. [with [Comfort Ahenkorah](https://ling.yale.edu/people/comfort-ahenkorah)] [[poster](https://kafai-yip.github.io/assets/docs/LSA2022_resumptive_poster_20220104_large.pdf)] [[handout](https://kafai-yip.github.io/assets/docs/LSA2022_resumption_handout_20220105.pdf)]
 
