@@ -13,7 +13,11 @@ classes: wide
 
 - [Converbs and adverbial clauses: a case study in Cantonese](https://lingbuzz.net/lingbuzz/006569). Submitted. 
 
-- [Hyper-raising, evidentiality, and phase deactivation](https://lingbuzz.net/lingbuzz/006471). Under review, *Natural Language and Linguistic Theory*. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] 
+- [Hyper-raising, evidentiality, and phase deactivation](https://lingbuzz.net/lingbuzz/006471). In revision, *Natural Language and Linguistic Theory*. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] 
+
+- An agreement analysis of temporal converbs in Cantonese. In prep. 
+
+- Partial deletion at word level: discontinuous predicates in Cantonese. In prep. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/) & [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/)] 
 
 - [Unversal concord as syntactic agreement](https://ling.auf.net/lingbuzz/006299). To appear in *UPenn Working Papers in Linguistics*.
 
@@ -86,20 +90,11 @@ classes: wide
 
 1. How to identify intonations on sentence-final particles? [WOC-20](https://www.lshk.org/workshop-on-cantonese-woc), HKBU (online). [with Him Nok LEE] [[slides](https://kafai-yip.github.io/assets/docs/WOC-20_ge_20200606.pdf)]
 
-1. Zero-coded passives in Cantonese. [WICL-5](https://u.osu.edu/wicl/wicl-5/), OSU (online). [with Sheila Shu-Laam CHAN & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/Chan, Lee & Yip (2020) Zero coded passives in Cantonese [WICL-5].pdf)]
-
-1. Syntax-prosody mapping in clausal domains: right dislocation in Mandarin and Cantonese. [Phex 10](https://toki482.wixsite.com/phex10), The University of Tokyo. [[slides](https://kafai-yip.github.io/assets/docs/PhEx 10_RD_20200215.pptx)] [[paper](https://sapporo-u.repo.nii.ac.jp/?action=repository_uri&item_id=7728&file_id=22&file_no=1)]
-
-### 2019
-1. 粵語易位句的韻律句法研究[The prosodic syntax of right dislocation in Cantonese]. [ARF-2019](https://www.lshk.org/annual-research-forum-arf), EdUHK.
+### Before 2019
 
 1. 澄海閩語中的言說動詞[Verbs of saying in Chenghai Min]. [IRF-5](http://www.cuhk.edu.hk/ics/clrc/irf/2019/index.html), Sun Yat-sen University. [with [Jia JIN](https://myweb.cuhk.edu.cn/jinjia)] [[slides](https://kafai-yip.github.io/assets/docs/IRF-5_VOS in Chenghai_20190616.pdf)]
 
-1. 粵語動詞後綴嘅重新分類[Re-classifying Cantonese verbal suffixes]. [FoCaL-2](https://focalhongkong.wordpress.com/), EdUHK.
-
 1. Subordinate affixes in Cantonese and intervention effects. [IACL-27](https://easychair.org/cfp/IACL27), Kobe City University of Foreign Studies.
-
-### 2018
 
 1. Cantonese verbal suffix *dak* and intentionality. [WICL-4](https://cantonese.arts.ubc.ca/wicl-4/), UBC. [[slides](https://kafai-yip.github.io/assets/docs/WICL-4_dak_20180623.pdf)]
 
