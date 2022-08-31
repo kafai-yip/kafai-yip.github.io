@@ -14,8 +14,7 @@ toc_icon: "link"
 [**LSA**](https://www.linguisticsociety.org/): Linguistic Society of America
 
 
-## Corpus
-### Cantonese
+## Cantonese Corpus
 
 only for those accessible online, for a full list see [Wong Tak-sum's page](http://wongtaksum.no-ip.info:81/corpus.htm#Corpora)
 {: .notice--warning}
@@ -68,49 +67,6 @@ only for those accessible online, for a full list see [Wong Tak-sum's page](http
 | 2012        | [English Loanwords in Hong Kong Cantonese](https://chaaklau.github.io/elw/) |
 | 2001        | [A Comparative Database of Modern Chinese and Cantonese](http://apps.itsc.cuhk.edu.hk/hanyu/Page/Cover.aspx) |
 | 1910s~1990s | [粵音資料集叢](https://jyut.net/) (A Database of Literature on Cantonese Phonology) |
-
-
-### Chinese
-
-selective collection, mainly the ones I've used. for a full list see [Wong Tak-sum's page](http://wongtaksum.no-ip.info:81/corpus.htm#Corpora)
-{: .notice--warning}
-
-[under construction]
-
-- *Modern Standard Chinese*
-
-| Year        | Corpus          | Paper |
-| ----------- | --------------- | ----- |
-| 1995-2016   | [LIVAC](http://www.livac.org/) | [Tsou & Kwong (2015)](https://www.airitilibrary.com/Publication/alDetailedMesh?docid=P20181128001-201512-201811280012-201811280012-447-471) | 
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-
-- *Diachronic corpus*
-
-| Year        | Corpus          | Paper |
-| ----------- | --------------- | ----- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-- *Database*
-
-| Year (last updated) | Corpus          | Paper |
-| ----------- | --------------- | ----- |
-| 2018 | [Multi-function Chinese Character Database](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/) |  |
-| 2015 | [國語辭典](http://dict.revised.moe.edu.tw/cbdic/index.html) |  |
-|  |  |  |
-|  |  |  |
-
-
-## Cantonese learning
-[under construction]
 
 ## Cantonese linguists
 
