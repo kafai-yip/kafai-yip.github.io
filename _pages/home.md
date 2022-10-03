@@ -29,16 +29,13 @@ I’m a third-year PhD student in the Department of Linguistics at Yale Universi
 
 ## Upcoming talks
 
-2022, September 24-25. Doubling exclusivity in Cantonese. [NACCL-34](https://sites.google.com/view/naccl-34/), Indiana University Bloomington. 
+2022, October 28. High vs. low ‘again’: Mandarin *you* vs. *zai* and Cantonese *-faan* vs. *-gwo*. [BEAL-5](https://u.osu.edu/beal/beal-forum/2022-2/), OSU. [with [Yuyang Liu](https://ling.yale.edu/people/yuyang-liu)]
 
 ## Recent talks
 
+2022, September 24-25. Doubling exclusivity in Cantonese. [NACCL-34](https://sites.google.com/view/naccl-34/), Indiana University Bloomington. 
+
 2022, August 4-7. Rethinking the internal syntax of adverbial clauses and operator movement. CUHK. [GLOW in Asia XIII](http://ling.cuhk.edu.hk/glowxiii/index.php). [with [Zhuo Chen](https://www.zhuochenlinguist.com/)]
-
-2022, June 25. On the positions of ‘again’: Comparing Cantonese *-faan, -gwo* with Mandarin *you, zai*. [WOC-22](https://www.lshk.org/workshop-on-cantonese-woc), CUHK. [with [Yuyang Liu](https://ling.yale.edu/people/yuyang-liu)] [[handout](https://kafai-yip.github.io/assets/docs/again_WOC-22_handout.pdf)]
-
-2022, June 4. Processing discontinuous predicates in Cantonese. [FoCaL-5](https://focalhongkong.wordpress.com/), CityUHK. [with [Carmen Kin Man TANG](https://carmentang.net/), [Tommy Tsz-Ming LEE](https://tszminglee.github.io/) & [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/)]
-
 
 
 
