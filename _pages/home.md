@@ -31,6 +31,11 @@ I’m a third-year PhD student in the Department of Linguistics at Yale Universi
 
 2022, October 28. High vs. low ‘again’: Mandarin *you* vs. *zai* and Cantonese *-faan* vs. *-gwo*. [BEAL-5](https://u.osu.edu/beal/beal-forum/2022-2/), OSU. [with [Yuyang Liu](https://ling.yale.edu/people/yuyang-liu)]
 
+2022, January 5-8. Independence and what it allows you to do. Poster at [LSA-2023](https://www.linguisticsociety.org/content/lsa-97th-annual-meeting-2023), Denver. [with [Magdalena Lohninger](https://lenalohninger.wordpress.com/)]
+
+2022, January 12-14. (In)dependence of features on composite probes. Poster at [NELS-53](https://nels53.uni-goettingen.de/), Uni Göttingen. [with [Magdalena Lohninger](https://lenalohninger.wordpress.com/)]
+
+
 ## Recent talks
 
 2022, September 24-25. Doubling exclusivity in Cantonese. [NACCL-34](https://sites.google.com/view/naccl-34/), Indiana University Bloomington. 
