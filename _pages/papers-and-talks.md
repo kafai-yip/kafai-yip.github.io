@@ -19,6 +19,8 @@ classes: wide
 
 - Partial deletion at word level: discontinuous predicates in Cantonese. In prep. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/) & [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/)] 
 
+- [Non-agreeing resumptive pronouns and partial Copy Deletion](https://ling.auf.net/lingbuzz/006841). To appear in *UPenn Working Papers in Linguistics 29.1*. [with [Comfort Ahenkorah](https://ling.yale.edu/people/comfort-ahenkorah)]
+
 - [Unversal concord as syntactic agreement](https://ling.auf.net/lingbuzz/006299). To appear in *UPenn Working Papers in Linguistics*.
 
 - [Two types of temporal adverbial clauses in Cantonese](https://ling.auf.net/lingbuzz/006288). To appear in *Proceedings of WCCFL-39*.
