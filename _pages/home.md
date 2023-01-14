@@ -18,7 +18,8 @@ I’m a third-year PhD student in the Department of Linguistics at Yale Universi
 
 
 {% capture notice-text %}
-* [SNEWS](https://snewsling.wordpress.com/) is happening on this Saturday (Nov 12) at Yale! Come and join if you're around!
+* My paper on universal concord has been published in [PWPL](https://repository.upenn.edu/pwpl/vol28/iss1/25/)! ([lingbuzz](https://ling.auf.net/lingbuzz/006299))
+* Our paper on discontinuous predicates has been published in [PWPL](https://repository.upenn.edu/pwpl/vol28/iss1/5/)! ([lingbuzz](https://ling.auf.net/lingbuzz/006283))
 {% endcapture %}
 
 <div class="notice--info">
@@ -29,18 +30,16 @@ I’m a third-year PhD student in the Department of Linguistics at Yale Universi
 
 ## Upcoming talks
 
-2023, January 5-8. Independence and what it allows you to do. Poster at [LSA-2023](https://www.linguisticsociety.org/content/lsa-97th-annual-meeting-2023), Denver. [with [Magdalena Lohninger](https://lenalohninger.wordpress.com/)]
-
 2023, January 12-14. (In)dependence of features on composite probes. Poster at [NELS-53](https://nels53.uni-goettingen.de/), Uni Göttingen. [with [Magdalena Lohninger](https://lenalohninger.wordpress.com/)]
 
 
 ## Recent talks
 
+2023, January 5-8. Independence and what it allows you to do. Poster at [LSA-2023](https://www.linguisticsociety.org/content/lsa-97th-annual-meeting-2023), Denver. [with [Magdalena Lohninger](https://lenalohninger.wordpress.com/)]
+
 2022, October 28. High vs. low ‘again’: Mandarin *you* vs. *zai* and Cantonese *-faan* vs. *-gwo*. [BEAL-5](https://u.osu.edu/beal/beal-forum/2022-2/), OSU. [with [Yuyang Liu](https://ling.yale.edu/people/yuyang-liu)]
 
 2022, September 24-25. Doubling exclusivity in Cantonese. [NACCL-34](https://sites.google.com/view/naccl-34/), Indiana University Bloomington. 
-
-2022, August 4-7. Rethinking the internal syntax of adverbial clauses and operator movement. CUHK. [GLOW in Asia XIII](http://ling.cuhk.edu.hk/glowxiii/index.php). [with [Zhuo Chen](https://www.zhuochenlinguist.com/)]
 
 
 
