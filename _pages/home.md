@@ -18,7 +18,7 @@ I’m a third-year PhD student in the Department of Linguistics at Yale Universi
 
 
 {% capture notice-text %}
-* My paper on converbs and adverbial clauses has been published on [SCL](https://sciendo.com/article/10.2478/scl-2022-0006) ([lingbuzz](https://ling.auf.net/lingbuzz/006569))! Comments are very welcome!
+* My paper on converbs and adverbial clauses has been published on [SCL](https://sciendo.com/article/10.2478/scl-2022-0006) [[lingbuzz](https://ling.auf.net/lingbuzz/006569)]! Comments are very welcome!
 {% endcapture %}
 
 <div class="notice--info">
