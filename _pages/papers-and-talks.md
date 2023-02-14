@@ -11,23 +11,24 @@ classes: wide
 ### Manuscripts
 (Comments are welcome!)
 
-- [Converbs and adverbial clauses: a case study in Cantonese](https://lingbuzz.net/lingbuzz/006569). Submitted. 
+- [Hyper-raising, evidentiality, and phase deactivation](https://lingbuzz.net/lingbuzz/006471). Resubmitted, *Natural Language and Linguistic Theory*. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] 
 
-- [Hyper-raising, evidentiality, and phase deactivation](https://lingbuzz.net/lingbuzz/006471). In revision, *Natural Language and Linguistic Theory*. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] 
-
-- An agreement analysis of temporal converbs in Cantonese. In prep. 
+- An agreement analysis of temporal converbs. In prep. 
 
 - Partial deletion at word level: discontinuous predicates in Cantonese. In prep. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/) & [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/)] 
 
 - [Non-agreeing resumptive pronouns and partial Copy Deletion](https://ling.auf.net/lingbuzz/006841). To appear in *UPenn Working Papers in Linguistics 29.1*. [with [Comfort Ahenkorah](https://ling.yale.edu/people/comfort-ahenkorah)]
 
-- [Unversal concord as syntactic agreement](https://ling.auf.net/lingbuzz/006299). To appear in *UPenn Working Papers in Linguistics*.
-
 - [Two types of temporal adverbial clauses in Cantonese](https://ling.auf.net/lingbuzz/006288). To appear in *Proceedings of WCCFL-39*.
 
-- [Discontinuous predicates as partial deletion in Cantonese](https://ling.auf.net/lingbuzz/006283). To appear in *UPenn Working Papers in Linguistics*. [with [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/) & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 
 ### Publications
+
+- (2022). [Converbs and adverbial clauses: a case study in Cantonese](https://sciendo.com/article/10.2478/scl-2022-0006). In *Studies in Chinese Linguistics* 43(2): 143-169. (also on [lingbuzz](https://ling.auf.net/lingbuzz/006569))
+
+- (2022). [Unversal concord as syntactic agreement](https://repository.upenn.edu/pwpl/vol28/iss1/25/). *UPenn Working Papers in Linguistics* 28(1): 221-232. (also on [lingbuzz](https://ling.auf.net/lingbuzz/006299))
+- 
+- (2022). [Discontinuous predicates as partial deletion in Cantonese](https://repository.upenn.edu/pwpl/vol28/iss1/5/). *UPenn Working Papers in Linguistics* 28(1): 26-36. [with [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/) & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] (also on [lingbuzz](https://ling.auf.net/lingbuzz/006283))
 
 - (2022). [Modal movement licensed by focus](https://www.jbe-platform.com/content/books/9789027258175-la.272.06yip). In *New Explorations in Chinese Theoretical Syntax: Studies in Honor of Yen-Hui Audrey Li*, 165-192.  [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] [[pre-printed](https://ling.auf.net/lingbuzz/006281)]
 
@@ -47,6 +48,9 @@ classes: wide
 
 
 ## Presentations
+
+### 2023
+1. (In)dependence of features on composite probes. Poster at [NELS-53](https://nels53.uni-goettingen.de/), Uni Göttingen. [with [Magdalena Lohninger](https://lenalohninger.wordpress.com/)] [[poster](https://lenalohninger.files.wordpress.com/2023/01/poster-nels.pdf)] [[handout](https://lenalohninger.files.wordpress.com/2023/02/handout_lohninger_yip.pdf)]
 
 ### 2022
 
