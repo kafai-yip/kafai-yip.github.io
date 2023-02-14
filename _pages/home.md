@@ -14,12 +14,11 @@ header:
   
 ---
 
-I’m a third-year PhD student in the Department of Linguistics at Yale University. I’m interested in the structure of language and how it relates to sound and meaning. I love cats. I’m a Hong Konger.
+I’m a third-year PhD student in the Department of Linguistics at Yale University. I’m interested in the structure of language and how it relates to meaning and sound. I love cats. I’m a Hong Konger.
 
 
 {% capture notice-text %}
-* My paper on universal concord has been published in [PWPL](https://repository.upenn.edu/pwpl/vol28/iss1/25/)! ([lingbuzz](https://ling.auf.net/lingbuzz/006299))
-* Our paper on discontinuous predicates has been published in [PWPL](https://repository.upenn.edu/pwpl/vol28/iss1/5/)! ([lingbuzz](https://ling.auf.net/lingbuzz/006283))
+* My paper on converbs and adverbial clauses has been published on [SCL](https://sciendo.com/article/10.2478/scl-2022-0006) ([lingbuzz](https://ling.auf.net/lingbuzz/006569))! Comments are very welcome!
 {% endcapture %}
 
 <div class="notice--info">
@@ -30,17 +29,13 @@ I’m a third-year PhD student in the Department of Linguistics at Yale Universi
 
 ## Upcoming talks
 
-2023, January 12-14. (In)dependence of features on composite probes. Poster at [NELS-53](https://nels53.uni-goettingen.de/), Uni Göttingen. [with [Magdalena Lohninger](https://lenalohninger.wordpress.com/)]
+2023, March 15. A compositional account of “only” doubling. Invited talk at Syntax-Semantics Reading Group [LFRG](https://linguistics.mit.edu/lfrg/), Massachusetts Institute of Technology.
 
+2023, March 18-19. Agreeing with ‘only’. [PLC-47](https://www.ling.upenn.edu/Events/PLC/plc47/index.html), UPenn.
 
 ## Recent talks
 
-2023, January 5-8. Independence and what it allows you to do. Poster at [LSA-2023](https://www.linguisticsociety.org/content/lsa-97th-annual-meeting-2023), Denver. [with [Magdalena Lohninger](https://lenalohninger.wordpress.com/)]
-
-2022, October 28. High vs. low ‘again’: Mandarin *you* vs. *zai* and Cantonese *-faan* vs. *-gwo*. [BEAL-5](https://u.osu.edu/beal/beal-forum/2022-2/), OSU. [with [Yuyang Liu](https://ling.yale.edu/people/yuyang-liu)]
-
-2022, September 24-25. Doubling exclusivity in Cantonese. [NACCL-34](https://sites.google.com/view/naccl-34/), Indiana University Bloomington. 
-
+2023, January 12-14. (In)dependence of features on composite probes. Poster at [NELS-53](https://nels53.uni-goettingen.de/), Uni Göttingen. [with [Magdalena Lohninger](https://lenalohninger.wordpress.com/)] [[poster](https://lenalohninger.files.wordpress.com/2023/01/poster-nels.pdf)] [[handout](https://lenalohninger.files.wordpress.com/2023/02/handout_lohninger_yip.pdf)]
 
 
 {% include feature_row id="intro" type="center" %}
