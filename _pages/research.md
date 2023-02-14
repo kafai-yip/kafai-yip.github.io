@@ -48,7 +48,7 @@ toc_icon: "university"
 
 {% capture notice-text %}
 * I investigate 11 Cantonese converbs (i.e. affixes that only occur in adverbial clauses) and show that converbal clauses conform with the central-peripheral distinction just as regular adverbial clauses.
-    - Cantonese｜[paper-ms](https://lingbuzz.net/lingbuzz/006569)｜[Mphil thesis (in Chinese)](https://kafai-yip.github.io/assets/docs/MPhil Thesis_YIP KA FAI_final draft_20190918_2.pdf)
+    - Cantonese｜[paper-SCL](https://sciendo.com/article/10.2478/scl-2022-0006)｜[Mphil thesis (in Chinese)](https://kafai-yip.github.io/assets/docs/MPhil Thesis_YIP KA FAI_final draft_20190918_2.pdf)
 {% endcapture %}
 
 <div class="notice--info">
@@ -61,7 +61,7 @@ toc_icon: "university"
 {% capture notice-text %}
 [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 * We show that raising out of a finite clause (i.e. hyperraising) is correlated with indirect evidence cross-linguistically, and how the correlation may be accounted for under a phase-deactivation approach.  
-    - Cantonese, Vietnamese｜[handout-BCGL](https://kafai-yip.github.io/assets/docs/BCGL_HR_evidentiality_handout.pdf)｜[paper-ms](https://lingbuzz.net/lingbuzz/006471)
+    - Cantonese, Vietnamese｜[paper-ms](https://lingbuzz.net/lingbuzz/006471)｜[handout-BCGL](https://kafai-yip.github.io/assets/docs/BCGL_HR_evidentiality_handout.pdf)
 {% endcapture %}
 
 <div class="notice--info">
@@ -74,7 +74,7 @@ toc_icon: "university"
 {% capture notice-text %}
 [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 * We propose that root modals in Chinese can undergo movement when crossing a focused element, and the movement is constrained by output economy regarding focus set calculation.
-    - Mandarin｜[paper-bookchapter](https://www.jbe-platform.com/content/books/9789027258175-la.272.06yip)
+    - Mandarin｜[paper-bookch.](https://www.jbe-platform.com/content/books/9789027258175-la.272.06yip)
 {% endcapture %}
 
 <div class="notice--info">
