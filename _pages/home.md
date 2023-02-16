@@ -33,7 +33,7 @@ I’m a third-year PhD student in the Department of Linguistics at Yale Universi
 
 2023, March 18-19. Agreeing with ‘only’. [PLC-47](https://www.ling.upenn.edu/Events/PLC/plc47/index.html), UPenn.
 
-2023, May 12-13. Are there weak definites in bare classifier languages?. [SALT-33](https://saltconf.github.io/salt33/index.html), Yale. [with [Ushasi Banerjee](https://ling.yale.edu/people/ushasi-banerjee) & [Margaret Chui Yi Lee](https://linguistics.uconn.edu/person/margaret-chui-yi-lee/)]
+2023, May 12-14. Are there weak definites in bare classifier languages?. [SALT-33](https://saltconf.github.io/salt33/index.html), Yale. [with [Ushasi Banerjee](https://ling.yale.edu/people/ushasi-banerjee) & [Margaret Chui Yi Lee](https://linguistics.uconn.edu/person/margaret-chui-yi-lee/)]
 
 ## Recent talks
 
