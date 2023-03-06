@@ -34,7 +34,7 @@ I’m a third-year PhD student in the Department of Linguistics at Yale Universi
 
 2023, March 18-19. Agreeing with ‘only’ in Cantonese. [PLC-47](https://www.ling.upenn.edu/Events/PLC/plc47/index.html), UPenn.
 
-2023, April 28-30. Defocus leads to syntax-prosody mismatches in right dislocated structures. [CLS-59](http://chicagolinguisticsociety.org/call.html), UChicago.
+2023, April 28-30. Defocus leads to syntax-prosody mismatches in right dislocated structures. [CLS-59](http://chicagolinguisticsociety.org/call.html), UChicago. [with [Xuetong Yuan](https://kathyuan28.github.io/)]
 
 2023, May 5-7. Agreeing with ‘only’. [WCCFL-41](https://babel.ucsc.edu/wccfl41/), UCSC.
 
