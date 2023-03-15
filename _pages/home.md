@@ -30,7 +30,7 @@ I’m a third-year PhD student in the Department of Linguistics at Yale Universi
 
 ## Upcoming talks
 
-2023, March 15. A compositional account of “only” doubling. Invited talk at Syntax-Semantics Reading Group [LFRG](https://linguistics.mit.edu/lfrg/), MIT.
+2023, March 15. A compositional account of “only” doubling. Invited talk at Syntax-Semantics Reading Group [LFRG](https://linguistics.mit.edu/lfrg/), MIT. [[handout](https://kafai-yip.github.io/assets/docs/only_LFRG_handout_online.pdf)]
 
 2023, March 18-19. Agreeing with ‘only’ in Cantonese. [PLC-47](https://www.ling.upenn.edu/Events/PLC/plc47/index.html), UPenn.
 
