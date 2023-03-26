@@ -11,6 +11,8 @@ toc_icon: "link"
 
 [**LSHK**](https://www.lshk.org/): The Linguistic Society of Hong Kong
 
+[**IACL**](http://iacl-linguistics.org/): International Association of Chinese Linguistics
+
 [**LSA**](https://www.linguisticsociety.org/): Linguistic Society of America
 
 
