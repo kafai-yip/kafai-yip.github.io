@@ -7,7 +7,7 @@ classes: wide
 I’m a third-year PhD student in the Department of Linguistics at Yale University. I’m a Hong Konger and speak Cantonese. My research languages are mainly East and Southeast Asian languages.
 {: .text-justify}
 
-Here is my [CV](https://kafai-yip.github.io/assets/docs/CV_YIP Ka Fai_20230214_EN.pdf).
+Here is my [CV](https://kafai-yip.github.io/assets/docs/CV_YIP Ka Fai_20230326_EN.pdf).
 {: .text-justify}
 
 My main research interest lies in syntax and its interface with semantics. Since my master study in CUHK, I have been working on quantifier doubling (also called concord) where two (or even more) quantifiers co-occur but apparently only one of them is interpreted in semantics. A mismatch between syntax and semantics thus arises and calls for a solution. The particular cases I’m working on include doubling of universal quantifiers and exclusive focus particles ‘only’. I’m also interested in a variety of topics, including clausal architecture with focus on adverbial clauses, phase deactivation in hyperraising, the role of scope calculation in modal movement, etc.
