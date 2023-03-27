@@ -18,6 +18,7 @@ I’m a third-year PhD student in the Department of Linguistics at Yale Universi
 
 
 {% capture notice-text %}
+* I'm very honored to receive the Best Abstract Award at [PLC-47](https://www.ling.upenn.edu/Events/PLC/plc47/schedulepage.html) for my abstract ``Agreeing with ‘only’ in Cantonese''!
 * [FoCaL-6](https://focalhongkong.wordpress.com/) (HKUST, Jun 10) is now calling for abstract submission! [[poster](https://drive.google.com/file/d/1jTpIBeAUJjdOJKtBRYmKIVEPqB1CONrC/view)]
 * My paper on converbs and adverbial clauses has been published on [SCL](https://sciendo.com/article/10.2478/scl-2022-0006)! Comments are very welcome! [[lingbuzz](https://ling.auf.net/lingbuzz/006569)]
 {% endcapture %}
@@ -30,8 +31,6 @@ I’m a third-year PhD student in the Department of Linguistics at Yale Universi
 
 ## Upcoming talks
 
-2023, March 18-19. Agreeing with ‘only’ in Cantonese. [PLC-47](https://www.ling.upenn.edu/Events/PLC/plc47/index.html), UPenn.
-
 2023, April 28-30. Defocus leads to syntax-prosody mismatches in right dislocated structures. [CLS-59](http://chicagolinguisticsociety.org/call.html), UChicago. [with [Xuetong Yuan](https://kathyuan28.github.io/)]
 
 2023, May 5-7. Agreeing with ‘only’. [WCCFL-41](https://babel.ucsc.edu/wccfl41/), UCSC.
@@ -39,6 +38,8 @@ I’m a third-year PhD student in the Department of Linguistics at Yale Universi
 2023, May 12-14. Are there weak definites in bare classifier languages?. [SALT-33](https://saltconf.github.io/salt33/index.html), Yale. [with [Ushasi Banerjee](https://ling.yale.edu/people/ushasi-banerjee) & [Margaret Chui Yi Lee](https://linguistics.uconn.edu/person/margaret-chui-yi-lee/)]
 
 ## Recent talks
+
+2023, March 18-19. Agreeing with ‘only’ in Cantonese. [PLC-47](https://www.ling.upenn.edu/Events/PLC/plc47/index.html), UPenn. [[handout](https://www.ling.upenn.edu/Events/PLC/plc47/handouts/PLC47_handout_3969.pdf)]
 
 2023, March 15. A compositional account of “only” doubling. Invited talk at Syntax-Semantics Reading Group [LFRG](https://linguistics.mit.edu/lfrg/), MIT. [[handout](https://kafai-yip.github.io/assets/docs/only_LFRG_handout_online.pdf)]
 
