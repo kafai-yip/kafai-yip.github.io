@@ -18,7 +18,7 @@ I’m a third-year PhD student in the Department of Linguistics at Yale Universi
 
 
 {% capture notice-text %}
-* I'm very honored to receive the Best Abstract Award at [PLC-47](https://www.ling.upenn.edu/Events/PLC/plc47/schedulepage.html) for my abstract ``Agreeing with ‘only’ in Cantonese''!
+* I'm very honored to receive the Best Abstract Award at [PLC-47](https://www.ling.upenn.edu/Events/PLC/plc47/schedulepage.html) for my abstract ``Agreeing with ‘only’ in Cantonese''! [[news](https://ling.yale.edu/news/ka-fai-yip-receives-plc-47-best-abstract-award)]
 * [FoCaL-6](https://focalhongkong.wordpress.com/) (HKUST, Jun 10) is now calling for abstract submission! [[poster](https://drive.google.com/file/d/1jTpIBeAUJjdOJKtBRYmKIVEPqB1CONrC/view)]
 * My paper on converbs and adverbial clauses has been published on [SCL](https://sciendo.com/article/10.2478/scl-2022-0006)! Comments are very welcome! [[lingbuzz](https://ling.auf.net/lingbuzz/006569)]
 {% endcapture %}
