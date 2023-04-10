@@ -108,6 +108,7 @@ a self-serving handy list of online profiles; please remind me if I've missed an
 | EdUHK         | [Chaak-ming LAU](https://hk.linkedin.com/in/chaakming-lau-518678191?trk=public_profile_browsemap_profile-result-card_result-card_full-click) | NLP, lexicography, phonology |
 | UCSC          | [Jess H. K. LAW](https://jesshklaw.wordpress.com/) | semantics & pragmatics |
 | EdUHK         | [Albert LEE](http://home.eduhk.hk/~albertlee/) | phonetics, L2 acquisition |
+| BU            | [Chris Ka Chun Lee](https://chris-ka-chun-lee.com/) | phonetics & phonology |
 | CUHK, TNU     | [Hun-tak Thomas LEE](https://www.cuhk.edu.hk/lin/new/people/thomas/index.htm) | acquisition, syntax & semantics |
 |               | [Jackson L. LEE](https://jacksonllee.com/) | computational linguistics, phonology |
 | CityUHK       | [John LEE](http://www2.lt.cityu.edu.hk/~jsylee/) | computational linguistics |
