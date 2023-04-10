@@ -104,14 +104,16 @@ a self-serving handy list of online profiles; please remind me if I've missed an
 | HSUHK         | [Charles LAM](http://charles-lam.net/) | syntax & semantics |
 | OUHK          | [Cherry Chit-Yu LAM](https://cherrylam90.wixsite.com/academic-website) | comparative syntax |
 | UOM           | [Chit Fung (Lawrence) LAM](https://www.research.manchester.ac.uk/portal/en/researchers/chit-fung-lawrence-lam(e1616cf9-a606-4ad9-86c5-ecfe2dfaf6e3).html) | syntax, bilingualism |
-| UMass         | [Suet-Ying LAM](https://sylam.netlify.app/) | processing |
+| UMass         | [Suet-Ying LAM](https://sylam.netlify.app/) | syntax processing, psycholinguistics |
 | UBC           | [Zoe LAM](https://asia.ubc.ca/profile/zoe-lam/) | phonology, heritage languages |
 | EdUHK         | [Chaak-ming LAU](https://hk.linkedin.com/in/chaakming-lau-518678191?trk=public_profile_browsemap_profile-result-card_result-card_full-click) | NLP, lexicography, phonology |
+| OSU           | [Gary Ka Fai LAW](https://deall.osu.edu/people/law.246) | sociolinguistics |
 | UCSC          | [Jess H. K. LAW](https://jesshklaw.wordpress.com/) | semantics & pragmatics |
 | EdUHK         | [Albert LEE](http://home.eduhk.hk/~albertlee/) | phonetics, L2 acquisition |
 | BU            | [Chris Ka Chun Lee](https://chris-ka-chun-lee.com/) | phonetics & phonology |
 | CUHK, TNU     | [Hun-tak Thomas LEE](https://www.cuhk.edu.hk/lin/new/people/thomas/index.htm) | acquisition, syntax & semantics |
 |               | [Jackson L. LEE](https://jacksonllee.com/) | computational linguistics, phonology |
+| UPenn         | [Jonathan Him Nok LEE](https://www.ling.upenn.edu/index.php/people/jonathan-lee) | prosody, bilingualism, clinical ling. |
 | CityUHK       | [John LEE](http://www2.lt.cityu.edu.hk/~jsylee/) | computational linguistics |
 | UOH           | [Man Ki Theodora LEE](https://hk.linkedin.com/in/theodoralee) | syntax & semantics |
 | UConn         | [Margaret Chui Yi LEE](https://linguistics.uconn.edu/person/margaret-chui-yi-lee/) | semantics, acquisition |
