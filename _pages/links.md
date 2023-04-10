@@ -78,13 +78,13 @@ a self-serving handy list of online profiles; please remind me if I've missed an
 | Affiliation   | Linguist        | Specialization (not exhaustive) |
 | ------------- | --------------- | ------------------------------- |
 | HKU           | [Robert S. BAUER](https://en.wikipedia.org/wiki/Robert_Bauer_(linguist)) | phonology |
-| HKUST         | [Ka-wing CHAN](https://sites.google.com/view/chankawing/home) |  |
+| HKUST         | [Ka-wing CHAN](https://sites.google.com/view/chankawing/home) | syntax & semantics |
 | OSU           | [Marjorie K. M. CHAN](https://u.osu.edu/chan.9/) | phonetics & phonology, dialectology |
 | UPenn         | [May Pik Yu CHAN](https://www.ling.upenn.edu/~pikyu/) | phonetics & phonology, music & language | 
 | CUHK          | [Song Hing CHANG](https://aims.cuhk.edu.hk/converis/portal/detail/Person/6186346?lang=en_GB) | dialectology, phonology |
 | LEI           | [Lisa L.-S. CHENG](https://www.universiteitleiden.nl/en/staffmembers/lisa-cheng#tab-1) | syntax & its interfaces |
-| CUHK          | [Siu-Pong CHENG](https://www.semanticscholar.org/author/Siu-Pong-Cheng/8380260) | syntax |
-| HKPolyU       | [Candice Chi-Hang CHEUNG](https://sites.google.com/site/candicechcheung/) | clinical linguistics, syntax |
+|               | [Siu-Pong CHENG](https://www.semanticscholar.org/author/Siu-Pong-Cheng/8380260) | syntax |
+| UCY           | [Candice Chi-Hang CHEUNG](https://candicechcheung.wixsite.com/candicecheung) | clinical linguistics, syntax |
 | EdUHK         | [Hin Tat CHEUNG](https://repository.eduhk.hk/en/persons/hintat-cheung) | acquisition, language disorders |
 | CUHK          | [Hung-nin Samuel CHEUNG](https://www.chi.cuhk.edu.hk/about-us/people/cheung-h-samuel) | historical linguistics, dialectology | 
 | HKPolyU SPEED | [Kwan-hin CHEUNG](https://www.speed-polyu.edu.hk/staff/division-of-languages-and-communication/kwan-hin) | Cantonese Opera, tone-melody interface |
@@ -97,13 +97,14 @@ a self-serving handy list of online profiles; please remind me if I've missed an
 | TMU           | [Maki IIDA](https://researchmap.jp/dicam/) | grammaticalization, SFPs |
 | EdUHK         | [Shin KATAOKA](https://oraas0.ied.edu.hk/rich/web/people_details.jsp?pid=12762) | historcial linguistics |
 | CUHK          | [Bit-Chee KWOK](https://orcid.org/0000-0001-8115-6776) | dialectology, historical linguistics |
-| UChicago      | [Jackie Yan-Ki LAI](https://linguistics.uchicago.edu/yan-ki-jackie-lai) | syntax, morphology |
+| CityUHK       | [Jackie Yan-Ki LAI](https://sites.google.com/view/jyklai) | syntax, morphology |
 | CUHK          | [Regine LAI](http://ling.cuhk.edu.hk/p_regine.php) | phonology |
 | UCSB          | [Ryan Ka Yau LAI](https://rkylai.wordpress.com/) | computational linguistics |
 | EdUHK         | [Yik-Po LAI](https://yplaihk.wordpress.com/) | typology, grammaticalization |
 | HSUHK         | [Charles LAM](http://charles-lam.net/) | syntax & semantics |
 | OUHK          | [Cherry Chit-Yu LAM](https://cherrylam90.wixsite.com/academic-website) | comparative syntax |
 | UOM           | [Chit Fung (Lawrence) LAM](https://www.research.manchester.ac.uk/portal/en/researchers/chit-fung-lawrence-lam(e1616cf9-a606-4ad9-86c5-ecfe2dfaf6e3).html) | syntax, bilingualism |
+| UMass         | [Suet-Ying LAM](https://sylam.netlify.app/) | processing |
 | UBC           | [Zoe LAM](https://asia.ubc.ca/profile/zoe-lam/) | phonology, heritage languages |
 | EdUHK         | [Chaak-ming LAU](https://hk.linkedin.com/in/chaakming-lau-518678191?trk=public_profile_browsemap_profile-result-card_result-card_full-click) | NLP, lexicography, phonology |
 | UCSC          | [Jess H. K. LAW](https://jesshklaw.wordpress.com/) | semantics & pragmatics |
@@ -114,8 +115,8 @@ a self-serving handy list of online profiles; please remind me if I've missed an
 | CityUHK       | [John LEE](http://www2.lt.cityu.edu.hk/~jsylee/) | computational linguistics |
 | UOH           | [Man Ki Theodora LEE](https://hk.linkedin.com/in/theodoralee) | syntax & semantics |
 | UConn         | [Margaret Chui Yi LEE](https://linguistics.uconn.edu/person/margaret-chui-yi-lee/) | semantics, acquisition |
-| CityUHK       | [Po Lun Peppina LEE](https://scholars.cityu.edu.hk/en/persons/po-lun-peppina-lee(34592708-7964-4011-8910-f3af22b110f7).html) | semantics |
-| USC           | [Tommy Tsz-Ming LEE](https://tszminglee.github.io/) | syntax & semantics |
+| HKMU          | [Po Lun Peppina LEE](https://scholars.cityu.edu.hk/en/persons/po-lun-peppina-lee(34592708-7964-4011-8910-f3af22b110f7).html) | semantics |
+| CityUHK       | [Tommy Tsz-Ming LEE](https://tszminglee.github.io/) | syntax & semantics |
 | CityUHK       | [Wai Sum LEE](https://scholars.cityu.edu.hk/en/person/ctllee) | phonetics & phonology |
 | CUHK          | [Margaret LEI](https://www.margaretlei.net/) | acquisition, syntax & semantics |
 | U of T        | [Justin LEUNG](https://www.utm.utoronto.ca/language-studies/people/justin-leung) | heritage languages |
@@ -144,6 +145,7 @@ a self-serving handy list of online profiles; please remind me if I've missed an
 | HSUHK         | [Yiu Kwan WONG](https://chi.hsu.edu.hk/staffs/academics/?staffId=805) | historical phonology |
 | Shue Yan      | [Yike YANG](https://scholar.google.com/citations?user=rLyKCGoAAAAJ&hl=zh-CN) | phonetics, acquisition |
 | CUHK(SZ)      | [Foong Ha YAP](https://myweb.cuhk.edu.cn/foonghayap) | language change, typology |
+| GU            | [Ping Hei YEUNG](https://gufaculty360.georgetown.edu/s/contact/0031Q00002OrcngQAB/ping-hei-yeung) | phonetics, language change |
 | UCL           | [Moira YIP](https://www.researchgate.net/profile/Moira_Yip) | phonology |
 | CUHK          | [Virginia YIP](http://vyip.cbrchk.org/) | bilingualism, acquisition |
 | UW            | [Anne YUE-HASHIMOTO](https://asian.washington.edu/people/anne-yue-hashimoto) | grammar & phonology, typology |
