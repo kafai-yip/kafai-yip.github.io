@@ -82,6 +82,7 @@ a self-serving handy list of online profiles; please remind me if I've missed an
 | OSU           | [Marjorie K. M. CHAN](https://u.osu.edu/chan.9/) | phonetics & phonology, dialectology |
 | UPenn         | [May Pik Yu CHAN](https://www.ling.upenn.edu/~pikyu/) | phonetics & phonology, music & language | 
 | CUHK          | [Song Hing CHANG](https://aims.cuhk.edu.hk/converis/portal/detail/Person/6186346?lang=en_GB) | dialectology, phonology |
+| UMich         | [Lauretta S. P. CHENG](https://sites.google.com/umich.edu/laurettaspcheng/home) | sociophonetics, psycholinguistics |
 | LEI           | [Lisa L.-S. CHENG](https://www.universiteitleiden.nl/en/staffmembers/lisa-cheng#tab-1) | syntax & its interfaces |
 |               | [Siu-Pong CHENG](https://www.semanticscholar.org/author/Siu-Pong-Cheng/8380260) | syntax |
 | UCY           | [Candice Chi-Hang CHEUNG](https://candicechcheung.wixsite.com/candicecheung) | clinical linguistics, syntax |
