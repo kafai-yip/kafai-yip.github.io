@@ -78,11 +78,12 @@ a self-serving handy list of online profiles; please remind me if I've missed an
 | Affiliation   | Linguist        | Specialization (not exhaustive) |
 | ------------- | --------------- | ------------------------------- |
 | HKU           | [Robert S. BAUER](https://en.wikipedia.org/wiki/Robert_Bauer_(linguist)) | phonology |
+| UCLA          | [Ariel CHAN](https://www.arielschan.com/) | heritage languages, bilingualism |
 | HKUST         | [Ka-wing CHAN](https://sites.google.com/view/chankawing/home) | syntax & semantics |
 | OSU           | [Marjorie K. M. CHAN](https://u.osu.edu/chan.9/) | phonetics & phonology, dialectology |
 | UPenn         | [May Pik Yu CHAN](https://www.ling.upenn.edu/~pikyu/) | phonetics & phonology, music & language | 
 | CUHK          | [Song Hing CHANG](https://aims.cuhk.edu.hk/converis/portal/detail/Person/6186346?lang=en_GB) | dialectology, phonology |
-| UMich         | [Lauretta S. P. CHENG](https://sites.google.com/umich.edu/laurettaspcheng/home) | sociophonetics, psycholinguistics |
+| UMich         | [Lauretta S. P. CHENG](https://sites.google.com/umich.edu/laurettaspcheng/home) | sociophonetics, heritage languages |
 | LEI           | [Lisa L.-S. CHENG](https://www.universiteitleiden.nl/en/staffmembers/lisa-cheng#tab-1) | syntax & its interfaces |
 |               | [Siu-Pong CHENG](https://www.semanticscholar.org/author/Siu-Pong-Cheng/8380260) | syntax |
 | UCY           | [Candice Chi-Hang CHEUNG](https://candicechcheung.wixsite.com/candicecheung) | clinical linguistics, syntax |
@@ -132,7 +133,7 @@ a self-serving handy list of online profiles; please remind me if I've missed an
 | CUHK          | [Peggy Pik Ki MOK](http://www.cuhk.edu.hk/lin/people/peggy/) | phonetics |
 | GDUFS         | [Dingxu SHI](https://clal.gdufs.edu.cn/info/1485/3109.htm) | syntax & semantics |
 | UP            | [Joanna Ut-Seong SIO](http://orcid.org/0000-0002-0949-5957) | syntax & semantics |
-| UBC           | [Rachel SOO](https://sites.google.com/view/rachelsoo/) | phonetics |
+| UBC           | [Rachel SOO](https://sites.google.com/view/rachelsoo/) | phonetics, heritage languages |
 | LEI           | [Matthew SUNG](https://sites.google.com/view/matthew-sung-dialectologist/home) | dialectology |
 | LEI           | [Rint SYBESMA](https://www.universiteitleiden.nl/en/staffmembers/rint-sybesma/publications#tab-1) | syntax |
 | CUHK          | [Kin Man Carmen TANG](https://carmentang.net/) | syntax processing, music & language |
