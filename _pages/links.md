@@ -112,7 +112,7 @@ a self-serving handy list of online profiles; please remind me if I've missed an
 | OSU           | [Gary Ka Fai LAW](https://deall.osu.edu/people/law.246) | sociolinguistics |
 | UCSC          | [Jess H. K. LAW](https://jesshklaw.wordpress.com/) | semantics & pragmatics |
 | EdUHK         | [Albert LEE](http://home.eduhk.hk/~albertlee/) | phonetics, L2 acquisition |
-| BU            | [Chris Ka Chun Lee](https://chris-ka-chun-lee.com/) | phonetics & phonology |
+| BU            | [Chris Ka Chun LEE](https://chris-ka-chun-lee.com/) | phonetics & phonology |
 | CUHK, TNU     | [Hun-tak Thomas LEE](https://www.cuhk.edu.hk/lin/new/people/thomas/index.htm) | acquisition, syntax & semantics |
 |               | [Jackson L. LEE](https://jacksonllee.com/) | computational linguistics, phonology |
 | UPenn         | [Jonathan Him Nok LEE](https://www.ling.upenn.edu/index.php/people/jonathan-lee) | prosody, bilingualism, clinical ling. |
@@ -123,7 +123,7 @@ a self-serving handy list of online profiles; please remind me if I've missed an
 | CityUHK       | [Tommy Tsz-Ming LEE](https://tszminglee.github.io/) | syntax & semantics |
 | CityUHK       | [Wai Sum LEE](https://scholars.cityu.edu.hk/en/person/ctllee) | phonetics & phonology |
 | CUHK          | [Margaret LEI](https://www.margaretlei.net/) | acquisition, syntax & semantics |
-| U of T        | [Justin LEUNG](https://justinrleung.github.io/) | heritage languages |
+| U of T        | [Justin LEUNG](https://justinrleung.github.io/) | heritage languages, syntax |
 | UAEU          | [Tommi LEUNG](https://sites.google.com/site/tommileung/) | syntax, phonology |
 | UBC           | [Roger Yu-Hsiang LO](https://blogs.ubc.ca/rogeryhlo/) | phonetics & phonology, heritage languages |
 | NTU           | [Kang-kwong LUKE](https://www3.ntu.edu.sg/home/kkluke/index.html) | conversation analysis |
