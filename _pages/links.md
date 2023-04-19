@@ -119,9 +119,9 @@ a self-serving handy list of online profiles; please remind me if I've missed an
 | CityUHK       | [John LEE](http://www2.lt.cityu.edu.hk/~jsylee/) | computational linguistics |
 | UOH           | [Man Ki Theodora LEE](https://hk.linkedin.com/in/theodoralee) | syntax & semantics |
 | UConn         | [Margaret Chui Yi LEE](https://linguistics.uconn.edu/person/margaret-chui-yi-lee/) | semantics, acquisition |
-| HKMU          | [Po Lun Peppina LEE](https://scholars.cityu.edu.hk/en/persons/po-lun-peppina-lee(34592708-7964-4011-8910-f3af22b110f7).html) | semantics |
+| HKMU          | [Po Lun Peppina LEE](https://www.hkmu.edu.hk/el/home/people/staff-profile/?email=pllee&unit=E&L&po=N) | semantics |
 | CityUHK       | [Tommy Tsz-Ming LEE](https://tszminglee.github.io/) | syntax & semantics |
-| CityUHK       | [Wai Sum LEE](https://scholars.cityu.edu.hk/en/person/ctllee) | phonetics & phonology |
+| HKMU          | [Wai Sum LEE](https://www.hkmu.edu.hk/el/home/people/staff-profile/?email=awslee&unit=E&L&po=N) | phonetics & phonology |
 | CUHK          | [Margaret LEI](https://www.margaretlei.net/) | acquisition, syntax & semantics |
 | U of T        | [Justin LEUNG](https://justinrleung.github.io/) | heritage languages, syntax |
 | UAEU          | [Tommi LEUNG](https://sites.google.com/site/tommileung/) | syntax, phonology |
