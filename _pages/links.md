@@ -123,7 +123,7 @@ a self-serving handy list of online profiles; please remind me if I've missed an
 | CityUHK       | [Tommy Tsz-Ming LEE](https://tszminglee.github.io/) | syntax & semantics |
 | CityUHK       | [Wai Sum LEE](https://scholars.cityu.edu.hk/en/person/ctllee) | phonetics & phonology |
 | CUHK          | [Margaret LEI](https://www.margaretlei.net/) | acquisition, syntax & semantics |
-| U of T        | [Justin LEUNG](https://www.utm.utoronto.ca/language-studies/people/justin-leung) | heritage languages |
+| U of T        | [Justin LEUNG](https://justinrleung.github.io/) | heritage languages |
 | UAEU          | [Tommi LEUNG](https://sites.google.com/site/tommileung/) | syntax, phonology |
 | UBC           | [Roger Yu-Hsiang LO](https://blogs.ubc.ca/rogeryhlo/) | phonetics & phonology, heritage languages |
 | NTU           | [Kang-kwong LUKE](https://www3.ntu.edu.sg/home/kkluke/index.html) | conversation analysis |
