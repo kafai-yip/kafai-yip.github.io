@@ -31,19 +31,15 @@ I’m a third-year PhD student in the Department of Linguistics at Yale Universi
 
 ## Upcoming talks
 
-2023, April 28-30. Defocus leads to syntax-prosody mismatches in right dislocated structures. [CLS-59](http://chicagolinguisticsociety.org/call.html), UChicago. [with [Xuetong Yuan](https://kathyuan28.github.io/)] [[slides](https://kafai-yip.github.io/assets/docs/RD_CLS-59_slides.pdf)]
-
-2023, May 5-7. Agreeing with ‘only’. [WCCFL-41](https://babel.ucsc.edu/wccfl41/), UCSC.
+2023, May 5-7. Agreeing with ‘only’. [WCCFL-41](https://babel.ucsc.edu/wccfl41/), UCSC. [[handout](https://kafai-yip.github.io/assets/docs/only_WCCFL-41_handout.pdf)]
 
 2023, May 12-14. Are there weak definites in bare classifier languages?. [SALT-33](https://saltconf.github.io/salt33/index.html), Yale. [with [Ushasi Banerjee](https://ling.yale.edu/people/ushasi-banerjee) & [Margaret Chui Yi Lee](https://linguistics.uconn.edu/person/margaret-chui-yi-lee/)]
 
 ## Recent talks
 
-2023, March 18-19. Agreeing with ‘only’ in Cantonese. [PLC-47](https://www.ling.upenn.edu/Events/PLC/plc47/index.html), UPenn. [[handout](https://www.ling.upenn.edu/Events/PLC/plc47/handouts/PLC47_handout_3969.pdf)]
+2023, April 28-30. Defocus leads to syntax-prosody mismatches in right dislocated structures. [CLS-59](http://chicagolinguisticsociety.org/call.html), UChicago. [with [Xuetong Yuan](https://kathyuan28.github.io/)] [[slides](https://kafai-yip.github.io/assets/docs/RD_CLS-59_slides.pdf)]
 
 2023, March 15. A compositional account of “only” doubling. Invited talk at Syntax-Semantics Reading Group [LFRG](https://linguistics.mit.edu/lfrg/), MIT. [[handout](https://kafai-yip.github.io/assets/docs/only_LFRG_handout_online.pdf)]
-
-2023, January 12-14. (In)dependence of features on composite probes. Poster at [NELS-53](https://nels53.uni-goettingen.de/), Uni Göttingen. [with [Magdalena Lohninger](https://lenalohninger.wordpress.com/)] [[poster](https://lenalohninger.files.wordpress.com/2023/01/poster-nels.pdf)] [[handout](https://lenalohninger.files.wordpress.com/2023/02/handout_lohninger_yip.pdf)]
 
 
 {% include feature_row id="intro" type="center" %}
