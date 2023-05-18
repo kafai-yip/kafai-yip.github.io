@@ -18,8 +18,8 @@ I’m a third-year PhD student in the Department of Linguistics at Yale Universi
 
 
 {% capture notice-text %}
+* [FoCaL-6](https://focalhongkong.wordpress.com/) will be happening at HKUST on Jun 10! More details to come, please stay tuned. (: [[poster](https://drive.google.com/file/d/1jTpIBeAUJjdOJKtBRYmKIVEPqB1CONrC/view)]
 * I'm very honored to receive the Best Abstract Award at [PLC-47](https://www.ling.upenn.edu/Events/PLC/plc47/schedulepage.html) for my abstract ``Agreeing with ‘only’ in Cantonese''! [[news](https://ling.yale.edu/news/ka-fai-yip-receives-plc-47-best-abstract-award)]
-* [FoCaL-6](https://focalhongkong.wordpress.com/) (HKUST, Jun 10) is now calling for abstract submission! [[poster](https://drive.google.com/file/d/1jTpIBeAUJjdOJKtBRYmKIVEPqB1CONrC/view)]
 * My paper on converbs and adverbial clauses has been published on [SCL](https://sciendo.com/article/10.2478/scl-2022-0006)! Comments are very welcome! [[lingbuzz](https://ling.auf.net/lingbuzz/006569)]
 {% endcapture %}
 
@@ -31,11 +31,13 @@ I’m a third-year PhD student in the Department of Linguistics at Yale Universi
 
 ## Upcoming talks
 
-2023, May 5-7. Agreeing with ‘only’. [WCCFL-41](https://babel.ucsc.edu/wccfl41/), UCSC. [[handout](https://kafai-yip.github.io/assets/docs/only_WCCFL-41_handout.pdf)]
-
-2023, May 12-14. Are there weak definites in bare classifier languages?. [SALT-33](https://saltconf.github.io/salt33/index.html), Yale. [with [Ushasi Banerjee](https://ling.yale.edu/people/ushasi-banerjee) & [Margaret Chui Yi Lee](https://linguistics.uconn.edu/person/margaret-chui-yi-lee/)]
+2023, October 5-6. Jussive agreement with non-agreeing resumptive pronouns in Mandarin Chinese. [BCGL-16](https://www.crissp.be/bcgl-16-the-morphosyntax-of-speaker-and-hearer/), CRISSP of KU Leuven. [with [Xuetong Yuan](https://kathyuan28.github.io/)]
 
 ## Recent talks
+
+2023, May 12-14. Are there weak definites in bare classifier languages?. [SALT-33](https://saltconf.github.io/salt33/index.html), Yale. [with [Ushasi Banerjee](https://ling.yale.edu/people/ushasi-banerjee) & [Margaret Chui Yi Lee](https://linguistics.uconn.edu/person/margaret-chui-yi-lee/)] [[slides](https://saltconf.github.io/salt33/materials/ybl.pdf)] [[handout](https://kafai-yip.github.io/assets/docs/quasi_name-SALT-33_handout.pdf)]
+
+2023, May 5-7. Agreeing with ‘only’. [WCCFL-41](https://babel.ucsc.edu/wccfl41/), UCSC. [[handout](https://kafai-yip.github.io/assets/docs/only_WCCFL-41_handout.pdf)]
 
 2023, April 28-30. Defocus leads to syntax-prosody mismatches in right dislocated structures. [CLS-59](http://chicagolinguisticsociety.org/call.html), UChicago. [with [Xuetong Yuan](https://kathyuan28.github.io/)] [[slides](https://kafai-yip.github.io/assets/docs/RD_CLS-59_slides.pdf)]
 
