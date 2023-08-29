@@ -14,13 +14,11 @@ header:
   
 ---
 
-I’m a third-year PhD student in the Department of Linguistics at Yale University. I’m interested in the structure of language and how it relates to meaning and sound. I love cats. I’m a Hong Konger.
+I’m a fourth-year PhD student in the Department of Linguistics at Yale University. I’m interested in the structure of language and how it relates to meaning and sound. I love cats. I’m a Hong Konger.
 
 
 {% capture notice-text %}
-* [FoCaL-6](https://focalhongkong.wordpress.com/) will be happening at HKUST on Jun 10! More details to come, please stay tuned. (: [[poster](https://drive.google.com/file/d/1jTpIBeAUJjdOJKtBRYmKIVEPqB1CONrC/view)]
-* I'm very honored to receive the Best Abstract Award at [PLC-47](https://www.ling.upenn.edu/Events/PLC/plc47/schedulepage.html) for my abstract ``Agreeing with ‘only’ in Cantonese''! [[news](https://ling.yale.edu/news/ka-fai-yip-receives-plc-47-best-abstract-award)]
-* My paper on converbs and adverbial clauses has been published on [SCL](https://sciendo.com/article/10.2478/scl-2022-0006)! Comments are very welcome! [[lingbuzz](https://ling.auf.net/lingbuzz/006569)]
+* Stay tuned!
 {% endcapture %}
 
 <div class="notice--info">
@@ -40,8 +38,6 @@ I’m a third-year PhD student in the Department of Linguistics at Yale Universi
 2023, May 5-7. Agreeing with ‘only’. [WCCFL-41](https://babel.ucsc.edu/wccfl41/), UCSC. [[handout](https://kafai-yip.github.io/assets/docs/only_WCCFL-41_handout.pdf)]
 
 2023, April 28-30. Defocus leads to syntax-prosody mismatches in right dislocated structures. [CLS-59](http://chicagolinguisticsociety.org/call.html), UChicago. [with [Xuetong Yuan](https://kathyuan28.github.io/)] [[slides](https://kafai-yip.github.io/assets/docs/RD_CLS-59_slides.pdf)]
-
-2023, March 15. A compositional account of “only” doubling. Invited talk at Syntax-Semantics Reading Group [LFRG](https://linguistics.mit.edu/lfrg/), MIT. [[handout](https://kafai-yip.github.io/assets/docs/only_LFRG_handout_online.pdf)]
 
 
 {% include feature_row id="intro" type="center" %}
