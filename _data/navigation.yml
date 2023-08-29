@@ -3,8 +3,10 @@ main:
     url: /about/
   - title: "Research"
     url: /research/
-  - title: "Papers & talks"
-    url: /papers-and-talks/
+  - title: "Papers"
+    url: /papers/
+  - title: "Talks"
+    url: /talks/
   - title: "ฅ"
     url: /cats/
   - title: "Links"
