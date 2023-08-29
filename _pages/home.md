@@ -18,7 +18,7 @@ I’m a fourth-year PhD student in the Department of Linguistics at Yale Univers
 
 
 {% capture notice-text %}
-* Stay tuned!
+* See below!
 {% endcapture %}
 
 <div class="notice--info">
