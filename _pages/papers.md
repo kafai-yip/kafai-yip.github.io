@@ -10,7 +10,7 @@ classes: wide
 
 1. [Hyper-raising, evidentiality, and phase deactivation](https://lingbuzz.net/lingbuzz/006471). Accepted, *Natural Language and Linguistic Theory*. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)] 
 
-1. [Agreeing with ‘only’](https://ling.auf.net/lingbuzz/006288). To appear in *Proceedings of WCCFL-41*.
+1. [Agreeing with ‘only’](https://ling.auf.net/lingbuzz/007525). To appear in *Proceedings of WCCFL-41*.
 
 1. [Are there “weak” definites in bare classifier languages?](https://ling.auf.net/lingbuzz/007526). To appear in *Proceedings of SALT-33*. [with [Ushasi Banerjee](https://ling.yale.edu/people/ushasi-banerjee) & [Margaret Chui Yi Lee](https://linguistics.uconn.edu/person/margaret-chui-yi-lee/)]
 
