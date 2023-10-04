@@ -29,8 +29,8 @@ I’m a fourth-year PhD student in the Department of Linguistics at Yale Univers
 
 ## Upcoming talks
 
-2023, October 5-6. Jussive agreement with non-agreeing resumptive pronouns in Mandarin Chinese. [BCGL-16](https://www.crissp.be/bcgl-16-the-morphosyntax-of-speaker-and-hearer/), CRISSP of KU Leuven. [with [Xuetong Yuan](https://kathyuan28.github.io/)] [[slides](https://kafai-yip.github.io/assets/docs/imperative_BCGL-16_slide)]
- [[handout](https://kafai-yip.github.io/assets/docs/imperative_BCGL-16_handout)]
+2023, October 5-6. Jussive agreement with non-agreeing resumptive pronouns in Mandarin Chinese. [BCGL-16](https://www.crissp.be/bcgl-16-the-morphosyntax-of-speaker-and-hearer/), CRISSP of KU Leuven. [with [Xuetong Yuan](https://kathyuan28.github.io/)] [[slides](https://kafai-yip.github.io/assets/docs/imperative_BCGL-16_slide.pdf)]
+ [[handout](https://kafai-yip.github.io/assets/docs/imperative_BCGL-16_handout.pdf)]
 
 ## Recent talks
 
