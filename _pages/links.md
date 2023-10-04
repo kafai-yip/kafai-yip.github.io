@@ -115,7 +115,7 @@ a self-serving handy list of online profiles; please remind me if I've missed an
 | BU            | [Chris Ka Chun LEE](https://chris-ka-chun-lee.com/) | phonetics & phonology |
 | CUHK, TNU     | [Hun-tak Thomas LEE](https://www.cuhk.edu.hk/lin/new/people/thomas/index.htm) | acquisition, syntax & semantics |
 |               | [Jackson L. LEE](https://jacksonllee.com/) | computational linguistics, phonology |
-| UPenn         | [Jonathan Him Nok LEE](https://www.ling.upenn.edu/index.php/people/jonathan-lee) | prosody, bilingualism, clinical ling. |
+| UPenn         | [Jonathan Him Nok LEE](https://www.ling.upenn.edu/~jonhnlee) | prosody, bilingualism, clinical ling. |
 | CityUHK       | [John LEE](http://www2.lt.cityu.edu.hk/~jsylee/) | computational linguistics |
 | UOH           | [Man Ki Theodora LEE](https://hk.linkedin.com/in/theodoralee) | syntax & semantics |
 | UConn         | [Margaret Chui Yi LEE](https://linguistics.uconn.edu/person/margaret-chui-yi-lee/) | semantics, acquisition |
