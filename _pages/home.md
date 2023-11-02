@@ -14,11 +14,11 @@ header:
   
 ---
 
-I’m a fourth-year PhD student in the Department of Linguistics at Yale University. I’m interested in the structure of language and how it relates to meaning and sound. I love cats. I’m a Hong Konger.
+I’m a fourth-year PhD candidate in the Department of Linguistics at Yale University. I’m interested in the structure of language and how it relates to meaning and sound. I love cats. I’m a Hong Konger.
 
 
 {% capture notice-text %}
-* See below!
+* I recently defended my prospectus and have advanced to candidacy! See here for my dissertation project.
 {% endcapture %}
 
 <div class="notice--info">
@@ -29,16 +29,19 @@ I’m a fourth-year PhD student in the Department of Linguistics at Yale Univers
 
 ## Upcoming talks
 
-2023, October 5-6. Jussive agreement with non-agreeing resumptive pronouns in Mandarin Chinese. [BCGL-16](https://www.crissp.be/bcgl-16-the-morphosyntax-of-speaker-and-hearer/), CRISSP of KU Leuven. [with [Xuetong Yuan](https://kathyuan28.github.io/)] [[slides](https://kafai-yip.github.io/assets/docs/imperative_BCGL-16_slide.pdf)]
- [[handout](https://kafai-yip.github.io/assets/docs/imperative_BCGL-16_handout.pdf)]
+2023, Nov 9. Agreeing and non-agreeing resumptive pronouns in Sinitic languages. Invited talk at Georgetown Syntax Reading Group. 
+
+2023, Nov 30 - Dec 2. On the Rising-Falling boundary tone in Cantonese. [Yue-27](https://u.osu.edu/yue2023/), OSU (online). [with [Mei-ying Ki](https://commons.gc.cuny.edu/members/meiying/)] 
+
+2023, Nov 30 - Dec 2. Sibilant palatalization in Hong Kong and Toronto Cantonese: a corpus study. [Yue-27](https://u.osu.edu/yue2023/), 
+[with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home) & [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html)] 
+
+2024, Jan 26-27. Agreement in imperative clauses: evidence from object resumptive pronouns in Mandarin Chinese. Poster at [NELS-54](https://nels54.mit.edu/), MIT. [with [Xuetong Yuan](https://kathyuan28.github.io/)] 
 
 ## Recent talks
 
-2023, May 12-14. Are there weak definites in bare classifier languages?. [SALT-33](https://saltconf.github.io/salt33/index.html), Yale. [with [Ushasi Banerjee](https://ling.yale.edu/people/ushasi-banerjee) & [Margaret Chui Yi Lee](https://linguistics.uconn.edu/person/margaret-chui-yi-lee/)] [[slides](https://saltconf.github.io/salt33/materials/ybl.pdf)] [[handout](https://kafai-yip.github.io/assets/docs/quasi_name-SALT-33_handout.pdf)]
-
-2023, May 5-7. Agreeing with ‘only’. [WCCFL-41](https://babel.ucsc.edu/wccfl41/), UCSC. [[handout](https://kafai-yip.github.io/assets/docs/only_WCCFL-41_handout.pdf)]
-
-2023, April 28-30. Defocus leads to syntax-prosody mismatches in right dislocated structures. [CLS-59](http://chicagolinguisticsociety.org/call.html), UChicago. [with [Xuetong Yuan](https://kathyuan28.github.io/)] [[slides](https://kafai-yip.github.io/assets/docs/RD_CLS-59_slides.pdf)]
+2023, Oct 5-6. Jussive agreement with non-agreeing resumptive pronouns in Mandarin Chinese. [BCGL-16](https://www.crissp.be/bcgl-16-the-morphosyntax-of-speaker-and-hearer/), CRISSP of KU Leuven. [with [Xuetong Yuan](https://kathyuan28.github.io/)] [[slides](https://kafai-yip.github.io/assets/docs/imperative_BCGL-16_slide.pdf)]
+ [[handout](https://kafai-yip.github.io/assets/docs/imperative_BCGL-16_handout.pdf)]
 
 
 {% include feature_row id="intro" type="center" %}
