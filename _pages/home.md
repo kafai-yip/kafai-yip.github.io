@@ -29,7 +29,7 @@ I’m a fourth-year PhD candidate in the Department of Linguistics at Yale Unive
 
 ## Upcoming talks
 
-2023. Nov 17. CHAIN FAITHFULNESS: Restricting Partial Copy Deletion on discontinuous constituents. Poster at [[SynNYU](https://wp.nyu.edu/synnyu/)]. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]  [[poster](https://kafai-yip.github.io/assets/docs/SynNYU_partial_poster_20231115.pdf)]
+2023, Nov 17. CHAIN FAITHFULNESS: Restricting Partial Copy Deletion on discontinuous constituents. Poster at [[SynNYU](https://wp.nyu.edu/synnyu/)]. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]  [[poster](https://kafai-yip.github.io/assets/docs/SynNYU_partial_poster_20231115.pdf)]
 
 2023, Nov 30 - Dec 2. On the Rising-Falling boundary tone in Cantonese. [Yue-27](https://u.osu.edu/yue2023/), OSU (online). [with [Mei-ying Ki](https://commons.gc.cuny.edu/members/meiying/)] 
 
