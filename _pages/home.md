@@ -40,7 +40,7 @@ I’m a fourth-year PhD candidate in the Department of Linguistics at Yale Unive
 
 ## Recent talks
 
-2023, Nov 9. Agreeing and non-agreeing resumptive pronouns in Sinitic languages. Invited talk at Georgetown Syntax Reading Group. 
+2023, Nov 9. Agreeing and non-agreeing resumptive pronouns in Sinitic languages. Invited talk at Georgetown Syntax Reading Group.  [[handout](https://kafai-yip.github.io/assets/docs/NRP_Georgetown_handout.pdf)]
 
 2023, Oct 5-6. Jussive agreement with non-agreeing resumptive pronouns in Mandarin Chinese. [BCGL-16](https://www.crissp.be/bcgl-16-the-morphosyntax-of-speaker-and-hearer/), CRISSP of KU Leuven. [with [Xuetong Yuan](https://kathyuan28.github.io/)] [[slides](https://kafai-yip.github.io/assets/docs/imperative_BCGL-16_slide.pdf)]
  [[handout](https://kafai-yip.github.io/assets/docs/imperative_BCGL-16_handout.pdf)]
