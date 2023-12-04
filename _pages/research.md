@@ -34,7 +34,7 @@ Below is some work I've done in the past (and ongoing):
 
 
 ### Universal concord
-While it is not the main focus of my dissertation, my "first love" is universal concord. Below is some earlier work from my bachelor/MPhil research.
+While it is not the main focus of my dissertation, my "first love" in quantifier doubling is universal concord. Below is some earlier work from my bachelor/MPhil research.
 
 {% capture notice-text %}
 * I show that universal elements also have concord, on a par with negative concord. Focusing on the suffix *-can* 'whenever' in Cantonese and *mei...dou* 'every' in Mandarin, I argue for a syntactic agreement analysis of universal concord. I also discuss the relevance of minimality effects.
