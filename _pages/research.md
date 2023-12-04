@@ -27,7 +27,7 @@ Below is some work I've done in the past (and ongoing):
     - [ongoing follow-up with [Olabode Adedeji](https://ling.yale.edu/people/olabode-adedeji)]
 {% endcapture %}
 
-<div class="notice--info">
+<div class="notice--warning">
   <h4 class="no_toc">Exclusive doubling</h4>
   {{ notice-text | markdownify }}
 </div>
@@ -43,7 +43,7 @@ While it is not the main focus of my dissertation, my "first love" in quantifier
     - Cantonese｜[paper-CRCL (in Chinese)](http://www.cuhk.edu.hk/ics/clrc/crcl_99_1/yip.pdf)
 {% endcapture %}
 
-<div class="notice--info">
+<div class="notice--warning">
   <h4 class="no_toc">Universal concord</h4>
   {{ notice-text | markdownify }}
 </div>
