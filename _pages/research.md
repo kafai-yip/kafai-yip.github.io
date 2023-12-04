@@ -8,7 +8,7 @@ toc_icon: "university"
 
 ## Dissertation in progress
 
-### Doubling down on exclusivity: issues on the syntax-semantics interface
+### Doubling down on exclusivity
 In my dissertation projection, I propose a novel view on the mapping between morphosyntax and semantics to provide a principled explanation for quantifier doubling, with a special focus on doubling of exclusive focus particles (literally “John only bought lamb only”, meaning ‘John only bought lamb'). Quantifier doubling refers to cases where two quantifier expressions occur in a sentence, but apparently only one is interpreted as logical quantification. I hypothesize that quantifier doubling is a syntactic manifestation (“syntacticization”) of quantification structures that are otherwise lexicalized as a whole in languages without doubling. Specifically, I pursue the proposal that exclusive doubling involves a scalar exclusive meaning, which is mapped onto two syntactically linked exclusive focus particles: one denotes an exclusive operator on the at-issue semantic dimension, and the other encodes a scalar reading on the not-at-issue dimension. These two meaning pieces are realized together on one lexical item in non-doubling languages.
 
 The doubling languages that I plan to work on in the dissertation: Cantonese, Mandarin, Vietnamese; Akan, Yoruba; Japanese; Dutch, German.
@@ -23,6 +23,7 @@ Below is some work I've done in the past:
 * I provide a compositional account of exclusive doubling in Cantonese (with an appendix on the cross-linguistic landscape)
     - Cantonese｜[handout-LFRG](https://ling.auf.net/lingbuzz/007525)
 * A documentation of exclusive focus particles in Yoruba.
+
   [ongoing follow-up with [Olabode Adedeji](https://ling.yale.edu/people/olabode-adedeji)]
     - Yoruba｜[handout-SNEWS](https://kafai-yip.github.io/assets/docs/SNEWS_only_20210501.pdf)
 {% endcapture %}
@@ -66,7 +67,7 @@ While it is the main focus of my dissertation, my ``first love'' is universal co
  
 {% capture notice-text %}
 [with [Magdalena Lohninger](https://lenalohninger.wordpress.com/)]
-* We show that raising out of a finite clause (i.e. hyperraising) is correlated with indirect evidence cross-linguistically, and how the correlation may be accounted for under a phase-deactivation approach.  
+* We argue that features on Composite Probes may be dependent or independent of each other, which is supported by a typological correlation between  semantic restrictions in cross-clausal A-dependencies and blockage of additional A’-movement.
     - Cross-linguistic｜[paper-NELS](https://ling.auf.net/lingbuzz/007530)
 {% endcapture %}
 
