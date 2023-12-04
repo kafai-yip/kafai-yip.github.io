@@ -6,9 +6,35 @@ toc_label: "Research topics"
 toc_icon: "university"
 ---
 
-## Syntax & semantics
+## Dissertation in progress
 
-### *Quantifier doubling (concord)*
+### Doubling down on exclusivity: issues on the syntax-semantics interface
+In my dissertation projection, I propose a novel view on the mapping between morphosyntax and semantics to provide a principled explanation for quantifier doubling, with a special focus on doubling of exclusive focus particles (literally “John only bought lamb only”, meaning ‘John only bought lamb'). Quantifier doubling refers to cases where two quantifier expressions occur in a sentence, but apparently only one is interpreted as logical quantification. I hypothesize that quantifier doubling is a syntactic manifestation (“syntacticization”) of quantification structures that are otherwise lexicalized as a whole in languages without doubling. Specifically, I pursue the proposal that exclusive doubling involves a scalar exclusive meaning, which is mapped onto two syntactically linked exclusive focus particles: one denotes an exclusive operator on the at-issue semantic dimension, and the other encodes a scalar reading on the not-at-issue dimension. These two meaning pieces are realized together on one lexical item in non-doubling languages.
+
+The doubling languages that I plan to work on in the dissertation: Cantonese, Mandarin, Vietnamese; Akan, Yoruba; Japanese; Dutch, German.
+
+My current committee members are: Veneeta Dayal (chair), Zoltán Gendler Szabó, Raffaella Zanuttini, and Michael Yoshitaka Erlewine (external).
+
+Below is some work I've done in the past:
+
+{% capture notice-text %}
+* I argue that exclusive sentence-final particles (SFP) establish an Agree relation with exclusive operators. 
+    - Cantonese, Mandarin, Vietnamese｜[paper-WCCFL](https://ling.auf.net/lingbuzz/007525)
+* I provide a compositional account of exclusive doubling in Cantonese (with an appendix on the cross-linguistic landscape)
+    - Cantonese｜[handout-LFRG](https://ling.auf.net/lingbuzz/007525)
+* A documentation of exclusive focus particles in Yoruba.
+  [ongoing follow-up with [Olabode Adedeji](https://ling.yale.edu/people/olabode-adedeji)]
+    - Yoruba｜[handout-SNEWS](https://kafai-yip.github.io/assets/docs/SNEWS_only_20210501.pdf)
+{% endcapture %}
+
+<div class="notice--info">
+  <h4 class="no_toc">Exclusive doubling</h4>
+  {{ notice-text | markdownify }}
+</div>
+
+
+### Universal concord
+While it is the main focus of my dissertation, my ``first love'' is universal concord. Below is some earlier work from my bachelor/MPhil research.
 
 {% capture notice-text %}
 * I show that universal elements also have concord, on a par with negative concord. Focusing on the suffix *-can* 'whenever' in Cantonese and *mei...dou* 'every' in Mandarin, I argue for a syntactic agreement analysis of universal concord. I also discuss the relevance of minimality effects.
@@ -22,12 +48,30 @@ toc_icon: "university"
   {{ notice-text | markdownify }}
 </div>
 
+
+## Syntax & semantics
+
+### *Hyperraising*
+
 {% capture notice-text %}
-* I investigate the doubling phenomenon of exlcusive focus particles in Cantonese and seek for a compositional account.
+[with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
+* We show that raising out of a finite clause (i.e. hyperraising) is correlated with indirect evidence cross-linguistically, and how the correlation may be accounted for under a phase-deactivation approach.  
+    - Cantonese, Vietnamese｜[paper-NLLT](https://lingbuzz.net/lingbuzz/006471)
 {% endcapture %}
 
 <div class="notice--info">
-  <h4 class="no_toc">Doubling exclusivity</h4>
+  <h4 class="no_toc">Hyperraising, evidentiality and phase deactivation</h4>
+  {{ notice-text | markdownify }}
+</div>
+ 
+{% capture notice-text %}
+[with [Magdalena Lohninger](https://lenalohninger.wordpress.com/)]
+* We show that raising out of a finite clause (i.e. hyperraising) is correlated with indirect evidence cross-linguistically, and how the correlation may be accounted for under a phase-deactivation approach.  
+    - Cross-linguistic｜[paper-NELS](https://ling.auf.net/lingbuzz/007530)
+{% endcapture %}
+
+<div class="notice--info">
+  <h4 class="no_toc">(In)dependence of features on composite probes</h4>
   {{ notice-text | markdownify }}
 </div>
 
@@ -36,7 +80,7 @@ toc_icon: "university"
 {% capture notice-text %}
 [with [Zhuo Chen](https://www.zhuochenlinguist.com/)]
 * We argue that adverbial clauses may be derived by either operator movement or merging an in-situ operator at the highest CP. These two strategies are attested in both central and peripheral adverbial clauses, calling for a finer typology of adverbial clauses.
-    - Mandarin｜(please email me for the handout)
+    - Mandarin and other Asian languages | (please email me for the handout)
 * A related discussion on reducing the external syntax to the internal syntax in terms of operator merging sites. 
     - Cantonese｜[paper-WCCFLext.](https://ling.auf.net/lingbuzz/006288)｜[poster-WCCFL](https://doi.org/10.25422/azu.data.14481591.v1)
 {% endcapture %}
@@ -56,19 +100,6 @@ toc_icon: "university"
   {{ notice-text | markdownify }}
 </div>
 
-### *Hyperraising*
-
-{% capture notice-text %}
-[with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
-* We show that raising out of a finite clause (i.e. hyperraising) is correlated with indirect evidence cross-linguistically, and how the correlation may be accounted for under a phase-deactivation approach.  
-    - Cantonese, Vietnamese｜[paper-ms](https://lingbuzz.net/lingbuzz/006471)｜[handout-BCGL](https://kafai-yip.github.io/assets/docs/BCGL_HR_evidentiality_handout.pdf)
-{% endcapture %}
-
-<div class="notice--info">
-  <h4 class="no_toc">Hyperraising, evidentiality and phase deactivation</h4>
-  {{ notice-text | markdownify }}
-</div>
- 
 ### *Modal*
 
 {% capture notice-text %}
