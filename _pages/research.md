@@ -18,14 +18,13 @@ My current committee members are: Veneeta Dayal (chair), Zoltán Gendler Szabó,
 Below is some work I've done in the past:
 
 {% capture notice-text %}
-* I argue that exclusive sentence-final particles (SFP) establish an Agree relation with exclusive operators. 
+* I argue that exclusive sentence-final particles (SFP) establish an Agree relation with exclusive operators, unlike adfocal particles which undergo covert movement.
     - Cantonese, Mandarin, Vietnamese｜[paper-WCCFL](https://ling.auf.net/lingbuzz/007525)
-* I provide a compositional account of exclusive doubling in Cantonese (with an appendix on the cross-linguistic landscape)
+* I provide a compositional account of exclusive doubling in Cantonese (with an appendix on the cross-linguistic landscape of exclusive doubling)
     - Cantonese｜[handout-LFRG](https://kafai-yip.github.io/assets/docs/only_LFRG_handout_online.pdf)
-* A documentation of exclusive focus particles in Yoruba.
-
-  [ongoing follow-up with [Olabode Adedeji](https://ling.yale.edu/people/olabode-adedeji)]
+* A documentation of exclusive focus particles in Yoruba, a doubling language.
     - Yoruba｜[handout-SNEWS](https://kafai-yip.github.io/assets/docs/SNEWS_only_20210501.pdf)
+    - [ongoing follow-up with [Olabode Adedeji](https://ling.yale.edu/people/olabode-adedeji)]
 {% endcapture %}
 
 <div class="notice--info">
@@ -35,7 +34,7 @@ Below is some work I've done in the past:
 
 
 ### Universal concord
-While it is not the main focus of my dissertation, my ``first love'' is universal concord. Below is some earlier work from my bachelor/MPhil research.
+While it is not the main focus of my dissertation, my "first love" is universal concord. Below is some earlier work from my bachelor/MPhil research.
 
 {% capture notice-text %}
 * I show that universal elements also have concord, on a par with negative concord. Focusing on the suffix *-can* 'whenever' in Cantonese and *mei...dou* 'every' in Mandarin, I argue for a syntactic agreement analysis of universal concord. I also discuss the relevance of minimality effects.
@@ -81,7 +80,7 @@ While it is not the main focus of my dissertation, my ``first love'' is universa
 {% capture notice-text %}
 [with [Zhuo Chen](https://www.zhuochenlinguist.com/)]
 * We argue that adverbial clauses may be derived by either operator movement or merging an in-situ operator at the highest CP. These two strategies are attested in both central and peripheral adverbial clauses, calling for a finer typology of adverbial clauses.
-    - Mandarin and other Asian languages | (please email me for the handout)
+    - Mandarin and other Asian languages｜(please email me for the handout) 
 * A related discussion on reducing the external syntax to the internal syntax in terms of operator merging sites. 
     - Cantonese｜[paper-WCCFLext.](https://ling.auf.net/lingbuzz/006288)｜[poster-WCCFL](https://doi.org/10.25422/azu.data.14481591.v1)
 {% endcapture %}
