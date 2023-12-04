@@ -22,7 +22,7 @@ classes: wide
 
 1. [Two types of temporal adverbial clauses in Cantonese](https://ling.auf.net/lingbuzz/006288). To appear in *Proceedings of WCCFL-39*.
 
-1. Partial deletion at word level: discontinuous predicates in Cantonese. In prep. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)
+1. Partial deletion at word level: discontinuous predicates in Cantonese. In prep. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
 
 1. An agreement analysis of temporal converbs. In prep.
 
