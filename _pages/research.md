@@ -21,7 +21,7 @@ Below is some work I've done in the past:
 * I argue that exclusive sentence-final particles (SFP) establish an Agree relation with exclusive operators. 
     - Cantonese, Mandarin, Vietnamese｜[paper-WCCFL](https://ling.auf.net/lingbuzz/007525)
 * I provide a compositional account of exclusive doubling in Cantonese (with an appendix on the cross-linguistic landscape)
-    - Cantonese｜[handout-LFRG](https://ling.auf.net/lingbuzz/007525)
+    - Cantonese｜[handout-LFRG](https://kafai-yip.github.io/assets/docs/only_LFRG_handout_online.pdf)
 * A documentation of exclusive focus particles in Yoruba.
 
   [ongoing follow-up with [Olabode Adedeji](https://ling.yale.edu/people/olabode-adedeji)]
@@ -35,7 +35,7 @@ Below is some work I've done in the past:
 
 
 ### Universal concord
-While it is the main focus of my dissertation, my ``first love'' is universal concord. Below is some earlier work from my bachelor/MPhil research.
+While it is not the main focus of my dissertation, my ``first love'' is universal concord. Below is some earlier work from my bachelor/MPhil research.
 
 {% capture notice-text %}
 * I show that universal elements also have concord, on a par with negative concord. Focusing on the suffix *-can* 'whenever' in Cantonese and *mei...dou* 'every' in Mandarin, I argue for a syntactic agreement analysis of universal concord. I also discuss the relevance of minimality effects.
