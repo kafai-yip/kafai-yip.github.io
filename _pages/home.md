@@ -29,16 +29,16 @@ I’m a fourth-year PhD candidate in the Department of Linguistics at Yale Unive
 
 ## Upcoming talks
 
-2023, Nov 17. CHAIN FAITHFULNESS: Restricting Partial Copy Deletion on discontinuous constituents. Poster at [[SynNYU](https://wp.nyu.edu/synnyu/)]. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]  [[poster](https://kafai-yip.github.io/assets/docs/SynNYU_partial_poster_20231115.pdf)]
+2024, Jan 26-27. Agreement in imperative clauses: evidence from object resumptive pronouns in Mandarin Chinese. Poster at [NELS-54](https://nels54.mit.edu/), MIT. [with [Xuetong Yuan](https://kathyuan28.github.io/)] 
 
-2023, Nov 30 - Dec 2. On the Rising-Falling boundary tone in Cantonese. [Yue-27](https://u.osu.edu/yue2023/), OSU (online). [with [Mei-ying Ki](https://commons.gc.cuny.edu/members/meiying/)] 
+## Recent talks
+
+2023, Nov 30 - Dec 2. On the Rising-Falling boundary tone in Cantonese. [Yue-27](https://u.osu.edu/yue2023/), OSU (online). [with [Mei-ying Ki](https://commons.gc.cuny.edu/members/meiying/)] [[slides](https://kafai-yip.github.io/assets/docs/Yue-27_HL_slides.pdf)]
 
 2023, Nov 30 - Dec 2. Sibilant palatalization in Hong Kong and Toronto Cantonese: a corpus study. [Yue-27](https://u.osu.edu/yue2023/), 
 [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home) & [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html)] 
 
-2024, Jan 26-27. Agreement in imperative clauses: evidence from object resumptive pronouns in Mandarin Chinese. Poster at [NELS-54](https://nels54.mit.edu/), MIT. [with [Xuetong Yuan](https://kathyuan28.github.io/)] 
-
-## Recent talks
+2023, Nov 17. CHAIN FAITHFULNESS: Restricting Partial Copy Deletion on discontinuous constituents. Poster at [[SynNYU](https://wp.nyu.edu/synnyu/)]. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]  [[poster](https://kafai-yip.github.io/assets/docs/SynNYU_partial_poster_20231115.pdf)]
 
 2023, Nov 9. Agreeing and non-agreeing resumptive pronouns in Sinitic languages. Invited talk at Georgetown Syntax Reading Group.  [[handout](https://kafai-yip.github.io/assets/docs/NRP_Georgetown_handout.pdf)]
 
