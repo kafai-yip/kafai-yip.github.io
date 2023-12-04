@@ -36,7 +36,7 @@ I’m a fourth-year PhD candidate in the Department of Linguistics at Yale Unive
 2023, Nov 30 - Dec 2. On the Rising-Falling boundary tone in Cantonese. [Yue-27](https://u.osu.edu/yue2023/), OSU (online). [with [Mei-ying Ki](https://commons.gc.cuny.edu/members/meiying/)] [[slides](https://kafai-yip.github.io/assets/docs/Yue-27_HL_slides.pdf)]
 
 2023, Nov 30 - Dec 2. Sibilant palatalization in Hong Kong and Toronto Cantonese: a corpus study. [Yue-27](https://u.osu.edu/yue2023/), 
-[with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home) & [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html)] [[slides](https://docs.google.com/presentation/d/1N59uHMEVwJ9vM5Mdl1tg19RRO9H2vwivoHq2VcD1nEE/edit?usp=sharing )]
+[with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home) & [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html)] [[slides](https://docs.google.com/presentation/d/1N59uHMEVwJ9vM5Mdl1tg19RRO9H2vwivoHq2VcD1nEE/edit?usp=sharing)]
 
 2023, Nov 17. CHAIN FAITHFULNESS: Restricting Partial Copy Deletion on discontinuous constituents. Poster at [[SynNYU](https://wp.nyu.edu/synnyu/)]. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]  [[poster](https://kafai-yip.github.io/assets/docs/SynNYU_partial_poster_20231115.pdf)]
 
