@@ -15,7 +15,7 @@ The doubling languages that I plan to work on in the dissertation: Cantonese, Ma
 
 My current committee members are: Veneeta Dayal (chair), Zoltán Gendler Szabó, Raffaella Zanuttini, and Michael Yoshitaka Erlewine (external).
 
-Below is some work I've done in the past:
+Below is some work I've done in the past (and ongoing):
 
 {% capture notice-text %}
 * I argue that exclusive sentence-final particles (SFP) establish an Agree relation with exclusive operators, unlike adfocal particles which undergo covert movement.
