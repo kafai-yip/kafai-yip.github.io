@@ -152,9 +152,23 @@ While it is not the main focus of my dissertation, my "first love" in quantifier
   {{ notice-text | markdownify }}
 </div>
 
-## Corpus linguistics
+## Variations with corpus
 
-### *Metaphorization and variations*
+### *Heritage Cantonese (HLVC)*
+
+{% capture notice-text %}
+[with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home) & [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html)]
+* Using [HLVC](https://ngn.artsci.utoronto.ca/HLVC/0_0_home.php), we study the variations in sibilant palatalization, an ongoing sound change in Cantonese, in Hong Kong and Toronto.
+    - Cantonese (HK, TOR)｜[slides-Yue](https://docs.google.com/presentation/d/1N59uHMEVwJ9vM5Mdl1tg19RRO9H2vwivoHq2VcD1nEE/edit?usp=sharing)
+{% endcapture %}
+
+<div class="notice--primary">
+  <h4 class="no_toc">Sibilant palatalization in Hong Kong and Toronto Cantonese</h4>
+  {{ notice-text | markdownify }}
+</div>
+
+
+### *Metaphorization (LIVAC)*
 
 {% capture notice-text %}
 [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)]
