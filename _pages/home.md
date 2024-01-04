@@ -31,7 +31,7 @@ I’m a fourth-year PhD candidate in the Department of Linguistics at Yale Unive
 
 2024, Jan 26-27. Agreement in imperative clauses: evidence from object resumptive pronouns in Mandarin Chinese. Poster at [NELS-54](https://nels54.mit.edu/), MIT. [with [Xuetong Yuan](https://kathyuan28.github.io/)] 
 
-2024, March 23-34. Defending a biclausal approach to right dislocation. [NACCL](https://www.pomona.edu/naccl-36)-36, Pomona.
+2024, March 23-34. Defending a biclausal approach to right dislocation. [NACCL-36](https://www.pomona.edu/naccl-36), Pomona.
 
 ## Recent talks
 
