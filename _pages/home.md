@@ -31,6 +31,8 @@ I’m a fourth-year PhD candidate in the Department of Linguistics at Yale Unive
 
 2024, Jan 26-27. Agreement in imperative clauses: evidence from object resumptive pronouns in Mandarin Chinese. Poster at [NELS-54](https://nels54.mit.edu/), MIT. [with [Xuetong Yuan](https://kathyuan28.github.io/)] 
 
+2024, March 23-34. Defending a biclausal approach to right dislocation. [NACCL](https://www.pomona.edu/naccl-36)-36, Pomona.
+
 ## Recent talks
 
 2023, Nov 30 - Dec 2. On the Rising-Falling boundary tone in Cantonese. [Yue-27](https://u.osu.edu/yue2023/), OSU (online). [with [Mei-ying Ki](https://commons.gc.cuny.edu/members/meiying/)] [[slides](https://kafai-yip.github.io/assets/docs/Yue-27_HL_slides.pdf)]
@@ -41,9 +43,5 @@ I’m a fourth-year PhD candidate in the Department of Linguistics at Yale Unive
 2023, Nov 17. CHAIN FAITHFULNESS: Restricting Partial Copy Deletion on discontinuous constituents. Poster at [[SynNYU](https://wp.nyu.edu/synnyu/)]. [with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]  [[poster](https://kafai-yip.github.io/assets/docs/SynNYU_partial_poster_20231115.pdf)]
 
 2023, Nov 9. Agreeing and non-agreeing resumptive pronouns in Sinitic languages. Invited talk at Georgetown Syntax Reading Group.  [[handout](https://kafai-yip.github.io/assets/docs/NRP_Georgetown_handout.pdf)]
-
-2023, Oct 5-6. Jussive agreement with non-agreeing resumptive pronouns in Mandarin Chinese. [BCGL-16](https://www.crissp.be/bcgl-16-the-morphosyntax-of-speaker-and-hearer/), CRISSP of KU Leuven. [with [Xuetong Yuan](https://kathyuan28.github.io/)] [[slides](https://kafai-yip.github.io/assets/docs/imperative_BCGL-16_slide.pdf)]
- [[handout](https://kafai-yip.github.io/assets/docs/imperative_BCGL-16_handout.pdf)]
-
 
 {% include feature_row id="intro" type="center" %}
