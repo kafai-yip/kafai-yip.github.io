@@ -6,6 +6,9 @@ toc_label: "Research topics"
 toc_icon: "university"
 ---
 
+(colour coding: blue=syntax, yellow=syntax-semantics, green=syntax-prosody, cyan=corpus, pink=others)
+{: .green}
+
 ## Focus
 
 ### *Exclusive doubling (diss. IP)*
@@ -131,7 +134,7 @@ While it is not the main focus of my dissertation, my "first love" in quantifier
     - Cantonese, Mandarin｜[paper-PLC](https://ling.auf.net/lingbuzz/006283)｜[handout-NACCL](https://kafai-yip.github.io/assets/docs/NACCL-33-Dis-Pred_handout.pdf)
 {% endcapture %}
 
-<div class="notice--success">
+<div class="notice--info">
   <h4 class="no_toc">Discontinuous predicates</h4>
   {{ notice-text | markdownify }}
 </div>
@@ -142,7 +145,7 @@ While it is not the main focus of my dissertation, my "first love" in quantifier
     -  Akan, Cantonese｜[paper-PLC](https://ling.auf.net/lingbuzz/006841)｜[handout-UConn](https://kafai-yip.github.io/assets/docs/UConn_resumption_handout_20220426.pdf)
 {% endcapture %}
 
-<div class="notice--success">
+<div class="notice--info">
   <h4 class="no_toc">Non-agreeing resumption</h4>
   {{ notice-text | markdownify }}
 </div>
@@ -154,7 +157,7 @@ While it is not the main focus of my dissertation, my "first love" in quantifier
 * (Under construction)
 {% endcapture %}
 
-<div class="notice--success">
+<div class="notice--warning">
   <h4 class="no_toc">Quasi-names</h4>
   {{ notice-text | markdownify }}
 </div>
