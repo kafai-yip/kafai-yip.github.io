@@ -6,7 +6,7 @@ toc_label: "Research topics"
 toc_icon: "university"
 ---
 
-(colour coding: blue=syntax, yellow=syntax-semantics, green=syntax-prosody, cyan=corpus, pink=others)
+[Colour coding: blue=syntax, yellow=(syntax-)semantics, green=(syntax-)prosody, cyan=corpus, pink=others]
 
 ## Focus
 
@@ -194,6 +194,16 @@ While it is not the main focus of my dissertation, my "first love" in quantifier
 </div>
 
 ## Other
+
+{% capture notice-text %}
+* [with Mei-ying KI] (under construction)
+* [with Jonathan Him Nok LEE] (under construction)
+{% endcapture %}
+
+<div class="notice--success">
+  <h4 class="no_toc">Cantonese intonation</h4>
+  {{ notice-text | markdownify }}
+</div>
 
 {% capture notice-text %}
 [with Mei-ying KI & Yik-Po LAI]
