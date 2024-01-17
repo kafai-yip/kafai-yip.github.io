@@ -6,9 +6,9 @@ toc_label: "Research topics"
 toc_icon: "university"
 ---
 
-## Dissertation in progress
+## Focus
 
-### Doubling down on exclusivity
+### *Exclusive doubling (diss. IP)*
 In my dissertation project, I propose a novel view on the mapping between morphosyntax and semantics to provide a principled explanation for quantifier doubling, with a special focus on doubling of exclusive focus particles (literally “John only bought lamb only”, meaning ‘John only bought lamb'). Quantifier doubling refers to cases where two quantifier expressions occur in a sentence, but apparently only one is interpreted as logical quantification. I hypothesize that quantifier doubling is a syntactic manifestation (“syntacticization”) of quantification structures that are otherwise lexicalized as a whole in languages without doubling. Specifically, I pursue the proposal that exclusive doubling involves a scalar exclusive meaning, which is mapped onto two syntactically linked exclusive focus particles: one denotes an exclusive operator on the at-issue semantic dimension, and the other encodes a scalar reading on the not-at-issue dimension. These two meaning pieces are realized together on one lexical item in non-doubling languages.
 
 The doubling languages that I plan to work on in the dissertation: Cantonese, Mandarin, Vietnamese; Akan, Yoruba; Japanese; Dutch, German.
@@ -32,8 +32,6 @@ Below is some work I've done in the past (and ongoing):
   {{ notice-text | markdownify }}
 </div>
 
-
-### Universal concord
 While it is not the main focus of my dissertation, my "first love" in quantifier doubling is universal concord. Below is some earlier work from my bachelor/MPhil research.
 
 {% capture notice-text %}
@@ -47,6 +45,31 @@ While it is not the main focus of my dissertation, my "first love" in quantifier
   <h4 class="no_toc">Universal concord</h4>
   {{ notice-text | markdownify }}
 </div>
+
+### *Defocus and prosody*
+
+{% capture notice-text %}
+* (Under construction)
+{% endcapture %}
+
+<div class="notice--success">
+  <h4 class="no_toc">Right dislocation</h4>
+  {{ notice-text | markdownify }}
+</div>
+
+### *Focus and modal*
+
+{% capture notice-text %}
+[with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
+* We propose that root modals in Chinese can undergo movement when crossing a focused element, and the movement is constrained by output economy regarding focus set calculation.
+    - Mandarin｜[paper-bookch.](https://www.jbe-platform.com/content/books/9789027258175-la.272.06yip) ([lingbuzz](https://ling.auf.net/lingbuzz/006281))
+{% endcapture %}
+
+<div class="notice--info">
+  <h4 class="no_toc">Modal movement licensed by focus</h4>
+  {{ notice-text | markdownify }}
+</div>
+
 
 
 ## Syntax & semantics
@@ -100,22 +123,7 @@ While it is not the main focus of my dissertation, my "first love" in quantifier
   {{ notice-text | markdownify }}
 </div>
 
-### *Modal*
-
-{% capture notice-text %}
-[with [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
-* We propose that root modals in Chinese can undergo movement when crossing a focused element, and the movement is constrained by output economy regarding focus set calculation.
-    - Mandarin｜[paper-bookch.](https://www.jbe-platform.com/content/books/9789027258175-la.272.06yip) ([lingbuzz](https://ling.auf.net/lingbuzz/006281))
-{% endcapture %}
-
-<div class="notice--info">
-  <h4 class="no_toc">Modal movement licensed by focus</h4>
-  {{ notice-text | markdownify }}
-</div>
-
-## Syntax-phonology interface
-
-### *PF: Copy Deletion*
+### *Copy Deletion*
 
 {% capture notice-text %}
 [with [Sheila Shu-Laam CHAN](https://sheilaslchan.github.io/) & [Tommy Tsz-Ming LEE](https://tszminglee.github.io/)]
@@ -140,17 +148,17 @@ While it is not the main focus of my dissertation, my "first love" in quantifier
 </div>
 
 
-### *Prosodic domains*
+### *Typology of definiteness*
 
 {% capture notice-text %}
-* Based on acoustic data, I study the mapping from clauses to intonational phrases in right dislocation. I also discuss micro-variations in Cantonese and Mandarin which are attributable to their prosodic differences.
-    - Cantonese, Mandarin｜[proceedings-Phex](https://sapporo-u.repo.nii.ac.jp/?action=repository_uri&item_id=7728&file_id=22&file_no=1)｜[slides-WICL](https://kafai-yip.github.io/assets/docs/WICL-5_RD_20200418.pptx)
+* (Under construction)
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="no_toc">Right dislocation</h4>
+  <h4 class="no_toc">Quasi-names</h4>
   {{ notice-text | markdownify }}
 </div>
+
 
 ## Variations with corpus
 
