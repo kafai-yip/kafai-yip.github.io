@@ -6,13 +6,12 @@ toc_label: "Research topics"
 toc_icon: "university"
 ---
 
-(colour coding: blue=syntax, yellow=syntax-semantics, green=syntax-prosody, cyan=corpus, pink=others)
-{: .green}
+(colour coding: blue=syntax, yellow=syntax-semantics, green=syntax-prosody, cyan=corpus, pink=others) {: .green}
 
 ## Focus
 
 ### *Exclusive doubling (diss. IP)*
-In my dissertation project, I propose a novel view on the mapping between morphosyntax and semantics to provide a principled explanation for quantifier doubling, with a special focus on doubling of exclusive focus particles (literally “John only bought lamb only”, meaning ‘John only bought lamb'). Quantifier doubling refers to cases where two quantifier expressions occur in a sentence, but apparently only one is interpreted as logical quantification. I hypothesize that quantifier doubling is a syntactic manifestation (“syntacticization”) of quantification structures that are otherwise lexicalized as a whole in languages without doubling. Specifically, I pursue the proposal that exclusive doubling involves a scalar exclusive meaning, which is mapped onto two syntactically linked exclusive focus particles: one denotes an exclusive operator on the at-issue semantic dimension, and the other encodes a scalar reading on the not-at-issue dimension. These two meaning pieces are realized together on one lexical item in non-doubling languages.
+My dissertation project in progress proposes a novel view on the mapping between morphosyntax and semantics to provide a principled explanation for quantifier doubling, with a special focus on doubling of exclusive focus particles (literally “John only bought lamb only”, meaning ‘John only bought lamb'). Quantifier doubling refers to cases where two quantifier expressions occur in a sentence, but apparently only one is interpreted as logical quantification. I hypothesize that quantifier doubling is a syntactic manifestation (“syntacticization”) of quantification structures that are otherwise lexicalized as a whole in languages without doubling. Specifically, I pursue the proposal that exclusive doubling involves a scalar exclusive meaning, which is mapped onto two syntactically linked exclusive focus particles: one denotes an exclusive operator on the at-issue semantic dimension, and the other encodes a scalar reading on the not-at-issue dimension. These two meaning pieces are realized together on one lexical item in non-doubling languages.
 
 The doubling languages that I plan to work on in the dissertation: Cantonese, Mandarin, Vietnamese; Akan, Yoruba; Japanese; Dutch, German.
 
