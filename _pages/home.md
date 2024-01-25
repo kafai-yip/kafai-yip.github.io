@@ -18,7 +18,7 @@ I’m a fourth-year PhD candidate in the Department of Linguistics at Yale Unive
 
 
 {% capture notice-text %}
-* I recently defended my prospectus and have advanced to candidacy! See [here](https://kafai-yip.github.io/research/#exclusive-doubling-diss-ip) for my dissertation project.
+* I recently defended my prospectus and have advanced to candidacy! See [here](https://kafai-yip.github.io/research/#exclusive-doubling) for my dissertation project.
 {% endcapture %}
 
 <div class="notice--info">
