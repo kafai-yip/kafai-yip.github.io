@@ -33,8 +33,7 @@ I’m a fourth-year PhD candidate in the Department of Linguistics at Yale Unive
 
 2024, Mar 23-24. Defending a biclausal approach to right dislocation. [NACCL-36](https://www.pomona.edu/naccl-36), Pomona.
 
-2024, Mar 23-24. Linguistic and social aspects of sibilant palatalization in homeland and heritage Cantonese. [NACCL-36](https://www.pomona.edu/naccl-36), Pomona. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang
-]
+2024, Mar 23-24. Linguistic and social aspects of sibilant palatalization in homeland and heritage Cantonese. [NACCL-36](https://www.pomona.edu/naccl-36), Pomona. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang]
 
 2024, May 2-4. Two types of subject resumption in Akan. [ACAL-55](https://acal55.mull-lab.org/), McGill. [with [Comfort Ahenkorah](https://ling.yale.edu/people/comfort-ahenkorah)] 
 
