@@ -29,8 +29,6 @@ I’m a fourth-year PhD candidate in the Department of Linguistics at Yale Unive
 
 ## Upcoming talks
 
-2024, Jan 26-27. Agreement in imperative clauses: evidence from object resumptive pronouns in Mandarin Chinese. Poster at [NELS-54](https://nels54.mit.edu/), MIT. [with [Xuetong Yuan](https://kathyuan28.github.io/)]  [[poster](http://nels54.mit.edu/sites/default/files/documents/yip-yuan-poster.pdf)] [[handout](https://kafai-yip.github.io/assets/docs/imperative_NELS-54_handout.pdf)]
-
 2024, Feb 24. Right dislocation, defocus, and variations in syntax-prosody mapping. [Phex-15](https://toki482.wixsite.com/website-2), Tonjo. [with [Xuetong Yuan](https://kathyuan28.github.io/)] 
 
 2024, Mar 23-24. Defending a biclausal approach to right dislocation. [NACCL-36](https://www.pomona.edu/naccl-36), Pomona.
@@ -45,6 +43,7 @@ Olabode Adedeji](https://ling.yale.edu/people/olabode-adedeji)]
 
 
 ## Recent talks
+2024, Jan 26-27. Agreement in imperative clauses: evidence from object resumptive pronouns in Mandarin Chinese. Poster at [NELS-54](https://nels54.mit.edu/), MIT. [with [Xuetong Yuan](https://kathyuan28.github.io/)]  [[poster](http://nels54.mit.edu/sites/default/files/documents/yip-yuan-poster.pdf)] [[handout](https://kafai-yip.github.io/assets/docs/imperative_NELS-54_handout.pdf)]
 
 2023, Nov 30 - Dec 2. On the Rising-Falling boundary tone in Cantonese. [Yue-27](https://u.osu.edu/yue2023/), OSU (online). [with [Mei-ying Ki](https://commons.gc.cuny.edu/members/meiying/)] [[slides](https://kafai-yip.github.io/assets/docs/Yue-27_HL_slides.pdf)]
 
