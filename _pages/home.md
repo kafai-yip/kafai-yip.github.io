@@ -29,7 +29,7 @@ I’m a fourth-year PhD candidate in the Department of Linguistics at Yale Unive
 
 ## Upcoming talks
 
-2024, Mar 1. Biclausal multidominant syntax of right dislocation in Chinese. [NYU Syntax Brown Bag](https://sites.google.com/a/nyu.edu/nyusyntaxbrownbag/schedule?authuser=0).
+2024, Mar 1. Biclausal multidominant syntax of right dislocation in Chinese. [NYU Syntax Brown Bag](https://sites.google.com/a/nyu.edu/nyusyntaxbrownbag/schedule?authuser=0). [[handout](https://kafai-yip.github.io/assets/docs/RD_multi_NYU_handout.pdf)]
 
 2024, Mar 23-24. Defending a biclausal approach to right dislocation. [NACCL-36](https://www.pomona.edu/naccl-36), Pomona.
 
