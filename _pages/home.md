@@ -18,6 +18,7 @@ I’m a fourth-year PhD candidate in the Department of Linguistics at Yale Unive
 
 
 {% capture notice-text %}
+* [The Seventh Forum on Cantonese Linguistics](https://focalhongkong.wordpress.com/) (FoCaL-7) is now calling for papers! [[poster](https://focalhongkong.wordpress.com/%e6%b5%b7%e5%a0%b1-poster/)]
 * My manuscript ["A unified biclausal approach to right dislocation in Chinese"](https://lingbuzz.net/lingbuzz/007912) is on Lingbuzz. Comments welcome!
 {% endcapture %}
 
