@@ -30,7 +30,7 @@ I’m a fourth-year PhD candidate in the Department of Linguistics at Yale Unive
 
 ## Upcoming talks
 
-2024, Mar 23-24. Defending a biclausal approach to right dislocation. [NACCL-36](https://www.pomona.edu/naccl-36), Pomona.
+2024, Mar 23-24. Defending a biclausal approach to right dislocation. [NACCL-36](https://www.pomona.edu/naccl-36), Pomona. [[handout](https://kafai-yip.github.io/assets/docs/RD_biclausal_NACCL-36_handout.pdf)]
 
 2024, Mar 23-24. Linguistic and social aspects of sibilant palatalization in homeland and heritage Cantonese. [NACCL-36](https://www.pomona.edu/naccl-36), Pomona. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang]
 
