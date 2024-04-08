@@ -7,6 +7,16 @@ classes: wide
 
 *Feel free to email me if you'd like to access any handout that is not available here!*
 
+### 2024
+1. Agreement in imperative clauses: evidence from object resumptive pronouns in Mandarin Chinese. Poster at [NELS-54](https://nels54.mit.edu/), MIT. [with [Xuetong Yuan](https://kathyuan28.github.io/)]  [[poster](http://nels54.mit.edu/sites/default/files/documents/yip-yuan-poster.pdf)] [[handout](https://kafai-yip.github.io/assets/docs/imperative_NELS-54_handout.pdf)]
+
+1. Biclausal multidominant syntax of right dislocation in Chinese. [NYU Syntax Brown Bag](https://sites.google.com/a/nyu.edu/nyusyntaxbrownbag/schedule?authuser=0). [[handout](https://kafai-yip.github.io/assets/docs/RD_multi_NYU_handout.pdf)]
+  
+1. Right dislocation, defocus, and variations in syntax-prosody mapping. [Phex-15](https://toki482.wixsite.com/website-2), Tonjo. [with [Xuetong Yuan](https://kathyuan28.github.io/)] [[slides](https://kafai-yip.github.io/assets/docs/RD_defocus_slides.pdf)]
+
+1. Linguistic and social aspects of sibilant palatalization in homeland and heritage Cantonese. [NACCL-36](https://www.pomona.edu/naccl-36), Pomona. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang] [[slides](https://docs.google.com/presentation/d/1NMJ3688oNF3YusitiUQImu4uQusGy58warBPyDllrrk/edit?usp=sharing)]
+
+
 ### 2023
 1. Agreeing with ‘only’. [WCCFL-41](https://babel.ucsc.edu/wccfl41/), UCSC. [[handout](https://kafai-yip.github.io/assets/docs/only_WCCFL-41_handout.pdf)]
 
@@ -17,6 +27,8 @@ classes: wide
 1. Defocus leads to syntax-prosody mismatches in right dislocated structures. [CLS-59](http://chicagolinguisticsociety.org/call.html), UChicago. [with [Xuetong Yuan](https://kathyuan28.github.io/)] 
 
 1. (In)dependence of features on composite probes. Poster at [NELS-53](https://nels53.uni-goettingen.de/), Uni Göttingen. [with [Magdalena Lohninger](https://lenalohninger.wordpress.com/)] [[poster](https://lenalohninger.files.wordpress.com/2023/01/poster-nels.pdf)] [[handout](https://lenalohninger.files.wordpress.com/2023/02/handout_lohninger_yip.pdf)]
+
+1. On the Rising-Falling boundary tone in Cantonese. [Yue-27](https://u.osu.edu/yue2023/), OSU (online). [with [Mei-ying Ki](https://commons.gc.cuny.edu/members/meiying/)] [[slides](https://kafai-yip.github.io/assets/docs/Yue-27_HL_slides.pdf)]
 
 ### 2022
 
