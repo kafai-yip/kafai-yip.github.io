@@ -188,8 +188,9 @@ While it is not the main focus of my dissertation, my "first love" in quantifier
 ### *Heritage Cantonese (HLVC)*
 
 {% capture notice-text %}
-**Sibilant palatalization in Hong Kong and Toronto Cantonese** `variations & corpus` `with Yanting Li, Xiao Dong & Gareth Junjie Yang`
-* Using [HLVC](https://ngn.artsci.utoronto.ca/HLVC/0_0_home.php), we study the variations in sibilant palatalization, an ongoing sound change in Cantonese, in Hong Kong and Toronto.
+**Sibilant palatalization in Hong Kong and Toronto Cantonese** `variations & corpus` 
+
+* `with Yanting Li, Xiao Dong & Gareth Junjie Yang` Using [HLVC](https://ngn.artsci.utoronto.ca/HLVC/0_0_home.php), we study the variations in sibilant palatalization, an ongoing sound change in Cantonese, in Hong Kong and Toronto.
     - Cantonese (HK, TOR)｜[slides-NACCL](https://docs.google.com/presentation/d/1NMJ3688oNF3YusitiUQImu4uQusGy58warBPyDllrrk/edit?usp=sharing)
 {% endcapture %}
 
@@ -202,7 +203,9 @@ While it is not the main focus of my dissertation, my "first love" in quantifier
 ### *Metaphorization (LIVAC)*
 
 {% capture notice-text %} 
-**Differential metaphorization and grammaticalization** `variations & corpus` `with Benjamin K. Tsou`
+**Differential metaphorization and grammaticalization** `variations & corpus` 
+`with Benjamin K. Tsou`
+
 * With a case study on Chinese light verbs, we explore different dimensions involving gradation of metaphorization process and provide a general schema of metaphorization.
     - Chinese｜[slides-SLE](https://osf.io/6nvmu/)
 * We offer a novel dynamic perspective to language variations with a process-based approach. Drawing data from [LIVAC](https://en.wikipedia.org/wiki/LIVAC_Synchronous_Corpus), we discuss parallel and differential developments of metaphorization process in varieties of Modern Standard Chinese.
