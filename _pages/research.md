@@ -72,7 +72,7 @@ While it is not the main focus of my dissertation, my "first love" in quantifier
 {% capture notice-text %}
 **Modal movement licensed by focus** `syntax`
 
-* `with Tommy Tsz-Ming LEE` We propose that root modals in Chinese can undergo movement when crossing a focused element, and the movement is constrained by output economy regarding focus set calculation.
+* `with Tommy Tsz-Ming Lee` We propose that root modals in Chinese can undergo movement when crossing a focused element, and the movement is constrained by output economy regarding focus set calculation.
     - Mandarin｜[paper-bookch.](https://www.jbe-platform.com/content/books/9789027258175-la.272.06yip) ([lingbuzz](https://ling.auf.net/lingbuzz/006281))
 {% endcapture %}
 
