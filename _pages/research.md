@@ -55,10 +55,10 @@ While it is not the main focus of my dissertation, my "first love" in quantifier
 
 {% capture notice-text %}
 **Right dislocation (RD)** `syntax-prosody`
-[with [Xuetong Yuan](https://kathyuan28.github.io/)]
+
 * I argue for a biclausal approach to RD in Chinese that unifies gapped and gapless/copying variants.
     - Cantonese, Mandarin｜[paper-ms](https://lingbuzz.net/lingbuzz/007912)
-* We propose a novel defocus rephrasing view where the prosodic role of defocus is distinguished from focus. We motivate this view with a case study on syntax-prosody mismatches in RD in Cantonese and Mandarin, as well as cross-linguistic variations in the prosodic phrasing of RD.
+* `[with [Xuetong Yuan](https://kathyuan28.github.io/)]' We propose a novel defocus rephrasing view where the prosodic role of defocus is distinguished from focus. We motivate this view with a case study on syntax-prosody mismatches in RD in Cantonese and Mandarin, as well as cross-linguistic variations in the prosodic phrasing of RD.
     - Cantonese, Mandarin｜[paper-CLS](https://ling.auf.net/lingbuzz/007505)｜[slides]
 {% endcapture %}
 
