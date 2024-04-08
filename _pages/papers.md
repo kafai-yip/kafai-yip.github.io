@@ -24,7 +24,7 @@ classes: wide
 
 1. [Agreeing with ‘only’](https://ling.auf.net/lingbuzz/007525). To appear in *Proceedings of WCCFL-41*.
 
-1. [Defocus leads to syntax-prosody mismatches in right-dislocated structures](https://ling.auf.net/lingbuzz/007505). To appear in *Proceedings of CLS-59*. [with [Xuetong Yuan](https://kathyuan28.github.io/)] [[slides](https://kafai-yip.github.io/assets/docs/RD_CLS-59_slides.pdf)]
+1. [Defocus leads to syntax-prosody mismatches in right-dislocated structures](https://ling.auf.net/lingbuzz/007505). To appear in *Proceedings of CLS-59*. [with [Xuetong Yuan](https://kathyuan28.github.io/)]
 
 1. [Two types of temporal adverbial clauses in Cantonese](https://ling.auf.net/lingbuzz/006288). To appear in *Proceedings of WCCFL-39*.
 
