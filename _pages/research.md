@@ -19,7 +19,7 @@ My current committee members are: Veneeta Dayal (chair), Zoltán Gendler Szabó,
 Below is some work I've done in the past (and ongoing):
 
 {% capture notice-text %}
-* I argue that exclusive sentence-final particles (SFP) establish an Agree relation with exclusive operators, unlike adfocal particles which undergo covert movement.
+* `syntax-semantics` I argue that exclusive sentence-final particles (SFP) establish an Agree relation with exclusive operators, unlike adfocal particles which undergo covert movement.
     - Cantonese, Mandarin, Vietnamese｜[paper-WCCFL](https://ling.auf.net/lingbuzz/007525)
 * I provide a compositional account of exclusive doubling in Cantonese (with an appendix on the cross-linguistic landscape of exclusive doubling)
     - Cantonese｜[handout-LFRG](https://kafai-yip.github.io/assets/docs/only_LFRG_handout_online.pdf)
@@ -29,7 +29,7 @@ Below is some work I've done in the past (and ongoing):
 {% endcapture %}
 
 <div class="notice--warning">
-  <h4 class="no_toc">Exclusive doubling `syntax-semantics`</h4>
+  <h4 class="no_toc">Exclusive doubling</h4>
   {{ notice-text | markdownify }}
 </div>
 
@@ -43,7 +43,7 @@ While it is not the main focus of my dissertation, my "first love" in quantifier
 {% endcapture %}
 
 <div class="notice--warning">
-  <h4 class="no_toc">Universal concord `syntax-semantics`</h4>
+  <h4 class="no_toc">Universal concord</h4>
   {{ notice-text | markdownify }}
 </div>
 
@@ -54,7 +54,7 @@ While it is not the main focus of my dissertation, my "first love" in quantifier
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="no_toc">Right dislocation `syntax-prosody`</h4>
+  <h4 class="no_toc">Right dislocation</h4>
   {{ notice-text | markdownify }}
 </div>
 
