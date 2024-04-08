@@ -6,7 +6,6 @@ toc_label: "Research topics"
 toc_icon: "university"
 ---
 
-[Colour coding: blue=syntax, yellow=(syntax-)semantics, green=(syntax-)prosody, cyan=corpus, pink=others]
 
 ## Focus
 
@@ -30,7 +29,7 @@ Below is some work I've done in the past (and ongoing):
 {% endcapture %}
 
 <div class="notice--warning">
-  <h4 class="no_toc">Exclusive doubling</h4>
+  <h4 class="no_toc">Exclusive doubling `syntax-semantics`</h4>
   {{ notice-text | markdownify }}
 </div>
 
@@ -44,7 +43,7 @@ While it is not the main focus of my dissertation, my "first love" in quantifier
 {% endcapture %}
 
 <div class="notice--warning">
-  <h4 class="no_toc">Universal concord</h4>
+  <h4 class="no_toc">Universal concord `syntax-semantics`</h4>
   {{ notice-text | markdownify }}
 </div>
 
@@ -55,7 +54,7 @@ While it is not the main focus of my dissertation, my "first love" in quantifier
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="no_toc">Right dislocation</h4>
+  <h4 class="no_toc">Right dislocation `syntax-prosody`</h4>
   {{ notice-text | markdownify }}
 </div>
 
