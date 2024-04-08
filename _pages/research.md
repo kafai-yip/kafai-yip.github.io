@@ -205,9 +205,7 @@ While it is not the main focus of my dissertation, my "first love" in quantifier
 {% capture notice-text %} 
 **Differential metaphorization and grammaticalization** `variations & corpus` 
 
-`with Benjamin K. Tsou`
-
-* With a case study on Chinese light verbs, we explore different dimensions involving gradation of metaphorization process and provide a general schema of metaphorization.
+* `with Benjamin K. Tsou` With a case study on Chinese light verbs, we explore different dimensions involving gradation of metaphorization process and provide a general schema of metaphorization.
     - Chinese｜[slides-SLE](https://osf.io/6nvmu/)
 * We offer a novel dynamic perspective to language variations with a process-based approach. Drawing data from [LIVAC](https://en.wikipedia.org/wiki/LIVAC_Synchronous_Corpus), we discuss parallel and differential developments of metaphorization process in varieties of Modern Standard Chinese.
     - Chinese (BJ, HK, MC, TW)｜[paper-PACLIC](https://aclanthology.org/2020.paclic-1.35/)｜[slides-NACCL](https://kafai-yip.github.io/assets/docs/NACCL-33_metaphorization_presentation.pdf)｜[samples](https://kafai-yip.github.io/assets/docs/ARF2020_da_TypeII_examples.pdf)
