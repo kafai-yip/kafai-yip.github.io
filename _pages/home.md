@@ -30,7 +30,7 @@ I’m a fourth-year PhD candidate in the Department of Linguistics at Yale Unive
 
 ## Upcoming talks
 
-2024, Apr 10. Defocus Rephrasing: right dislocation and syntax-prosody mapping. SBU Linguistics Brown Bag. Stony Brook. [with [Xuetong Yuan](https://kathyuan28.github.io/)] 
+2024, Apr 10. Defocus Rephrasing: right dislocation and syntax-prosody mapping. SBU Linguistics Brown Bag. Stony Brook. [with [Xuetong Yuan](https://kathyuan28.github.io/)] [[slides](https://kafai-yip.github.io/assets/docs/RD_StonyBrook_slides.pdf)]
 
 2024, May 2-4. Two types of subject resumption in Akan. [ACAL-55](https://acal55.mull-lab.org/), McGill. [with [Comfort Ahenkorah](https://ling.yale.edu/people/comfort-ahenkorah)] 
 
