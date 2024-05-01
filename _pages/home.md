@@ -29,7 +29,7 @@ I’m a fourth-year PhD candidate in the Department of Linguistics at Yale Unive
 
 ## Upcoming talks
 2024, May 2-4. Exclusive focus particles in Yorùbá. [ACAL-55](https://acal55.mull-lab.org/), McGill. [with [
-Olabode Adedeji](https://ling.yale.edu/people/olabode-adedeji)] [[handout](ACAL-55_only_handout.pdf)]
+Olabode Adedeji](https://ling.yale.edu/people/olabode-adedeji)] [[handout](https://kafai-yip.github.io/assets/docs/ACAL-55_only_handout.pdf)]
 
 2024, May 2-4. Two types of subject resumption in Akan. [ACAL-55](https://acal55.mull-lab.org/), McGill. [with [Comfort Ahenkorah](https://ling.yale.edu/people/comfort-ahenkorah)] 
 
