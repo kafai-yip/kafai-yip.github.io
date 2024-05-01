@@ -18,8 +18,7 @@ I’m a fourth-year PhD candidate in the Department of Linguistics at Yale Unive
 
 
 {% capture notice-text %}
-* [The Seventh Forum on Cantonese Linguistics](https://focalhongkong.wordpress.com/) (FoCaL-7) is now calling for papers! [[poster](https://drive.google.com/file/d/1rEZBa4nSAICLeXZbML1MOAJBPpsAMSlf/view)]
-* My manuscript ["A unified biclausal approach to right dislocation in Chinese"](https://lingbuzz.net/lingbuzz/007912) is on Lingbuzz. Comments welcome!
+* See below!
 {% endcapture %}
 
 <div class="notice--info">
@@ -29,13 +28,10 @@ I’m a fourth-year PhD candidate in the Department of Linguistics at Yale Unive
 
 
 ## Upcoming talks
-
-2024, Apr 10. Defocus Rephrasing: right dislocation and syntax-prosody mapping. SBU Linguistics Brown Bag. Stony Brook. [with [Xuetong Yuan](https://kathyuan28.github.io/)] [[slides](https://kafai-yip.github.io/assets/docs/RD_StonyBrook_slides.pdf)]
+2024, May 2-4. Exclusive focus particles in Yorùbá. [ACAL-55](https://acal55.mull-lab.org/), McGill. [with [
+Olabode Adedeji](https://ling.yale.edu/people/olabode-adedeji)] [[handout](ACAL-55_only_handout.pdf)]
 
 2024, May 2-4. Two types of subject resumption in Akan. [ACAL-55](https://acal55.mull-lab.org/), McGill. [with [Comfort Ahenkorah](https://ling.yale.edu/people/comfort-ahenkorah)] 
-
-2024, May 2-4. Exclusive focus particles in Yorùbá. [ACAL-55](https://acal55.mull-lab.org/), McGill. [with [
-Olabode Adedeji](https://ling.yale.edu/people/olabode-adedeji)] 
 
 2024, May 28-30. Only ‘only’ only: a distributed meaning approach to exclusive doubling. [SALT-34](https://saltconf.github.io/salt34/), Rochester. 
 
@@ -46,6 +42,8 @@ Olabode Adedeji](https://ling.yale.edu/people/olabode-adedeji)]
 2024, Jun 27-29. Variation of sibilant palatalization in homeland and heritage Cantonese. Poster at [LabPhon-19](https://labphon.org/labphon19/home), HYU, Korea. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang]
 
 ## Recent talks
+2024, Apr 10. Defocus Rephrasing: right dislocation and syntax-prosody mapping. SBU Linguistics Brown Bag. Stony Brook. [with [Xuetong Yuan](https://kathyuan28.github.io/)] [[slides](https://kafai-yip.github.io/assets/docs/RD_StonyBrook_slides.pdf)]
+
 2024, Mar 23-24. Defending a biclausal approach to right dislocation. [NACCL-36](https://www.pomona.edu/naccl-36), Pomona. [[slides](https://kafai-yip.github.io/assets/docs/RD_biclausal_NACCL-36_slides.pdf)] [[handout](https://kafai-yip.github.io/assets/docs/RD_biclausal_NACCL-36_handout.pdf)]
 
 2024, Mar 23-24. Linguistic and social aspects of sibilant palatalization in homeland and heritage Cantonese. [NACCL-36](https://www.pomona.edu/naccl-36), Pomona. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang]
