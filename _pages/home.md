@@ -31,7 +31,7 @@ I’m a fourth-year PhD candidate in the Department of Linguistics at Yale Unive
 2024, May 2-4. Exclusive focus particles in Yorùbá. [ACAL-55](https://acal55.mull-lab.org/), McGill. [with [
 Olabode Adedeji](https://ling.yale.edu/people/olabode-adedeji)] [[handout](https://kafai-yip.github.io/assets/docs/ACAL-55_only_handout.pdf)]
 
-2024, May 2-4. Two types of subject resumption in Akan. [ACAL-55](https://acal55.mull-lab.org/), McGill. [with [Comfort Ahenkorah](https://ling.yale.edu/people/comfort-ahenkorah)] 
+2024, May 2-4. Two types of subject resumption in Akan. [ACAL-55](https://acal55.mull-lab.org/), McGill. [with [Comfort Ahenkorah](https://ling.yale.edu/people/comfort-ahenkorah)] [[handout](https://kafai-yip.github.io/assets/docs/ACAL-55_resumption_handout.pdf)]
 
 2024, May 28-30. Only ‘only’ only: a distributed meaning approach to exclusive doubling. [SALT-34](https://saltconf.github.io/salt34/), Rochester. 
 
