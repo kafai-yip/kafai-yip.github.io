@@ -18,7 +18,7 @@ I’m a fourth-year PhD candidate in the Department of Linguistics at Yale Unive
 
 
 {% capture notice-text %}
-* Our NLLT paper (with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)) "[Hyper-raising, evidentiality, and phase deactivation](https://doi.org/10.1007/s11049-023-09604-2)" just got published!
+* Our NLLT paper (with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)) "[Hyperraising, evidentiality, and phase deactivation](https://doi.org/10.1007/s11049-023-09604-2)" just got published!
 {% endcapture %}
 
 <div class="notice--info">
