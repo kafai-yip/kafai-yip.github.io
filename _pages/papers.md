@@ -26,7 +26,7 @@ classes: wide
 
 ### 2024
 
-1. [Hyper-raising, evidentiality, and phase deactivation](https://doi.org/10.1007/s11049-023-09604-2). *Natural Language and Linguistic Theory*. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
+1. [Hyperraising, evidentiality, and phase deactivation](https://doi.org/10.1007/s11049-023-09604-2). *Natural Language and Linguistic Theory*. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
 ### 2023
 
