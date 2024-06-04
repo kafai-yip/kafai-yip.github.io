@@ -18,16 +18,15 @@ classes: wide
 
 ## Publications
 
-### To appear
-
-1. [Hyper-raising, evidentiality, and phase deactivation](https://lingbuzz.net/lingbuzz/006471). Accepted, *Natural Language and Linguistic Theory*. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)] 
-
 1. [Agreeing with ‘only’](https://ling.auf.net/lingbuzz/007525). To appear in *Proceedings of WCCFL-41*.
 
 1. [Defocus leads to syntax-prosody mismatches in right-dislocated structures](https://ling.auf.net/lingbuzz/007505). To appear in *Proceedings of CLS-59*. [with [Xuetong Yuan](https://kathyuan28.github.io/)]
 
 1. [Two types of temporal adverbial clauses in Cantonese](https://ling.auf.net/lingbuzz/006288). To appear in *Proceedings of WCCFL-39*.
 
+### 2024
+
+1. [Hyper-raising, evidentiality, and phase deactivation](https://doi.org/10.1007/s11049-023-09604-2). *Natural Language and Linguistic Theory*. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
 ### 2023
 
