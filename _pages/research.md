@@ -90,7 +90,7 @@ While it is not the main focus of my dissertation, my "first love" in quantifier
 **Hyperraising, evidentiality and phase deactivation** `syntax` 
 
 * `with Tommy Tsz-Ming Lee` We show that raising out of a finite clause (i.e. hyperraising) is correlated with indirect evidence cross-linguistically, and how the correlation may be accounted for under a phase-deactivation approach.  
-    - Cantonese, Vietnamese｜[paper-NLLT](https://lingbuzz.net/lingbuzz/006471)
+    - Cantonese, Vietnamese｜[paper-NLLT](https://doi.org/10.1007/s11049-023-09604-2)
 {% endcapture %}
 
 <div class="notice--info">
@@ -223,7 +223,7 @@ While it is not the main focus of my dissertation, my "first love" in quantifier
 * `with Mei-ying Ki` We show that interjections, just like sentence-final particles (SFPs), also carry a Rising-Falling boundary tone HL%, and suggest a decomposition analysis of interjections.
     - Cantonese｜[slides-Yue](https://kafai-yip.github.io/assets/docs/Yue-27_HL_slides.pdf)
 * `with Jonathan Him Nok Lee` We show that only some SFPs, but not all, carry boundary tones, by presenting acoustic results on the phonetic realization SFP *ge2* in Cantonese that varies with its pragmatic functions.
-    - Cantonese｜[slides-WOC](https://kafai-yip.github.io/assets/docs/WOC-20_ge_20200606.pdf)
+    - Cantonese｜[paper-speechprosody](https://www.isca-archive.org/speechprosody_2024/lee24b_speechprosody.html)
 {% endcapture %}
 
 <div class="notice--success">
