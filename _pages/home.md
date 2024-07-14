@@ -19,7 +19,8 @@ I’m a fourth-year PhD candidate in the Department of Linguistics at Yale Unive
 
 {% capture notice-text %}
 * Our NLLT paper (with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)) "[Hyperraising, evidentiality, and phase deactivation](https://doi.org/10.1007/s11049-023-09604-2)" just got published!
-* Our joint paper (with [Jonathan Lee](https://www.ling.upenn.edu/~jonhnlee/), Mark Liberman, and Jianjing Kuang) "[Some prosodic consequences of varied discourse functions in a Cantonese sentence-final particle](https://www.isca-archive.org/speechprosody_2024/lee24b_speechprosody.html)" just came out in Proc. Speech Prosody 2024!
+* Our NELS paper (with [Xuetong Yuan](https://kathyuan28.github.io/)) "[Agreement in imperative clauses: Evidence from object resumptive pronouns in Mandarin Chinese](https://lingbuzz.net/lingbuzz/008248)" is now on lingbuzz!
+* Our joint paper (with [Jonathan Lee](https://www.ling.upenn.edu/~jonhnlee/), Mark Liberman, and Jianjing Kuang) "[Some prosodic consequences of varied discourse functions in a Cantonese sentence-final particle](https://www.isca-archive.org/speechprosody_2024/lee24b_speechprosody.html)" just came out in *Proc. Speech Prosody 2024*!
 {% endcapture %}
 
 <div class="notice--info">
