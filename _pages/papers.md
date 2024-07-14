@@ -18,6 +18,8 @@ classes: wide
 
 ## Publications
 
+1. [Agreement in imperative clauses: Evidence from object resumptive pronouns in Mandarin Chinese](https://lingbuzz.net/lingbuzz/008248). To appear in *Proceedings of NELS-54*. [with [Xuetong Yuan](https://kathyuan28.github.io/)]
+
 1. [Agreeing with ‘only’](https://ling.auf.net/lingbuzz/007525). To appear in *Proceedings of WCCFL-41*.
 
 1. [Defocus leads to syntax-prosody mismatches in right-dislocated structures](https://ling.auf.net/lingbuzz/007505). To appear in *Proceedings of CLS-59*. [with [Xuetong Yuan](https://kathyuan28.github.io/)]
@@ -27,6 +29,8 @@ classes: wide
 ### 2024
 
 1. [Hyperraising, evidentiality, and phase deactivation](https://doi.org/10.1007/s11049-023-09604-2). *Natural Language and Linguistic Theory*. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
+
+2. [Some prosodic consequences of varied discourse functions in a Cantonese sentence-final particle](https://www.isca-archive.org/speechprosody_2024/lee24b_speechprosody.html). *Speech Prosody 2024*, 632-636. [with [Jonathan Him Nok Lee](https://www.ling.upenn.edu/~jonhnlee/), Mark Liberman & Jianjing Kuang]
 
 ### 2023
 
