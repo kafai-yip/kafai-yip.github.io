@@ -19,6 +19,7 @@ I’m a fourth-year PhD candidate in the Department of Linguistics at Yale Unive
 
 {% capture notice-text %}
 * Our NLLT paper (with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)) "[Hyperraising, evidentiality, and phase deactivation](https://doi.org/10.1007/s11049-023-09604-2)" just got published!
+* Our joint paper (with [Jonathan Lee](https://www.ling.upenn.edu/~jonhnlee/), Mark Liberman, and Jianjing Kuang) "[Some prosodic consequences of varied discourse functions in a Cantonese sentence-final particle](https://www.isca-archive.org/speechprosody_2024/lee24b_speechprosody.html)" just came out in Proc. Speech Prosody 2024!
 {% endcapture %}
 
 <div class="notice--info">
@@ -27,11 +28,13 @@ I’m a fourth-year PhD candidate in the Department of Linguistics at Yale Unive
 </div>
 
 ## Upcoming talks
+Stay tuned!
+
+## Recent talks
 2024, Jun 27-29. Teasing apart the prosodic effects of focus and of defocus: syntax-prosody mismatches in right dislocation. Poster at [LabPhon-19](https://labphon.org/labphon19/home), HYU, Korea. [with [Xuetong Yuan](https://kathyuan28.github.io/)] [[poster](https://kafai-yip.github.io/assets/docs/RD_LabPhon19_poster.pdf)]
 
 2024, Jun 27-29. Variation of sibilant palatalization in homeland and heritage Cantonese. Poster at [LabPhon-19](https://labphon.org/labphon19/home), HYU, Korea. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang]
 
-## Recent talks
 2024, Jun 15-17. A tale of two types of exclusive doubling in Vietnamese. [SEALS-33](https://sites.google.com/view/seals33/home), NTHU, Taiwan. [[handout](https://kafai-yip.github.io/assets/docs/only_SEALS-33_handout.pdf)]
 
 2024, May 28-30. Only ‘only’ only: a distributed meaning approach to exclusive doubling. [SALT-34](https://saltconf.github.io/salt34/), Rochester. [[slides](https://saltconf.github.io/salt34/presentation-materials/yip_only.pdf)]
