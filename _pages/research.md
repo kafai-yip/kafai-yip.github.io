@@ -158,7 +158,7 @@ While it is not the main focus of my dissertation, my "first love" in quantifier
 * `with Comfort Ahenkorah` Drawing evidence from NRPs, we argue that Copy Deletion can apply in a partial fashion and spell out the lower copy of a movement chain as default pronouns.
     -  Akan, Cantonese｜[paper-PLC](https://ling.auf.net/lingbuzz/006841)｜[handout-UConn](https://kafai-yip.github.io/assets/docs/UConn_resumption_handout_20220426.pdf)
 * `with Xuetong Yuan` We argue that NRPs in Mandarin establish an Agree relation with an imperative/jussive head, and partial Copy Deletion arises from the interaction between the Agree and movement dependencies. 
-    -  Mandarin｜[handout-NELS](https://kafai-yip.github.io/assets/docs/imperative_NELS-54_handout.pdf)｜[poster-NELS](https://nels54.mit.edu/sites/default/files/documents/yip-yuan-poster.pdf)
+    -  Mandarin｜[paper-NELS](https://lingbuzz.net/lingbuzz/008248)｜[handout-NELS](https://kafai-yip.github.io/assets/docs/imperative_NELS-54_handout.pdf)
 {% endcapture %}
 
 <div class="notice--info">
