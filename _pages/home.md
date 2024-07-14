@@ -18,10 +18,10 @@ I’m a fourth-year PhD candidate in the Department of Linguistics at Yale Unive
 
 
 {% capture notice-text %}
-* Our NLLT paper (with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)) "[Hyperraising, evidentiality, and phase deactivation](https://doi.org/10.1007/s11049-023-09604-2)" just got published!
-* Our NELS paper (with [Xuetong Yuan](https://kathyuan28.github.io/)) "[Agreement in imperative clauses: Evidence from object resumptive pronouns in Mandarin Chinese](https://lingbuzz.net/lingbuzz/008248)" is now on lingbuzz!
-* Our Phex paper (with [Xuetong Yuan](https://kathyuan28.github.io/)) "[Right dislocation, defocus, and variations in syntax-prosody mapping](https://ling.auf.net/lingbuzz/008179)" is now on lingbuzz!
-* Our joint paper (with [Jonathan Lee](https://www.ling.upenn.edu/~jonhnlee/), Mark Liberman, and Jianjing Kuang) "[Some prosodic consequences of varied discourse functions in a Cantonese sentence-final particle](https://www.isca-archive.org/speechprosody_2024/lee24b_speechprosody.html)" just came out in *Proc. Speech Prosody 2024*!
+* Our NLLT paper "[Hyperraising, evidentiality, and phase deactivation](https://doi.org/10.1007/s11049-023-09604-2)" just got published! [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
+* Our NELS paper "[Agreement in imperative clauses: Evidence from object resumptive pronouns in Mandarin Chinese](https://lingbuzz.net/lingbuzz/008248)" is now on lingbuzz! [with [Xuetong Yuan](https://kathyuan28.github.io/)] 
+* Our Phex paper "[Right dislocation, defocus, and variations in syntax-prosody mapping](https://ling.auf.net/lingbuzz/008179)" is now on lingbuzz! [with [Xuetong Yuan](https://kathyuan28.github.io/)]
+* Our joint paper "[Some prosodic consequences of varied discourse functions in a Cantonese sentence-final particle](https://www.isca-archive.org/speechprosody_2024/lee24b_speechprosody.html)" just came out in *Proc. Speech Prosody 2024*! [with [Jonathan Lee](https://www.ling.upenn.edu/~jonhnlee/), Mark Liberman, and Jianjing Kuang]
 {% endcapture %}
 
 <div class="notice--info">
