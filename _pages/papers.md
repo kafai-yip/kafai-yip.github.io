@@ -20,7 +20,7 @@ classes: wide
 
 ### Forthcoming
 
-1. [Agreement in imperative clauses: Evidence from object resumptive pronouns in Mandarin Chinese](https://lingbuzz.net/lingbuzz/008248). To appear in *Proceedings of NELS-54*. 
+1. [Agreement in imperative clauses: Evidence from object resumptive pronouns in Mandarin Chinese](https://lingbuzz.net/lingbuzz/008248). To appear in *Proceedings of NELS-54*. [with [Xuetong Yuan](https://kathyuan28.github.io/)]
 
 1. [Right dislocation, defocus, and variations in syntax-prosody mapping](https://ling.auf.net/lingbuzz/008179). To appear in *Phonological Externalization (Vol. 9)*, 89-112. [with [Xuetong Yuan](https://kathyuan28.github.io/)]
   
