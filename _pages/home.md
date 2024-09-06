@@ -14,7 +14,7 @@ header:
   
 ---
 
-I’m a fourth-year PhD candidate in the Department of Linguistics at Yale University. I’m interested in the structure of language and how it relates to meaning and sound. I love cats. I’m a Hong Konger.
+I’m a fifth-year PhD candidate in the Department of Linguistics at Yale University. I’m interested in the structure of language and how it relates to meaning and sound. I love cats. I’m a Hong Konger.
 
 
 {% capture notice-text %}
