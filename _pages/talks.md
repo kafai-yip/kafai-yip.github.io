@@ -28,7 +28,7 @@ classes: wide
 
 1. (In)dependence of features on composite probes. Poster at [NELS-53](https://nels53.uni-goettingen.de/), Uni Göttingen. [with [Magdalena Lohninger](https://lenalohninger.wordpress.com/)] [[poster](https://lenalohninger.files.wordpress.com/2023/01/poster-nels.pdf)] [[handout](https://lenalohninger.files.wordpress.com/2023/02/handout_lohninger_yip.pdf)]
 
-1. On the Rising-Falling boundary tone in Cantonese. [Yue-27](https://u.osu.edu/yue2023/), OSU (online). [with [Mei-ying Ki](https://commons.gc.cuny.edu/members/meiying/)] [[slides](https://kafai-yip.github.io/assets/docs/Yue-27_HL_slides.pdf)]
+1. On the Rising-Falling boundary tone in Cantonese. [Yue-27](https://u.osu.edu/yue2023/), OSU (online). [with [Mei-ying Ki](https://kimeiying.ws.gc.cuny.edu/)] [[slides](https://kafai-yip.github.io/assets/docs/Yue-27_HL_slides.pdf)]
 
 ### 2022
 
@@ -58,7 +58,7 @@ classes: wide
 
 1. MSC variations in metaphorization among Pan-Chinese speech communities. [NACCL-33](https://lucian.uchicago.edu/blogs/lpl/NACCL33/), Uchicago (online). [with [Benjamin K. TSOU](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)] [[slides](https://kafai-yip.github.io/assets/docs/NACCL-33_metaphorization_presentation.pdf)]
 
-1. CanTONEse ([Android](https://play.google.com/store/apps/details?id=com.cantonese)/[iOS](https://apps.apple.com/hk/app/cantonese/id1546692785?l=en)), an app for learning Cantonese tones. Invited talk at [School of Cantonese Studies](https://www.eduhk.hk/lml/scs2021/en/), EdUHK (online). [with Mei-ying KI & Yik-Po LAI]
+1. CanTONEse ([Android](https://play.google.com/store/apps/details?id=com.cantonese)/[iOS](https://apps.apple.com/hk/app/cantonese/id1546692785?l=en)), an app for learning Cantonese tones. Invited talk at [School of Cantonese Studies](https://www.eduhk.hk/lml/scs2021/en/), EdUHK (online). [with [Mei-ying Ki](https://kimeiying.ws.gc.cuny.edu/) & [Yik-Po Lai](https://yplaihk.wordpress.com/)]
 
 1. Exclusive focus in Yoruba. [SNEWS 2021](https://snewsling.wordpress.com/), UConn (online). [[handout](https://kafai-yip.github.io/assets/docs/SNEWS_only_20210501.pdf)]
 
