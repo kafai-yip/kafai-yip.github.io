@@ -8,9 +8,9 @@ classes: wide
 ## Manuscripts
 (Comments are welcome!)
 
-1. [A unified biclausal approach to right dislocation in Chinese](https://lingbuzz.net/lingbuzz/007912). Submitted, *Journal of East Asian Linguistics*.
+1. [A unified biclausal approach to right dislocation in Chinese](https://lingbuzz.net/lingbuzz/007912). Revise & Resubmit, *Journal of East Asian Linguistics*.
 
-1. Partial deletion on head chains: discontinuous predicates in Cantonese. In prep. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
+1. Partial deletion on head chains: Discontinuous predicates in Cantonese. Submitted, *Linguistic Inquiry* [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
 1. An agreement analysis of temporal converbs. In prep.
 
@@ -22,19 +22,22 @@ classes: wide
 
 1. [Agreement in imperative clauses: Evidence from object resumptive pronouns in Mandarin Chinese](https://lingbuzz.net/lingbuzz/008248). To appear in *Proceedings of NELS-54*. [with [Xuetong Yuan](https://kathyuan28.github.io/)]
 
-1. [Right dislocation, defocus, and variations in syntax-prosody mapping](https://ling.auf.net/lingbuzz/008179). To appear in *Phonological Externalization (Vol. 9)*, 89-112. [with [Xuetong Yuan](https://kathyuan28.github.io/)]
-  
 1. [Agreeing with ‘only’](https://ling.auf.net/lingbuzz/007525). To appear in *Proceedings of WCCFL-41*.
 
 1. [Defocus leads to syntax-prosody mismatches in right-dislocated structures](https://ling.auf.net/lingbuzz/007505). To appear in *Proceedings of CLS-59*. [with [Xuetong Yuan](https://kathyuan28.github.io/)]
 
 1. [Two types of temporal adverbial clauses in Cantonese](https://ling.auf.net/lingbuzz/006288). To appear in *Proceedings of WCCFL-39*.
 
+1. [Linguistic and social aspects of sibilant palatalization in homeland and heritage Cantonese](https://ling.auf.net/lingbuzz/008415). To appear in *Proceedings of NACCL-36*. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang]
+
+
 ### 2024
 
 1. [Hyperraising, evidentiality, and phase deactivation](https://doi.org/10.1007/s11049-023-09604-2). *Natural Language and Linguistic Theory*. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
-2. [Some prosodic consequences of varied discourse functions in a Cantonese sentence-final particle](https://www.isca-archive.org/speechprosody_2024/lee24b_speechprosody.html). *Speech Prosody 2024*, 632-636. [with [Jonathan Him Nok Lee](https://www.ling.upenn.edu/~jonhnlee/), Mark Liberman & Jianjing Kuang]
+1. [Right dislocation, defocus, and variations in syntax-prosody mapping](https://ling.auf.net/lingbuzz/008179). In *Phonological Externalization (Vol. 9)*, 89-112. [with [Xuetong Yuan](https://kathyuan28.github.io/)]
+
+1. [Some prosodic consequences of varied discourse functions in a Cantonese sentence-final particle](https://www.isca-archive.org/speechprosody_2024/lee24b_speechprosody.html). *Speech Prosody 2024*, 632-636. [with [Jonathan Him Nok Lee](https://www.ling.upenn.edu/~jonhnlee/), Mark Liberman & Jianjing Kuang]
 
 ### 2023
 
@@ -42,7 +45,7 @@ classes: wide
 
 1. [Non-agreeing resumptive pronouns and partial Copy Deletion](https://ling.auf.net/lingbuzz/006841). *UPenn Working Papers in Linguistics 29.1*, 206–215. [with [Comfort Ahenkorah](https://ling.yale.edu/people/comfort-ahenkorah)]
 
-1. [(In)dependence of features on composite probes](https://ling.auf.net/lingbuzz/007530). To appear in *Proceedings of NELS-53, vol.2*, 155–164. [with [Magdalena Lohninger](https://lenalohninger.wordpress.com/)]
+1. [(In)dependence of features on composite probes](https://ling.auf.net/lingbuzz/007530). *Proceedings of NELS-53, vol.2*, 155–164. [with [Magdalena Lohninger](https://lenalohninger.wordpress.com/)]
 
 1. [High vs. low ‘again’: Mandarin *you* vs. *zai* and Cantonese *-faan* vs. *-gwo*](https://kb.osu.edu/bitstream/handle/1811/103526/BEAL_v7_Liu_Yip_94.pdf?sequence=1&isAllowed=y). *BEAL-7*, 94-104. [with [Yuyang Liu](https://ling.yale.edu/people/yuyang-liu)] [[lingbuzz](https://ling.auf.net/lingbuzz/007549)]
 
