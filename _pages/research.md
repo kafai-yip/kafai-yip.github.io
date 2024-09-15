@@ -24,7 +24,7 @@ Below is some work I've done in the past (and ongoing):
 * I argue that exclusive sentence-final particles (SFP) establish an Agree relation with exclusive operators, unlike adfocal particles which undergo covert movement.
     - Cantonese, Mandarin, Vietnamese｜[paper-WCCFL](https://ling.auf.net/lingbuzz/007525)
 * I provide a compositional account of exclusive doubling in Cantonese (with an appendix on the cross-linguistic landscape of exclusive doubling)
-    - Cantonese｜[handout-LFRG](https://kafai-yip.github.io/assets/docs/only_LFRG_handout_online.pdf)
+    - Cantonese｜[slides-SALT](https://saltconf.github.io/salt34/presentation-materials/yip_only.pdf)
 * `with Olabode Adedeji` We argue for a quantifier-particle analysis of exclusive doubling in Yorùbá, where the adfocal particle is an exclusive quantifier rather than a concord marker as often proposed in the operator-particle approach.
     - Yorùbá｜[handout-ACAL](https://kafai-yip.github.io/assets/docs/ACAL-55_only_handout.pdf)
 {% endcapture %}
@@ -144,7 +144,7 @@ While it is not the main focus of my dissertation, my "first love" in quantifier
 **Discontinuous predicates** `syntax`
 
 * `with Tommy Tsz-Ming Lee & Sheila Shu-Laam Chan` Focusing on discontinuous predicates, we propose that Copy Deletion may interact with syllable deletion and apply partially. Micro-variations between Cantonese and Mandarin are also addressed.
-    - Cantonese, Mandarin｜[paper-PLC](https://ling.auf.net/lingbuzz/006283)｜[handout-NACCL](https://kafai-yip.github.io/assets/docs/NACCL-33-Dis-Pred_handout.pdf)
+    - Cantonese, Mandarin｜[paper-ms](https://ling.auf.net/lingbuzz/008420)｜[paper-PLC](https://repository.upenn.edu/pwpl/vol28/iss1/5/)
 {% endcapture %}
 
 <div class="notice--info">
@@ -156,7 +156,7 @@ While it is not the main focus of my dissertation, my "first love" in quantifier
 **Non-agreeing resumptive pronouns (NRPs)** `syntax`
 
 * `with Comfort Ahenkorah` Drawing evidence from NRPs, we argue that Copy Deletion can apply in a partial fashion and spell out the lower copy of a movement chain as default pronouns.
-    -  Akan, Cantonese｜[paper-PLC](https://ling.auf.net/lingbuzz/006841)｜[handout-UConn](https://kafai-yip.github.io/assets/docs/UConn_resumption_handout_20220426.pdf)
+    -  Akan, Cantonese｜[paper-PLC](https://repository.upenn.edu/handle/20.500.14332/58734)｜[handout-UConn](https://kafai-yip.github.io/assets/docs/UConn_resumption_handout_20220426.pdf)
 * `with Xuetong Yuan` We argue that NRPs in Mandarin establish an Agree relation with an imperative/jussive head, and partial Copy Deletion arises from the interaction between the Agree and movement dependencies. 
     -  Mandarin｜[paper-NELS](https://lingbuzz.net/lingbuzz/008248)｜[handout-NELS](https://kafai-yip.github.io/assets/docs/imperative_NELS-54_handout.pdf)
 {% endcapture %}
