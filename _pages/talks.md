@@ -8,13 +8,22 @@ classes: wide
 *Feel free to email me if you'd like to access any handout that is not available here!*
 
 ### 2024
-1. Agreement in imperative clauses: evidence from object resumptive pronouns in Mandarin Chinese. Poster at [NELS-54](https://nels54.mit.edu/), MIT. [with [Xuetong Yuan](https://kathyuan28.github.io/)]  [[poster](http://nels54.mit.edu/sites/default/files/documents/yip-yuan-poster.pdf)] [[handout](https://kafai-yip.github.io/assets/docs/imperative_NELS-54_handout.pdf)]
+1. Only ‘only’ only: a distributed meaning approach to exclusive doubling. [SALT-34](https://saltconf.github.io/salt34/), Rochester. [[slides](https://saltconf.github.io/salt34/presentation-materials/yip_only.pdf)]
+
+1. Exclusive focus particles in Yorùbá. [ACAL-55](https://acal55.mull-lab.org/), McGill. [with [
+Olabode Adedeji](https://ling.yale.edu/people/olabode-adedeji)] [[handout](https://kafai-yip.github.io/assets/docs/ACAL-55_only_handout.pdf)]
+
+1. A tale of two types of exclusive doubling in Vietnamese. [SEALS-33](https://sites.google.com/view/seals33/home), NTHU, Taiwan. [[handout](https://kafai-yip.github.io/assets/docs/only_SEALS-33_handout.pdf)]
 
 1. Biclausal multidominant syntax of right dislocation in Chinese. [NYU Syntax Brown Bag](https://sites.google.com/a/nyu.edu/nyusyntaxbrownbag/schedule?authuser=0). [[handout](https://kafai-yip.github.io/assets/docs/RD_multi_NYU_handout.pdf)]
+
+1. Agreement in imperative clauses: evidence from object resumptive pronouns in Mandarin Chinese. Poster at [NELS-54](https://nels54.mit.edu/), MIT. [with [Xuetong Yuan](https://kathyuan28.github.io/)]  [[poster](http://nels54.mit.edu/sites/default/files/documents/yip-yuan-poster.pdf)] [[handout](https://kafai-yip.github.io/assets/docs/imperative_NELS-54_handout.pdf)]
   
 1. Right dislocation, defocus, and variations in syntax-prosody mapping. [Phex-15](https://toki482.wixsite.com/website-2), Tonjo. [with [Xuetong Yuan](https://kathyuan28.github.io/)] [[slides](https://kafai-yip.github.io/assets/docs/RD_defocus_slides.pdf)]
 
-1. Linguistic and social aspects of sibilant palatalization in homeland and heritage Cantonese. [NACCL-36](https://www.pomona.edu/naccl-36), Pomona. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang] [[slides](https://docs.google.com/presentation/d/1NMJ3688oNF3YusitiUQImu4uQusGy58warBPyDllrrk/edit?usp=sharing)]
+1. Teasing apart the prosodic effects of focus and of defocus: syntax-prosody mismatches in right dislocation. Poster at [LabPhon-19](https://labphon.org/labphon19/home), HYU, Korea. [with [Xuetong Yuan](https://kathyuan28.github.io/)] [[poster](https://kafai-yip.github.io/assets/docs/RD_LabPhon19_poster.pdf)]
+
+1. Variation of sibilant palatalization in homeland and heritage Cantonese. Poster at [LabPhon-19](https://labphon.org/labphon19/home), HYU, Korea. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang]
 
 
 ### 2023
