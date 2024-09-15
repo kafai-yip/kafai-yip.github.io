@@ -4,7 +4,7 @@ title: "About"
 classes: wide
 ---
 
-I’m a fourth-year PhD student in the Department of Linguistics at Yale University. I’m a Hong Konger and speak Cantonese. My research languages are mainly East and Southeast Asian languages.
+I’m a fifth-year PhD student in the Department of Linguistics at Yale University. I’m a Hong Konger and speak Cantonese. My research languages are mainly East and Southeast Asian languages.
 {: .text-justify}
 
 Here is my [CV](https://kafai-yip.github.io/assets/docs/CV_YIP Ka Fai_20240915_EN.pdf).
