@@ -29,9 +29,11 @@ I’m a fifth-year PhD candidate in the Department of Linguistics at Yale Univer
 </div>
 
 ## Upcoming talks
-2024, Oct 17-18. Facilitator effects in Mandarin topicalization: Evidence for a crossing-based view of antilocality. [NELS-55](https://campuspress.yale.edu/nels55/), Yale. [with Fulang Chen]
+2024, Oct 17-18. Facilitator effects in Mandarin topicalization: Evidence for a crossing-based view of antilocality. [NELS-55](https://campuspress.yale.edu/nels55/), Yale. [with [Fulang Chen](https://sites.google.com/view/fulang-chen/)]
 
+2024, Dec 13-14. Cantonese exclusive focus marker *-dak* as perfective aspect. [Yue-28](https://www.hkmu.edu.hk/el/yue28/), HKMU.
 
+2024, Dec 13-14. The dissection of Cantonese interjections: an exploration. [Yue-28](https://www.hkmu.edu.hk/el/yue28/), HKMU. [with [Mei-ying Ki](https://kimeiying.ws.gc.cuny.edu/)]
 
 ## Recent talks
 2024, May 28-30. Only ‘only’ only: a distributed meaning approach to exclusive doubling. [SALT-34](https://saltconf.github.io/salt34/), Rochester. [[slides](https://saltconf.github.io/salt34/presentation-materials/yip_only.pdf)]
