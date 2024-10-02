@@ -19,6 +19,8 @@ I’m a fifth-year PhD candidate in the Department of Linguistics at Yale Univer
 
 {% capture notice-text %}
 * NELS-55's [program](https://campuspress.yale.edu/nels55/program/) is out, and [registration](https://campuspress.yale.edu/nels55/registration/) is now open!
+* Our manuscript "[A quantifier-particle approach to exclusive focus particles in Yorùbá](https://lingbuzz.net/lingbuzz/008470)" is now on lingbuzz! [with [
+Olabode Adedeji](https://ling.yale.edu/people/olabode-adedeji)]
 * Our manuscript "[Partial Deletion on head chains: Discontinuous predicates in Cantonese](https://ling.auf.net/lingbuzz/008420)" is on lingbuzz! [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 * Our NLLT paper "[Hyperraising, evidentiality, and phase deactivation](https://doi.org/10.1007/s11049-023-09604-2)" is published! [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 {% endcapture %}
