@@ -31,15 +31,17 @@ Olabode Adedeji](https://ling.yale.edu/people/olabode-adedeji)]
 </div>
 
 ## Upcoming talks
-2024, Oct 17-18. Facilitator effects in Mandarin topicalization: Evidence for a crossing-based view of antilocality. [NELS-55](https://campuspress.yale.edu/nels55/), Yale. [with [Fulang Chen](https://sites.google.com/view/fulang-chen/)]
-
 2024, Dec 2. A parametric view on exclusive focus particles. Invited colloquium talk at Goethe-Universität Frankfurt.
 
 2024, Dec 13-14. Cantonese exclusive focus marker *-dak* as perfective aspect. [Yue-28](https://www.hkmu.edu.hk/el/yue28/), HKMU.
 
 2024, Dec 13-14. The dissection of Cantonese interjections: an exploration. [Yue-28](https://www.hkmu.edu.hk/el/yue28/), HKMU. [with [Mei-ying Ki](https://kimeiying.ws.gc.cuny.edu/)]
 
+2025, Mar 18-20. Parametric variations in discontinuous predicates in Sinitic languages. [TEAL-14](https://sites.google.com/view/teal14/home), USC. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
+
 ## Recent talks
+2024, Oct 17-18. Facilitator effects in Mandarin topicalization: Evidence for a crossing-based view of antilocality. [NELS-55](https://campuspress.yale.edu/nels55/), Yale. [with [Fulang Chen](https://sites.google.com/view/fulang-chen/)] [[handout](https://campuspress.yale.edu/nels55/files/2024/10/nels55_handout_chen-yip.pdf)]
+
 2024, May 28-30. Only ‘only’ only: a distributed meaning approach to exclusive doubling. [SALT-34](https://saltconf.github.io/salt34/), Rochester. [[slides](https://saltconf.github.io/salt34/presentation-materials/yip_only.pdf)]
 
 2024, May 2-4. Exclusive focus particles in Yorùbá. [ACAL-55](https://acal55.mull-lab.org/), McGill. [with [
