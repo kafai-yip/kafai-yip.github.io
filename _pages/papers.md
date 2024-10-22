@@ -12,9 +12,13 @@ classes: wide
 
 1. [Partial deletion on head chains: Discontinuous predicates in Cantonese](https://ling.auf.net/lingbuzz/008420). Submitted, *Linguistic Inquiry* [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
+1. Defocus Rephrasing: right dislocation and syntax-prosody mapping. In prep. [with [Xuetong Yuan](https://kathyuan28.github.io/)]
+
 1. An agreement analysis of temporal converbs. In prep.
 
-1. Merging operators in conditional clauses in wh-in-situ languages. In prep. [with [Zhuo Chen](https://www.zhuochenlinguist.com/)]
+1. *Again*, split aspect and finiteness in Chinese languages. In prep. [with [Yuyang Liu](https://ling.yale.edu/people/yuyang-liu)]
+
+1. Merging operators in conditional clauses in *wh*-in-situ languages. In prep. [with [Zhuo Chen](https://www.zhuochenlinguist.com/)]
 
 ## Publications
 
