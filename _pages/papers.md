@@ -10,7 +10,10 @@ classes: wide
 
 1. [A unified biclausal approach to right dislocation in Chinese](https://lingbuzz.net/lingbuzz/007912). In revision, *Journal of East Asian Linguistics*.
 
-1. [Partial deletion on head chains: Discontinuous predicates in Cantonese](https://ling.auf.net/lingbuzz/008420). Submitted, *Linguistic Inquiry* [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
+1. [Partial deletion on head chains: Discontinuous predicates in Cantonese](https://ling.auf.net/lingbuzz/008420). Submitted, *Linguistic Inquiry*. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
+
+1. [A quantifier-particle approach to exclusive focus particles in Yorùbá](https://lingbuzz.net/lingbuzz/008470). Submitted, *Contemporary African Linguistics*. [with [
+Olabode Adedeji](https://ling.yale.edu/people/olabode-adedeji)]
 
 1. Defocus Rephrasing: right dislocation and syntax-prosody mapping. In prep. [with [Xuetong Yuan](https://kathyuan28.github.io/)]
 
@@ -23,6 +26,8 @@ classes: wide
 ## Publications
 
 ### Forthcoming
+
+1. [Only ‘only’ only: A distributed meaning approach to exclusive doubling](https://lingbuzz.net/lingbuzz/008563). To appear in *Proceedings of SALT-34*. 
 
 1. [Agreement in imperative clauses: Evidence from object resumptive pronouns in Mandarin Chinese](https://lingbuzz.net/lingbuzz/008248). To appear in *Proceedings of NELS-54*. [with [Xuetong Yuan](https://kathyuan28.github.io/)]
 
