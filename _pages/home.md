@@ -33,6 +33,10 @@ Olabode Adedeji](https://ling.yale.edu/people/olabode-adedeji)]
 ## Upcoming talks
 2024, Dec 2. A parametric view on exclusive focus particles. Invited colloquium talk at Goethe-Universität Frankfurt.
 
+2024, Dec 8. Why right dislocation must be biclausal. [ARF-2024](https://lshk.org/events/arf/), HKSYU.
+
+2024, Dec 13-14. Differentiating between evidential bias and epistemic bias in questions: Evidence from Cantonese. [Yue-28](https://www.hkmu.edu.hk/el/yue28/), HKMU.
+
 2024, Dec 13-14. Cantonese exclusive focus marker *-dak* as perfective aspect. [Yue-28](https://www.hkmu.edu.hk/el/yue28/), HKMU.
 
 2024, Dec 13-14. The dissection of Cantonese interjections: an exploration. [Yue-28](https://www.hkmu.edu.hk/el/yue28/), HKMU. [with [Mei-ying Ki](https://kimeiying.ws.gc.cuny.edu/)]
