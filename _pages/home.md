@@ -33,7 +33,7 @@ Olabode Adedeji](https://ling.yale.edu/people/olabode-adedeji)]
 ## Upcoming talks
 2024, Dec 8. Why right dislocation must be biclausal. [ARF-2024](https://lshk.org/events/arf/), HKSYU. [[handout](https://kafai-yip.github.io/assets/docs/RD-Biclausal_ARF-2024_handout.pdf)]
 
-2024, Dec 13-14. Differentiating between evidential bias and epistemic bias in questions: Evidence from Cantonese. [Yue-28](https://www.hkmu.edu.hk/el/yue28/), HKMU.
+2024, Dec 13-14. Differentiating between evidential bias and epistemic bias in questions: Evidence from Cantonese. [Yue-28](https://www.hkmu.edu.hk/el/yue28/), HKMU. [[slides](https://docs.google.com/presentation/d/1teg3pw27PtOqquw9peMC6sau9z8Hib_nCb4GurU9FLg/edit?usp=sharing)]
 
 2024, Dec 13-14. Cantonese exclusive focus marker *-dak* as perfective aspect. [Yue-28](https://www.hkmu.edu.hk/el/yue28/), HKMU.
 
