@@ -39,6 +39,7 @@ Olabode Adedeji](https://ling.yale.edu/people/olabode-adedeji)]
 
 1. [Linguistic and social aspects of sibilant palatalization in homeland and heritage Cantonese](https://ling.auf.net/lingbuzz/008415). To appear in *Proceedings of NACCL-36*. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang]
 
+1. 
 
 ### 2024
 
@@ -56,9 +57,9 @@ Olabode Adedeji](https://ling.yale.edu/people/olabode-adedeji)]
 
 ### 2023
 
-1. [Are there “weak” definites in bare classifier languages?](https://ling.auf.net/lingbuzz/007526). *SALT-33*, 253–275. [with [Ushasi Banerjee](https://ling.yale.edu/people/ushasi-banerjee) & [Margaret Chui Yi Lee](https://linguistics.uconn.edu/person/margaret-chui-yi-lee/)]
+1. [Are there “weak” definites in bare classifier languages?](https://doi.org/10.3765/56xkxm29). *SALT-33*, 253–275. [with [Ushasi Banerjee](https://ling.yale.edu/people/ushasi-banerjee) & [Margaret Chui Yi Lee](https://linguistics.uconn.edu/person/margaret-chui-yi-lee/)]
 
-1. [Non-agreeing resumptive pronouns and partial Copy Deletion](https://ling.auf.net/lingbuzz/006841). *UPenn Working Papers in Linguistics* 29(1): 206–215. [with [Comfort Ahenkorah](https://ling.yale.edu/people/comfort-ahenkorah)]
+1. [Non-agreeing resumptive pronouns and partial Copy Deletion](https://repository.upenn.edu/handle/20.500.14332/58734). *UPenn Working Papers in Linguistics* 29(1): 206–215. [with [Comfort Ahenkorah](https://ling.yale.edu/people/comfort-ahenkorah)]
 
 1. [(In)dependence of features on composite probes](https://ling.auf.net/lingbuzz/007530). *Proceedings of NELS-53, vol.2*, 155–164. [with [Magdalena Lohninger](https://lenalohninger.wordpress.com/)]
 
