@@ -15,13 +15,18 @@ Olabode Adedeji](https://ling.yale.edu/people/olabode-adedeji)] [[handout](https
 
 1. A tale of two types of exclusive doubling in Vietnamese. [SEALS-33](https://sites.google.com/view/seals33/home), NTHU, Taiwan. [[handout](https://kafai-yip.github.io/assets/docs/only_SEALS-33_handout.pdf)]
 
+1. Cantonese exclusive focus marker *-dak* as perfective aspect. [Yue-28](https://www.hkmu.edu.hk/el/yue28/), HKMU.  [[slides](https://kafai-yip.github.io/assets/docs/Yue-28_dak_slides.pdf)]
+
+1. Facilitator effects in Mandarin topicalization: Evidence for a crossing-based view of antilocality. [NELS-55](https://campuspress.yale.edu/nels55/), Yale. [with [Fulang Chen](https://sites.google.com/view/fulang-chen/)] [[handout](https://campuspress.yale.edu/nels55/files/2024/10/nels55_handout_chen-yip.pdf)]
+  
 1. Biclausal multidominant syntax of right dislocation in Chinese. [NYU Syntax Brown Bag](https://sites.google.com/a/nyu.edu/nyusyntaxbrownbag/schedule?authuser=0). [[handout](https://kafai-yip.github.io/assets/docs/RD_multi_NYU_handout.pdf)]
 
-1. Agreement in imperative clauses: evidence from object resumptive pronouns in Mandarin Chinese. Poster at [NELS-54](https://nels54.mit.edu/), MIT. [with [Xuetong Yuan](https://kathyuan28.github.io/)]  [[poster](http://nels54.mit.edu/sites/default/files/documents/yip-yuan-poster.pdf)] [[handout](https://kafai-yip.github.io/assets/docs/imperative_NELS-54_handout.pdf)]
-  
 1. Right dislocation, defocus, and variations in syntax-prosody mapping. [Phex-15](https://toki482.wixsite.com/website-2), Tonjo. [with [Xuetong Yuan](https://kathyuan28.github.io/)] [[slides](https://kafai-yip.github.io/assets/docs/RD_defocus_slides.pdf)]
 
 1. Teasing apart the prosodic effects of focus and of defocus: syntax-prosody mismatches in right dislocation. Poster at [LabPhon-19](https://labphon.org/labphon19/home), HYU, Korea. [with [Xuetong Yuan](https://kathyuan28.github.io/)] [[poster](https://kafai-yip.github.io/assets/docs/RD_LabPhon19_poster.pdf)]
+1. Differentiating between evidential bias and epistemic bias in questions: Evidence from Cantonese. [Yue-28](https://www.hkmu.edu.hk/el/yue28/), HKMU. [[slides](https://docs.google.com/presentation/d/1teg3pw27PtOqquw9peMC6sau9z8Hib_nCb4GurU9FLg/edit?usp=sharing)]
+
+1. Agreement in imperative clauses: evidence from object resumptive pronouns in Mandarin Chinese. Poster at [NELS-54](https://nels54.mit.edu/), MIT. [with [Xuetong Yuan](https://kathyuan28.github.io/)]  [[poster](http://nels54.mit.edu/sites/default/files/documents/yip-yuan-poster.pdf)] [[handout](https://kafai-yip.github.io/assets/docs/imperative_NELS-54_handout.pdf)]
 
 1. Variation of sibilant palatalization in homeland and heritage Cantonese. Poster at [LabPhon-19](https://labphon.org/labphon19/home), HYU, Korea. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang]
 
