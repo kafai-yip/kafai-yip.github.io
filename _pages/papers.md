@@ -15,6 +15,12 @@ classes: wide
 1. [A quantifier-particle approach to exclusive focus particles in Yorùbá](https://lingbuzz.net/lingbuzz/008470). Submitted, *Contemporary African Linguistics*. [with [
 Olabode Adedeji](https://ling.yale.edu/people/olabode-adedeji)]
 
+1. [Differentiating between evidential bias and epistemic bias in questions: Evidence from Cantonese](https://lingbuzz.net/lingbuzz/008751). Submitted, *Language and Linguistics*. 
+
+1. [Separable verbs in Cantonese](https://ling.auf.net/lingbuzz/008731). Submitted, *The Routledge Handbook of Cantonese Linguistics.*. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
+
+1. [Inner aspect in Cantonese](https://lingbuzz.net/lingbuzz/008705). Submitted, *FLaP FIRST*. 
+
 1. Defocus Rephrasing: right dislocation and syntax-prosody mapping. In prep. [with [Xuetong Yuan](https://kathyuan28.github.io/)]
 
 1. An agreement analysis of temporal converbs. In prep.
@@ -29,22 +35,22 @@ Olabode Adedeji](https://ling.yale.edu/people/olabode-adedeji)]
 
 1. [Only ‘only’ only: A distributed meaning approach to exclusive doubling](https://lingbuzz.net/lingbuzz/008563). To appear in *Proceedings of SALT-34*. 
 
-1. [Agreement in imperative clauses: Evidence from object resumptive pronouns in Mandarin Chinese](https://lingbuzz.net/lingbuzz/008248). To appear in *Proceedings of NELS-54*. [with [Xuetong Yuan](https://kathyuan28.github.io/)]
-
 1. [Agreeing with ‘only’](https://ling.auf.net/lingbuzz/007525). To appear in *Proceedings of WCCFL-41*.
-
-1. [Defocus leads to syntax-prosody mismatches in right-dislocated structures](https://ling.auf.net/lingbuzz/007505). To appear in *Proceedings of CLS-59*. [with [Xuetong Yuan](https://kathyuan28.github.io/)]
-
-1. [Two types of temporal adverbial clauses in Cantonese](https://ling.auf.net/lingbuzz/006288). To appear in *Proceedings of WCCFL-39*.
 
 1. [Linguistic and social aspects of sibilant palatalization in homeland and heritage Cantonese](https://ling.auf.net/lingbuzz/008415). To appear in *Proceedings of NACCL-36*. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang]
 
 
 ### 2024
 
-1. [Hyperraising, evidentiality, and phase deactivation](https://doi.org/10.1007/s11049-023-09604-2). *Natural Language and Linguistic Theory*. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
+1. [Hyperraising, evidentiality, and phase deactivation](https://doi.org/10.1007/s11049-023-09604-2). *Natural Language and Linguistic Theory* 42(4): 1527-1578. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
 1. [Right dislocation, defocus, and variations in syntax-prosody mapping](https://ling.auf.net/lingbuzz/008179). In *Phonological Externalization (Vol. 9)*, 89-112. [with [Xuetong Yuan](https://kathyuan28.github.io/)]
+
+1. [Defocus leads to syntax-prosody mismatches in right-dislocated structures](https://ling.auf.net/lingbuzz/007505). *Proceedings of CLS-59*, 557-571. [with [Xuetong Yuan](https://kathyuan28.github.io/)]
+
+1. [Two types of temporal adverbial clauses in Cantonese](https://www.lingref.com/cpp/wccfl/39/abstract3689.html). *Proceedings of WCCFL-39*, 274–282.
+
+1. [Agreement in imperative clauses: Evidence from object resumptive pronouns in Mandarin Chinese](https://lingbuzz.net/lingbuzz/008248). *Proceedings of NELS-54, vol.2*, 235–244. [with [Xuetong Yuan](https://kathyuan28.github.io/)]
 
 1. [Some prosodic consequences of varied discourse functions in a Cantonese sentence-final particle](https://www.isca-archive.org/speechprosody_2024/lee24b_speechprosody.html). *Speech Prosody 2024*, 632-636. [with [Jonathan Him Nok Lee](https://www.ling.upenn.edu/~jonhnlee/), Mark Liberman & Jianjing Kuang]
 
@@ -52,7 +58,7 @@ Olabode Adedeji](https://ling.yale.edu/people/olabode-adedeji)]
 
 1. [Are there “weak” definites in bare classifier languages?](https://ling.auf.net/lingbuzz/007526). *SALT-33*, 253–275. [with [Ushasi Banerjee](https://ling.yale.edu/people/ushasi-banerjee) & [Margaret Chui Yi Lee](https://linguistics.uconn.edu/person/margaret-chui-yi-lee/)]
 
-1. [Non-agreeing resumptive pronouns and partial Copy Deletion](https://ling.auf.net/lingbuzz/006841). *UPenn Working Papers in Linguistics 29.1*, 206–215. [with [Comfort Ahenkorah](https://ling.yale.edu/people/comfort-ahenkorah)]
+1. [Non-agreeing resumptive pronouns and partial Copy Deletion](https://ling.auf.net/lingbuzz/006841). *UPenn Working Papers in Linguistics* 29(1): 206–215. [with [Comfort Ahenkorah](https://ling.yale.edu/people/comfort-ahenkorah)]
 
 1. [(In)dependence of features on composite probes](https://ling.auf.net/lingbuzz/007530). *Proceedings of NELS-53, vol.2*, 155–164. [with [Magdalena Lohninger](https://lenalohninger.wordpress.com/)]
 
