@@ -39,7 +39,7 @@ Olabode Adedeji](https://ling.yale.edu/people/olabode-adedeji)]
 
 1. [Linguistic and social aspects of sibilant palatalization in homeland and heritage Cantonese](https://ling.auf.net/lingbuzz/008415). To appear in *Proceedings of NACCL-36*. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang]
 
-1. 
+1. 線上問答遊戲「廣東話達人挑戰」：遊戲化科普與眾包式數據收集[Online Quiz Game “Cantonese Master Challenge”: Gamifying Linguistics Popularization and Crowdsourced Data Collection]. Accepted by *Journal of Digital Archives and Digital Humanities*. [with Yik-Po Lai, , Mei-ying Ki, Chaak-ming Lau, Tommy Tsz-Ming Lee, Oscar Wong, Kam Pang Wong]
 
 ### 2024
 
