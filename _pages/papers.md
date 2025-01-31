@@ -21,11 +21,11 @@ Olabode Adedeji](https://ling.yale.edu/people/olabode-adedeji)]
 
 1. [Inner aspect in Cantonese](https://lingbuzz.net/lingbuzz/008705). Submitted, *FLaP FIRST*. 
 
+1. [Again, split aspect and finiteness in Chinese languages](https://lingbuzz.net/lingbuzz/008780). [with [Yuyang Liu](https://yuyliu.github.io/)]
+
 1. Defocus Rephrasing: right dislocation and syntax-prosody mapping. In prep. [with [Xuetong Yuan](https://kathyuan28.github.io/)]
 
 1. An agreement analysis of temporal converbs. In prep.
-
-1. *Again*, split aspect and finiteness in Chinese languages. In prep. [with [Yuyang Liu](https://ling.yale.edu/people/yuyang-liu)]
 
 1. Merging operators in conditional clauses in *wh*-in-situ languages. In prep. [with [Zhuo Chen](https://www.zhuochenlinguist.com/)]
 
