@@ -30,7 +30,14 @@ I’m a fifth-year PhD candidate in the Department of Linguistics at Yale Univer
 </div>
 
 ## Upcoming talks
+
+2025, Mar 3-4. Scalarity in exclusive doubling. [Workshop on the Syntax and Semantics of Scalarity](https://linguistlist.org/issues/35/3265/), Stuttgart. 
+
 2025, Mar 18-20. Parametric variations in discontinuous predicates in Sinitic languages. [TEAL-14](https://sites.google.com/view/teal14/home), USC. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
+
+2025, Mar 24-28. Backward association of exclusive particles and scope freezing. Short talk at [GLOW-47](https://glowlinguistics.org/47/), Frankfurt & Göttingen. [with [Daniel Aremu](https://aremudaniel90.wixsite.com/linguist-dan) and [Bode Adedeji](https://ling.yale.edu/profile/olabode-adedeji)]
+
+2025, Mar 24-28. Right dislocation as multidominance, and beyond. Poster at [GLOW-47](https://glowlinguistics.org/47/), Frankfurt & Göttingen. 
 
 2025, Apr 5-6. Biclausal multidominant syntax of right dislocation. [PLC-49](https://sites.google.com/sas.upenn.edu/plc49/plc-49?authuser=0), UPenn.
 
