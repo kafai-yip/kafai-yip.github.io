@@ -41,6 +41,11 @@ I’m a fifth-year PhD candidate in the Department of Linguistics at Yale Univer
 
 2025, Apr 5-6. Biclausal multidominant syntax of right dislocation. [PLC-49](https://sites.google.com/sas.upenn.edu/plc49/plc-49?authuser=0), UPenn.
 
+2025, Apr 25-27. Diagnosing multidominance by focus association of ‘only’. [WCCFL-43](https://wccfl43.github.io/), UW. [with [Squid Tamar-Mattis](https://campuspress.yale.edu/squidtm/)]
+
+2025, Apr 25-27. A parametric view on exclusive focus particles. Poster at [WCCFL-43](https://wccfl43.github.io/), UW.
+
+
 ## Recent talks
 2024, Dec 13-14. Differentiating between evidential bias and epistemic bias in questions: Evidence from Cantonese. [Yue-28](https://www.hkmu.edu.hk/el/yue28/), HKMU. [[slides](https://docs.google.com/presentation/d/1teg3pw27PtOqquw9peMC6sau9z8Hib_nCb4GurU9FLg/edit?usp=sharing)]
 
