@@ -11,7 +11,7 @@ classes: wide
 1. Only ‘only’ only: a distributed meaning approach to exclusive doubling. [SALT-34](https://saltconf.github.io/salt34/), Rochester. [[slides](https://saltconf.github.io/salt34/presentation-materials/yip_only.pdf)]
 
 1. Exclusive focus particles in Yorùbá. [ACAL-55](https://acal55.mull-lab.org/), McGill. [with [
-Olabode Adedeji](https://ling.yale.edu/people/olabode-adedeji)] [[handout](https://kafai-yip.github.io/assets/docs/ACAL-55_only_handout.pdf)]
+Olabode Adedeji](https://bodeadedeji.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/ACAL-55_only_handout.pdf)]
 
 1. A tale of two types of exclusive doubling in Vietnamese. [SEALS-33](https://sites.google.com/view/seals33/home), NTHU, Taiwan. [[handout](https://kafai-yip.github.io/assets/docs/only_SEALS-33_handout.pdf)]
 
