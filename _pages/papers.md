@@ -13,7 +13,7 @@ classes: wide
 1. [Partial deletion on head chains: Discontinuous predicates in Cantonese](https://ling.auf.net/lingbuzz/008420). Submitted, *Natural Language and Linguistic Theory*. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
 1. [A quantifier-particle approach to exclusive focus particles in Yorùbá](https://lingbuzz.net/lingbuzz/008470). Submitted, *Contemporary African Linguistics*. [with [
-Olabode Adedeji](https://ling.yale.edu/people/olabode-adedeji)]
+Olabode Adedeji](https://bodeadedeji.github.io/)]
 
 1. [Differentiating between evidential bias and epistemic bias in questions: Evidence from Cantonese](https://lingbuzz.net/lingbuzz/008751). Submitted, *Language and Linguistics*. 
 
