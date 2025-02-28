@@ -23,7 +23,7 @@ Olabode Adedeji](https://bodeadedeji.github.io/)]
 
 1. [Again, split aspect and finiteness in Chinese languages](https://lingbuzz.net/lingbuzz/008780). [with [Yuyang Liu](https://yuyliu.github.io/)]
 
-1. Defocus Rephrasing: right dislocation and syntax-prosody mapping. In prep. [with [Xuetong Yuan](https://kathyuan28.github.io/)]
+1. Defocus Rephrasing: right dislocation and syntax-prosody mapping. In prep. [with [Xuetong Yuan](https://www.xuetongyuan.org/)]
 
 1. An agreement analysis of temporal converbs. In prep.
 
@@ -45,7 +45,7 @@ Olabode Adedeji](https://bodeadedeji.github.io/)]
 
 1. [Hyperraising, evidentiality, and phase deactivation](https://doi.org/10.1007/s11049-023-09604-2). *Natural Language and Linguistic Theory* 42(4): 1527-1578. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
-1. [Right dislocation, defocus, and variations in syntax-prosody mapping](https://sapporo-u.repo.nii.ac.jp/records/2000123). In *Phonological Externalization (Vol. 9)*, 89-112. [with [Xuetong Yuan](https://kathyuan28.github.io/)]
+1. [Right dislocation, defocus, and variations in syntax-prosody mapping](https://sapporo-u.repo.nii.ac.jp/records/2000123). In *Phonological Externalization (Vol. 9)*, 89-112. [with [Xuetong Yuan](https://www.xuetongyuan.org/)]
 
 1. [Defocus leads to syntax-prosody mismatches in right-dislocated structures](https://ling.auf.net/lingbuzz/007505). *Proceedings of CLS-59*, 557-571. [with [Xuetong Yuan](https://kathyuan28.github.io/)]
 
