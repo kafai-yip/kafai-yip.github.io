@@ -21,12 +21,12 @@ Olabode Adedeji](https://bodeadedeji.github.io/)] [[handout](https://kafai-yip.g
   
 1. Biclausal multidominant syntax of right dislocation in Chinese. [NYU Syntax Brown Bag](https://sites.google.com/a/nyu.edu/nyusyntaxbrownbag/schedule?authuser=0). [[handout](https://kafai-yip.github.io/assets/docs/RD_multi_NYU_handout.pdf)]
 
-1. Right dislocation, defocus, and variations in syntax-prosody mapping. [Phex-15](https://toki482.wixsite.com/website-2), Tonjo. [with [Xuetong Yuan](https://kathyuan28.github.io/)] [[slides](https://kafai-yip.github.io/assets/docs/RD_defocus_slides.pdf)]
+1. Right dislocation, defocus, and variations in syntax-prosody mapping. [Phex-15](https://toki482.wixsite.com/website-2), Tonjo. [with [Xuetong Yuan](https://www.xuetongyuan.org/)] [[slides](https://kafai-yip.github.io/assets/docs/RD_defocus_slides.pdf)]
 
-1. Teasing apart the prosodic effects of focus and of defocus: syntax-prosody mismatches in right dislocation. Poster at [LabPhon-19](https://labphon.org/labphon19/home), HYU, Korea. [with [Xuetong Yuan](https://kathyuan28.github.io/)] [[poster](https://kafai-yip.github.io/assets/docs/RD_LabPhon19_poster.pdf)]
+1. Teasing apart the prosodic effects of focus and of defocus: syntax-prosody mismatches in right dislocation. Poster at [LabPhon-19](https://labphon.org/labphon19/home), HYU, Korea. [with [Xuetong Yuan](https://www.xuetongyuan.org/)] [[poster](https://kafai-yip.github.io/assets/docs/RD_LabPhon19_poster.pdf)]
 1. Differentiating between evidential bias and epistemic bias in questions: Evidence from Cantonese. [Yue-28](https://www.hkmu.edu.hk/el/yue28/), HKMU. [[slides](https://docs.google.com/presentation/d/1teg3pw27PtOqquw9peMC6sau9z8Hib_nCb4GurU9FLg/edit?usp=sharing)]
 
-1. Agreement in imperative clauses: evidence from object resumptive pronouns in Mandarin Chinese. Poster at [NELS-54](https://nels54.mit.edu/), MIT. [with [Xuetong Yuan](https://kathyuan28.github.io/)]  [[poster](http://nels54.mit.edu/sites/default/files/documents/yip-yuan-poster.pdf)] [[handout](https://kafai-yip.github.io/assets/docs/imperative_NELS-54_handout.pdf)]
+1. Agreement in imperative clauses: evidence from object resumptive pronouns in Mandarin Chinese. Poster at [NELS-54](https://nels54.mit.edu/), MIT. [with [Xuetong Yuan](https://www.xuetongyuan.org/)]  [[poster](http://nels54.mit.edu/sites/default/files/documents/yip-yuan-poster.pdf)] [[handout](https://kafai-yip.github.io/assets/docs/imperative_NELS-54_handout.pdf)]
 
 1. Variation of sibilant palatalization in homeland and heritage Cantonese. Poster at [LabPhon-19](https://labphon.org/labphon19/home), HYU, Korea. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang]
 
@@ -38,7 +38,7 @@ Olabode Adedeji](https://bodeadedeji.github.io/)] [[handout](https://kafai-yip.g
 
 1. Are there weak definites in bare classifier languages?. [SALT-33](https://saltconf.github.io/salt33/index.html), Yale. [with [Ushasi Banerjee](https://ling.yale.edu/people/ushasi-banerjee) & [Margaret Chui Yi Lee](https://linguistics.uconn.edu/person/margaret-chui-yi-lee/)] [[slides](https://saltconf.github.io/salt33/materials/ybl.pdf)] [[handout](https://kafai-yip.github.io/assets/docs/quasi_name-SALT-33_handout.pdf)]
 
-1. Defocus leads to syntax-prosody mismatches in right dislocated structures. [CLS-59](http://chicagolinguisticsociety.org/call.html), UChicago. [with [Xuetong Yuan](https://kathyuan28.github.io/)] 
+1. Defocus leads to syntax-prosody mismatches in right dislocated structures. [CLS-59](http://chicagolinguisticsociety.org/call.html), UChicago. [with [Xuetong Yuan](https://www.xuetongyuan.org/)] 
 
 1. (In)dependence of features on composite probes. Poster at [NELS-53](https://nels53.uni-goettingen.de/), Uni Göttingen. [with [Magdalena Lohninger](https://lenalohninger.wordpress.com/)] [[poster](https://lenalohninger.files.wordpress.com/2023/01/poster-nels.pdf)] [[handout](https://lenalohninger.files.wordpress.com/2023/02/handout_lohninger_yip.pdf)]
 
