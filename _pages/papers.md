@@ -19,8 +19,6 @@ Olabode Adedeji](https://bodeadedeji.github.io/)]
 
 1. [Separable verbs in Cantonese](https://ling.auf.net/lingbuzz/008731). Submitted, *The Routledge Handbook of Cantonese Linguistics.*. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
-1. [Inner aspect in Cantonese](https://lingbuzz.net/lingbuzz/008705). Submitted, *FLaP FIRST*. 
-
 1. [Again, split aspect and finiteness in Chinese languages](https://lingbuzz.net/lingbuzz/008780). Submitted, *NLLT*. [with [Yuyang Liu](https://yuyliu.github.io/)]
 
 1. Defocus Rephrasing: right dislocation and syntax-prosody mapping. In prep. [with [Xuetong Yuan](https://www.xuetongyuan.org/)]
@@ -33,6 +31,8 @@ Olabode Adedeji](https://bodeadedeji.github.io/)]
 
 ### Forthcoming
 
+1. [Inner aspect in Cantonese](https://lingbuzz.net/lingbuzz/008705). Accepted, *FLaP FIRST*.
+   
 1. [Agreeing with ‘only’](https://ling.auf.net/lingbuzz/007525). To appear in *Proceedings of WCCFL-41*.
 
 1. [Linguistic and social aspects of sibilant palatalization in homeland and heritage Cantonese](https://ling.auf.net/lingbuzz/008415). To appear in *Proceedings of NACCL-36*. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang]
