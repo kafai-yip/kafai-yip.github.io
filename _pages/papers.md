@@ -51,7 +51,7 @@ Olabode Adedeji](https://bodeadedeji.github.io/)]
 
 1. [Defocus leads to syntax-prosody mismatches in right-dislocated structures](https://ling.auf.net/lingbuzz/007505). *Proceedings of CLS-59*, 557-571. [with [Xuetong Yuan](https://kathyuan28.github.io/)]
 
-1. [Two types of temporal adverbial clauses in Cantonese](https://www.lingref.com/cpp/wccfl/39/abstract3689.html). *Proceedings of WCCFL-39*, 274–282.
+1. [Two types of temporal adverbial clauses in Cantonese](https://www.lingref.com/cpp/wccfl/39/abstract3689.html). *Proceedings of WCCFL-39*, 274–282. [[lingbuzz](https://ling.auf.net/lingbuzz/006288)]
 
 1. [Agreement in imperative clauses: Evidence from object resumptive pronouns in Mandarin Chinese](https://lingbuzz.net/lingbuzz/008248). *Proceedings of NELS-54, vol.2*, 235–244. [with [Xuetong Yuan](https://kathyuan28.github.io/)]
 
