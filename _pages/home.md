@@ -18,6 +18,7 @@ I’m a fifth-year PhD candidate in the Department of Linguistics at Yale Univer
 
 
 {% capture notice-text %}
+* My SALT paper "[Only ‘only’ only: A distributed meaning approach to exclusive doubling](https://doi.org/10.3765/kz03tp98) has just come out!
 * I'm very honored to receive [LSHK Award for Outstanding Student Paper on Cantonese Linguistics (2024)](https://lshk.org/awards-and-subsidies/award-for-outstanding-student-paper-on-cantonese-linguistics/)! My paper title is "[Differentiating between evidential bias and epistemic bias in questions: Evidence from Cantonese](https://lingbuzz.net/lingbuzz/008751)". [[news](https://ling.yale.edu/posts/2025-01-11-ka-fai-yip-wins-lshk-award-for-outstanding-student-paper-on-cantonese-linguistics)]
 * Our manuscript "[Again, finiteness and split aspect in Chinese languages](https://lingbuzz.net/lingbuzz/008780)" is on lingbuzz! [with [Yuyang Liu](https://yuyliu.github.io/)]
 * My manuscript "[Inner aspect in Cantonese](https://lingbuzz.net/lingbuzz/008705)" is now on lingbuzz!
