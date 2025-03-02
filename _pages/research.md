@@ -26,7 +26,7 @@ Below is some work I've done in the past (and ongoing):
 * I provide a compositional account of exclusive doubling in Cantonese (with an appendix on the cross-linguistic landscape of exclusive doubling)
     - Cantonese｜[paper-SALT](https://doi.org/10.3765/kz03tp98)
 * `with Olabode Adedeji` We argue for a quantifier-particle analysis of exclusive doubling in Yorùbá, where the adfocal particle is an exclusive quantifier rather than a concord marker as often proposed in the operator-particle approach.
-    - Yorùbá｜[ms-ACAL](https://lingbuzz.net/lingbuzz/008470)
+    - Yorùbá｜[paper-ACAL](https://lingbuzz.net/lingbuzz/008470)
 {% endcapture %}
 
 <div class="notice--warning">
