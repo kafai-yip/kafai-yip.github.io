@@ -118,7 +118,7 @@ While it is not the main focus of my dissertation, my "first love" in quantifier
 * `with Zhuo Chen` We argue that adverbial clauses may be derived by either operator movement or merging an in-situ operator at the highest CP. These two strategies are attested in both central and peripheral adverbial clauses, calling for a finer typology of adverbial clauses.
     - Mandarin and other Asian languages｜(please email me for the handout) 
 * A related discussion on reducing the external syntax to the internal syntax in terms of operator merging sites. 
-    - Cantonese｜[paper-WCCFL](https://ling.auf.net/lingbuzz/006288)｜[poster-WCCFL](https://doi.org/10.25422/azu.data.14481591.v1)
+    - Cantonese｜[paper-WCCFL](https://www.lingref.com/cpp/wccfl/39/abstract3689.html)｜[poster-WCCFL](https://doi.org/10.25422/azu.data.14481591.v1)
 {% endcapture %}
 
 <div class="notice--info">
