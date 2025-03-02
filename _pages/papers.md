@@ -21,7 +21,7 @@ Olabode Adedeji](https://bodeadedeji.github.io/)]
 
 1. [Inner aspect in Cantonese](https://lingbuzz.net/lingbuzz/008705). Submitted, *FLaP FIRST*. 
 
-1. [Again, split aspect and finiteness in Chinese languages](https://lingbuzz.net/lingbuzz/008780). [with [Yuyang Liu](https://yuyliu.github.io/)]
+1. [Again, split aspect and finiteness in Chinese languages](https://lingbuzz.net/lingbuzz/008780). Submitted, *NLLT*. [with [Yuyang Liu](https://yuyliu.github.io/)]
 
 1. Defocus Rephrasing: right dislocation and syntax-prosody mapping. In prep. [with [Xuetong Yuan](https://www.xuetongyuan.org/)]
 
@@ -33,8 +33,6 @@ Olabode Adedeji](https://bodeadedeji.github.io/)]
 
 ### Forthcoming
 
-1. [Only ‘only’ only: A distributed meaning approach to exclusive doubling](https://lingbuzz.net/lingbuzz/008563). To appear in *Proceedings of SALT-34*. 
-
 1. [Agreeing with ‘only’](https://ling.auf.net/lingbuzz/007525). To appear in *Proceedings of WCCFL-41*.
 
 1. [Linguistic and social aspects of sibilant palatalization in homeland and heritage Cantonese](https://ling.auf.net/lingbuzz/008415). To appear in *Proceedings of NACCL-36*. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang]
@@ -44,6 +42,8 @@ Olabode Adedeji](https://bodeadedeji.github.io/)]
 ### 2024
 
 1. [Hyperraising, evidentiality, and phase deactivation](https://doi.org/10.1007/s11049-023-09604-2). *Natural Language and Linguistic Theory* 42(4): 1527-1578. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
+
+1. [Only ‘only’ only: A distributed meaning approach to exclusive doubling](https://doi.org/10.3765/kz03tp98). *SALT-34*, 480–501.
 
 1. [Right dislocation, defocus, and variations in syntax-prosody mapping](https://sapporo-u.repo.nii.ac.jp/records/2000123). In *Phonological Externalization (Vol. 9)*, 89-112. [with [Xuetong Yuan](https://www.xuetongyuan.org/)]
 
