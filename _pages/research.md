@@ -24,9 +24,9 @@ Below is some work I've done in the past (and ongoing):
 * I argue that exclusive sentence-final particles (SFP) establish an Agree relation with exclusive operators, unlike adfocal particles which undergo covert movement.
     - Cantonese, Mandarin, Vietnamese｜[paper-WCCFL](https://ling.auf.net/lingbuzz/007525)
 * I provide a compositional account of exclusive doubling in Cantonese (with an appendix on the cross-linguistic landscape of exclusive doubling)
-    - Cantonese｜[slides-SALT](https://saltconf.github.io/salt34/presentation-materials/yip_only.pdf)
+    - Cantonese｜[paper-SALT](https://doi.org/10.3765/kz03tp98)
 * `with Olabode Adedeji` We argue for a quantifier-particle analysis of exclusive doubling in Yorùbá, where the adfocal particle is an exclusive quantifier rather than a concord marker as often proposed in the operator-particle approach.
-    - Yorùbá｜[handout-ACAL](https://kafai-yip.github.io/assets/docs/ACAL-55_only_handout.pdf)
+    - Yorùbá｜[ms-ACAL](https://lingbuzz.net/lingbuzz/008470)
 {% endcapture %}
 
 <div class="notice--warning">
