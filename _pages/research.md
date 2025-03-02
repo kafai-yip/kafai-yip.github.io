@@ -190,7 +190,7 @@ While it is not the main focus of my dissertation, my "first love" in quantifier
 **Sibilant palatalization in Hong Kong and Toronto Cantonese** `variations & corpus` 
 
 * `with Yanting Li, Xiao Dong & Gareth Junjie Yang` Using [HLVC](https://ngn.artsci.utoronto.ca/HLVC/0_0_home.php), we study the variations in sibilant palatalization, an ongoing sound change in Cantonese, in Hong Kong and Toronto.
-    - Cantonese (HK, TOR)｜[slides-NACCL](https://docs.google.com/presentation/d/1NMJ3688oNF3YusitiUQImu4uQusGy58warBPyDllrrk/edit?usp=sharing)
+    - Cantonese (HK, TOR)｜[paper-NACCL](https://ling.auf.net/lingbuzz/008415)
 {% endcapture %}
 
 <div class="notice--primary">
