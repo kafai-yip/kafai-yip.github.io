@@ -31,7 +31,7 @@ I’m a fifth-year PhD candidate in the Department of Linguistics at Yale Univer
 
 ## Upcoming talks
 
-2025, Mar 3-4. Scalarity in exclusive doubling. [Workshop on the Syntax and Semantics of Scalarity](https://linguistlist.org/issues/35/3265/), Stuttgart. 
+2025, Mar 3-4. Scalarity in exclusive doubling. [Workshop on the Syntax and Semantics of Scalarity](https://linguistlist.org/issues/35/3265/), Stuttgart. [[handout](https://kafai-yip.github.io/assets/docs/only_SYSSI_handout.pdf)] 
 
 2025, Mar 18-20. Parametric variations in discontinuous predicates in Sinitic languages. [TEAL-14](https://sites.google.com/view/teal14/home), USC. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
