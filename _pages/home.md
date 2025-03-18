@@ -31,7 +31,7 @@ I’m a fifth-year PhD candidate in the Department of Linguistics at Yale Univer
 </div>
 
 ## Upcoming talks
-2025, Mar 18-20. Parametric variations in discontinuous predicates in Sinitic languages. [TEAL-14](https://sites.google.com/view/teal14/home), USC. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)] [[handout](Syllable-deletion_TEAL-14_handout.pdf)]
+2025, Mar 18-20. Parametric variations in discontinuous predicates in Sinitic languages. [TEAL-14](https://sites.google.com/view/teal14/home), USC. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/D-Preds_TEAL-14_handout.pdf)]
 
 2025, Mar 24-28. Backward association of exclusive particles and scope freezing. Short talk at [GLOW-47](https://glowlinguistics.org/47/), Frankfurt & Göttingen. [with [Daniel Aremu](https://aremudaniel90.wixsite.com/linguist-dan) and [Bode Adedeji](https://bodeadedeji.github.io/)]
 
