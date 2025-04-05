@@ -31,11 +31,7 @@ I’m a fifth-year PhD candidate in the Department of Linguistics at Yale Univer
 </div>
 
 ## Upcoming talks
-2025, Mar 24-28. Backward association of exclusive particles and scope freezing. Short talk at [GLOW-47](https://glowlinguistics.org/47/), Frankfurt & Göttingen. [with [Daniel Aremu](https://aremudaniel90.wixsite.com/linguist-dan) and [Bode Adedeji](https://bodeadedeji.github.io/)]
-
-2025, Mar 24-28. Right dislocation as multidominance, and beyond. Poster at [GLOW-47](https://glowlinguistics.org/47/), Frankfurt & Göttingen. [[poster](https://kafai-yip.github.io/assets/docs/RD_GLOW-47_poster.pdf)]
-
-2025, Apr 5-6. Biclausal multidominant syntax of right dislocation. [PLC-49](https://sites.google.com/sas.upenn.edu/plc49/plc-49?authuser=0), UPenn.
+2025, Apr 5-6. Biclausal multidominant syntax of right dislocation. [PLC-49](https://sites.google.com/sas.upenn.edu/plc49/plc-49?authuser=0), UPenn. [[slides](https://kafai-yip.github.io/assets/docs/RD_multi_PLC-49_slides.pdf)] [[handout](https://kafai-yip.github.io/assets/docs/RD_multi_PLC-49_handout.pdf)]
 
 2025, Apr 25-27. Diagnosing multidominance by focus association of ‘only’. [WCCFL-43](https://wccfl43.github.io/), UW. [with [Squid Tamar-Mattis](https://campuspress.yale.edu/squidtm/)]
 
@@ -43,6 +39,10 @@ I’m a fifth-year PhD candidate in the Department of Linguistics at Yale Univer
 
 
 ## Recent talks
+2025, Mar 24-28. Backward association of exclusive particles and scope freezing. Short talk at [GLOW-47](https://glowlinguistics.org/47/), Frankfurt & Göttingen. [with [Daniel Aremu](https://aremudaniel90.wixsite.com/linguist-dan) and [Bode Adedeji](https://bodeadedeji.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/BAwF_GLOW-47_handout.pdf)]
+
+2025, Mar 24-28. Right dislocation as multidominance, and beyond. Poster at [GLOW-47](https://glowlinguistics.org/47/), Frankfurt & Göttingen. [[poster](https://kafai-yip.github.io/assets/docs/RD_GLOW-47_poster.pdf)]
+
 2025, Mar 18-20. Parametric variations in discontinuous predicates in Sinitic languages. [TEAL-14](https://sites.google.com/view/teal14/home), USC. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/D-Preds_TEAL-14_handout.pdf)]
 
 2025, Mar 3-4. Scalarity in exclusive doubling. [Workshop on the Syntax and Semantics of Scalarity](https://linguistlist.org/issues/35/3265/), Stuttgart. [[handout](https://kafai-yip.github.io/assets/docs/only_SYSSI_handout.pdf)] 
