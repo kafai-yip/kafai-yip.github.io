@@ -31,9 +31,9 @@ I’m a fifth-year PhD candidate in the Department of Linguistics at Yale Univer
 </div>
 
 ## Upcoming talks
-2025, Apr 25-27. Diagnosing multidominance by focus association of ‘only’. [WCCFL-43](https://wccfl43.github.io/), UW. [with [Squid Tamar-Mattis](https://campuspress.yale.edu/squidtm/)] [abstract]
+2025, Apr 25-27. Diagnosing multidominance by focus association of ‘only’. [WCCFL-43](https://wccfl43.github.io/), UW. [with [Squid Tamar-Mattis](https://campuspress.yale.edu/squidtm/)] [[abstract](https://kafai-yip.github.io/assets/docs/RNR-only_WCCFL-43_abstract_YipTamar-Mattis.pdf)]
 
-2025, Apr 25-27. A parametric view on exclusive focus particles. Poster at [WCCFL-43](https://wccfl43.github.io/), UW. [abstract]
+2025, Apr 25-27. A parametric view on exclusive focus particles. Poster at [WCCFL-43](https://wccfl43.github.io/), UW. [[abstract](https://kafai-yip.github.io/assets/docs/only-typology_WCCFL-43_abstract_Yip.pdf)]
 
 2025, Aug 4-7. Acoustic analysis of sibilant palatalization variation in homeland and heritage Cantonese. [NWAV-AP-8](https://www.ntu.edu.sg/nie/new-ways-of-analysing-variation-asia-pacific-8-singapore). NTU Singapore. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang]
 
