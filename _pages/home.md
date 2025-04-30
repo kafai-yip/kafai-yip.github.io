@@ -31,17 +31,17 @@ I’m a fifth-year PhD candidate in the Department of Linguistics at Yale Univer
 </div>
 
 ## Upcoming talks
-2025, Apr 25-27. Diagnosing multidominance by focus association of ‘only’. [WCCFL-43](https://wccfl43.github.io/), UW. [with [Squid Tamar-Mattis](https://campuspress.yale.edu/squidtm/)] [[abstract](https://kafai-yip.github.io/assets/docs/RNR-only_WCCFL-43_abstract_YipTamar-Mattis.pdf)]  [[handout](https://kafai-yip.github.io/assets/docs/RNR-only_WCCFL-43_handout.pdf)]
-
-2025, Apr 25-27. A parametric view on exclusive focus particles. Poster at [WCCFL-43](https://wccfl43.github.io/), UW. [[abstract](https://kafai-yip.github.io/assets/docs/only-typology_WCCFL-43_abstract_Yip.pdf)] [[poster](https://kafai-yip.github.io/assets/docs/only-typology_WCCFL-43_poster.pdf)]
-
-2025, Apr 30. Against a syntactic approach to *wh*-rhetorical questions — with special focus on Cantonese (and Vietnamese). Colloquium talk at National Tsing Hua University.
+2025, Apr 30. Against a syntactic approach to *wh*-rhetorical questions — with special focus on Cantonese (and Vietnamese). Colloquium talk at National Tsing Hua University. [[handout](https://kafai-yip.github.io/assets/docs/Neg-wh-RQ_handout.pdf)]
 
 2025, May 1. The structural matching effects in adverbial and converbal clauses. Guest lecture at *Main Clause Phenomena and the Syntax of Chinese*, National Tsing Hua University.
 
 2025, Aug 4-7. Acoustic analysis of sibilant palatalization variation in homeland and heritage Cantonese. [NWAV-AP-8](https://www.ntu.edu.sg/nie/new-ways-of-analysing-variation-asia-pacific-8-singapore). NTU Singapore. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang]
 
 ## Recent talks
+2025, Apr 25-27. Diagnosing multidominance by focus association of ‘only’. [WCCFL-43](https://wccfl43.github.io/), UW. [with [Squid Tamar-Mattis](https://campuspress.yale.edu/squidtm/)] [[abstract](https://kafai-yip.github.io/assets/docs/RNR-only_WCCFL-43_abstract_YipTamar-Mattis.pdf)]  [[handout](https://kafai-yip.github.io/assets/docs/RNR-only_WCCFL-43_handout.pdf)]
+
+2025, Apr 25-27. A parametric view on exclusive focus particles. Poster at [WCCFL-43](https://wccfl43.github.io/), UW. [[abstract](https://kafai-yip.github.io/assets/docs/only-typology_WCCFL-43_abstract_Yip.pdf)] [[poster](https://kafai-yip.github.io/assets/docs/only-typology_WCCFL-43_poster.pdf)]
+
 2025, Apr 5-6. Biclausal multidominant syntax of right dislocation. [PLC-49](https://sites.google.com/sas.upenn.edu/plc49/plc-49?authuser=0), UPenn. [[slides](https://kafai-yip.github.io/assets/docs/RD_multi_PLC-49_slides.pdf)] [[handout](https://kafai-yip.github.io/assets/docs/RD_multi_PLC-49_handout.pdf)]
 
 2025, Mar 24-28. Backward association of exclusive particles and scope freezing. Short talk at [GLOW-47](https://glowlinguistics.org/47/), Frankfurt & Göttingen. [with [Daniel Aremu](https://aremudaniel90.wixsite.com/linguist-dan) and [Bode Adedeji](https://bodeadedeji.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/BAwF_GLOW-47_handout.pdf)]
