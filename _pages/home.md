@@ -33,7 +33,8 @@ I’m a fifth-year PhD candidate in the Department of Linguistics at Yale Univer
 ## Upcoming talks
 2025, Apr 30. Against a syntactic approach to *wh*-rhetorical questions — with special focus on Cantonese (and Vietnamese). Colloquium talk at National Tsing Hua University. [[handout](https://kafai-yip.github.io/assets/docs/Neg-wh-RQ_handout.pdf)]
 
-2025, May 1. The structural matching effects in adverbial and converbal clauses. Guest lecture at *Main Clause Phenomena and the Syntax of Chinese*, National Tsing Hua University.
+2025, May 1. The structural matching effects in adverbial and converbal clauses. Guest lecture at *Main Clause Phenomena and the Syntax of Chinese*, National Tsing Hua University. [[slides](https://docs.google.com/presentation/d/1lquJrnhFrcNKnHdVx_z8EdNHEK0tDJSu3y25T85MKM8/edit?usp=sharing
+)]
 
 2025, Aug 4-7. Acoustic analysis of sibilant palatalization variation in homeland and heritage Cantonese. [NWAV-AP-8](https://www.ntu.edu.sg/nie/new-ways-of-analysing-variation-asia-pacific-8-singapore). NTU Singapore. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang]
 
