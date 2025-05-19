@@ -7,6 +7,30 @@ classes: wide
 
 *Feel free to email me if you'd like to access any handout that is not available here!*
 
+
+### 2025
+
+
+1. Diagnosing multidominance by focus association of ‘only’. [WCCFL-43](https://wccfl43.github.io/), UW. [with [Squid Tamar-Mattis](https://campuspress.yale.edu/squidtm/)] [[abstract](https://kafai-yip.github.io/assets/docs/RNR-only_WCCFL-43_abstract_YipTamar-Mattis.pdf)]  [[handout](https://kafai-yip.github.io/assets/docs/RNR-only_WCCFL-43_handout.pdf)]
+
+1. A parametric view on exclusive focus particles. Poster at [WCCFL-43](https://wccfl43.github.io/), UW. [[abstract](https://kafai-yip.github.io/assets/docs/only-typology_WCCFL-43_abstract_Yip.pdf)] [[poster](https://kafai-yip.github.io/assets/docs/only-typology_WCCFL-43_poster.pdf)]
+
+1. Backward association of exclusive particles and scope freezing. Short talk at [GLOW-47](https://glowlinguistics.org/47/), Frankfurt & Göttingen. [with [Daniel Aremu](https://aremudaniel90.wixsite.com/linguist-dan) and [Bode Adedeji](https://bodeadedeji.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/BAwF_GLOW-47_handout.pdf)]
+
+1. Right dislocation as multidominance, and beyond. Poster at [GLOW-47](https://glowlinguistics.org/47/), Frankfurt & Göttingen. [[poster](https://kafai-yip.github.io/assets/docs/RD_GLOW-47_poster.pdf)]
+
+1. Scalarity in exclusive doubling. [Workshop on the Syntax and Semantics of Scalarity](https://linguistlist.org/issues/35/3265/), Stuttgart. [[handout](https://kafai-yip.github.io/assets/docs/only_SYSSI_handout.pdf)] 
+
+1. Parametric variations in discontinuous predicates in Sinitic languages. [TEAL-14](https://sites.google.com/view/teal14/home), USC. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/D-Preds_TEAL-14_handout.pdf)]
+
+1. Against a syntactic approach to *wh*-rhetorical questions — with special focus on Cantonese (and Vietnamese). Colloquium talk at National Tsing Hua University. [[handout](https://kafai-yip.github.io/assets/docs/Neg-wh-RQ_handout.pdf)]
+
+1. The structural matching effects in adverbial and converbal clauses. Guest lecture at *Main Clause Phenomena and the Syntax of Chinese*, National Tsing Hua University. [[slides](https://docs.google.com/presentation/d/1lquJrnhFrcNKnHdVx_z8EdNHEK0tDJSu3y25T85MKM8/edit?usp=sharing
+)]
+
+
+
+
 ### 2024
 1. Only ‘only’ only: a distributed meaning approach to exclusive doubling. [SALT-34](https://saltconf.github.io/salt34/), Rochester. [[slides](https://saltconf.github.io/salt34/presentation-materials/yip_only.pdf)]
 
@@ -17,16 +41,18 @@ Olabode Adedeji](https://bodeadedeji.github.io/)] [[handout](https://kafai-yip.g
 
 1. Cantonese exclusive focus marker *-dak* as perfective aspect. [Yue-28](https://www.hkmu.edu.hk/el/yue28/), HKMU.  [[slides](https://kafai-yip.github.io/assets/docs/Yue-28_dak_slides.pdf)]
 
+1. Differentiating between evidential bias and epistemic bias in questions: Evidence from Cantonese. [Yue-28](https://www.hkmu.edu.hk/el/yue28/), HKMU. [[slides](https://docs.google.com/presentation/d/1teg3pw27PtOqquw9peMC6sau9z8Hib_nCb4GurU9FLg/edit?usp=sharing)]
+
 1. Facilitator effects in Mandarin topicalization: Evidence for a crossing-based view of antilocality. [NELS-55](https://campuspress.yale.edu/nels55/), Yale. [with [Fulang Chen](https://sites.google.com/view/fulang-chen/)] [[handout](https://campuspress.yale.edu/nels55/files/2024/10/nels55_handout_chen-yip.pdf)]
   
-1. Biclausal multidominant syntax of right dislocation in Chinese. [NYU Syntax Brown Bag](https://sites.google.com/a/nyu.edu/nyusyntaxbrownbag/schedule?authuser=0). [[handout](https://kafai-yip.github.io/assets/docs/RD_multi_NYU_handout.pdf)]
-
 1. Right dislocation, defocus, and variations in syntax-prosody mapping. [Phex-15](https://toki482.wixsite.com/website-2), Tonjo. [with [Xuetong Yuan](https://www.xuetongyuan.org/)] [[slides](https://kafai-yip.github.io/assets/docs/RD_defocus_slides.pdf)]
 
 1. Teasing apart the prosodic effects of focus and of defocus: syntax-prosody mismatches in right dislocation. Poster at [LabPhon-19](https://labphon.org/labphon19/home), HYU, Korea. [with [Xuetong Yuan](https://www.xuetongyuan.org/)] [[poster](https://kafai-yip.github.io/assets/docs/RD_LabPhon19_poster.pdf)]
 1. Differentiating between evidential bias and epistemic bias in questions: Evidence from Cantonese. [Yue-28](https://www.hkmu.edu.hk/el/yue28/), HKMU. [[slides](https://docs.google.com/presentation/d/1teg3pw27PtOqquw9peMC6sau9z8Hib_nCb4GurU9FLg/edit?usp=sharing)]
 
 1. Agreement in imperative clauses: evidence from object resumptive pronouns in Mandarin Chinese. Poster at [NELS-54](https://nels54.mit.edu/), MIT. [with [Xuetong Yuan](https://www.xuetongyuan.org/)]  [[poster](http://nels54.mit.edu/sites/default/files/documents/yip-yuan-poster.pdf)] [[handout](https://kafai-yip.github.io/assets/docs/imperative_NELS-54_handout.pdf)]
+
+1. The dissection of Cantonese interjections: an exploration. [Yue-28](https://www.hkmu.edu.hk/el/yue28/), HKMU. [with [Mei-ying Ki](https://kimeiying.ws.gc.cuny.edu/)]
 
 1. Variation of sibilant palatalization in homeland and heritage Cantonese. Poster at [LabPhon-19](https://labphon.org/labphon19/home), HYU, Korea. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang]
 
