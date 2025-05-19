@@ -52,8 +52,6 @@ Olabode Adedeji](https://bodeadedeji.github.io/)] [[handout](https://kafai-yip.g
 
 1. Agreement in imperative clauses: evidence from object resumptive pronouns in Mandarin Chinese. Poster at [NELS-54](https://nels54.mit.edu/), MIT. [with [Xuetong Yuan](https://www.xuetongyuan.org/)]  [[poster](http://nels54.mit.edu/sites/default/files/documents/yip-yuan-poster.pdf)] [[handout](https://kafai-yip.github.io/assets/docs/imperative_NELS-54_handout.pdf)]
 
-1. The dissection of Cantonese interjections: an exploration. [Yue-28](https://www.hkmu.edu.hk/el/yue28/), HKMU. [with [Mei-ying Ki](https://kimeiying.ws.gc.cuny.edu/)]
-
 1. Variation of sibilant palatalization in homeland and heritage Cantonese. Poster at [LabPhon-19](https://labphon.org/labphon19/home), HYU, Korea. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang]
 
 
