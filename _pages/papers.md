@@ -8,9 +8,7 @@ classes: wide
 ## Manuscripts
 (Comments are welcome!)
 
-1. [A unified biclausal approach to right dislocation in Chinese](https://lingbuzz.net/lingbuzz/007912). Resubmitted, *Journal of East Asian Linguistics*.
-
-1. [Partial deletion on head chains: Discontinuous predicates in Cantonese](https://ling.auf.net/lingbuzz/008420). Submitted, *Natural Language and Linguistic Theory*. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
+1. [Partial deletion on head chains: Discontinuous predicates in Cantonese](https://ling.auf.net/lingbuzz/008420). In revision. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
 
 1. [Again, split aspect and finiteness in Chinese languages](https://lingbuzz.net/lingbuzz/008780). Submitted, *Natural Language and Linguistic Theory*. [with [Yuyang Liu](https://yuyliu.github.io/)]
@@ -18,6 +16,7 @@ classes: wide
 
 1. [A quantifier-particle approach to exclusive focus particles in Yorùbá](https://lingbuzz.net/lingbuzz/008470). Submitted, *Contemporary African Linguistics*. [with [
 Olabode Adedeji](https://bodeadedeji.github.io/)]
+
 
 1. [Differentiating between evidential bias and epistemic bias in questions: Evidence from Cantonese](https://lingbuzz.net/lingbuzz/008751). Submitted, *Language and Linguistics*. 
 
@@ -33,15 +32,23 @@ Olabode Adedeji](https://bodeadedeji.github.io/)]
 
 ### Forthcoming
 
-1. [Inner aspect in Cantonese](https://lingbuzz.net/lingbuzz/008705). Accepted, *FLaP FIRST*.
-   
-1. [Agreeing with ‘only’](https://ling.auf.net/lingbuzz/007525). To appear in *Proceedings of WCCFL-41*.
+1. [A unified biclausal approach to right dislocation in Chinese](https://lingbuzz.net/lingbuzz/007912). *Journal of East Asian Linguistics*.
 
 1. [Linguistic and social aspects of sibilant palatalization in homeland and heritage Cantonese](https://ling.auf.net/lingbuzz/008415). To appear in *Proceedings of NACCL-36*. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang]
 
 1. 線上問答遊戲「廣東話達人挑戰」：遊戲化科普與眾包式數據收集[Online Quiz Game “Cantonese Master Challenge”: Gamifying Linguistics Popularization and Crowdsourced Data Collection]. Accepted by *Journal of Digital Archives and Digital Humanities*. [with Yik-Po Lai, , Mei-ying Ki, Chaak-ming Lau, Tommy Tsz-Ming Lee, Oscar Wong, Kam Pang Wong]
 
+
+
+### 2025
+
+1. [Inner aspect in Cantonese](). *[FLaP FIRST](https://flapfirstjournal.wordpress.com/)* 1(1):15–36. [[lingbuzz](https://lingbuzz.net/lingbuzz/008705)]
+   
+1. [Agreeing with ‘only’](https://www.lingref.com/cpp/wccfl/41/abstract3797.html). *Proceedings of WCCFL-41*, 616–626. [[lingbuzz](https://ling.auf.net/lingbuzz/007525)]
+
+
 ### 2024
+
 
 1. [Hyperraising, evidentiality, and phase deactivation](https://doi.org/10.1007/s11049-023-09604-2). *Natural Language and Linguistic Theory* 42(4): 1527-1578. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
