@@ -23,7 +23,7 @@ Below is some work I've done in the past (and ongoing):
 
 * I argue that exclusive sentence-final particles (SFP) establish an Agree relation with exclusive operators, unlike adfocal particles which undergo covert movement.
     - Cantonese, Mandarin, Vietnamese｜[paper-WCCFL](https://ling.auf.net/lingbuzz/007525)
-* I provide a compositional account of exclusive doubling in Cantonese (with an appendix on the cross-linguistic landscape of exclusive doubling)
+* I propose that there is a semantic *dependency* between doubled particles with co-indexation of the alternative set they operate on.
     - Cantonese｜[paper-SALT](https://doi.org/10.3765/kz03tp98)
 * `with Olabode Adedeji` We argue for a quantifier-particle analysis of exclusive doubling in Yorùbá, where the adfocal particle is an exclusive quantifier rather than a concord marker as often proposed in the operator-particle approach.
     - Yorùbá｜[paper-ms](https://lingbuzz.net/lingbuzz/008470)
@@ -56,7 +56,7 @@ While it is not the main focus of my dissertation, my "first love" in quantifier
 **Right dislocation (RD)** `syntax-prosody`
 
 * I argue for a biclausal approach to RD in Chinese that unifies gapped and gapless/copying variants.
-    - Cantonese, Mandarin｜[paper-ms](https://lingbuzz.net/lingbuzz/007912)
+    - Cantonese, Mandarin｜[paper-JEAL](https://lingbuzz.net/lingbuzz/007912)
 * `with Xuetong Yuan` We propose a novel defocus rephrasing view where the prosodic role of defocus is distinguished from focus. We motivate this view with a case study on syntax-prosody mismatches in RD in Cantonese and Mandarin, as well as cross-linguistic variations in the prosodic phrasing of RD.
     - Cantonese, Mandarin｜[paper-CLS](https://ling.auf.net/lingbuzz/007505)｜[paper-Phex](https://ling.auf.net/lingbuzz/008179)｜[slides-SBU](https://kafai-yip.github.io/assets/docs/RD_StonyBrook_slides.pdf)
 {% endcapture %}
