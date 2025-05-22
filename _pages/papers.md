@@ -42,7 +42,7 @@ Olabode Adedeji](https://bodeadedeji.github.io/)]
 
 ### 2025
 
-1. [Inner aspect in Cantonese](https://kafai-yip.github.io/assets/docs/Yip (2025) Inner aspect in Cantonese.pdf). *[FLaP FIRST](https://flapfirstjournal.wordpress.com/)* 1(1):15–36. [[lingbuzz](https://lingbuzz.net/lingbuzz/008705)]
+1. [Inner aspect in Cantonese](https://kafai-yip.github.io/assets/docs/Yip (2025) Inner aspect in Cantonese.pdf). *[FLaP FIRST](https://doi.org/10.5281/zenodo.15461747)* 1(1):15–36. [[lingbuzz](https://lingbuzz.net/lingbuzz/008705)]
    
 1. [Agreeing with ‘only’](https://www.lingref.com/cpp/wccfl/41/abstract3797.html). *Proceedings of WCCFL-41*, 616–626. [[lingbuzz](https://ling.auf.net/lingbuzz/007525)]
 
