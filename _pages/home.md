@@ -20,7 +20,7 @@ I’m a fifth-year PhD candidate in the Department of Linguistics at Yale Univer
 {% capture notice-text %}
 * My paper "[A unified biclausal approach to right dislocation in Chinese](https://lingbuzz.net/lingbuzz/007912)" is accepted by *Journal of East Asian Linguistics*!
 * My paper "[Inner aspect in Cantonese](https://lingbuzz.net/lingbuzz/008705)" is published in [*FLaP FIRST*](https://doi.org/10.5281/zenodo.15461747)! Reviews and replies are open access.
-* My WCCFL-41 paper "[Inner aspect in Cantonese](https://lingbuzz.net/lingbuzz/008705)" is published!
+* My WCCFL-41 paper "[Agreeing with 'only'](https://www.lingref.com/cpp/wccfl/41/abstract3797.html)" is published!
 {% endcapture %}
 
 <div class="notice--info">
