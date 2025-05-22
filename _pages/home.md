@@ -36,7 +36,7 @@ I’m a fifth-year PhD candidate in the Department of Linguistics at Yale Univer
 
 ## Recent talks
 
-2025. May 15-17. Are splitting verbs in Yorùbá discontinuous heads? Poster at [ACAL-56](https://sites.google.com/umn.edu/acal56/home?authuser=0). [with [Bode Adedeji](https://bodeadedeji.github.io/)] 
+2025, May 15-17. Are splitting verbs in Yorùbá discontinuous heads? Poster at [ACAL-56](https://sites.google.com/umn.edu/acal56/home?authuser=0). [with [Bode Adedeji](https://bodeadedeji.github.io/)] 
 
 2025, Apr 30. Against a syntactic approach to *wh*-rhetorical questions — with special focus on Cantonese (and Vietnamese). Colloquium talk at National Tsing Hua University. [[handout](https://kafai-yip.github.io/assets/docs/Neg-wh-RQ_handout.pdf)]
 
