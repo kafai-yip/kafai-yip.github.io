@@ -30,7 +30,7 @@ I’m a fifth-year PhD candidate in the Department of Linguistics at Yale Univer
 
 ## Upcoming talks
 
-2025, May 24-25. The taxonomy of yes-no question SFPs in Cantonese. The Workshop on Sentence-final Particles in Modern Chinese. University of Macau.
+2025, May 24-25. The taxonomy of yes-no question SFPs in Cantonese. The Workshop on Sentence-final Particles in Modern Chinese. University of Macau. [[slides](https://docs.google.com/presentation/d/1ulQ6a4JoeojqWKN_NRAoXk8hj-v687XD5RxVQaNEm0Q/edit?usp=sharing)]
 
 2025, Aug 4-7. Acoustic analysis of sibilant palatalization variation in homeland and heritage Cantonese. [NWAV-AP-8](https://www.ntu.edu.sg/nie/new-ways-of-analysing-variation-asia-pacific-8-singapore). NTU Singapore. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang]
 
