@@ -34,6 +34,8 @@ I’m a fifth-year PhD candidate in the Department of Linguistics at Yale Univer
 
 2025, Aug 4-7. Acoustic analysis of sibilant palatalization variation in homeland and heritage Cantonese. [NWAV-AP-8](https://www.ntu.edu.sg/nie/new-ways-of-analysing-variation-asia-pacific-8-singapore). NTU Singapore. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang]
 
+2025, Sep 23-27. Asymmetric reconstruction for binding but not for scope. Poster/Alternate talk at [SuB-30](https://vicom.info/sub30/). [with [Yusuke Yagi](https://sites.google.com/view/yusukeyagi/home)]
+
 ## Recent talks
 
 2025, May 15-17. Are splitting verbs in Yorùbá discontinuous heads? Poster at [ACAL-56](https://sites.google.com/umn.edu/acal56/home?authuser=0). [with [Bode Adedeji](https://bodeadedeji.github.io/)] 
