@@ -33,9 +33,12 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 
 2025, Aug 4-7. Acoustic analysis of sibilant palatalization variation in homeland and heritage Cantonese. [NWAV-AP-8](https://www.ntu.edu.sg/nie/new-ways-of-analysing-variation-asia-pacific-8-singapore). NTU Singapore. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang]
 
-2025, Sep 10-12. Exclusive focus in Akan and type flexibility. [TripleA-12](https://lingconf.com/triplea12/). [with [Comfort Ahenkorah](https://comfortahenkorah.com/)]
+2025, Sep 10-12. Exclusive focus in Akan and type flexibility. [TripleA-12](https://lingconf.com/triplea12/), Tokyo University of Foreign Studies. [with [Comfort Ahenkorah](https://comfortahenkorah.com/)]
 
-2025, Sep 23-27. Asymmetric reconstruction for binding but not for scope. Poster/Alternate talk at [SuB-30](https://vicom.info/sub30/). [with [Yusuke Yagi](https://sites.google.com/view/yusukeyagi/home)]
+2025, Sep 23-27. Asymmetric reconstruction for binding but not for scope. Poster/Alternate talk at [SuB-30](https://vicom.info/sub30/), Frankfurt. [with [Yusuke Yagi](https://sites.google.com/view/yusukeyagi/home)]
+
+2025, Oct 17-19. Exclusive focus in Akan and type flexibility. Poster at [NELS-56](https://wp.nyu.edu/artsampscience-nels56/), NYU. [with [Comfort Ahenkorah](https://comfortahenkorah.com/)]
+
 
 ## Recent talks
 
