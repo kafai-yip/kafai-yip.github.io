@@ -24,7 +24,7 @@ Olabode Adedeji](https://bodeadedeji.github.io/)]
 
 1. Subject resumption in Akan and *v*P phasehood. In prep. [with [Comfort Ahenkorah](https://ling.yale.edu/people/comfort-ahenkorah)]
 
-1. Defocus Rephrasing: right dislocation and syntax-prosody mapping. In prep. [with [Xuetong Yuan](https://www.xuetongyuan.org/)]
+1. Defocus Rephrasing: right dislocation and syntax-prosody mismatches. In prep. [with [Xuetong Yuan](https://www.xuetongyuan.org/)]
 
 1. An agreement analysis of temporal converbs. In prep.
 
