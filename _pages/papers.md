@@ -22,6 +22,8 @@ Olabode Adedeji](https://bodeadedeji.github.io/)]
 
 1. [Separable verbs in Cantonese](https://ling.auf.net/lingbuzz/008731). Submitted, *The Routledge Handbook of Cantonese Linguistics.*. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
+1. Subject resumption in Akan and *v*P phasehood. In prep. [with [Comfort Ahenkorah](https://ling.yale.edu/people/comfort-ahenkorah)]
+
 1. Defocus Rephrasing: right dislocation and syntax-prosody mapping. In prep. [with [Xuetong Yuan](https://www.xuetongyuan.org/)]
 
 1. An agreement analysis of temporal converbs. In prep.
