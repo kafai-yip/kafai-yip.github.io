@@ -31,7 +31,7 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 
 ## Upcoming talks
 
-2025, Aug 12. Semantic dependency between focus particles in exclusive doubling. NUS, Singapore. [[slides](https://kafai-yip.github.io/assets/docs/NUS_only_slides.pdf)] [[slides-pause](https://kafai-yip.github.io/assets/docs/NUS_only_slides_project.pdf)]
+2025, Aug 12. Semantic dependency between focus particles in exclusive doubling. NUS, Singapore. [[slides](https://kafai-yip.github.io/assets/docs/NUS_only_slides.pdf)] 
 
 2025, Sep 10-12. Exclusive focus in Akan and type flexibility. [TripleA-12](https://lingconf.com/triplea12/), Tokyo University of Foreign Studies. [with [Comfort Ahenkorah](https://comfortahenkorah.com/)]
 
