@@ -31,8 +31,6 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 
 ## Upcoming talks
 
-2025, Aug 12. Semantic dependency between focus particles in exclusive doubling. NUS, Singapore. [[slides](https://kafai-yip.github.io/assets/docs/NUS_only_slides.pdf)] 
-
 2025, Sep 10-12. Exclusive focus in Akan and type flexibility. [TripleA-12](https://lingconf.com/triplea12/), Tokyo University of Foreign Studies. [with [Comfort Ahenkorah](https://comfortahenkorah.com/)]
 
 2025, Sep 23-27. Asymmetric reconstruction for binding but not for scope. Poster/Alternate talk at [SuB-30](https://vicom.info/sub30/), Frankfurt. [with [Yusuke Yagi](https://sites.google.com/view/yusukeyagi/home)]
@@ -41,6 +39,8 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 
 
 ## Recent talks
+
+2025, Aug 12. Semantic dependency between focus particles in exclusive doubling. SynSem, NUS, Singapore. [[slides](https://kafai-yip.github.io/assets/docs/NUS_only_slides.pdf)] 
 
 2025, Aug 4-7. Acoustic analysis of sibilant palatalization variation in homeland and heritage Cantonese. [NWAV-AP-8](https://www.ntu.edu.sg/nie/new-ways-of-analysing-variation-asia-pacific-8-singapore). NTU Singapore. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang]
 
