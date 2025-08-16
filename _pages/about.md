@@ -4,13 +4,13 @@ title: "About"
 classes: wide
 ---
 
-I’m a fifth-year PhD student in the Department of Linguistics at Yale University. I’m a Hong Konger and speak Cantonese. My research languages are mainly East and Southeast Asian languages.
+I’m a sixth-year PhD student in the Department of Linguistics at Yale University. I’m a Hong Konger and speak Cantonese. My research languages are mainly East and Southeast Asian languages.
 {: .text-justify}
 
-Here is my [CV](https://kafai-yip.github.io/assets/docs/CV_YIP Ka Fai_20250714_EN.pdf).
+Here is my [CV](https://kafai-yip.github.io/assets/docs/CV_YIP Ka Fai_20250815_EN.pdf).
 {: .text-justify}
 
-My main research interest lies in syntax and its interface with semantics. Since my master study in CUHK, I have been working on quantifier doubling (also called concord) where two (or even more) quantifiers co-occur but apparently only one of them is interpreted in semantics. A mismatch between syntax and semantics thus arises and calls for a solution. The particular cases I’m working on include doubling of universal quantifiers and exclusive focus particles ‘only’. I’m also interested in a variety of topics, including clausal architecture with focus on adverbial clauses, phase deactivation in hyperraising, the role of scope calculation in modal movement, etc.
+My main research interest lies in syntax and its interface with semantics. Since my master study in CUHK, I have been working on quantifier doubling (also called concord) where two (or even more) quantifiers co-occur but apparently only one of them is interpreted in semantics. A mismatch between syntax and semantics thus arises and calls for a solution. The particular cases I’m working on include doubling of exclusive focus particles ‘only’ and of universal quantifiers. I’m also interested in a variety of topics, including clausal architecture with focus on adverbial clauses, phase deactivation in hyperraising, the role of scope calculation in modal movement, etc.
 {: .text-justify}
 
 I also have an interest in Linearization and the syntax-phonology interface. Linearization is the procedure of mapping hierarchical structures in syntax onto linear strings in the phonological component. I study how movement chains may be linearized in cases like discontinuous predicates and resumptive pronouns. Another issue about the mapping is how the linear strings are organized prosodically, and to what extent the prosodic domains align with syntactic structures. I approach the issue by looking at right dislocation.
