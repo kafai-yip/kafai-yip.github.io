@@ -31,7 +31,7 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 
 ## Upcoming talks
 
-2025, Sep 10-12. Exclusive focus in Akan and type flexibility. [TripleA-12](https://lingconf.com/triplea12/), Tokyo University of Foreign Studies. [with [Comfort Ahenkorah](https://comfortahenkorah.com/)]
+2025, Sep 10-12. Exclusive focus in Akan and type flexibility. [TripleA-12](https://lingconf.com/triplea12/), Tokyo University of Foreign Studies. [with [Comfort Ahenkorah](https://comfortahenkorah.com/)] [[slides](https://kafai-yip.github.io/assets/docs/TripleA-12_Akan only_slides.pdf)] 
 
 2025, Sep 23-27. Asymmetric reconstruction for binding but not for scope. [SuB-30](https://vicom.info/sub30/), Frankfurt. [with [Yusuke Yagi](https://sites.google.com/view/yusukeyagi/home)]
 
