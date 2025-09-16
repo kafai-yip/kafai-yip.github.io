@@ -31,14 +31,17 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 
 ## Upcoming talks
 
-2025, Sep 10-12. Exclusive focus in Akan and type flexibility. [TripleA-12](https://lingconf.com/triplea12/), Tokyo University of Foreign Studies. [with [Comfort Ahenkorah](https://comfortahenkorah.com/)] [[slides](https://kafai-yip.github.io/assets/docs/TripleA-12_Akan only_slides.pdf)] 
-
 2025, Sep 23-27. Asymmetric reconstruction for binding but not for scope. [SuB-30](https://vicom.info/sub30/), Frankfurt. [with [Yusuke Yagi](https://sites.google.com/view/yusukeyagi/home)]
 
 2025, Oct 17-19. Exclusive focus in Akan and type flexibility. Poster at [NELS-56](https://wp.nyu.edu/artsampscience-nels56/), NYU. [with [Comfort Ahenkorah](https://comfortahenkorah.com/)]
 
+2026, Jan 8-11. Varieties in scalarity of exclusives. LSA Annual Meeting, New Orleans. 
+
+2026, Jan 8-11. Does the Williams Cycle apply to Mandarin Chinese? LSA Annual Meeting, New Orleans. [with [Fulang Chen](https://sites.google.com/view/fulang-chen/home?authuser=0)]
 
 ## Recent talks
+
+2025, Sep 10-12. Exclusive focus in Akan and type flexibility. [TripleA-12](https://lingconf.com/triplea12/), Tokyo University of Foreign Studies. [with [Comfort Ahenkorah](https://comfortahenkorah.com/)] [[slides](https://kafai-yip.github.io/assets/docs/TripleA-12_Akan only_slides.pdf)] 
 
 2025, Aug 12. Semantic dependency between focus particles in exclusive doubling. SynSem, NUS, Singapore. [[slides](https://kafai-yip.github.io/assets/docs/NUS_only_slides.pdf)] 
 
