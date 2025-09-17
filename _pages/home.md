@@ -18,10 +18,8 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 
 
 {% capture notice-text %}
-* My paper "[A unified biclausal approach to right dislocation in Chinese](https://lingbuzz.net/lingbuzz/007912)" is accepted by *Journal of East Asian Linguistics*!
-* My paper "[Inner aspect in Cantonese](https://lingbuzz.net/lingbuzz/008705)" is published in [*FLaP FIRST*](https://doi.org/10.5281/zenodo.15461747)! Reviews and replies are open access.
-* My WCCFL-41 paper "[Agreeing with 'only'](https://www.lingref.com/cpp/wccfl/41/abstract3797.html)" is published!
-* Our NELS-55 paper "[Facilitator effects in Mandarin topicalization: Evidence for a crossing-based view of anti-locality](https://lingbuzz.net/lingbuzz/009066)" (with [Fulang Chen](https://sites.google.com/view/fulang-chen/)) is on lingbuzz!
+* Our WCCFL-43 paper "[Diagnosing multidominance by focus association of ‘only’](https://lingbuzz.net/lingbuzz/009304)" (with [Squid Tamar-Mattis](https://campuspress.yale.edu/squidtm/)) is on lingbuzz!
+* My GLOW-47 paper "[Right dislocation as multidominance, and beyond](https://lingbuzz.net/lingbuzz/009305)" is on lingbuzz!
 {% endcapture %}
 
 <div class="notice--info">
@@ -37,7 +35,7 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 
 2026, Jan 8-11. Varieties in scalarity of exclusives. LSA Annual Meeting, New Orleans. 
 
-2026, Jan 8-11. Does the Williams Cycle apply to Mandarin Chinese? LSA Annual Meeting, New Orleans. [with [Fulang Chen](https://sites.google.com/view/fulang-chen/home?authuser=0)]
+2026, Jan 8-11. Does the Williams Cycle apply to Mandarin Chinese? LSA Annual Meeting, New Orleans. [with [Fulang Chen](https://sites.google.com/view/fulang-chen/home?authuser=0)] [[abstract](https://kafai-yip.github.io/assets/docs/LSA-2026_abstract_chenyip.pdf)] 
 
 ## Recent talks
 
@@ -56,19 +54,9 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 
 2025, Apr 30. Against a syntactic approach to *wh*-rhetorical questions — with special focus on Cantonese (and Vietnamese). Colloquium talk at National Tsing Hua University. [[handout](https://kafai-yip.github.io/assets/docs/Neg-wh-RQ_handout.pdf)]
 
-2025, Apr 25-27. Diagnosing multidominance by focus association of ‘only’. [WCCFL-43](https://wccfl43.github.io/), UW. [with [Squid Tamar-Mattis](https://campuspress.yale.edu/squidtm/)] [[abstract](https://kafai-yip.github.io/assets/docs/RNR-only_WCCFL-43_abstract_YipTamar-Mattis.pdf)]  [[handout](https://kafai-yip.github.io/assets/docs/RNR-only_WCCFL-43_handout.pdf)]
-
-2025, Apr 25-27. A parametric view on exclusive focus particles. Poster at [WCCFL-43](https://wccfl43.github.io/), UW. [[abstract](https://kafai-yip.github.io/assets/docs/only-typology_WCCFL-43_abstract_Yip.pdf)] [[poster](https://kafai-yip.github.io/assets/docs/only-typology_WCCFL-43_poster.pdf)]
-
-2025, Apr 5-6. Biclausal multidominant syntax of right dislocation. [PLC-49](https://sites.google.com/sas.upenn.edu/plc49/plc-49?authuser=0), UPenn. [[slides](https://kafai-yip.github.io/assets/docs/RD_multi_PLC-49_slides.pdf)] [[handout](https://kafai-yip.github.io/assets/docs/RD_multi_PLC-49_handout.pdf)]
-
-2025, Mar 24-28. Backward association of exclusive particles and scope freezing. Short talk at [GLOW-47](https://glowlinguistics.org/47/), Frankfurt & Göttingen. [with [Daniel Aremu](https://aremudaniel90.wixsite.com/linguist-dan) and [Bode Adedeji](https://bodeadedeji.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/BAwF_GLOW-47_handout.pdf)]
-
-2025, Mar 24-28. Right dislocation as multidominance, and beyond. Poster at [GLOW-47](https://glowlinguistics.org/47/), Frankfurt & Göttingen. [[poster](https://kafai-yip.github.io/assets/docs/RD_GLOW-47_poster.pdf)]
-
 2025, Mar 18-20. Parametric variations in discontinuous predicates in Sinitic languages. [TEAL-14](https://sites.google.com/view/teal14/home), USC. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/D-Preds_TEAL-14_handout.pdf)]
 
-2025, Mar 3-4. Scalarity in exclusive doubling. [Workshop on the Syntax and Semantics of Scalarity](https://linguistlist.org/issues/35/3265/), Stuttgart. [[handout](https://kafai-yip.github.io/assets/docs/only_SYSSI_handout.pdf)] 
+
 
 
 
