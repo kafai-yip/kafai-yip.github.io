@@ -36,6 +36,10 @@ Olabode Adedeji](https://bodeadedeji.github.io/)]
 
 1. [A unified biclausal approach to right dislocation in Chinese](https://lingbuzz.net/lingbuzz/007912). *Journal of East Asian Linguistics*.
 
+1. [Diagnosing multidominance by focus association of ‘only’](https://lingbuzz.net/lingbuzz/009304). *Proceedings of WCCFL-43*. [with [Squid Tamar-Mattis](https://campuspress.yale.edu/squidtm/)]
+
+1.  [Right dislocation as multidominance, and beyond](https://lingbuzz.net/lingbuzz/009305). *Proceedings of GLOW-47*.
+
 1. [Facilitator effects in Mandarin topicalization: Evidence for a crossing-based view of anti-locality](https://lingbuzz.net/lingbuzz/009066). *Proceedings of NELS-55*. [with [Fulang Chen](https://sites.google.com/view/fulang-chen/)]
 
 1. [Linguistic and social aspects of sibilant palatalization in homeland and heritage Cantonese](https://ling.auf.net/lingbuzz/008415). To appear in *Proceedings of NACCL-36*. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang]
