@@ -33,6 +33,8 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 
 2025, Oct 17-19. Exclusive focus in Akan and type flexibility. Poster at [NELS-56](https://wp.nyu.edu/artsampscience-nels56/), NYU. [with [Comfort Ahenkorah](https://comfortahenkorah.com/)]
 
+2025, Oct 20. Parameterizing 'only'. [SURGE](https://sites.rutgers.edu/lgsa/reading-groups/surge/), Rutgers.
+
 2026, Jan 8-11. Varieties in scalarity of exclusives. LSA Annual Meeting, New Orleans. 
 
 2026, Jan 8-11. Does the Williams Cycle apply to Mandarin Chinese? LSA Annual Meeting, New Orleans. [with [Fulang Chen](https://sites.google.com/view/fulang-chen/home?authuser=0)] [[abstract](https://kafai-yip.github.io/assets/docs/LSA-2026_abstract_chenyip.pdf)] 
