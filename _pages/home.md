@@ -35,6 +35,8 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 
 2025, Oct 20. Parameterizing 'only'. [SURGE](https://sites.rutgers.edu/lgsa/reading-groups/surge/), Rutgers.
 
+2025, Dec 5-7. Converging and diverging variations in metaphorization of light verbs: A corpus study on four Chinese speech communities. [PACLIC-39](https://vlsp.org.vn/paclic2025/), VIASM, Hanoi, Vietnam. [with Yaxuan Ji, Dicky Ko, Thomas Ho & Benjamin K. Tsou(https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134)]
+
 2026, Jan 8-11. Varieties in scalarity of exclusives. LSA Annual Meeting, New Orleans. 
 
 2026, Jan 8-11. Does the Williams Cycle apply to Mandarin Chinese? LSA Annual Meeting, New Orleans. [with [Fulang Chen](https://sites.google.com/view/fulang-chen/home?authuser=0)] [[abstract](https://kafai-yip.github.io/assets/docs/LSA-2026_abstract_chenyip.pdf)] 
