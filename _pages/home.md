@@ -18,8 +18,10 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 
 
 {% capture notice-text %}
+* My *JEAL* paper on right dislocation "[A unified biclausal approach to right dislocation in Chinese](https://link.springer.com/article/10.1007/s10831-025-09307-2)" is published! [[view-only link](https://rdcu.be/eIwd8)]
 * Our WCCFL-43 paper "[Diagnosing multidominance by focus association of ‘only’](https://lingbuzz.net/lingbuzz/009304)" (with [Squid Tamar-Mattis](https://campuspress.yale.edu/squidtm/)) is on lingbuzz!
 * My GLOW-47 paper "[Right dislocation as multidominance, and beyond](https://lingbuzz.net/lingbuzz/009305)" is on lingbuzz!
+* Our paper on "Cantonese Master Challenge" is published! [[paper](https://doi.org/10.6853/DADH.202504_(15).0003)] [[the challenge](https://docs.google.com/forms/d/e/1FAIpQLSftNvAKn8IwvlxxQcL8PgGEQM9qg91dghH5fjC7-Wri7dIVSA/viewform)]
 {% endcapture %}
 
 <div class="notice--info">
@@ -28,8 +30,6 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 </div>
 
 ## Upcoming talks
-
-2025, Sep 23-27. Asymmetric reconstruction for binding but not for scope. [SuB-30](https://vicom.info/sub30/), Frankfurt. [with [Yusuke Yagi](https://sites.google.com/view/yusukeyagi/home)] [[handout](https://kafai-yip.github.io/assets/docs/SuB-30_reconstruction_handout.pdf)] 
 
 2025, Oct 17-19. Exclusive focus in Akan and type flexibility. Poster at [NELS-56](https://wp.nyu.edu/artsampscience-nels56/), NYU. [with [Comfort Ahenkorah](https://comfortahenkorah.com/)]
 
@@ -42,6 +42,8 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 2026, Jan 8-11. Does the Williams Cycle apply to Mandarin Chinese? LSA Annual Meeting, New Orleans. [with [Fulang Chen](https://sites.google.com/view/fulang-chen/home?authuser=0)] [[abstract](https://kafai-yip.github.io/assets/docs/LSA-2026_abstract_chenyip.pdf)] 
 
 ## Recent talks
+
+2025, Sep 23-27. Asymmetric reconstruction for binding but not for scope. [SuB-30](https://vicom.info/sub30/), Frankfurt. [with [Yusuke Yagi](https://sites.google.com/view/yusukeyagi/home)] [[handout](https://kafai-yip.github.io/assets/docs/SuB-30_reconstruction_handout.pdf)] 
 
 2025, Sep 10-12. Exclusive focus in Akan and type flexibility. [TripleA-12](https://lingconf.com/triplea12/), Tokyo University of Foreign Studies. [with [Comfort Ahenkorah](https://comfortahenkorah.com/)] [[slides](https://kafai-yip.github.io/assets/docs/TripleA-12_Akan only_slides.pdf)] 
 
