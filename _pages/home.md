@@ -19,6 +19,7 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 
 {% capture notice-text %}
 * My *JEAL* paper on right dislocation "[A unified biclausal approach to right dislocation in Chinese](https://link.springer.com/article/10.1007/s10831-025-09307-2)" is published! [[view-only link](https://rdcu.be/eIwd8)]
+* My WCCFL-43 paper "[A parametric view on exclusive focus particles](https://lingbuzz.net/lingbuzz/009358)" is on lingbuzz!
 * Our WCCFL-43 paper "[Diagnosing multidominance by focus association of ‘only’](https://lingbuzz.net/lingbuzz/009304)" (with [Squid Tamar-Mattis](https://campuspress.yale.edu/squidtm/)) is on lingbuzz!
 * My GLOW-47 paper "[Right dislocation as multidominance, and beyond](https://lingbuzz.net/lingbuzz/009305)" is on lingbuzz!
 * Our paper on "Cantonese Master Challenge" is published! [[paper](https://doi.org/10.6853/DADH.202504_(15).0003)] [[the challenge](https://docs.google.com/forms/d/e/1FAIpQLSftNvAKn8IwvlxxQcL8PgGEQM9qg91dghH5fjC7-Wri7dIVSA/viewform)]
