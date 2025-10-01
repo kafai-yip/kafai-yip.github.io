@@ -34,6 +34,8 @@ Olabode Adedeji](https://bodeadedeji.github.io/)]
 
 ### Forthcoming
 
+1. [A parametric view on exclusive focus particles](https://lingbuzz.net/lingbuzz/009358). *Proceedings of WCCFL-43*.
+   
 1. [Diagnosing multidominance by focus association of ‘only’](https://lingbuzz.net/lingbuzz/009304). *Proceedings of WCCFL-43*. [with [Squid Tamar-Mattis](https://campuspress.yale.edu/squidtm/)]
 
 1.  [Right dislocation as multidominance, and beyond](https://lingbuzz.net/lingbuzz/009305). *Proceedings of GLOW-47*.
