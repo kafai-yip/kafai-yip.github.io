@@ -59,7 +59,7 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 
 2025, Mar 18-20. Parametric variations in discontinuous predicates in Sinitic languages. [TEAL-14](https://sites.google.com/view/teal14/home), USC. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/D-Preds_TEAL-14_handout.pdf)]
 
-
+2024. [Hyperraising, evidentiality, and phase deactivation](https://doi.org/10.1007/s11049-023-09604-2). *Natural Language and Linguistic Theory* 42(4): 1527-1578. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
 
 
