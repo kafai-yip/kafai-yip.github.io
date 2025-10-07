@@ -54,12 +54,12 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 
 ## Less recent but still good
 
-2025, May 1. The structural matching effects in adverbial and converbal clauses. Guest lecture at *Main Clause Phenomena and the Syntax of Chinese*, National Tsing Hua University. [[slides](https://docs.google.com/presentation/d/1lquJrnhFrcNKnHdVx_z8EdNHEK0tDJSu3y25T85MKM8/edit?usp=sharing
-)]
+1. [Slides](https://docs.google.com/presentation/d/1lquJrnhFrcNKnHdVx_z8EdNHEK0tDJSu3y25T85MKM8/edit?usp=sharing
+) on "The structural matching effects in adverbial and converbal clauses". (Guest lecture at *Main Clause Phenomena and the Syntax of Chinese*, National Tsing Hua University, 2025) 
 
-2025, Mar 18-20. Parametric variations in discontinuous predicates in Sinitic languages. [TEAL-14](https://sites.google.com/view/teal14/home), USC. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/D-Preds_TEAL-14_handout.pdf)]
+2. [Handout](https://kafai-yip.github.io/assets/docs/D-Preds_TEAL-14_handout.pdf) on "Parametric variations in discontinuous predicates in Sinitic languages". ([TEAL-14](https://sites.google.com/view/teal14/home), USC, 2025) [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
-(2024). [Hyperraising, evidentiality, and phase deactivation](https://doi.org/10.1007/s11049-023-09604-2). *Natural Language and Linguistic Theory* 42(4): 1527-1578. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
+3. [Paper](https://doi.org/10.1007/s11049-023-09604-2) on "Hyperraising, evidentiality, and phase deactivation". (*NLLT* 42(4): 1527-1578) [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
 
 
