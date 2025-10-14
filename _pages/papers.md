@@ -8,23 +8,23 @@ classes: wide
 ## Manuscripts
 (Comments are welcome!)
 
-1. [Partial deletion on head chains: Discontinuous predicates in Cantonese](https://ling.auf.net/lingbuzz/008420). In revision. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
+1. [Partial deletion on head chains: Discontinuous predicates in Cantonese](https://ling.auf.net/lingbuzz/008420). Under review. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
 
-1. [Again, split aspect and finiteness in Chinese languages](https://lingbuzz.net/lingbuzz/008780). In revision, *Natural Language and Linguistic Theory*. [with [Yuyang Liu](https://yuyliu.github.io/)]
+1. [Again, split aspect and finiteness in Chinese languages](https://lingbuzz.net/lingbuzz/008780). Under review, *Natural Language and Linguistic Theory*. [with [Yuyang Liu](https://yuyliu.github.io/)]
 
 
-1. [A quantifier-particle approach to exclusive focus particles in Yorùbá](https://lingbuzz.net/lingbuzz/008470). Submitted, *Contemporary African Linguistics*. [with [
+1. [A quantifier-particle approach to exclusive focus particles in Yorùbá](https://lingbuzz.net/lingbuzz/008470). Under review, *Contemporary African Linguistics*. [with [
 Olabode Adedeji](https://bodeadedeji.github.io/)]
 
 
-1. [Differentiating between evidential bias and epistemic bias in questions: Evidence from Cantonese](https://lingbuzz.net/lingbuzz/008751). Submitted, *Language and Linguistics*. 
+1. [Differentiating between evidential bias and epistemic bias in questions: Evidence from Cantonese](https://lingbuzz.net/lingbuzz/008751). Under review, *Language and Linguistics*. 
 
 1. [Separable verbs in Cantonese](https://ling.auf.net/lingbuzz/008731). Submitted, *The Routledge Handbook of Cantonese Linguistics.*. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
-1. Subject resumption in Akan and *v*P phasehood. In prep. [with [Comfort Ahenkorah](https://ling.yale.edu/people/comfort-ahenkorah)]
+1. [Defocus Rephrasing: right dislocation and syntax-prosody mismatches](https://lingbuzz.net/lingbuzz/009398). Ms. [with [Xuetong Yuan](https://www.xuetongyuan.org/)]
 
-1. Defocus Rephrasing: right dislocation and syntax-prosody mismatches. In prep. [with [Xuetong Yuan](https://www.xuetongyuan.org/)]
+1. Subject resumption in Akan and *v*P phasehood. In prep. [with [Comfort Ahenkorah](https://ling.yale.edu/people/comfort-ahenkorah)]
 
 1. An agreement analysis of temporal converbs. In prep.
 
