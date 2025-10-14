@@ -18,6 +18,7 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 
 
 {% capture notice-text %}
+* Fresh manuscript: "[Defocus Rephrasing: right dislocation and syntax-prosody mismatches](https://lingbuzz.net/lingbuzz/009398)" -- comments welcome! [with [Xuetong Yuan](https://www.xuetongyuan.org/)]
 * My *JEAL* paper on right dislocation "[A unified biclausal approach to right dislocation in Chinese](https://link.springer.com/article/10.1007/s10831-025-09307-2)" is published! [[view-only link](https://rdcu.be/eIwd8)]
 * My WCCFL-43 paper "[A parametric view on exclusive focus particles](https://lingbuzz.net/lingbuzz/009358)" is on lingbuzz!
 * Our WCCFL-43 paper "[Diagnosing multidominance by focus association of ‘only’](https://lingbuzz.net/lingbuzz/009304)" (with [Squid Tamar-Mattis](https://campuspress.yale.edu/squidtm/)) is on lingbuzz!
