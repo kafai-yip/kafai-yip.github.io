@@ -40,6 +40,8 @@ Olabode Adedeji](https://bodeadedeji.github.io/)]
 
 1. [Facilitator effects in Mandarin topicalization: Evidence for a crossing-based view of anti-locality](https://lingbuzz.net/lingbuzz/009066). *Proceedings of NELS-55*. [with [Fulang Chen](https://sites.google.com/view/fulang-chen/)]
 
+1. [Converging and diverging variations in metaphorization of light verbs: A corpus study on four Chinese speech communities](https://lingbuzz.net/lingbuzz/009455). To appear in *Proceedings of PACLIC-39*. [with Yaxuan Ji, Dicky Ko, Thomas Ho & [Benjamin K. Tsou](https://www.researchgate.net/profile/Benjamin-Tsou-3)]
+
 1. [Linguistic and social aspects of sibilant palatalization in homeland and heritage Cantonese](https://ling.auf.net/lingbuzz/008415). To appear in *Proceedings of NACCL-36*. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang]
 
 
@@ -106,7 +108,7 @@ Olabode Adedeji](https://bodeadedeji.github.io/)]
 
 1. Generalized Scope Economy. In [*NACCL-32*](https://drive.google.com/drive/folders/1OmSblMCKfrwF36JopSRAaa8RErgqCThY), 345-360. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
-1. [Bilingual multi-word expressions, multiple-correspondence, and their cultivation from parallel patents: the Chinese-English case](https://aclanthology.org/2020.paclic-1.68/). In *PACLIC-34*, 589-602. [with [Benjamin K. Tsou](https://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_rkcl=1&peop_StfID=134), Ka Po Chow, [John Lee](http://www2.lt.cityu.edu.hk/~jsylee/), Yaxuan Ji & Kevin Wu]
+1. [Bilingual multi-word expressions, multiple-correspondence, and their cultivation from parallel patents: the Chinese-English case](https://aclanthology.org/2020.paclic-1.68/). In *PACLIC-34*, 589-602. [with [Benjamin K. Tsou](https://www.researchgate.net/profile/Benjamin-Tsou-3), Ka Po Chow, [John Lee](http://www2.lt.cityu.edu.hk/~jsylee/), Yaxuan Ji & Kevin Wu]
 
 1. [粵語動詞後綴“親”的三個框式結構[Three discontinuous constructions of Cantonese verbal suffix *can*]](http://www.cuhk.edu.hk/ics/clrc/crcl_99_1/yip.pdf) (written in Chinese). *Current Research in Chinese Linguistics* 99(1):153-169.
 
