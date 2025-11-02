@@ -33,7 +33,7 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 
 ## Upcoming talks
 
-2025, Dec 5-7. Converging and diverging variations in metaphorization of light verbs: A corpus study on four Chinese speech communities. [PACLIC-39](https://vlsp.org.vn/paclic2025/), VIASM, Hanoi, Vietnam. [with Yaxuan Ji, Dicky Ko, Thomas Ho & [Benjamin K. Tsou](https://www.researchgate.net/profile/Benjamin-Tsou-3)]
+2025, Dec 5-7. Converging and diverging variations in metaphorization of light verbs: A corpus study on four Chinese speech communities. [PACLIC-39](https://vlsp.org.vn/paclic2025/), VIASM, Hanoi, Vietnam. [with Yaxuan Ji, Dicky Ko, Thomas Ho & [Benjamin K. Tsou](https://www.researchgate.net/profile/Benjamin-Tsou-3)] [paper](https://lingbuzz.net/lingbuzz/009455)
 
 2025, Dec 18-19. Intervention effects are not uniform: evidence from exclusive doubling in Cantonese. [ICFAMC-4](https://ling.cuhk.edu.hk/conference/icfamc4/en_index.html), CUHK. 
 
