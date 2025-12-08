@@ -18,11 +18,7 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 
 
 {% capture notice-text %}
-* Fresh manuscript: "[Defocus Rephrasing: right dislocation and syntax-prosody mismatches](https://lingbuzz.net/lingbuzz/009398)" -- comments welcome! [with [Xuetong Yuan](https://www.xuetongyuan.org/)]
 * My *JEAL* paper on right dislocation "[A unified biclausal approach to right dislocation in Chinese](https://link.springer.com/article/10.1007/s10831-025-09307-2)" is published! [[view-only link](https://rdcu.be/eIwd8)]
-* My WCCFL-43 paper "[A parametric view on exclusive focus particles](https://lingbuzz.net/lingbuzz/009358)" is on lingbuzz!
-* Our WCCFL-43 paper "[Diagnosing multidominance by focus association of ‘only’](https://lingbuzz.net/lingbuzz/009304)" (with [Squid Tamar-Mattis](https://campuspress.yale.edu/squidtm/)) is on lingbuzz!
-* My GLOW-47 paper "[Right dislocation as multidominance, and beyond](https://lingbuzz.net/lingbuzz/009305)" is on lingbuzz!
 * Our paper on "Cantonese Master Challenge" is published! [[paper](https://doi.org/10.6853/DADH.202504_(15).0003)] [[the challenge](https://docs.google.com/forms/d/e/1FAIpQLSftNvAKn8IwvlxxQcL8PgGEQM9qg91dghH5fjC7-Wri7dIVSA/viewform)]
 {% endcapture %}
 
@@ -33,19 +29,21 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 
 ## Upcoming talks
 
-2025, Dec 5-7. Converging and diverging variations in metaphorization of light verbs: A corpus study on four Chinese speech communities. [PACLIC-39](https://vlsp.org.vn/paclic2025/), VIASM, Hanoi, Vietnam. [with Yaxuan Ji, Dicky Ko, Thomas Ho & [Benjamin K. Tsou](https://www.researchgate.net/profile/Benjamin-Tsou-3)] [[paper](https://lingbuzz.net/lingbuzz/009455)]
-
 2025, Dec 18-19. Intervention effects are not uniform: evidence from exclusive doubling in Cantonese. [ICFAMC-4](https://ling.cuhk.edu.hk/conference/icfamc4/en_index.html), CUHK. 
 
 2026, Jan 8-11. Varieties in scalarity of exclusives. LSA Annual Meeting, New Orleans. 
 
 2026, Jan 8-11. Does the Williams Cycle apply to Mandarin Chinese? LSA Annual Meeting, New Orleans. [with [Fulang Chen](https://sites.google.com/view/fulang-chen/home?authuser=0)] [[abstract](https://kafai-yip.github.io/assets/docs/LSA-2026_abstract_chenyip.pdf)] 
 
+2026, Feb 26-27. Two types of exclusive doubling in Vietnamese. The 6th annual meeting of International Symposium of Vietnamese Linguistics (ISVL 6), Ca' Foscari University of Venice.
+
 ## Recent talks
 
-2025, Oct 17-19. Exclusive focus in Akan and type flexibility. Poster at [NELS-56](https://wp.nyu.edu/artsampscience-nels56/), NYU. [with [Comfort Ahenkorah](https://comfortahenkorah.com/)]
+2025, Dec 5-7. Converging and diverging variations in metaphorization of light verbs: A corpus study on four Chinese speech communities. [PACLIC-39](https://vlsp.org.vn/paclic2025/), VIASM, Hanoi, Vietnam. [with Yaxuan Ji, Dicky Ko, Thomas Ho & [Benjamin K. Tsou](https://www.researchgate.net/profile/Benjamin-Tsou-3)] [[paper](https://lingbuzz.net/lingbuzz/009455)]
 
 2025, Oct 20. Parameterizing 'only'. [SURGE](https://sites.rutgers.edu/lgsa/reading-groups/surge/), Rutgers.
+
+2025, Oct 17-19. Exclusive focus in Akan and type flexibility. Poster at [NELS-56](https://wp.nyu.edu/artsampscience-nels56/), NYU. [with [Comfort Ahenkorah](https://comfortahenkorah.com/)]
 
 2025, Sep 23-27. Asymmetric reconstruction for binding but not for scope. [SuB-30](https://vicom.info/sub30/), Frankfurt. [with [Yusuke Yagi](https://sites.google.com/view/yusukeyagi/home)] [[handout](https://kafai-yip.github.io/assets/docs/SuB-30_reconstruction_handout.pdf)] 
 
