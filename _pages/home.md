@@ -29,7 +29,7 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 
 ## Upcoming talks
 
-2025, Dec 18-19. Intervention effects are not uniform: evidence from exclusive doubling in Cantonese. [ICFAMC-4](https://ling.cuhk.edu.hk/conference/icfamc4/en_index.html), CUHK. 
+2025, Dec 18-19. Intervention effects are not uniform: evidence from exclusive doubling in Cantonese. [ICFAMC-4](https://ling.cuhk.edu.hk/conference/icfamc4/en_index.html), CUHK.  [[slides](https://kafai-yip.github.io/assets/docs/ICFAMC4_only_slides.pdf)] 
 
 2026, Jan 8-11. Varieties in scalarity of exclusives. LSA Annual Meeting, New Orleans. 
 
