@@ -37,8 +37,6 @@ Olabode Adedeji](https://bodeadedeji.github.io/)]
 
 1.  [Right dislocation as multidominance, and beyond](https://lingbuzz.net/lingbuzz/009305). *Proceedings of GLOW-47*.
 
-1. [Facilitator effects in Mandarin topicalization: Evidence for a crossing-based view of anti-locality](https://lingbuzz.net/lingbuzz/009066). *Proceedings of NELS-55*. [with [Fulang Chen](https://sites.google.com/view/fulang-chen/)]
-
 1. [Converging and diverging variations in metaphorization of light verbs: A corpus study on four Chinese speech communities](https://lingbuzz.net/lingbuzz/009455). To appear in *Proceedings of PACLIC-39*. [with Yaxuan Ji, Dicky Ko, Thomas Ho & [Benjamin K. Tsou](https://www.researchgate.net/profile/Benjamin-Tsou-3)]
 
 1. [Linguistic and social aspects of sibilant palatalization in homeland and heritage Cantonese](https://ling.auf.net/lingbuzz/008415). To appear in *Proceedings of NACCL-36*. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang]
@@ -53,6 +51,8 @@ Olabode Adedeji](https://bodeadedeji.github.io/)]
 1. [Inner aspect in Cantonese](https://kafai-yip.github.io/assets/docs/Yip (2025) Inner aspect in Cantonese.pdf). *[FLaP FIRST](https://doi.org/10.5281/zenodo.15461747)* 1(1):15–36. [[lingbuzz](https://lingbuzz.net/lingbuzz/008705)]
    
 1. [Agreeing with ‘only’](https://www.lingref.com/cpp/wccfl/41/abstract3797.html). *Proceedings of WCCFL-41*, 616–626. [[lingbuzz](https://ling.auf.net/lingbuzz/007525)]
+
+1. [Facilitator effects in Mandarin topicalization: Evidence for a crossing-based view of anti-locality](https://lingbuzz.net/lingbuzz/009066). *Proceedings of NELS-55, vol.1*, 115–128. [with [Fulang Chen](https://sites.google.com/view/fulang-chen/)]
 
 1. [線上問答遊戲「廣東話達人挑戰」：遊戲化科普與眾包式數據收集[Online Quiz Game “Cantonese Master Challenge”: Gamifying Linguistics Popularization and Crowdsourced Data Collection]](https://doi.org/10.6853/DADH.202504_(15).0003). *Journal of Digital Archives and Digital Humanities* 15: 85-124. [with Yik-Po Lai, Mei-ying Ki, Chaak-ming Lau, Tommy Tsz-Ming Lee, Oscar Wong, Kam Pang Wong] [[the challenge](https://docs.google.com/forms/d/e/1FAIpQLSftNvAKn8IwvlxxQcL8PgGEQM9qg91dghH5fjC7-Wri7dIVSA/viewform)]
 
