@@ -29,15 +29,22 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 
 ## Upcoming talks
 
-2025, Dec 18-19. Intervention effects are not uniform: evidence from exclusive doubling in Cantonese. [ICFAMC-4](https://ling.cuhk.edu.hk/conference/icfamc4/en_index.html), CUHK.  [[slides](https://kafai-yip.github.io/assets/docs/ICFAMC4_only_slides.pdf)] 
-
 2026, Jan 8-11. Varieties in scalarity of exclusives. LSA Annual Meeting, New Orleans. 
 
 2026, Jan 8-11. Does the Williams Cycle apply to Mandarin Chinese? LSA Annual Meeting, New Orleans. [with [Fulang Chen](https://sites.google.com/view/fulang-chen/home?authuser=0)] [[abstract](https://kafai-yip.github.io/assets/docs/LSA-2026_abstract_chenyip.pdf)] 
 
 2026, Feb 26-27. Two types of exclusive doubling in Vietnamese. The 6th annual meeting of International Symposium of Vietnamese Linguistics (ISVL 6), Ca' Foscari University of Venice.
 
+2026, Feb 28-Mar 1. Revisiting Parallel Chains: a long road to repetition. [PLC-50](https://sites.google.com/sas.upenn.edu/plc50/plc-50?authuser=2), UPenn. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
+
+2026, Mar 13-15. Revisiting Parallel Chains: a long road to repetition. [The 2nd GLOW in Asia Workshop for Young Scholars](https://rci.nanzan-u.ac.jp/linguistics/ja/glow/), Nanzan. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
+
+2026, May 21-23. A partial Copy Deletion account of non-agreeing resumptive pronouns in Yorùbá. [ACAL-57](https://sites.google.com/view/acal57/), Buffalo. [with [
+Olabode Adedeji](https://bodeadedeji.github.io/)]
+
 ## Recent talks
+
+2025, Dec 18-19. Intervention effects are not uniform: evidence from exclusive doubling in Cantonese. [ICFAMC-4](https://ling.cuhk.edu.hk/conference/icfamc4/en_index.html), CUHK.  [[slides](https://kafai-yip.github.io/assets/docs/ICFAMC4_only_slides.pdf)] 
 
 2025, Dec 5-7. Converging and diverging variations in metaphorization of light verbs: A corpus study on four Chinese speech communities. [PACLIC-39](https://vlsp.org.vn/paclic2025/), VIASM, Hanoi, Vietnam. [with Yaxuan Ji, Dicky Ko, Thomas Ho & [Benjamin K. Tsou](https://www.researchgate.net/profile/Benjamin-Tsou-3)] [[paper](https://lingbuzz.net/lingbuzz/009455)]
 
