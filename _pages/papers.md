@@ -8,19 +8,16 @@ classes: wide
 ## Manuscripts
 (Comments are welcome!)
 
-1. [Again, split aspect and finiteness in Chinese languages](https://lingbuzz.net/lingbuzz/008780). Minor revision, *Natural Language and Linguistic Theory*. [with [Yuyang Liu](https://yuyliu.github.io/)]
+1. [Again, split aspect and finiteness in Chinese languages](https://lingbuzz.net/lingbuzz/008780). Accetped with minor revision, *Natural Language and Linguistic Theory*. [with [Yuyang Liu](https://yuyliu.github.io/)]
 
-1. [Partial deletion on head chains: Discontinuous predicates in Cantonese](https://ling.auf.net/lingbuzz/008420). Under review. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
-
-1. [A quantifier-particle approach to exclusive focus particles in Yorùbá](https://lingbuzz.net/lingbuzz/008470). Under review, *Contemporary African Linguistics*. [with [
+1. [A quantifier-particle approach to exclusive focus particles in Yorùbá](https://lingbuzz.net/lingbuzz/008470). Accetped with minor revision, *Contemporary African Linguistics: Selected Papers from the 55th Annual Conference on African Linguistics*. [with [
 Olabode Adedeji](https://bodeadedeji.github.io/)]
 
+1. [Partial deletion on head chains: Discontinuous predicates in Cantonese](https://ling.auf.net/lingbuzz/008420). Under review, *Linguistic Inquiry*. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
 1. [Differentiating between evidential bias and epistemic bias in questions: Evidence from Cantonese](https://lingbuzz.net/lingbuzz/008751). Under review, *Language and Linguistics*. 
 
-1. [Separable verbs in Cantonese](https://ling.auf.net/lingbuzz/008731). Submitted, *The Routledge Handbook of Cantonese Linguistics.*. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
-
-1. [Defocus Rephrasing: right dislocation and syntax-prosody mismatches](https://lingbuzz.net/lingbuzz/009398). Ms. [with [Xuetong Yuan](https://www.xuetongyuan.org/)]
+1. [Defocus Rephrasing: right dislocation and syntax-prosody mismatches](https://lingbuzz.net/lingbuzz/009398). Under review, *Natural Language and Linguistic Theory*. [with [Xuetong Yuan](https://www.xuetongyuan.org/)]
 
 1. Subject resumption in Akan and *v*P phasehood. In prep. [with [Comfort Ahenkorah](https://ling.yale.edu/people/comfort-ahenkorah)]
 
@@ -31,6 +28,8 @@ Olabode Adedeji](https://bodeadedeji.github.io/)]
 ## Publications
 
 ### Forthcoming
+
+1. [Separable verbs in Cantonese](https://ling.auf.net/lingbuzz/008731). *The Routledge Handbook of Cantonese Linguistics.*. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
 1. [A parametric view on exclusive focus particles](https://lingbuzz.net/lingbuzz/009358). *Proceedings of WCCFL-43*.
    
