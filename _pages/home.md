@@ -29,9 +29,9 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 
 ## Upcoming talks
 
-2026, Jan 8-11. Varieties in scalarity of exclusives. LSA Annual Meeting, New Orleans. 
+2026, Jan 8-11. Varieties in scalarity of exclusives. LSA Annual Meeting, New Orleans. [[handout](https://kafai-yip.github.io/assets/docs/only_LSA_handout.pdf)] 
 
-2026, Jan 8-11. Does the Williams Cycle apply to Mandarin Chinese? LSA Annual Meeting, New Orleans. [with [Fulang Chen](https://sites.google.com/view/fulang-chen/home?authuser=0)] [[abstract](https://kafai-yip.github.io/assets/docs/LSA-2026_abstract_chenyip.pdf)] 
+2026, Jan 8-11. Does the Williams Cycle apply to Mandarin Chinese? LSA Annual Meeting, New Orleans. [with [Fulang Chen](https://sites.google.com/view/fulang-chen/home?authuser=0)] [[handout](https://kafai-yip.github.io/assets/docs/AgainstWC_LSA-2026_handout.pdf)] 
 
 2026, Feb 26-27. Two types of exclusive doubling in Vietnamese. The 6th annual meeting of International Symposium of Vietnamese Linguistics (ISVL 6), Ca' Foscari University of Venice.
 
