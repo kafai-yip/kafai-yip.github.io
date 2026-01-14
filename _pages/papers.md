@@ -15,7 +15,7 @@ Olabode Adedeji](https://bodeadedeji.github.io/)]
 
 1. [Partial deletion on head chains: Discontinuous predicates in Cantonese](https://ling.auf.net/lingbuzz/008420). Under review, *Linguistic Inquiry*. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
-1. [Differentiating between evidential bias and epistemic bias in questions: Evidence from Cantonese](https://lingbuzz.net/lingbuzz/008751). Under review, *Language and Linguistics*. 
+1. [Differentiating between evidential bias and epistemic bias in questions: Evidence from Cantonese](https://lingbuzz.net/lingbuzz/008751). Under review. 
 
 1. [Defocus Rephrasing: right dislocation and syntax-prosody mismatches](https://lingbuzz.net/lingbuzz/009398). Under review, *Natural Language and Linguistic Theory*. [with [Xuetong Yuan](https://www.xuetongyuan.org/)]
 
