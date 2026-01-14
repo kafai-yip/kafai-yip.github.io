@@ -8,7 +8,7 @@ classes: wide
 ## Manuscripts
 (Comments are welcome!)
 
-1. [Again, split aspect and finiteness in Chinese languages](https://lingbuzz.net/lingbuzz/008780). Accepted with minor revision, *Natural Language and Linguistic Theory*. [with [Yuyang Liu](https://yuyliu.github.io/)]
+1. [Again, split aspect and finiteness in Chinese languages](https://lingbuzz.net/lingbuzz/008780). To appear, *Natural Language and Linguistic Theory*. [with [Yuyang Liu](https://yuyliu.github.io/)]
 
 1. [A quantifier-particle approach to exclusive focus particles in Yorùbá](https://lingbuzz.net/lingbuzz/008470). Accepted with minor revision, *Contemporary African Linguistics: Selected Papers from the 55th Annual Conference on African Linguistics*. [with [
 Olabode Adedeji](https://bodeadedeji.github.io/)]
