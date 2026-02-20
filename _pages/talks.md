@@ -7,19 +7,28 @@ classes: wide
 
 *Feel free to email me if you'd like to access any handout that is not available here!*
 
+### 2026
+
+1. Varieties in scalarity of exclusives. LSA Annual Meeting, New Orleans. [[handout](https://kafai-yip.github.io/assets/docs/only_LSA_handout.pdf)] 
+
+1. Does the Williams Cycle apply to Mandarin Chinese? LSA Annual Meeting, New Orleans. [with [Fulang Chen](https://sites.google.com/view/fulang-chen/home?authuser=0)] [[handout](https://kafai-yip.github.io/assets/docs/AgainstWC_LSA-2026_handout.pdf)] 
+
 
 ### 2025
 
+1. Semantic dependency between focus particles in exclusive doubling. SynSem, NUS, Singapore. [[slides](https://kafai-yip.github.io/assets/docs/NUS_only_slides.pdf)] 
+
+1. Intervention effects are not uniform: evidence from exclusive doubling in Cantonese. [ICFAMC-4](https://ling.cuhk.edu.hk/conference/icfamc4/en_index.html), CUHK.  [[slides](https://kafai-yip.github.io/assets/docs/ICFAMC4_only_slides.pdf)]
 
 1. Diagnosing multidominance by focus association of ‘only’. [WCCFL-43](https://wccfl43.github.io/), UW. [with [Squid Tamar-Mattis](https://campuspress.yale.edu/squidtm/)] [[abstract](https://kafai-yip.github.io/assets/docs/RNR-only_WCCFL-43_abstract_YipTamar-Mattis.pdf)]  [[handout](https://kafai-yip.github.io/assets/docs/RNR-only_WCCFL-43_handout.pdf)]
 
 1. A parametric view on exclusive focus particles. Poster at [WCCFL-43](https://wccfl43.github.io/), UW. [[abstract](https://kafai-yip.github.io/assets/docs/only-typology_WCCFL-43_abstract_Yip.pdf)] [[poster](https://kafai-yip.github.io/assets/docs/only-typology_WCCFL-43_poster.pdf)]
 
+1. Exclusive focus in Akan and type flexibility. [TripleA-12](https://lingconf.com/triplea12/), Tokyo University of Foreign Studies. [with [Comfort Ahenkorah](https://comfortahenkorah.com/)] [[slides](https://kafai-yip.github.io/assets/docs/TripleA-12_Akan only_slides.pdf)] 
+
 1. Backward association of exclusive particles and scope freezing. Short talk at [GLOW-47](https://glowlinguistics.org/47/), Frankfurt & Göttingen. [with [Daniel Aremu](https://aremudaniel90.wixsite.com/linguist-dan) and [Bode Adedeji](https://bodeadedeji.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/BAwF_GLOW-47_handout.pdf)]
 
 1. Right dislocation as multidominance, and beyond. Poster at [GLOW-47](https://glowlinguistics.org/47/), Frankfurt & Göttingen. [[poster](https://kafai-yip.github.io/assets/docs/RD_GLOW-47_poster.pdf)]
-
-1. Scalarity in exclusive doubling. [Workshop on the Syntax and Semantics of Scalarity](https://linguistlist.org/issues/35/3265/), Stuttgart. [[handout](https://kafai-yip.github.io/assets/docs/only_SYSSI_handout.pdf)] 
 
 1. Parametric variations in discontinuous predicates in Sinitic languages. [TEAL-14](https://sites.google.com/view/teal14/home), USC. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/D-Preds_TEAL-14_handout.pdf)]
 
@@ -28,7 +37,7 @@ classes: wide
 1. The structural matching effects in adverbial and converbal clauses. Guest lecture at *Main Clause Phenomena and the Syntax of Chinese*, National Tsing Hua University. [[slides](https://docs.google.com/presentation/d/1lquJrnhFrcNKnHdVx_z8EdNHEK0tDJSu3y25T85MKM8/edit?usp=sharing
 )]
 
-
+1. Converging and diverging variations in metaphorization of light verbs: A corpus study on four Chinese speech communities. [PACLIC-39](https://vlsp.org.vn/paclic2025/), VIASM, Hanoi, Vietnam. [with Yaxuan Ji, Dicky Ko, Thomas Ho & [Benjamin K. Tsou](https://www.researchgate.net/profile/Benjamin-Tsou-3)] [[paper](https://lingbuzz.net/lingbuzz/009455)
 
 
 ### 2024
