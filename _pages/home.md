@@ -52,7 +52,7 @@ Olabode Adedeji](https://bodeadedeji.github.io/)]
 
 
 
-## Less recent but still good
+## Less recent but still pretty good
 
 * [Slides](https://docs.google.com/presentation/d/1lquJrnhFrcNKnHdVx_z8EdNHEK0tDJSu3y25T85MKM8/edit?usp=sharing
 ) on "The structural matching effects in adverbial and converbal clauses". (Guest lecture, NTHU, 2025) 
