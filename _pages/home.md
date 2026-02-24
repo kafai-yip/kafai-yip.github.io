@@ -28,7 +28,7 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 
 ## Upcoming talks
 
-2026, Feb 26-27. Two types of exclusive doubling in Vietnamese. The 6th annual meeting of International Symposium of Vietnamese Linguistics (ISVL 6), Ca' Foscari University of Venice.
+2026, Feb 26-27. Two types of exclusive doubling in Vietnamese. The 6th annual meeting of International Symposium of Vietnamese Linguistics (ISVL 6), Ca' Foscari University of Venice. [[handout](https://kafai-yip.github.io/assets/docs/only_ISVL-6_handout.pdf)] 
 
 2026, Feb 28-Mar 1. Revisiting Parallel Chains: a long road to repetition. [PLC-50](https://sites.google.com/sas.upenn.edu/plc50/plc-50?authuser=2), UPenn. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
