@@ -28,10 +28,6 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 
 ## Upcoming talks
 
-2026, Feb 26-27. Two types of exclusive doubling in Vietnamese. The 6th annual meeting of International Symposium of Vietnamese Linguistics (ISVL 6), Ca' Foscari University of Venice. [[handout](https://kafai-yip.github.io/assets/docs/only_ISVL-6_handout.pdf)] 
-
-2026, Feb 28-Mar 1. Revisiting Parallel Chains: a long road to repetition. [PLC-50](https://sites.google.com/sas.upenn.edu/plc50/plc-50?authuser=2), UPenn. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)] [[slides](https://kafai-yip.github.io/assets/docs/PC_PLC-50_slides.pdf)] 
-
 2026, Mar 13-15. Revisiting Parallel Chains: a long road to repetition. [The 2nd GLOW in Asia Workshop for Young Scholars](https://rci.nanzan-u.ac.jp/linguistics/ja/glow/), Nanzan. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
 2026, May 21-23. A partial Copy Deletion account of non-agreeing resumptive pronouns in Yorùbá. [ACAL-57](https://sites.google.com/view/acal57/), Buffalo. [with [
@@ -41,6 +37,10 @@ Olabode Adedeji](https://bodeadedeji.github.io/)]
 Olabode Adedeji](https://bodeadedeji.github.io/)]
 
 ## Recent talks
+
+2026, Feb 28-Mar 1. Revisiting Parallel Chains: a long road to repetition. [PLC-50](https://sites.google.com/sas.upenn.edu/plc50/plc-50?authuser=2), UPenn. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)] [[slides](https://kafai-yip.github.io/assets/docs/PC_PLC-50_slides.pdf)] 
+
+2026, Feb 26-27. Two types of exclusive doubling in Vietnamese. The 6th annual meeting of International Symposium of Vietnamese Linguistics (ISVL 6), Ca' Foscari University of Venice. [[handout](https://kafai-yip.github.io/assets/docs/only_ISVL-6_handout.pdf)] 
 
 2026, Jan 8-11. Varieties in scalarity of exclusives. LSA Annual Meeting, New Orleans. [[handout](https://kafai-yip.github.io/assets/docs/only_LSA_handout.pdf)] 
 
