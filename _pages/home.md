@@ -18,7 +18,9 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 
 
 {% capture notice-text %}
-* Stay tuned!
+* I've defended my dissertation ``Doubling Down on Exclusivity: Issues at the Syntax-Semantics Interface'' on March 6th!
+* I'll be teaching a course on Cantonese syntax at [EACL 13th Summer school in Chinese Linguistics](https://www.chineselinguistics.eu/category/next-spring-summer-school/) (July 27-31)!  
+* Our PACLIC-39 paper ``[Converging and diverging variations in metaphorization of light verbs: A corpus study on four Chinese speech communities](https://aclanthology.org/2025.paclic-1.17/)'' is published!
 {% endcapture %}
 
 <div class="notice--info">
@@ -26,9 +28,9 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
   {{ notice-text | markdownify }}
 </div>
 
-## Upcoming talks
+## Upcoming presentations
 
-2026, Mar 13-15. Revisiting Parallel Chains: a long road to repetition. [The 2nd GLOW in Asia Workshop for Young Scholars](https://rci.nanzan-u.ac.jp/linguistics/ja/glow/), Nanzan. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
+2026, April 17-19. Syntax below words: verbal suffixation in Chinese. Poster at [CLS-62](https://www.chicagolinguisticsociety.com/), UChicago. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
 2026, May 21-23. A partial Copy Deletion account of non-agreeing resumptive pronouns in Yorùbá. [ACAL-57](https://sites.google.com/view/acal57/), Buffalo. [with [
 Olabode Adedeji](https://bodeadedeji.github.io/)]
@@ -36,7 +38,9 @@ Olabode Adedeji](https://bodeadedeji.github.io/)]
 2026, May 21-23. Defending a quantifier-particle approach to Yorùbá exclusives. [ACAL-57](https://sites.google.com/view/acal57/), Buffalo. [with [
 Olabode Adedeji](https://bodeadedeji.github.io/)]
 
-## Recent talks
+## Recent presentations
+
+2026, Mar 13-15. Revisiting Parallel Chains: a long road to repetition. [The 2nd GLOW in Asia Workshop for Young Scholars](https://rci.nanzan-u.ac.jp/linguistics/ja/glow/), Nanzan. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
 2026, Feb 28-Mar 1. Revisiting Parallel Chains: a long road to repetition. [PLC-50](https://sites.google.com/sas.upenn.edu/plc50/plc-50?authuser=2), UPenn. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)] [[slides](https://kafai-yip.github.io/assets/docs/PC_PLC-50_slides.pdf)] 
 
