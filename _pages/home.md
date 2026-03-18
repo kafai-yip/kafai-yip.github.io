@@ -18,9 +18,9 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 
 
 {% capture notice-text %}
-* I've defended my dissertation ``Doubling Down on Exclusivity: Issues at the Syntax-Semantics Interface'' on March 6th!
+* I've defended my dissertation "Doubling Down on Exclusivity: Issues at the Syntax-Semantics Interface" on March 6th!
 * I'll be teaching a course on Cantonese syntax at [EACL 13th Summer school in Chinese Linguistics](https://www.chineselinguistics.eu/category/next-spring-summer-school/) (July 27-31)!  
-* Our PACLIC-39 paper ``[Converging and diverging variations in metaphorization of light verbs: A corpus study on four Chinese speech communities](https://aclanthology.org/2025.paclic-1.17/)'' is published!
+* Our PACLIC-39 paper "[Converging and diverging variations in metaphorization of light verbs: A corpus study on four Chinese speech communities](https://aclanthology.org/2025.paclic-1.17/)" is published!
 {% endcapture %}
 
 <div class="notice--info">
