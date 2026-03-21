@@ -38,7 +38,7 @@ Olabode Adedeji](https://bodeadedeji.github.io/)]
 2026, May 21-23. Defending a quantifier-particle approach to Yorùbá exclusives. [ACAL-57](https://sites.google.com/view/acal57/), Buffalo. [with [
 Olabode Adedeji](https://bodeadedeji.github.io/)]
 
-2026, Jun 3-5. Only Exclusive Doubling in Thai. [SEALS-35](https://sites.google.com/view/seals35/home?authuser=0), NUS. [with [Woraprat Manowang](https://sites.google.com/kmitl.ac.th/gumpmanowang/)]
+2026, Jun 3-5. Only Exclusive Doubling in Thai. [SEALS-35](https://sites.google.com/view/seals35/home?authuser=0), NTU. [with [Woraprat Manowang](https://sites.google.com/kmitl.ac.th/gumpmanowang/)]
 
 2026, Jun 26-28. 同中存異：泛華語地區動詞虛化比較研究. [IFOLCE-9](https://lt.cityu.edu.hk/ifolce-9/), CityUHK. [with [Benjamin K. Tsou](https://www.researchgate.net/profile/Benjamin-Tsou-3) & Thomas Ho]
 
