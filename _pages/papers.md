@@ -36,8 +36,6 @@ classes: wide
 
 1.  [Right dislocation as multidominance, and beyond](https://lingbuzz.net/lingbuzz/009305). *Proceedings of GLOW-47*.
 
-1. [Converging and diverging variations in metaphorization of light verbs: A corpus study on four Chinese speech communities](https://lingbuzz.net/lingbuzz/009455). To appear in *Proceedings of PACLIC-39*. [with Yaxuan Ji, Dicky Ko, Thomas Ho & [Benjamin K. Tsou](https://www.researchgate.net/profile/Benjamin-Tsou-3)]
-
 1. [Linguistic and social aspects of sibilant palatalization in homeland and heritage Cantonese](https://ling.auf.net/lingbuzz/008415). To appear in *Proceedings of NACCL-36*. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang]
 
 
@@ -46,6 +44,8 @@ classes: wide
 ### 2025
 
 1. [A unified biclausal approach to right dislocation in Chinese](https://link.springer.com/article/10.1007/s10831-025-09307-2). *Journal of East Asian Linguistics*.  [[view-only link](https://rdcu.be/eIwd8)]
+
+1. [Converging and diverging variations in metaphorization of light verbs: A corpus study on four Chinese speech communities](https://aclanthology.org/2025.paclic-1.17/). In *Proceedings of PACLIC-39*, 200-214. [with Yaxuan Ji, Dicky Ko, Thomas Ho & [Benjamin K. Tsou](https://www.researchgate.net/profile/Benjamin-Tsou-3)] [[lingbuzz](https://lingbuzz.net/lingbuzz/009455)]
 
 1. [Inner aspect in Cantonese](https://kafai-yip.github.io/assets/docs/Yip (2025) Inner aspect in Cantonese.pdf). *[FLaP FIRST](https://doi.org/10.5281/zenodo.15461747)* 1(1):15–36. [[lingbuzz](https://lingbuzz.net/lingbuzz/008705)]
    
