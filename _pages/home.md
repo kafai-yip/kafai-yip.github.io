@@ -33,10 +33,10 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 2026, April 17-19. Syntax below words: verbal suffixation in Chinese. Poster at [CLS-62](https://www.chicagolinguisticsociety.com/), UChicago. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
 2026, May 21-23. A partial Copy Deletion account of non-agreeing resumptive pronouns in Yorùbá. [ACAL-57](https://sites.google.com/view/acal57/), Buffalo. [with [
-Olabode Adedeji](https://bodeadedeji.github.io/)]
+Bode Adedeji](https://bodeadedeji.github.io/)]
 
 2026, May 21-23. Defending a quantifier-particle approach to Yorùbá exclusives. [ACAL-57](https://sites.google.com/view/acal57/), Buffalo. [with [
-Olabode Adedeji](https://bodeadedeji.github.io/)]
+Bode Adedeji](https://bodeadedeji.github.io/)]
 
 2026, Jun 3-5. Only Exclusive Doubling in Thai. [SEALS-35](https://sites.google.com/view/seals35/home?authuser=0), NTU. [with [Woraprat Manowang](https://sites.google.com/kmitl.ac.th/gumpmanowang/)]
 
