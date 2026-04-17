@@ -30,7 +30,7 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 
 ## Upcoming presentations
 
-2026, April 17-19. Syntax below words: verbal suffixation in Chinese. Poster at [CLS-62](https://www.chicagolinguisticsociety.com/), UChicago. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
+2026, April 17-19. Syntax below words: verbal suffixation in Chinese. Poster at [CLS-62](https://www.chicagolinguisticsociety.com/), UChicago. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]  [[poster](https://kafai-yip.github.io/assets/docs/suffixation_CLS-62_poster_20260416.pdf)] 
 
 2026, May 21-23. A partial Copy Deletion account of non-agreeing resumptive pronouns in Yorùbá. [ACAL-57](https://sites.google.com/view/acal57/), Buffalo. [with [
 Bode Adedeji](https://bodeadedeji.github.io/)]
