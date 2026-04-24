@@ -36,6 +36,8 @@ classes: wide
 
 1.  [Right dislocation as multidominance, and beyond](https://lingbuzz.net/lingbuzz/009305). *Proceedings of GLOW-47*.
 
+1. [Does the Williams Cycle apply to Mandarin Chinese?](https://ling.auf.net/lingbuzz/009919) *Proceedings of LSA-2026*. [with [Fulang Chen](https://sites.google.com/view/fulang-chen/)]
+
 1. [Linguistic and social aspects of sibilant palatalization in homeland and heritage Cantonese](https://ling.auf.net/lingbuzz/008415). To appear in *Proceedings of NACCL-36*. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang]
 
 
