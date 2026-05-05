@@ -18,9 +18,9 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 
 
 {% capture notice-text %}
+* My GLOW-47 paper "[Right dislocation as multidominance, and beyond](https://biecoll.ub.uni-bielefeld.de/index.php/glow/article/view/1262)" is published! 
 * I've defended my dissertation "Doubling Down on Exclusivity: Issues at the Syntax-Semantics Interface" on March 6th!
 * I'll be teaching a course on Cantonese syntax at [EACL 13th Summer school in Chinese Linguistics](https://www.chineselinguistics.eu/category/next-spring-summer-school/) (July 27-31)!  
-* Our PACLIC-39 paper "[Converging and diverging variations in metaphorization of light verbs: A corpus study on four Chinese speech communities](https://aclanthology.org/2025.paclic-1.17/)" is published!
 {% endcapture %}
 
 <div class="notice--info">
@@ -29,8 +29,6 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 </div>
 
 ## Upcoming presentations
-
-2026, April 17-19. Syntax below words: verbal suffixation in Chinese. Poster at [CLS-62](https://www.chicagolinguisticsociety.com/), UChicago. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]  [[poster](https://kafai-yip.github.io/assets/docs/suffixation_CLS-62_poster_20260416.pdf)] 
 
 2026, May 21-23. A partial Copy Deletion account of non-agreeing resumptive pronouns in Yorùbá. [ACAL-57](https://sites.google.com/view/acal57/), Buffalo. [with [
 Bode Adedeji](https://bodeadedeji.github.io/)]
@@ -43,6 +41,8 @@ Bode Adedeji](https://bodeadedeji.github.io/)]
 2026, Jun 26-28. 同中存異：泛華語地區動詞虛化比較研究. [IFOLCE-9](https://lt.cityu.edu.hk/ifolce-9/), CityUHK. [with [Benjamin K. Tsou](https://www.researchgate.net/profile/Benjamin-Tsou-3) & Thomas Ho]
 
 ## Recent presentations
+
+2026, April 17-19. Syntax below words: verbal suffixation in Chinese. Poster at [CLS-62](https://www.chicagolinguisticsociety.com/), UChicago. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]  [[poster](https://kafai-yip.github.io/assets/docs/suffixation_CLS-62_poster_20260416.pdf)] 
 
 2026, Mar 13-15. Revisiting Parallel Chains: a long road to repetition. [The 2nd GLOW in Asia Workshop for Young Scholars](https://rci.nanzan-u.ac.jp/linguistics/ja/glow/), Nanzan. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
