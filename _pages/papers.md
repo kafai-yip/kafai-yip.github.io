@@ -14,7 +14,7 @@ classes: wide
 
 1. [Differentiating between evidential bias and epistemic bias in questions: Evidence from Cantonese](https://lingbuzz.net/lingbuzz/008751). Under review. 
 
-1. [Defocus Rephrasing: right dislocation and syntax-prosody mismatches](https://lingbuzz.net/lingbuzz/009398). Under review, *Natural Language and Linguistic Theory*. [with [Xuetong Yuan](https://www.xuetongyuan.org/)]
+1. [Defocus Rephrasing: right dislocation and syntax-prosody mismatches](https://lingbuzz.net/lingbuzz/009398). In revision, *Natural Language and Linguistic Theory*. [with [Xuetong Yuan](https://www.xuetongyuan.org/)]
 
 1. Subject resumption in Akan and *v*P phasehood. In prep. [with [Comfort Ahenkorah](https://ling.yale.edu/people/comfort-ahenkorah)]
 
@@ -34,13 +34,13 @@ classes: wide
    
 1. [Diagnosing multidominance by focus association of ‘only’](https://lingbuzz.net/lingbuzz/009304). *Proceedings of WCCFL-43*. [with [Squid Tamar-Mattis](https://campuspress.yale.edu/squidtm/)]
 
-1.  [Right dislocation as multidominance, and beyond](https://lingbuzz.net/lingbuzz/009305). *Proceedings of GLOW-47*.
-
 1. [Does the Williams Cycle apply to Mandarin Chinese?](https://ling.auf.net/lingbuzz/009919) *Proceedings of LSA-2026*. [with [Fulang Chen](https://sites.google.com/view/fulang-chen/)]
 
 1. [Linguistic and social aspects of sibilant palatalization in homeland and heritage Cantonese](https://ling.auf.net/lingbuzz/008415). To appear in *Proceedings of NACCL-36*. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang]
 
+### 2026
 
+1. [Right dislocation as multidominance, and beyond](https://biecoll.ub.uni-bielefeld.de/index.php/glow/article/view/1262). *Proceedings of GLOW-47*. [[lingbuzz](https://lingbuzz.net/lingbuzz/009305)]
 
 
 ### 2025
