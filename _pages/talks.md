@@ -32,6 +32,8 @@ classes: wide
 
 1. Parametric variations in discontinuous predicates in Sinitic languages. [TEAL-14](https://sites.google.com/view/teal14/home), USC. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/D-Preds_TEAL-14_handout.pdf)]
 
+1. Asymmetric reconstruction for binding but not for scope. [SuB-30](https://vicom.info/sub30/), Frankfurt. [with [Yusuke Yagi](https://sites.google.com/view/yusukeyagi/home)] [[handout](https://kafai-yip.github.io/assets/docs/SuB-30_reconstruction_handout.pdf)] 
+
 1. Against a syntactic approach to *wh*-rhetorical questions — with special focus on Cantonese (and Vietnamese). Colloquium talk at National Tsing Hua University. [[handout](https://kafai-yip.github.io/assets/docs/Neg-wh-RQ_handout.pdf)]
 
 1. The structural matching effects in adverbial and converbal clauses. Guest lecture at *Main Clause Phenomena and the Syntax of Chinese*, National Tsing Hua University. [[slides](https://docs.google.com/presentation/d/1lquJrnhFrcNKnHdVx_z8EdNHEK0tDJSu3y25T85MKM8/edit?usp=sharing
