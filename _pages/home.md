@@ -18,6 +18,7 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 
 
 {% capture notice-text %}
+* My joint NLLT paper with [Yuyang Liu](https://yuyliu.github.io/) "[Again, finiteness, and split aspect in Chinese languages](https://doi.org/10.1007/s11049-026-09708-5)" is published! 
 * My GLOW-47 paper "[Right dislocation as multidominance, and beyond](https://biecoll.ub.uni-bielefeld.de/index.php/glow/article/view/1262)" is published! 
 * I've defended my dissertation "Doubling Down on Exclusivity: Issues at the Syntax-Semantics Interface" on March 6th!
 * I'll be teaching a course on Cantonese syntax at [EACL 13th Summer school in Chinese Linguistics](https://www.chineselinguistics.eu/category/next-spring-summer-school/) (July 27-31)!  
