@@ -26,8 +26,6 @@ classes: wide
 
 ### Forthcoming
 
-1. [Again, split aspect and finiteness in Chinese languages](https://lingbuzz.net/lingbuzz/008780). To appear, *Natural Language and Linguistic Theory*. [with [Yuyang Liu](https://yuyliu.github.io/)]
-
 1. [Separable verbs in Cantonese](https://ling.auf.net/lingbuzz/008731). *The Routledge Handbook of Cantonese Linguistics.*. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
 1. [A parametric view on exclusive focus particles](https://lingbuzz.net/lingbuzz/009358). *Proceedings of WCCFL-43*.
@@ -39,6 +37,8 @@ classes: wide
 1. [Linguistic and social aspects of sibilant palatalization in homeland and heritage Cantonese](https://ling.auf.net/lingbuzz/008415). To appear in *Proceedings of NACCL-36*. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang]
 
 ### 2026
+
+1. [Again, finiteness, and split aspect in Chinese languages](https://doi.org/10.1007/s11049-026-09708-5). *Natural Language and Linguistic Theory*. [with [Yuyang Liu](https://yuyliu.github.io/)]
 
 1. [Right dislocation as multidominance, and beyond](https://biecoll.ub.uni-bielefeld.de/index.php/glow/article/view/1262). *Proceedings of GLOW-47*. [[lingbuzz](https://lingbuzz.net/lingbuzz/009305)]
 
