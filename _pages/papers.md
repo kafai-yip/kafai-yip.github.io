@@ -30,7 +30,7 @@ classes: wide
 
 1. [A parametric view on exclusive focus particles](https://lingbuzz.net/lingbuzz/009358). *Proceedings of WCCFL-43*.
 
-1. [Exclusive focus in Akan and type flexibility](https://lingbuzz.net/lingbuzz/009304). *Proceedings of NELS-56*. [with [Comfort Ahenkorah](https://comfortahenkorah.com/)]
+1. [Exclusive focus in Akan and type flexibility](https://lingbuzz.net/lingbuzz/010003). *Proceedings of NELS-56*. [with [Comfort Ahenkorah](https://comfortahenkorah.com/)]
    
 1. [Diagnosing multidominance by focus association of ‘only’](https://lingbuzz.net/lingbuzz/009304). *Proceedings of WCCFL-43*. [with [Squid Tamar-Mattis](https://campuspress.yale.edu/squidtm/)]
 
