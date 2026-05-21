@@ -32,7 +32,7 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 ## Upcoming presentations
 
 2026, May 21-23. A partial Copy Deletion account of non-agreeing resumptive pronouns in Yorùbá. [ACAL-57](https://sites.google.com/view/acal57/), Buffalo. [with [
-Bode Adedeji](https://bodeadedeji.github.io/)]
+Bode Adedeji](https://bodeadedeji.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/ACAL-57_resumption_handout.pdf)] 
 
 2026, May 21-23. Defending a quantifier-particle approach to Yorùbá exclusives. [ACAL-57](https://sites.google.com/view/acal57/), Buffalo. [with [
 Bode Adedeji](https://bodeadedeji.github.io/)]
