@@ -35,7 +35,7 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 Bode Adedeji](https://bodeadedeji.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/ACAL-57_resumption_handout.pdf)] 
 
 2026, May 21-23. Defending a quantifier-particle approach to Yorùbá exclusives. [ACAL-57](https://sites.google.com/view/acal57/), Buffalo. [with [
-Bode Adedeji](https://bodeadedeji.github.io/)]
+Bode Adedeji](https://bodeadedeji.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/ACAL-57_only_handout.pdf)] 
 
 2026, May 30. A preliminary study on syntactic variation between Saigon and Hong Kong Cantonese. [WOC-26](https://lshk.org/events/woc/), CiyUHK. [with My Thi Ha]
 
