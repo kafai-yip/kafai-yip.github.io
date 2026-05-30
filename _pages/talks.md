@@ -9,10 +9,15 @@ classes: wide
 
 ### 2026
 
+1. Feb 26-27. Two types of exclusive doubling in Vietnamese. The 6th annual meeting of International Symposium of Vietnamese Linguistics (ISVL 6), Ca' Foscari University of Venice. [[handout](https://kafai-yip.github.io/assets/docs/only_ISVL-6_handout.pdf)] 
+
 1. Varieties in scalarity of exclusives. LSA Annual Meeting, New Orleans. [[handout](https://kafai-yip.github.io/assets/docs/only_LSA_handout.pdf)] 
 
 1. Does the Williams Cycle apply to Mandarin Chinese? LSA Annual Meeting, New Orleans. [with [Fulang Chen](https://sites.google.com/view/fulang-chen/home?authuser=0)] [[handout](https://kafai-yip.github.io/assets/docs/AgainstWC_LSA-2026_handout.pdf)] 
 
+1. Mar 13-15. Revisiting Parallel Chains: a long road to repetition. [The 2nd GLOW in Asia Workshop for Young Scholars](https://rci.nanzan-u.ac.jp/linguistics/ja/glow/), Nanzan. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
+
+1. Feb 28-Mar 1. Revisiting Parallel Chains: a long road to repetition. [PLC-50](https://sites.google.com/sas.upenn.edu/plc50/plc-50?authuser=2), UPenn. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)] [[slides](https://kafai-yip.github.io/assets/docs/PC_PLC-50_slides.pdf)] 
 
 ### 2025
 
