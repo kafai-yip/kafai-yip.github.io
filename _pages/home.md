@@ -31,6 +31,17 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 
 ## Upcoming presentations
 
+2026, Jun 3-5. Only Exclusive Doubling in Thai. [SEALS-35](https://sites.google.com/view/seals35/home?authuser=0), NTU. [with [Woraprat Manowang](https://sites.google.com/kmitl.ac.th/gumpmanowang/)]
+
+2026, Jun 5-6. Sentence-final negation questions from a comparative perspective. [TEAL-15](https://www.cuhk.edu.hk/ics/clrc/teal15/index.html), CUHK. [with [Zhuo Chen](https://www.zhuochenlinguist.com/) and Jiahui Huang†].
+
+2026, Jun 26-28. 同中存異：泛華語地區動詞虛化比較研究. [IFOLCE-9](https://lt.cityu.edu.hk/ifolce-9/), CityUHK. [with [Benjamin K. Tsou](https://www.researchgate.net/profile/Benjamin-Tsou-3) & Thomas Ho]
+
+2026, Sep 2-4. A scalar focus approach to exclusive doubling in Vietnamese. [Sub-31](https://sites.google.com/view/sub31nantes/home?authuser=0), Nantes.
+
+
+## Recent presentations
+
 2026, May 21-23. A partial Copy Deletion account of non-agreeing resumptive pronouns in Yorùbá. [ACAL-57](https://sites.google.com/view/acal57/), Buffalo. [with [
 Bode Adedeji](https://bodeadedeji.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/ACAL-57_resumption_handout.pdf)] 
 
@@ -39,29 +50,8 @@ Bode Adedeji](https://bodeadedeji.github.io/)] [[handout](https://kafai-yip.gith
 
 2026, May 30. A preliminary study on syntactic variation between Saigon and Hong Kong Cantonese. [WOC-26](https://lshk.org/events/woc/), CiyUHK. [with My Thi Ha]
 
-2026, Jun 3-5. Only Exclusive Doubling in Thai. [SEALS-35](https://sites.google.com/view/seals35/home?authuser=0), NTU. [with [Woraprat Manowang](https://sites.google.com/kmitl.ac.th/gumpmanowang/)]
-
-2026, Jun 5-6. Sentence-final negation questions from a comparative perspective. [TEAL-15](https://www.cuhk.edu.hk/ics/clrc/teal15/index.html), CUHK. [with [Zhuo Chen](https://www.zhuochenlinguist.com/) and Jiahui Huang†].
-
-2026, Jun 26-28. 同中存異：泛華語地區動詞虛化比較研究. [IFOLCE-9](https://lt.cityu.edu.hk/ifolce-9/), CityUHK. [with [Benjamin K. Tsou](https://www.researchgate.net/profile/Benjamin-Tsou-3) & Thomas Ho]
-
-## Recent presentations
-
 2026, April 17-19. Syntax below words: verbal suffixation in Chinese. Poster at [CLS-62](https://www.chicagolinguisticsociety.com/), UChicago. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]  [[poster](https://kafai-yip.github.io/assets/docs/suffixation_CLS-62_poster_20260416.pdf)] 
 
-2026, Mar 13-15. Revisiting Parallel Chains: a long road to repetition. [The 2nd GLOW in Asia Workshop for Young Scholars](https://rci.nanzan-u.ac.jp/linguistics/ja/glow/), Nanzan. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
-
-2026, Feb 28-Mar 1. Revisiting Parallel Chains: a long road to repetition. [PLC-50](https://sites.google.com/sas.upenn.edu/plc50/plc-50?authuser=2), UPenn. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)] [[slides](https://kafai-yip.github.io/assets/docs/PC_PLC-50_slides.pdf)] 
-
-2026, Feb 26-27. Two types of exclusive doubling in Vietnamese. The 6th annual meeting of International Symposium of Vietnamese Linguistics (ISVL 6), Ca' Foscari University of Venice. [[handout](https://kafai-yip.github.io/assets/docs/only_ISVL-6_handout.pdf)] 
-
-2026, Jan 8-11. Varieties in scalarity of exclusives. LSA Annual Meeting, New Orleans. [[handout](https://kafai-yip.github.io/assets/docs/only_LSA_handout.pdf)] 
-
-2026, Jan 8-11. Does the Williams Cycle apply to Mandarin Chinese? LSA Annual Meeting, New Orleans. [with [Fulang Chen](https://sites.google.com/view/fulang-chen/home?authuser=0)] [[handout](https://kafai-yip.github.io/assets/docs/AgainstWC_LSA-2026_handout.pdf)] 
-
-2025, Dec 18-19. Intervention effects are not uniform: evidence from exclusive doubling in Cantonese. [ICFAMC-4](https://ling.cuhk.edu.hk/conference/icfamc4/en_index.html), CUHK.  [[slides](https://kafai-yip.github.io/assets/docs/ICFAMC4_only_slides.pdf)] 
-
-2025, Dec 5-7. Converging and diverging variations in metaphorization of light verbs: A corpus study on four Chinese speech communities. [PACLIC-39](https://vlsp.org.vn/paclic2025/), VIASM, Hanoi, Vietnam. [with Yaxuan Ji, Dicky Ko, Thomas Ho & [Benjamin K. Tsou](https://www.researchgate.net/profile/Benjamin-Tsou-3)] [[paper](https://lingbuzz.net/lingbuzz/009455)]
 
 
 
