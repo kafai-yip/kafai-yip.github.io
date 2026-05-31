@@ -37,7 +37,7 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 
 2026, Jun 26-28. 同中存異：泛華語地區動詞虛化比較研究. [IFOLCE-9](https://lt.cityu.edu.hk/ifolce-9/), CityUHK. [with [Benjamin K. Tsou](https://www.researchgate.net/profile/Benjamin-Tsou-3) & Thomas Ho]
 
-2026, Sep 2-4. A scalar focus approach to exclusive doubling in Vietnamese. [Sub-31](https://sites.google.com/view/sub31nantes/home?authuser=0), Nantes.
+2026, Sep 2-4. A scalar focus approach to exclusive doubling in Vietnamese. [SuB-31](https://sites.google.com/view/sub31nantes/home?authuser=0), Nantes.
 
 
 ## Recent presentations
