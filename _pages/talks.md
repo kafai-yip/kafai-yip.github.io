@@ -15,9 +15,17 @@ classes: wide
 
 1. Does the Williams Cycle apply to Mandarin Chinese? LSA Annual Meeting, New Orleans. [with [Fulang Chen](https://sites.google.com/view/fulang-chen/home?authuser=0)] [[handout](https://kafai-yip.github.io/assets/docs/AgainstWC_LSA-2026_handout.pdf)] 
 
-1. Revisiting Parallel Chains: a long road to repetition. [The 2nd GLOW in Asia Workshop for Young Scholars](https://rci.nanzan-u.ac.jp/linguistics/ja/glow/), Nanzan. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
+1. A partial Copy Deletion account of non-agreeing resumptive pronouns in Yorùbá. [ACAL-57](https://sites.google.com/view/acal57/), Buffalo. [with [
+Bode Adedeji](https://bodeadedeji.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/ACAL-57_resumption_handout.pdf)] 
+
+1. Defending a quantifier-particle approach to Yorùbá exclusives. [ACAL-57](https://sites.google.com/view/acal57/), Buffalo. [with [
+Bode Adedeji](https://bodeadedeji.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/ACAL-57_only_handout.pdf)] 
+
+1. Syntax below words: verbal suffixation in Chinese. Poster at [CLS-62](https://www.chicagolinguisticsociety.com/), UChicago. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]  [[poster](https://kafai-yip.github.io/assets/docs/suffixation_CLS-62_poster_20260416.pdf)] 
 
 1. Revisiting Parallel Chains: a long road to repetition. [PLC-50](https://sites.google.com/sas.upenn.edu/plc50/plc-50?authuser=2), UPenn. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)] [[slides](https://kafai-yip.github.io/assets/docs/PC_PLC-50_slides.pdf)] 
+
+1. A preliminary study on syntactic variation between Saigon and Hong Kong Cantonese. [WOC-26](https://lshk.org/events/woc/), CiyUHK. [with My Thi Ha]
 
 ### 2025
 
