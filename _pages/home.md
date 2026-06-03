@@ -31,7 +31,7 @@ I’m a PhD candidate in the Department of Linguistics at Yale University. I’m
 
 ## Upcoming presentations
 
-2026, Jun 3-5. Only Exclusive Doubling in Thai. [SEALS-35](https://sites.google.com/view/seals35/home?authuser=0), NTU. [with [Woraprat Manowang](https://sites.google.com/kmitl.ac.th/gumpmanowang/)]
+2026, Jun 3-5. Only Exclusive Doubling in Thai. [SEALS-35](https://sites.google.com/view/seals35/home?authuser=0), NTU. [with [Woraprat Manowang](https://sites.google.com/kmitl.ac.th/gumpmanowang/)] [[handout](https://kafai-yip.github.io/assets/docs/SEALS-35_only_handout.pdf)] 
 
 2026, Jun 5-6. Sentence-final negation questions from a comparative perspective. [TEAL-15](https://www.cuhk.edu.hk/ics/clrc/teal15/index.html), CUHK. [with [Zhuo Chen](https://www.zhuochenlinguist.com/) and Jiahui Huang†].
 
