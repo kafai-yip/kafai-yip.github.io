@@ -34,6 +34,8 @@ I’m a linguist. I’m interested in the structure of language and how it relat
 
 2026, Sep 2-4. A scalar focus approach to exclusive doubling in Vietnamese. [SuB-31](https://sites.google.com/view/sub31nantes/home?authuser=0), Nantes.
 
+2026, Oct 17-18. Syntax below words: verbal suffixation in Chinese. [NELS-57](https://nels57.commons.gc.cuny.edu/), CUNY. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
+
 
 ## Recent presentations
 
@@ -51,8 +53,6 @@ Bode Adedeji](https://bodeadedeji.github.io/)] [[handout](https://kafai-yip.gith
 Bode Adedeji](https://bodeadedeji.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/ACAL-57_only_handout.pdf)] 
 
 2026, May 30. A preliminary study on syntactic variation between Saigon and Hong Kong Cantonese. [WOC-26](https://lshk.org/events/woc/), CiyUHK. [with My Thi Ha]
-
-2026, April 17-19. Syntax below words: verbal suffixation in Chinese. Poster at [CLS-62](https://www.chicagolinguisticsociety.com/), UChicago. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]  [[poster](https://kafai-yip.github.io/assets/docs/suffixation_CLS-62_poster_20260416.pdf)] 
 
 
 
