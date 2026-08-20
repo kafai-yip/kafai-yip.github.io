@@ -1,6 +1,6 @@
 ---
 permalink: /papers/
-title: "Papers"
+title: "Outputs"
 toc: false
 classes: wide
 ---
