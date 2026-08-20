@@ -16,8 +16,6 @@ classes: wide
 
 - [粵語動詞後綴的完句問題[The Incompleteness Effects of Cantonese Verbal Suffixes]](https://kafai-yip.github.io/assets/docs/MPhil Thesis_YIP KA FAI_final draft_20190918_2.pdf), The Chinese University of Hong Kong.
 
-Dissertation_Yip
-
 
 ## Manuscripts
 (Comments are welcome!)
