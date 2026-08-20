@@ -1,5 +1,5 @@
 ---
-permalink: /papers/
+permalink: /outputs/
 title: "Outputs"
 toc: false
 classes: wide
