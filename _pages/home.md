@@ -18,10 +18,10 @@ I’m a linguist. I’m interested in the structure of language and how it relat
 
 
 {% capture notice-text %}
-* My joint paper "[Again, finiteness, and split aspect in Chinese languages](https://doi.org/10.1007/s11049-026-09708-5)"  with [Yuyang Liu](https://yuyliu.github.io/) is published in NLLT! 
-* My GLOW-47 paper "[Right dislocation as multidominance, and beyond](https://biecoll.ub.uni-bielefeld.de/index.php/glow/article/view/1262)" is published! 
-* I've defended my dissertation "Doubling Down on Exclusivity: Issues at the Syntax-Semantics Interface" on March 6th!
-* I'll be teaching a course on Cantonese syntax at [EACL 13th Summer school in Chinese Linguistics](https://www.chineselinguistics.eu/category/next-spring-summer-school/) (July 27-31)!  
+* My dissertation is "[Doubling Down on Exclusivity: Issues at the Syntax-Semantics Interface](https://kafai-yip.github.io/assets/docs/Dissertation_Yip.pdf)" now online! (also on [lingbuzz](https://lingbuzz.net/lingbuzz/010255))
+* My joint paper with Fulang Chen ["Does the Williams Cycle apply to Mandarin Chinese?](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/6152)" has been published in *LSA-2026* proceedings.
+* I co-authored a paper "[Pragmatic skill modulates sensitivity to phonetic cues to prominence, especially pitch-based cues](https://doi.org/10.16995/labphon.20170)" with [Jason Bishop](https://jbishop.ws.gc.cuny.edu/), [Mei-Ying Ki](https://kimeiying.ws.gc.cuny.edu/), and [Chen Zhou](https://www.researchgate.net/profile/Chen-Zhou-70), recently published in *Labphon*. 
+* The course materials on Cantonese syntax at [EACL 13th Summer school in Chinese Linguistics](https://www.chineselinguistics.eu/category/next-spring-summer-school/) are available here ([handouts](https://kafai-yip.github.io/assets/docs/EACL_Stuttgart_CantoneseSyntax.pdf); [readings](https://drive.google.com/drive/folders/1rcGYXag4CVsoLpCPdXnVv661gjQabsje?usp=sharing)).  
 {% endcapture %}
 
 <div class="notice--info">
@@ -33,6 +33,8 @@ I’m a linguist. I’m interested in the structure of language and how it relat
 
 
 2026, Sep 2-4. A scalar focus approach to exclusive doubling in Vietnamese. [SuB-31](https://sites.google.com/view/sub31nantes/home?authuser=0), Nantes.
+
+2026, Oct 7. TBA. Invited ChiLL talk, Leiden University.
 
 2026, Oct 16-18. Syntax below words: verbal suffixation in Chinese. [NELS-57](https://nels57.commons.gc.cuny.edu/), CUNY. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
