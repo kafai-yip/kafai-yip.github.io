@@ -56,6 +56,7 @@ classes: wide
 
 1. [Does the Williams Cycle apply to Mandarin Chinese?](https://doi.org/10.3765/plsa.v11i1.6152) *Proceedings of the Linguistic Society of America* 11 (1): 6152.1-15 [with [Fulang Chen](https://sites.google.com/view/fulang-chen/)] [[lingbuzz](https://lingbuzz.net/lingbuzz/009919)]
 
+1. [Pragmatic skill modulates sensitivity to phonetic cues to prominence, especially pitch-based cues](https://doi.org/10.16995/labphon.20170). *Laboratory Phonology*, 17(1): 1-42. [with [Jason Bishop](https://jbishop.ws.gc.cuny.edu/), [Mei-Ying Ki](https://kimeiying.ws.gc.cuny.edu/), and [Chen Zhou](https://www.researchgate.net/profile/Chen-Zhou-70)]
 
 ### 2025
 
