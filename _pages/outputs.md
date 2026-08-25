@@ -52,11 +52,11 @@ classes: wide
 
 1. [Again, finiteness, and split aspect in Chinese languages](https://doi.org/10.1007/s11049-026-09708-5). *Natural Language and Linguistic Theory*. [with [Yuyang Liu](https://yuyliu.github.io/)]
 
-1. [Pragmatic skill modulates sensitivity to phonetic cues to prominence, especially pitch-based cues](https://doi.org/10.16995/labphon.20170). *Laboratory Phonology*, 17(1): 1-42. [with [Jason Bishop](https://jbishop.ws.gc.cuny.edu/), [Mei-Ying Ki](https://kimeiying.ws.gc.cuny.edu/), and [Chen Zhou](https://www.researchgate.net/profile/Chen-Zhou-70)]
-
 1. [Right dislocation as multidominance, and beyond](https://biecoll.ub.uni-bielefeld.de/index.php/glow/article/view/1262). *Proceedings of GLOW-47*. [[lingbuzz](https://lingbuzz.net/lingbuzz/009305)]
 
 1. [Does the Williams Cycle apply to Mandarin Chinese?](https://doi.org/10.3765/plsa.v11i1.6152) *Proceedings of the Linguistic Society of America* 11 (1): 6152.1-15 [with [Fulang Chen](https://sites.google.com/view/fulang-chen/)] [[lingbuzz](https://lingbuzz.net/lingbuzz/009919)]
+
+1. [Pragmatic skill modulates sensitivity to phonetic cues to prominence, especially pitch-based cues](https://doi.org/10.16995/labphon.20170). *Laboratory Phonology*, 17(1): 1-42. [with [Jason Bishop](https://jbishop.ws.gc.cuny.edu/), [Mei-Ying Ki](https://kimeiying.ws.gc.cuny.edu/), and [Chen Zhou](https://www.researchgate.net/profile/Chen-Zhou-70)]
 
 ### 2025
 
