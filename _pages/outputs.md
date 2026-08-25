@@ -24,7 +24,7 @@ classes: wide
 
 1. [Partial deletion on head chains: Discontinuous predicates in Cantonese](https://ling.auf.net/lingbuzz/008420). Minor Revision, *Linguistic Inquiry*. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
-1. [Differentiating between evidential bias and epistemic bias in questions: Evidence from Cantonese](https://lingbuzz.net/lingbuzz/008751). Under review. 
+1. [Differentiating between evidential bias and epistemic bias in questions: Evidence from Cantonese](https://lingbuzz.net/lingbuzz/008751). In revision, *Journal of Linguistics*. 
 
 1. [Defocus Rephrasing: right dislocation and syntax-prosody mismatches](https://lingbuzz.net/lingbuzz/009398). In revision, *Natural Language and Linguistic Theory*. [with [Xuetong Yuan](https://www.xuetongyuan.org/)]
 
