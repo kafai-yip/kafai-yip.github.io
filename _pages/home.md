@@ -32,9 +32,9 @@ I’m a linguist. I’m interested in the structure of language and how it relat
 ## Upcoming presentations
 
 
-2026, Sep 2-4. A scalar focus approach to exclusive doubling in Vietnamese. [SuB-31](https://sites.google.com/view/sub31nantes/home?authuser=0), Nantes.
+2026, Sep 2-4. A scalar focus approach to exclusive doubling in Vietnamese. [SuB-31](https://sites.google.com/view/sub31nantes/home?authuser=0), Nantes. [[slides](https://kafai-yip.github.io/assets/docs/only-Viet_SuB-31_slides.pdf)] 
 
-2026, Oct 7. TBA. Invited ChiLL talk, Leiden University.
+2026, Oct 7. Parametric variations in discontinuous predicates in Sinitic languages. Invited ChiLL talk, Leiden University. [joint work with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
 2026, Oct 16-18. Syntax below words: verbal suffixation in Chinese. [NELS-57](https://nels57.commons.gc.cuny.edu/), CUNY. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
