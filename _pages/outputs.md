@@ -28,6 +28,8 @@ classes: wide
 
 1. [Defocus Rephrasing: right dislocation and syntax-prosody mismatches](https://lingbuzz.net/lingbuzz/009398). In revision, *Natural Language and Linguistic Theory*. [with [Xuetong Yuan](https://www.xuetongyuan.org/)]
 
+1. [Two types of exclusive doubling in Vietnamese](https://lingbuzz.net/lingbuzz/010280). Under review.
+
 1. Subject resumption in Akan and *v*P phasehood. In prep. [with [Comfort Ahenkorah](https://ling.yale.edu/people/comfort-ahenkorah)]
 
 1. An agreement analysis of temporal converbs. In prep.
