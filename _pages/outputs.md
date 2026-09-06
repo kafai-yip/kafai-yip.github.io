@@ -40,15 +40,15 @@ classes: wide
 
 ### Forthcoming
 
-1. [Separable verbs in Cantonese](https://ling.auf.net/lingbuzz/008731). *The Routledge Handbook of Cantonese Linguistics.*. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
-
-1. [A parametric view on exclusive focus particles](https://lingbuzz.net/lingbuzz/009358). *Proceedings of WCCFL-43*.
+1. [Separable verbs in Cantonese](https://ling.auf.net/lingbuzz/008731). *[The Routledge Handbook of Cantonese Linguistics](https://www.routledge.com/The-Routledge-Handbook-of-Cantonese-Linguistics/Chin-Kataoka-Kwok/p/book/9781032459769).* [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
 1. [Exclusive focus in Akan and type flexibility](https://lingbuzz.net/lingbuzz/010003). *Proceedings of NELS-56*. [with [Comfort Ahenkorah](https://comfortahenkorah.com/)]
+
+1. [A parametric view on exclusive focus particles](https://lingbuzz.net/lingbuzz/009358). *Proceedings of WCCFL-43*.
    
 1. [Diagnosing multidominance by focus association of ‘only’](https://lingbuzz.net/lingbuzz/009304). *Proceedings of WCCFL-43*. [with [Squid Tamar-Mattis](https://campuspress.yale.edu/squidtm/)]
 
-1. [Linguistic and social aspects of sibilant palatalization in homeland and heritage Cantonese](https://ling.auf.net/lingbuzz/008415). To appear in *Proceedings of NACCL-36*. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang]
+
 
 ### 2026
 
@@ -59,6 +59,8 @@ classes: wide
 1. [Does the Williams Cycle apply to Mandarin Chinese?](https://doi.org/10.3765/plsa.v11i1.6152) *Proceedings of the Linguistic Society of America* 11 (1): 6152.1-15 [with [Fulang Chen](https://sites.google.com/view/fulang-chen/)] [[lingbuzz](https://lingbuzz.net/lingbuzz/009919)]
 
 1. [Pragmatic skill modulates sensitivity to phonetic cues to prominence, especially pitch-based cues](https://doi.org/10.16995/labphon.20170). *Laboratory Phonology*, 17(1): 1-42. [with [Jason Bishop](https://jbishop.ws.gc.cuny.edu/), [Mei-Ying Ki](https://kimeiying.ws.gc.cuny.edu/), and [Chen Zhou](https://www.researchgate.net/profile/Chen-Zhou-70)]
+
+1. [Linguistic and social aspects of sibilant palatalization in homeland and heritage Cantonese](https://ling.auf.net/lingbuzz/008415). In *[Proceedings of NACCL-36](https://u.osu.edu/naccl/proceedings/naccl-36/)*, 353-371. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang]
 
 ### 2025
 
