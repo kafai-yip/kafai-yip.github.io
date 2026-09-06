@@ -60,8 +60,6 @@ classes: wide
 
 1. [Pragmatic skill modulates sensitivity to phonetic cues to prominence, especially pitch-based cues](https://doi.org/10.16995/labphon.20170). *Laboratory Phonology*, 17(1): 1-42. [with [Jason Bishop](https://jbishop.ws.gc.cuny.edu/), [Mei-Ying Ki](https://kimeiying.ws.gc.cuny.edu/), and [Chen Zhou](https://www.researchgate.net/profile/Chen-Zhou-70)]
 
-1. [Linguistic and social aspects of sibilant palatalization in homeland and heritage Cantonese](https://ling.auf.net/lingbuzz/008415). In *[Proceedings of NACCL-36](https://u.osu.edu/naccl/proceedings/naccl-36/)*, 353-371. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang]
-
 ### 2025
 
 1. [A unified biclausal approach to right dislocation in Chinese](https://link.springer.com/article/10.1007/s10831-025-09307-2). *Journal of East Asian Linguistics*.  [[view-only link](https://rdcu.be/eIwd8)]
@@ -92,6 +90,8 @@ classes: wide
 1. [Agreement in imperative clauses: Evidence from object resumptive pronouns in Mandarin Chinese](https://lingbuzz.net/lingbuzz/008248). *Proceedings of NELS-54, vol.2*, 235–244. [with [Xuetong Yuan](https://kathyuan28.github.io/)]
 
 1. [Some prosodic consequences of varied discourse functions in a Cantonese sentence-final particle](https://www.isca-archive.org/speechprosody_2024/lee24b_speechprosody.html). *Speech Prosody 2024*, 632-636. [with [Jonathan Him Nok Lee](https://www.ling.upenn.edu/~jonhnlee/), Mark Liberman & Jianjing Kuang]
+
+1. [Linguistic and social aspects of sibilant palatalization in homeland and heritage Cantonese](https://ling.auf.net/lingbuzz/008415). In *[Proceedings of NACCL-36](https://u.osu.edu/naccl/proceedings/naccl-36/)*, 353-371. [with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang]
 
 ### 2023
 
