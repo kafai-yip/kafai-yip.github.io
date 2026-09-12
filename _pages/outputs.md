@@ -10,7 +10,7 @@ classes: wide
 
 ### Ph.D. dissertation
 
-- [Doubling Down on Exclusivity: Issues at the Syntax-Semantics Interface](https://kafai-yip.github.io/assets/docs/Dissertation_Yip.pdf), Yale University.
+- [Doubling Down on Exclusivity: Issues at the Syntax-Semantics Interface](https://kafai-yip.github.io/assets/docs/Yip_Dissertation.pdf), Yale University.
 
 ### MPhil thesis
 
