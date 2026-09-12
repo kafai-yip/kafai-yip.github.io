@@ -18,7 +18,7 @@ I’m a linguist. I’m interested in the structure of language and how it relat
 
 
 {% capture notice-text %}
-* My dissertation is "[Doubling Down on Exclusivity: Issues at the Syntax-Semantics Interface](https://kafai-yip.github.io/assets/docs/Dissertation_Yip.pdf)" now online! (also on [lingbuzz](https://lingbuzz.net/lingbuzz/010255))
+* My dissertation is "[Doubling Down on Exclusivity: Issues at the Syntax-Semantics Interface](https://kafai-yip.github.io/assets/docs/Yip_Dissertation.pdf)" now online! (also on [lingbuzz](https://lingbuzz.net/lingbuzz/010255))
 * My joint paper with Fulang Chen ["Does the Williams Cycle apply to Mandarin Chinese?](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/6152)" has been published in *LSA-2026* proceedings.
 * I co-authored a paper "[Pragmatic skill modulates sensitivity to phonetic cues to prominence, especially pitch-based cues](https://doi.org/10.16995/labphon.20170)" with [Jason Bishop](https://jbishop.ws.gc.cuny.edu/), [Mei-Ying Ki](https://kimeiying.ws.gc.cuny.edu/), and [Chen Zhou](https://www.researchgate.net/profile/Chen-Zhou-70), recently published in *Labphon*.
 * Our paper "[Linguistic and social aspects of sibilant palatalization in homeland and heritage Cantonese](https://ling.auf.net/lingbuzz/008415)" is published in *[Proceedings of NACCL-36](https://u.osu.edu/naccl/proceedings/naccl-36/)*! (with [Yanting Li](https://sites.google.com/uci.edu/yantingli/home), [Xiao Dong](https://ealc.indiana.edu/people/dong-xiao.html) & Gareth Junjie Yang)
