@@ -21,6 +21,7 @@ Below is some work I've done in the past (and ongoing):
 {% capture notice-text %}
 **Exclusive doubling** `syntax-semantics`
 
+* Dissertation: "[Doubling Down on Exclusivity: Issues at the Syntax-Semantics Interface](https://kafai-yip.github.io/assets/docs/Yip_Dissertation.pdf)" 
 * I argue that exclusive sentence-final particles (SFP) establish an Agree relation with exclusive operators, unlike adfocal particles which undergo covert movement.
     - Cantonese, Mandarin, Vietnamese｜[paper-WCCFL](https://ling.auf.net/lingbuzz/007525)
 * I propose that there is a semantic *dependency* between doubled particles with co-indexation of the alternative set they operate on.
