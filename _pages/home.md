@@ -35,9 +35,18 @@ I’m a linguist. I’m interested in the structure of language and how it relat
 
 2026, Sep 2-4. A scalar focus approach to exclusive doubling in Vietnamese. [SuB-31](https://sites.google.com/view/sub31nantes/home?authuser=0), Nantes. [[slides](https://kafai-yip.github.io/assets/docs/only-Viet_SuB-31_slides.pdf)] 
 
+2026, Sep 21. What can focus association tell us about the syntax of silence? Invited talk at [Potsdam Morpho-Syntax Lab](https://sites.google.com/view/potsdam-msl/home?authuser=0).
+
+2026, Sep 29. What can focus association tell us about the syntax of silence? Invited [Linguistics Research Seminar](https://www.tcd.ie/slscs/research/research-seminars/linguistics-research-seminars/) talk, TCD.
+
 2026, Oct 7. Parametric variations in discontinuous predicates in Sinitic languages. Invited ChiLL talk, Leiden University. [joint work with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
 2026, Oct 16-18. Syntax below words: verbal suffixation in Chinese. [NELS-57](https://nels57.commons.gc.cuny.edu/), CUNY. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
+
+2026, Nov 4. Parametric variations in discontinuous predicates in Sinitic languages. Invited talk at UCD Linguistics. [joint work with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
+
+2026, Nov 20-21. Resumption in Yorùbá as partial Copy Deletion. Workshop "Current issues in Syntax, Semantics, and Pragmatics" at [ÖLT 2026](https://oelt2026.wixsite.com/oelt2026). [with [
+Bode Adedeji](https://bodeadedeji.github.io/)]
 
 
 ## Recent presentations
