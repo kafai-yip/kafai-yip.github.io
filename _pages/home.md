@@ -50,11 +50,11 @@ Bode Adedeji](https://bodeadedeji.github.io/)]
 
 2026, Sep 2-4. A scalar focus approach to exclusive doubling in Vietnamese. [SuB-31](https://sites.google.com/view/sub31nantes/home?authuser=0), Nantes. [[slides](https://kafai-yip.github.io/assets/docs/only-Viet_SuB-31_slides.pdf)] 
 
-2026, Jun 3-5. Only Exclusive Doubling in Thai. [SEALS-35](https://sites.google.com/view/seals35/home?authuser=0), NTU. [with [Woraprat Manowang](https://sites.google.com/kmitl.ac.th/gumpmanowang/)] [[handout](https://kafai-yip.github.io/assets/docs/SEALS-35_only_handout.pdf)] 
+2026, Jun 26-28. 同中存異：泛華語地區動詞虛化比較研究. [IFOLCE-9](https://lt.cityu.edu.hk/ifolce-9/), CityUHK. [with [Benjamin K. Tsou](https://www.researchgate.net/profile/Benjamin-Tsou-3) & Thomas Ho]
 
 2026, Jun 5-6. Sentence-final negation questions from a comparative perspective. [TEAL-15](https://www.cuhk.edu.hk/ics/clrc/teal15/index.html), CUHK. [with [Zhuo Chen](https://www.zhuochenlinguist.com/) and Jiahui Huang†].
 
-2026, Jun 26-28. 同中存異：泛華語地區動詞虛化比較研究. [IFOLCE-9](https://lt.cityu.edu.hk/ifolce-9/), CityUHK. [with [Benjamin K. Tsou](https://www.researchgate.net/profile/Benjamin-Tsou-3) & Thomas Ho]
+2026, Jun 3-5. Only Exclusive Doubling in Thai. [SEALS-35](https://sites.google.com/view/seals35/home?authuser=0), NTU. [with [Woraprat Manowang](https://sites.google.com/kmitl.ac.th/gumpmanowang/)] [[handout](https://kafai-yip.github.io/assets/docs/SEALS-35_only_handout.pdf)] 
 
 2026, May 21-23. A partial Copy Deletion account of non-agreeing resumptive pronouns in Yorùbá. [ACAL-57](https://sites.google.com/view/acal57/), Buffalo. [with [
 Bode Adedeji](https://bodeadedeji.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/ACAL-57_resumption_handout.pdf)] 
