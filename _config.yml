@@ -15,12 +15,12 @@
 # in the templates via {{ site.myvariable }}.
 title: Ka-Fai Yip
 subtitle: "linguistics & cats"
-email: kafai.yip@yale.edu
+email: mingyipkf[AT]gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a PhD student in the Department of Linguistics at Yale University.
-  I study Syntax, Semantics and their interface.
+  I am a linguist.
+  I study syntax, semantics, and their interface.
   Cats are my favorite.
-  I'm a Hongkonger.
+  I'm a Hong Konger.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -67,7 +67,7 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "linguistics & cats"
   links:
-    - label: "kafai.yip@yale.edu"
+    - label: "mingyipkf[AT]gmail.com"
       icon: "fas fa-fw fa-envelope"
       url: ""
     - label: "Researchgate"
@@ -76,13 +76,13 @@ author:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com.hk/citations?user=XavAwJYAAAAJ&authuser=1"
-    - label: "Yale Linguistics"
+    - label: "Trinity Centre for Asian Studies"
       icon: "fas fa-fw fa-link"
-      url: "https://ling.yale.edu/"
+      url: "https://www.tcd.ie/Asian/"
 
 footer:
   links:
-    - label: "kafai.yip@yale.edu"
+    - label: "mingyipkf[AT]gmail.com"
       icon: "fas fa-fw fa-envelope"
       url: ""
     - label: "Researchgate"
@@ -91,9 +91,9 @@ footer:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com.hk/citations?user=XavAwJYAAAAJ&authuser=1"
-    - label: "Yale Linguistics"
+    - label: "Trinity Centre for Asian Studies"
       icon: "fas fa-fw fa-link"
-      url: "https://ling.yale.edu/"
+      url: "https://www.tcd.ie/Asian/"
 
 defaults:
   # _posts
