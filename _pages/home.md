@@ -37,7 +37,7 @@ I’m a linguist. I’m interested in the structure of language and how it relat
 
 2026, Sep 21. What can focus association tell us about the syntax of silence? Invited talk at [Potsdam Morpho-Syntax Lab](https://sites.google.com/view/potsdam-msl/home?authuser=0).
 
-2026, Sep 29. What can focus association tell us about the syntax of silence? Invited [Linguistics Research Seminar](https://www.tcd.ie/slscs/research/research-seminars/linguistics-research-seminars/) talk, TCD.
+2026, Sep 29. What can focus association tell us about the syntax of silence? Invited [Linguistics Research Seminar](https://www.tcd.ie/slscs/research/research-seminars/linguistics-research-seminars/) talk, TCD. [[handout](https://kafai-yip.github.io/assets/docs/RNR-only_TCD_handout.pdf)]
 
 2026, Oct 7. Parametric variations in discontinuous predicates in Sinitic languages. Invited ChiLL talk, Leiden University. [joint work with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
