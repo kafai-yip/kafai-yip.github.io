@@ -32,11 +32,6 @@ I’m a linguist. I’m interested in the structure of language and how it relat
 
 ## Upcoming presentations
 
-
-2026, Sep 2-4. A scalar focus approach to exclusive doubling in Vietnamese. [SuB-31](https://sites.google.com/view/sub31nantes/home?authuser=0), Nantes. [[slides](https://kafai-yip.github.io/assets/docs/only-Viet_SuB-31_slides.pdf)] 
-
-2026, Sep 21. What can focus association tell us about the syntax of silence? Invited talk at [Potsdam Morpho-Syntax Lab](https://sites.google.com/view/potsdam-msl/home?authuser=0).
-
 2026, Sep 29. What can focus association tell us about the syntax of silence? Invited [Linguistics Research Seminar](https://www.tcd.ie/slscs/research/research-seminars/linguistics-research-seminars/) talk, TCD. [[handout](https://kafai-yip.github.io/assets/docs/RNR-only_TCD_handout.pdf)]
 
 2026, Oct 7. Parametric variations in discontinuous predicates in Sinitic languages. Invited ChiLL talk, Leiden University. [joint work with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
@@ -51,6 +46,9 @@ Bode Adedeji](https://bodeadedeji.github.io/)]
 
 ## Recent presentations
 
+2026, Sep 21. What can focus association tell us about the syntax of silence? Invited talk at [Potsdam Morpho-Syntax Lab](https://sites.google.com/view/potsdam-msl/home?authuser=0).
+
+2026, Sep 2-4. A scalar focus approach to exclusive doubling in Vietnamese. [SuB-31](https://sites.google.com/view/sub31nantes/home?authuser=0), Nantes. [[slides](https://kafai-yip.github.io/assets/docs/only-Viet_SuB-31_slides.pdf)] 
 
 2026, Jun 3-5. Only Exclusive Doubling in Thai. [SEALS-35](https://sites.google.com/view/seals35/home?authuser=0), NTU. [with [Woraprat Manowang](https://sites.google.com/kmitl.ac.th/gumpmanowang/)] [[handout](https://kafai-yip.github.io/assets/docs/SEALS-35_only_handout.pdf)] 
 
