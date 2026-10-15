@@ -30,6 +30,8 @@ classes: wide
 
 1. [Two types of exclusive doubling in Vietnamese](https://lingbuzz.net/lingbuzz/010280). Under review.
 
+1. Sentence-final negation questions from a comparative perspective. Under review. [with [Zhuo Chen](https://www.zhuochenlinguist.com/) and Jiahui Huang†]
+
 1. Subject resumption in Akan and *v*P phasehood. In prep. [with [Comfort Ahenkorah](https://ling.yale.edu/people/comfort-ahenkorah)]
 
 1. An agreement analysis of temporal converbs. In prep.
