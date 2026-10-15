@@ -36,7 +36,7 @@ I’m a linguist. I’m interested in the structure of language and how it relat
 
 2026, Oct 7. Parametric variations in discontinuous predicates in Sinitic languages. Invited ChiLL talk, Leiden University. [joint work with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
-2026, Oct 16-18. Syntax below words: verbal suffixation in Chinese. [NELS-57](https://nels57.commons.gc.cuny.edu/), CUNY. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
+2026, Oct 16-18. Syntax below words: verbal suffixation in Chinese. [NELS-57](https://nels57.commons.gc.cuny.edu/), CUNY. [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/suffixation_NELS-57_handout.pdf)]
 
 2026, Nov 4. Parametric variations in discontinuous predicates in Sinitic languages. Invited talk at UCD Linguistics. [joint work with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
