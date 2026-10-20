@@ -56,7 +56,7 @@ classes: wide
 
 1. [Right dislocation as multidominance, and beyond](https://biecoll.ub.uni-bielefeld.de/index.php/glow/article/view/1262). *Proceedings of GLOW-47*. [[lingbuzz](https://lingbuzz.net/lingbuzz/009305)]
 
-1. [Exclusive focus in Akan and type flexibility](https://lingbuzz.net/lingbuzz/010003). In *Proceedings of NELS-56*, Gabriel Correa and Kevin Morand (eds.), 217-226. [with [Comfort Ahenkorah](https://comfortahenkorah.com/)]
+1. [Exclusive focus in Akan and type flexibility](https://lingbuzz.net/lingbuzz/010003). *Proceedings of NELS-56, vol.3*, 217-226. [with [Comfort Ahenkorah](https://comfortahenkorah.com/)]
 
 1. [Does the Williams Cycle apply to Mandarin Chinese?](https://doi.org/10.3765/plsa.v11i1.6152) *Proceedings of the Linguistic Society of America* 11 (1): 6152.1-15 [with [Fulang Chen](https://sites.google.com/view/fulang-chen/)] [[lingbuzz](https://lingbuzz.net/lingbuzz/009919)]
 
