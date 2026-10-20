@@ -44,8 +44,6 @@ classes: wide
 
 1. [Separable verbs in Cantonese](https://ling.auf.net/lingbuzz/008731). *[The Routledge Handbook of Cantonese Linguistics](https://www.routledge.com/The-Routledge-Handbook-of-Cantonese-Linguistics/Chin-Kataoka-Kwok/p/book/9781032459769).* [with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
-1. [Exclusive focus in Akan and type flexibility](https://lingbuzz.net/lingbuzz/010003). *Proceedings of NELS-56*. [with [Comfort Ahenkorah](https://comfortahenkorah.com/)]
-
 1. [A parametric view on exclusive focus particles](https://lingbuzz.net/lingbuzz/009358). *Proceedings of WCCFL-43*.
    
 1. [Diagnosing multidominance by focus association of ‘only’](https://lingbuzz.net/lingbuzz/009304). *Proceedings of WCCFL-43*. [with [Squid Tamar-Mattis](https://campuspress.yale.edu/squidtm/)]
@@ -57,6 +55,8 @@ classes: wide
 1. [Again, finiteness, and split aspect in Chinese languages](https://doi.org/10.1007/s11049-026-09708-5). *Natural Language and Linguistic Theory*. [with [Yuyang Liu](https://yuyliu.github.io/)]
 
 1. [Right dislocation as multidominance, and beyond](https://biecoll.ub.uni-bielefeld.de/index.php/glow/article/view/1262). *Proceedings of GLOW-47*. [[lingbuzz](https://lingbuzz.net/lingbuzz/009305)]
+
+1. [Exclusive focus in Akan and type flexibility](https://lingbuzz.net/lingbuzz/010003). In *Proceedings of NELS-56*, Gabriel Correa and Kevin Morand (eds.), 217-226. [with [Comfort Ahenkorah](https://comfortahenkorah.com/)]
 
 1. [Does the Williams Cycle apply to Mandarin Chinese?](https://doi.org/10.3765/plsa.v11i1.6152) *Proceedings of the Linguistic Society of America* 11 (1): 6152.1-15 [with [Fulang Chen](https://sites.google.com/view/fulang-chen/)] [[lingbuzz](https://lingbuzz.net/lingbuzz/009919)]
 
