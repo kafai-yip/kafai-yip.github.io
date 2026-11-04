@@ -4,7 +4,7 @@ title: "About"
 classes: wide
 ---
 
-I'm a Research Fellow of Cantonese Teaching and Learning at Trinity College Dublin. Starting from 2027, I'll be an Assistant Research Fellow (tenure-track) at Academia Sinica. I’m a Hong Konger and speak Cantonese. My research languages are mainly East and Southeast Asian languages.
+I'm a Research Fellow of Cantonese Teaching and Learning at Trinity College Dublin. Starting from 2027, I'll be an Assistant Research Fellow (tenure-track) at Academia Sinica. I’m a Hong Konger and speak Cantonese. My research languages are mainly East and Southeast Asian languages, as well as West African languages through collaboration.
 {: .text-justify}
 
 Here is my [CV](https://kafai-yip.github.io/assets/docs/CV_YIP Ka Fai_20260929_EN.pdf).
