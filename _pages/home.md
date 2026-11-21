@@ -41,7 +41,7 @@ I’m a linguist. I’m interested in the structure of language and how it relat
 2026, Nov 4. Parametric variations in discontinuous predicates in Sinitic languages. [Invited talk at UCD Linguistics](https://www.ucd.ie/slcl/newsandevents/20262027/linguisticsresearchseminartalk/). [joint work with [Tommy Tsz-Ming Lee](https://tszminglee.github.io/)]
 
 2026, Nov 20-21. Resumption in Yorùbá as partial Copy Deletion. Workshop "Current issues in Syntax, Semantics, and Pragmatics" at [ÖLT 2026](https://oelt2026.wixsite.com/oelt2026). [with [
-Bode Adedeji](https://bodeadedeji.github.io/)]
+Bode Adedeji](https://bodeadedeji.github.io/)] [[handout](https://kafai-yip.github.io/assets/docs/OLT-2026_resumption_handout.pdf)] 
 
 
 ## Recent presentations
